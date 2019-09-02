@@ -1,0 +1,93 @@
+
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SatRDay Calendar </title>
+
+    <link href="https://r-community.github.io/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+   <link rel="stylesheet" href="https://r-community.github.io/resources/fullcalendar-3.1.0/dist/fullcalendar.css"/>
+<link rel="stylesheet" href="https://r-community.github.io/resources/css/custom.min.css"/>
+<link type="text/css" rel="stylesheet" href="https://r-community.github.io/resources/qtip3.0.3/jquery.qtip.min.css" />
+
+<script src="https://r-community.github.io/resources/js/jquery.min.js"></script> 
+<script  src="https://r-community.github.io/resources/js/moment/moment.min.js"></script> 
+<script  src="https://r-community.github.io/resources/js/bootstrap.min.js"></script> 
+<script src="https://r-community.github.io/resources/fullcalendar-3.1.0/dist/fullcalendar.js"></script>
+<script type="text/javascript" src="https://r-community.github.io/resources/qtip3.0.3/jquery.qtip.min.js"></script>
+<script  src="https://r-community.github.io/resources/js/custom.min.js"></script> 
+<script src="js/satrdaycalendar.js"></script>
+  <style>
+    #mycalendar{ height: 100%; width:100%; color:gray}
+.fc-title{
+    font-size: 13px;
+}
+.fc-past {
+    background-color: #eef5f9;
+}
+.fc-content {
+    font-weight: 700;
+}
+.fc-today {
+   background-color: blue;
+}
+.fc-sat { color:red; background-color: #f9f9f9; }
+.fc-sun { color:red; background-color: #f9f9f9; }
+.fc-day-header { background-color: blue; color:white; 
+}
+.fc-widget-header{
+	background-color: #435f9c;
+	border-color: #AED0EA;
+	font-weight: 700;;
+	padding: 3px;
+	border-radius: 3px;
+}
+  </style>
+</head>
+  <body style="background-color:white">
+
+      <div class="main_container" style="background-color:white">
+ <!-- top navigation -->
+        <div class="top_nav" style="width:101%; margin:-10px 0px 0 -10px;" >
+          <div class="nav_menu" style="background:#2165b6; ">
+            <nav>
+              <div class="nav toggle" style="width:300px">
+                 <div class="title" style="font-size:25px; font-family: Calibri, Helvetica, Arial, sans-serif; margin:-5px 0 0 30px; color:white"> <i class="fa fa-calendar" style="color:white; margin:0 5px 0 0"></i> SatRdays Calendar </div>             
+ </div>
+
+              <ul class="nav navbar-nav navbar-right">
+<li class="" style="color:white">
+                  <a href="https://knowledgebase.satrdays.org/" target="_blank" class="user-profile dropdown-toggle" aria-expanded="false">
+                    <i class="fa fa-book" style="color:white"></i> <span style="color:white"> Knowledge Base</span>
+                                      </a>
+                                  </li>
+
+                <li class="" style="color:white">
+                  <a href="#" target="_blank" class="user-profile dropdown-toggle" aria-expanded="false">
+                    <i class="fa fa-calendar-minus-o" style="color:white"></i> <span style="color:white"> Past Events </span>
+                                      </a>
+                                  </li>
+<li class="" style="color:white">
+                  <a href="#" target="_blank" class="user-profile dropdown-toggle" aria-expanded="false">
+                    <i class="fa fa-calendar-plus-o" style="color:white"></i> <span style="color:white"> Upcoming Events </span>
+                                      </a>
+                                  </li>
+
+
+                                                                            </ul>
+                            </nav>
+          </div>
+        </div>
+        <!-- /top navigation -->
+
+  <div id="mycalendar"></div>
+
+</div>
+  
+</body>
+</html>
+	
