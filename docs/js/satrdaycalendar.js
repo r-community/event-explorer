@@ -1,5 +1,3 @@
-<script>
-
 $(document).ready(function() {
 		
 
@@ -56,6 +54,3 @@ resize: true
 });
 	
 	});
-  
-  
-  </script>
