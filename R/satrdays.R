@@ -1,4 +1,4 @@
-satrd <- read.csv("satrdays.csv", header = TRUE)
+satrd <- read.csv("docs/data/satrdays.csv", header = TRUE)
 
 satrd_cal <-  satrd[c("Event", "Date", "URL", "Additional_Info", "Owner")]
 colnames(satrd_cal) <- c("title","start", "url", "additional_info", "owner")
