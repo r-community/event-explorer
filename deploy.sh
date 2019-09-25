@@ -4,6 +4,7 @@ BASE_REPO=$PWD
 
 setup_git() {
 Rscript -e 'source("R/satrdays.R")'
+Rscript -e 'source("R/r_cal.R")'
 
   git config --global user.name "benubah"
   git config --global user.email "ben@rpowerlabs.org"
@@ -15,6 +16,7 @@ commit_files() {
   dateAndMonth=`date "+%b %Y"`
   # Stage the modified files in dist/output
   git add -f docs/data/satrdays.json
+  git add -f docs/data/rugs_events.json
     
   # Create a new commit with a custom build message
   # with "[skip ci]" to avoid a build loop
