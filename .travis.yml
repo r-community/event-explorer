@@ -18,3 +18,6 @@ env:
 before_install:
 - openssl aes-256-cbc -k "$super_secret_password" -in R/meetup_token.rds.enc -out
   meetup_token.rds -d
+
+after_failure:
+- cat /home/travis/build/r-community/event-explorer/reventsexplorer.Rcheck/00install.out
