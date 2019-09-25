@@ -6,7 +6,9 @@ r_packages:
 - httr
 - curl
 - jsonlite
-
 after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash
   deploy.sh
+env:
+  global:
+    secure: co+ezSa80ypwtnEzYFkgzeSf+vXcq8y1ffZ4MX1OjQ3Zr5CZpFZfzMNd1KbBBJPEZ47zqq+tjG2QBeFAi6fEtWfohvlftN4e4JUNp+o4Qan5NEG90J/T/2IGsFyygu9wmSlBbntgLAYTRXH2UWdFE3xYH1C8vRnrJLpcC32NmOR/qePvDRgRpkq1tfkA1fn/Ync4xJOvdFv8nwDTD/MLCIcCZljxO+1+euy4pY6gb19nOzPRL+WaNEJE+FYLzrum79kjjtT5IeGVx/9LaPyfkR+oXseu6SFNKrz7fI1NGTJ4NjNZROp/JI5bmu3K3qaYpqSLTzATruyeyiFN720GZ9fSm0rbbQSAJaoPcOg379BSoYjP2rFlMwD6Bf1VNxsYjgvWNRvIf6ajcIBpXGFVSlOshX/uwb/1CfZIROvVRV1OnDGXVae2lFc9JiF/8m8xHpgrw4A8gojMW9ytRwAjc+OkH6zEZkMKeR1d4k6wU8Q6HDe0uB/ODvUsErffqCw9n/Sbop4JQD37bSthTFc2CMs03wY/OepasWGg32tOU9Hw7xsbS8gDpYPPGPtmSMG0JYCT5eeBJ9UthpRQtqxUyB1oy/6GXZA/9NZ29rxU0Rgb6UhFSFHcGgzEhEQdAznbCR28rVQtTI8kGhc9D/nM64bFSCZWj5jV/7KcUThlO5I=
