@@ -15,4 +15,4 @@ env:
 
 before_install:
 - openssl aes-256-cbc -k "$super_secret_password" -in R/meetup_token.rds.enc -out
-  meetup_token.rds -d
+  R/meetup_token.rds -d
