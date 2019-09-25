@@ -1,3 +1,111 @@
+library(httr)
+library(jsonlite)
+
+# Wrapper for messages, spotted in googlesheets3
+spf <- function(...) stop(sprintf(...), call. = FALSE)
+#internals.R from rladies/meetupr package
+# This helper function makes a single call, given the full API endpoint URL
+# Used as the workhorse function inside .fetch_results() below
+.quick_fetch <- function(api_url,
+                         event_status = NULL,
+                         offset = 0,
+                         api_key = NULL,
+                         ...) {
+  
+  # list of parameters
+  parameters <- list(status = event_status, # you need to add the status
+                     # otherwise it will get only the upcoming event
+                     offset = offset,
+                     ...                    # other parameters
+  )
+  # Only need API keys if OAuth is disabled...
+  if (!getOption("meetupr.use_oauth")) {
+    parameters <- append(parameters, list(key = get_api_key()))
+  }
+  
+  req <- httr::GET(url = api_url,          # the endpoint
+                   query = parameters,
+                   config = meetup_token()
+  )
+  
+  httr::stop_for_status(req)
+  reslist <- httr::content(req, "parsed")
+  
+  if (length(reslist) == 0) {
+    #stop("Zero records match your filter. Nothing to return.\n",
+    #     call. = FALSE)
+    return(list(result = list(), headers = req$headers))
+  }
+  
+  return(list(result = reslist, headers = req$headers))
+}
+
+
+# Fetch all the results of a query given an API Method
+# Will make multiple calls to the API if needed
+# API Methods listed here: https://www.meetup.com/meetup_api/docs/
+.fetch_results <- function(api_method, api_key = NULL, event_status = NULL, ...) {
+  
+  # Build the API endpoint URL
+  meetup_api_prefix <- "https://api.meetup.com/"
+  api_url <- paste0(meetup_api_prefix, api_method)
+  
+  # Get the API key from MEETUP_KEY environment variable if NULL
+  if (is.null(api_key)) api_key <- .get_api_key()
+  if (!is.character(api_key)) stop("api_key must be a character string")
+  
+  # Fetch first set of results (limited to 200 records each call)
+  res <- .quick_fetch(api_url = api_url,
+                      event_status = event_status,
+                      offset = 0,
+                      ...)
+  
+  # Total number of records matching the query
+  total_records <- as.integer(res$headers$`x-total-count`)
+  if (length(total_records) == 0) total_records <- 1L
+  records <- res$result
+  cat(paste("Downloading", total_records, "record(s)..."))
+  
+  if((length(records) < total_records) & !is.null(res$headers$link)){
+    
+    # calculate number of offsets for records above 200
+    offsetn <- ceiling(total_records/length(records))
+    all_records <- list(records)
+    
+    for(i in 1:(offsetn - 1)) {
+      res <- .quick_fetch(api_url = api_url,
+                          api_key = api_key,
+                          event_status = event_status,
+                          offset = i,
+                          ...)
+      all_records[[i + 1]] <- res$result
+    }
+    records <- unlist(all_records, recursive = FALSE)
+    
+  }
+  
+  return(records)
+}
+
+
+# helper function to convert a vector of milliseconds since epoch into POSIXct
+.date_helper <- function(time) {
+  if (is.character(time)) {
+    # if date is character string, try to convert to numeric
+    time <- tryCatch(expr = as.numeric(time),
+                     error = warning("One or more dates could not be converted properly"))
+  }
+  if (is.numeric(time)) {
+    # divide milliseconds by 1000 to get seconds; convert to POSIXct
+    seconds <- time / 1000
+    out <- as.POSIXct(seconds, origin = "1970-01-01")
+  } else {
+    # if no conversion can be done, then return NA
+    warning("One or more dates could not be converted properly")
+    out <- rep(NA, length(time))
+  }
+  return(out)
+}
 
 # updated function from rladies/meetupr
 get_events <- function(urlname, event_status = NULL, fields = NULL, api_key = NULL, ...) {
@@ -43,109 +151,6 @@ get_events <- function(urlname, event_status = NULL, fields = NULL, api_key = NU
   )
 }
 
-
-spf <- function(...) stop(sprintf(...), call. = FALSE)
-
-# This helper function makes a single call, given the full API endpoint URL
-# Used as the workhorse function inside .fetch_results() below
-.quick_fetch <- function(api_url,
-                         event_status = NULL,
-                         api_key = NULL, # deprecated, unused, can't swallow this in `...`
-                         ...) {
-  
-  # list of parameters
-  parameters <- list(status = event_status, # you need to add the status
-                     # otherwise it will get only the upcoming event
-                     ...                    # other parameters
-  )
-  
-  # Only need API keys if OAuth is disabled...
-  if (!getOption("meetupr.use_oauth")) {
-    parameters <- append(parameters, list(key = get_api_key()))
-  }
-  
-  req <- httr::GET(url = api_url,          # the endpoint
-                   query = parameters,
-                   config = meetup_token()
-  )
-  
-  httr::stop_for_status(req)
-  reslist <- httr::content(req, "parsed")
-  
-  if (length(reslist) == 0) {
-    #stop("Zero records match your filter. Nothing to return.\n",
-    #     call. = FALSE)
-    return(list(result = list(), headers = req$headers))
-  }
-  
-  return(list(result = reslist, headers = req$headers))
-}
-
-# Fetch all the results of a query given an API Method
-# Will make multiple calls to the API if needed
-# API Methods listed here: https://www.meetup.com/meetup_api/docs/
-.fetch_results <- function(api_method, api_key = NULL, event_status = NULL, ...) {
-  
-  # Build the API endpoint URL
-  meetup_api_prefix <- "https://api.meetup.com/"
-  api_url <- paste0(meetup_api_prefix, api_method)
-  
-  # Fetch first set of results (limited to 200 records each call)
-  res <-  .quick_fetch(api_url, event_status, offset=0, ...)
-  
-  # Total number of records matching the query
-  total_records <- as.integer(res$headers$`x-total-count`)
-  if (length(total_records) == 0) total_records <- 1L
-  records <- res$result
-  i=0
-  cat(paste("Downloading", total_records, "record(s)..."))
-  
-  # If you have not yet retrieved all records, calculate the # of remaining calls required
-  extra_calls <- ifelse(
-    (length(records) < total_records) & !is.null(res$headers$link),
-    floor(total_records/length(records)),
-    0)
-  if (extra_calls > 0) {
-    all_records <- list(records)
-    for (i in seq(extra_calls)) {
-      # Keep making API requests with an increasing offset value until you get all the records
-      # TO DO: clean this strsplit up or replace with regex
-      
-      next_url <- strsplit(strsplit(res$headers$link, split = "<")[[1]][2], split = ">")[[1]][1]
-      res <- .quick_fetch(next_url, event_status)
-      all_records[[i + 1]] <- res$result
-      print(i)
-    }
-    records <- unlist(all_records, recursive = FALSE)
-  }
-  
-  return(records)
-}
-
-
-# helper function to convert a vector of milliseconds since epoch into POSIXct
-.date_helper <- function(time) {
-  if (is.character(time)) {
-    # if date is character string, try to convert to numeric
-    time <- tryCatch(expr = as.numeric(time),
-                     error = warning("One or more dates could not be converted properly"))
-  }
-  if (is.numeric(time)) {
-    # divide milliseconds by 1000 to get seconds; convert to POSIXct
-    seconds <- time / 1000
-    out <- as.POSIXct(seconds, origin = "1970-01-01")
-  } else {
-    # if no conversion can be done, then return NA
-    warning("One or more dates could not be converted properly")
-    out <- rep(NA, length(time))
-  }
-  return(out)
-}
-
-
-# Credit to Jenny Bryan and the Googlesheets3 package for this pattern of
-# OAuth handling, see https://github.com/jennybc/googlesheets/blob/master/R/gs_auth.R
-#
 # environment to store credentials
 .state <- new.env(parent = emptyenv())
 
@@ -237,8 +242,8 @@ meetup_auth <- function(token = NULL,
   if (new_user) {
     meetup_deauth(clear_cache = TRUE, verbose = verbose)
   }
-  token = readRDS("meetup_token.rds")
   
+  token = readRDS("meetup_token.rds")
   
   if (is.null(token)) {
     
@@ -431,6 +436,9 @@ get_api_key <- function() {
   .state$legacy_api_key
   
 }
+
+
+
 
 options(meetupr.httr_oauth_cache=TRUE)
 options(meetupr.use_oauth = TRUE)
