@@ -456,7 +456,7 @@ all_upcoming_revents <- lapply(rugs_urlnames,
                                function(x) 
                                {
                                  y <- get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = "2019-09-23T00:00:00", no_later_than = "2019-09-30T00:00:00")
-                                 Sys.sleep(0.1)
+                                 Sys.sleep(0.5)
                                  y
                                }
 )
