@@ -22,6 +22,7 @@ $(document).ready(function() {
 
     {
       url: 'data/rugs_events.json', // use the `url` property
+      color: '#2165b6'
     }
 
 
