@@ -3,9 +3,11 @@ warnings_are_errors: false
 cache: packages
 sudo: false
 r_packages:
-- httr
 - curl
 - jsonlite
+
+r_github_packages: rladies/meetupr
+
 after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash
   deploy.sh
@@ -15,4 +17,4 @@ env:
 
 before_install:
 - openssl aes-256-cbc -k "$super_secret_password" -in R/meetup_token.rds.enc -out
-  R/meetup_token.rds -d
+  meetup_token.rds -d
