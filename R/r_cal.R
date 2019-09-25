@@ -1,6 +1,3 @@
-library(httr)
-library(jsonlite)
-
 # Wrapper for messages, spotted in googlesheets3
 spf <- function(...) stop(sprintf(...), call. = FALSE)
 #internals.R from rladies/meetupr package
