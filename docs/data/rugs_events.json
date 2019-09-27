@@ -1008,6 +1008,13 @@
     "url": "https://www.meetup.com/rladies-brisbane/events/264362177/"
   },
   {
+    "title": "Grupo de Usuarios de R en Chile: Latin-R 2019 Santiago Chile",
+    "group": "Grupo de Usuarios de R en Chile",
+    "start": "2019-09-25",
+    "description": "<p>Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo<\/p> <p>25 a 27 de septiembre 2019 en Centro de Extensión UC.<br/>* Más Info en: <a href=\"http://latin-r.com/\" class=\"linkified\">http://latin-r.com/<\/a><br/>* Inscripción y Registro en: <a href=\"http://latin-r.com/registro\" class=\"linkified\">http://latin-r.com/registro<\/a><br/><a href=\"https://welcu.com/latinr/latinr2019\" class=\"linkified\">https://welcu.com/latinr/latinr2019<\/a><br/>* Programa: <a href=\"https://bit.ly/latinr2019-programa\" class=\"linkified\">https://bit.ly/latinr2019-programa<\/a><\/p> ",
+    "url": "https://www.meetup.com/useRchile/events/263854156/"
+  },
+  {
     "title": "R-Ladies Charlottesville: Package Development Workshop",
     "group": "R-Ladies Charlottesville",
     "start": "2019-09-08",
@@ -2973,10 +2980,10 @@
     "url": "https://www.meetup.com/London-Data-Science-Journal-Club/events/265155452/"
   },
   {
-    "title": "Fort Collins Data Science: Alicia Tyson: Incorporating statistical data with watershed modeling",
+    "title": "Fort Collins Data Science: Geospatial Analysis of Landslides to Evaluate Impact to Infrastructure & Rivers",
     "group": "Fort Collins Data Science",
     "start": "2019-10-01",
-    "description": "<p>Alicia will talk about incorporating statistical data with watershed modeling and mapping as well as spatial data integration with social risk perception and the kind of analysis being done in Puerto Rico as well as the state of data there.<\/p> ",
+    "description": "<p>Full Title:<br/>Leveraging Geospatial Analysis of Landslides Triggered by Hurricane Maria to Evaluate Impact to Built and Transportation Infrastructure and River Morphology<\/p> <p>Presenter:<br/>Alicia Tyson, M.A., M.S.<br/>PhD Student, Colorado State University, Dept. of Geosciences<br/>Research Assistant, University of Puerto Rico - Mayaguez<br/>NSF CRISP ERIC (Enhanced Resiliency of Islanded Communities) Project<\/p> <p>Alicia Tyson provides primary geospatial data processing and management support on a research project evaluating the impact of Hurricane Maria on social, water, energy, and built infrastructure. In addition to connecting results of a flood model (VFlo) with mapped landslide point and polygon datasets, Alicia is exploring the geospatial relationship between the distribution and density of the landslides relative to built infrastructure, agricultural land use, and transportation networks. She is also applying a geospatial proximity analysis and other ArcGIS geoprocessing tools to a comparison between the density and area of slides with river networks and man-made drainage systems. Results will be employed in a mixed-methods, inter-disciplinary research project that integrates a statistical analysis of ecosystem resilience on landslides with an assessment of risk perception in key vulnerable communities. Ultimately, these analysis will aid in the identification of key areas for prioritizing recovery and mitigation efforts as well as highlight future sources of significant sedimentation affecting issues of water quality, erosion control, and ecosystem response and resilience in the face of extreme storm events and observed changes in regional as well as local climate.<\/p> ",
     "url": "https://www.meetup.com/Fort-Collins-Data-Science/events/scsrzqyznbcb/"
   },
   {
@@ -3988,13 +3995,6 @@
     "url": "https://www.meetup.com/Machine-Learning-Milan/events/264428176/"
   },
   {
-    "title": "R-Ladies Niterói: Minicurso de introdução à linguagem R",
-    "group": "R-Ladies Niterói",
-    "start": "2019-09-27",
-    "description": "<p>Olá, R -Ladies!<\/p> <p>Em parceria com a Biblioteca Parque de Niterói, o R Ladies Niterói irá ofertar um mini curso de \"Introdução à linguagem R\". Os módulos são:<\/p> <p>- Operações matemáticas básicas;<br/>- Criação de vetor numérico;<br/>- Criação de vetor de caractere;<br/>- Operações com vetores;<br/>- Criação e Operações com Matrizes;<br/>- Criação e Operações com data frames;<br/>- Leitura de CSV;<br/>- Medidas Estatísticas.<\/p> <p>** Evento gratuito e com emissão de certificado! **<\/p> <p>OBS: Serão disponibilizados apenas 5 computadores. Recomendamos que leve seu notebook!<\/p> <p>Não percam esta oportunidade!<br/>Até lá!<\/p> ",
-    "url": "https://www.meetup.com/rladies-niteroi/events/264958565/"
-  },
-  {
     "title": "R-Ladies San Francisco: Workshop: Transitioning into the tidyverse",
     "group": "R-Ladies San Francisco",
     "start": "2019-10-16",
@@ -4806,13 +4806,6 @@
     "url": "https://www.meetup.com/St-Louis-Machine-Learning/events/264150454/"
   },
   {
-    "title": "useR Group in San Luis Obispo County: office houRs",
-    "group": "useR Group in San Luis Obispo County",
-    "start": "2019-09-27",
-    "description": "<p>Come get your R questions answered, or just simply us for some coding camaraderie.<\/p> <p>Location: Building 25, room 107 (conference room at the end of the hall)<\/p> ",
-    "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/rbpbhryzmbkc/"
-  },
-  {
     "title": "useR Group in San Luis Obispo County: Tidy Tuesdays",
     "group": "useR Group in San Luis Obispo County",
     "start": "2019-10-01",
@@ -5126,13 +5119,6 @@
     "start": "2019-10-03",
     "description": "<p>Hola!<\/p> <p>Nos agrada comentarles que para esta ocasión vamos a contar nuevamente con un auditorio para más de 250 personas!!!! por lo que no vamos a tener el limitante típico de lugares. Es importante recalcar que al ser un evento más grande requiere un esfuerzo de organización mayor, por lo que reiteramos la necesidad de anotarse solo en el caso de estar confirmada la asistencia.<\/p> <p>El evento se desarrollará en el auditorio principal del C3, Centro cultural de la ciencia (Palermo) y como siempre va a contar con un excelente catering para que además de presenciar charlas de primer nivel podamos pasar un buen rato y hacer networking. Sin más preámbulo paso a detallar el cronograma de la jornada:<\/p> <p>• How to structure a data science team by Gervasio Santos (Nubank)<\/p> <p>• Scalable Automatic Machine Learning with H2O by Erin LeDell (H2O.ai)<\/p> <p>• Using tensorflow to parse digital resumes by Mariana Taglio (Avature)<\/p> <p>* Lightning talk: Plan nacional de IA Argentina 2030 by Lara Medialdea (Secretaría de Ciencia y Técnica)<\/p> <p>AGENDA<\/p> <p>6:30pm - Catering de bienvenida en C3!<\/p> <p>7:00pm - How to structure a data science team.<\/p> <p>7:25pm - Q&amp;A<\/p> <p>7:30pm - Scalable Automatic Machine Learning with H2O.<\/p> <p>7:55pm - Q&amp;A<\/p> <p>8:00pm -Using tensorflow to parse digital resumes.<\/p> <p>8:25pm - Q&amp;A<\/p> <p>8:30pm - Plan nacional de IA Argentina 2030<\/p> <p>Nos vemos!<\/p> <p>*Vamos a ir abriendo los cupos de a tandas de a 150. Nuevamente recordar solo anotarse en caso de asistir, caso contrario van a ser agregados en una especie de lista negra :-) que les impedirá asistir al resto de los meetups del año.<\/p> <p>**Para este evento es necesario asistir con DNI y registrarlo cuando se anoten al evento.<\/p> ",
     "url": "https://www.meetup.com/Argentina-Data-Science-Meetup/events/264954671/"
-  },
-  {
-    "title": "R-Ladies Athens: R-Ladies Athens - September meeting",
-    "group": "R-Ladies Athens",
-    "start": "2019-09-27",
-    "description": "<p>This month's meeting is dedicated to your own work! Join us on Friday, September 27th, to share the details and look for solutions to your R-related project.<\/p> ",
-    "url": "https://www.meetup.com/rladies-athens-ga/events/265118999/"
   },
   {
     "title": "R-Ladies Gainesville: Intro to R and RStudio",
