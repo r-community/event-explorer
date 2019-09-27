@@ -1785,13 +1785,6 @@
     "url": "https://www.meetup.com/KoelnRUG/events/263188202/"
   },
   {
-    "title": "Quantum Computing Collective Trivandrum: Emerging Frontiers and Fundamental Building Blocks of Quantum Computing : ",
-    "group": "Quantum Computing Collective Trivandrum",
-    "start": "2019-09-04",
-    "description": "<p># Fundamentals Building Blocks<br/># Demo of Rigetti QVM<br/># Demo of QC Simulator<br/># Demo of QuTiP Toolbox<br/># Demo of IBM Quantum Experience<br/># Demo of IBM Quantum Card Test<br/># Demo of Google Playground<br/># Topologic Quantum Computing<br/># Holonomic Quantum Computing<\/p> <p>Please join us on Skype if are joining us Remotely :<br/><a href=\"https://join.skype.com/kYVigukFhcy3\" class=\"linkified\">https://join.skype.com/kYVigukFhcy3<\/a><\/p> ",
-    "url": "https://www.meetup.com/Quantum-Computing-Collective-Trivandrum/events/xjrwqpyzmbgb/"
-  },
-  {
     "title": "R-Ladies Madison: SOCIAL: WRap up your week with R-Ladies Madison",
     "group": "R-Ladies Madison",
     "start": "2019-09-05",
@@ -1974,20 +1967,6 @@
     "url": "https://www.meetup.com/Hitchin-Data-Science-Meetup-Group/events/264423985/"
   },
   {
-    "title": "Apache Druid Bay Area Meetup: SF Big Analytics Meetup Group (Co-op event): Apache Druid and YuniKorn",
-    "group": "Apache Druid Bay Area Meetup",
-    "start": "2019-08-28",
-    "description": "<p>Agenda:<br/>6 pm -- 6:30 pm Check-in + Networking<br/>6:30 pm -- 7:20 pm Talk 1 (Cloudera)<br/>7:20 pm -- 8:10 pm Talk 2 (Imply)<br/>8:30 pm -- 9 pm Networking<br/>9 pm -- closing<\/p> <p>Talk 1 :<br/>YuniKorn: A Universal Resource Scheduler for both Kubernetes and YARN.<\/p> <p>We will talk about our open source work - YuniKorn scheduler project (Y for YARN, K for K8s, uni- for Unified) brings long-wanted features such as hierarchical queues, fairness between users/jobs/queues, preemption to Kubernetes; and it brings service scheduling enhancements to YARN. Any improvements to this scheduler can benefit both Kubernetes and YARN community.<\/p> <p>YARN schedulers are optimized for high-throughput, multi-tenant batch workloads. It can scale up to 50k nodes per cluster, and schedule 20k containers per second; On the other side, Kubernetes schedulers are optimized for long-running services, but many features like hierarchical queues, fairness resource sharing, and preemption etc, are either missing or not mature enough at this point of time.<\/p> <p>However, underneath they are responsible for one same job: the decision maker for resource allocations. We see the need to run services on YARN as well as run jobs on Kubernetes. This motivates us to create a universal scheduler which can work for both YARN and Kubernetes, and configure in the same way.<\/p> <p>This YuniKorn scheduler (Y for YARN, K for K8s, uni- for Unified) brings long-wanted features such as hierarchical queues, fairness between users/jobs/queues, preemption to Kubernetes; and it brings service scheduling enhancements to YARN. Most importantly, it provides the opportunity to let YARN and Kubernetes share the same user experience on scheduling big data workloads. And any improvements to this scheduler can benefit both Kubernetes and YARN community.<\/p> <p>In this talk, we’re going to talk about our efforts of design and implement the YuniKorn scheduler. We have integrated it with both YARN and Kubernetes. We will show demos and best practices.<\/p> <p>Speaker: Wangda Tan (Apache Hadoop PMC, Cloudera)<\/p> <p>Wangda is Product Management Committee (PMC) member of Apache Hadoop and Sr. Engineering Manager of computation platform team at Cloudera. He manages all efforts related to Kubernetes and YARN for both on-cloud and on-prem use cases of Cloudera. His primary interesting areas are YuniKorn scheduler (scheduling containers across YARN and Kubernetes) and Hadoop submarine project (running Deep learning workload across YARN and Kubernetes). He has also led features like resource scheduling, GPU isolation, node labeling, resource preemption, etc. efforts in the Hadoop YARN community. Before joining Cloudera, he was working at Pivotal, working on integration OpenMPI/GraphLab with Hadoop YARN. Before that, he was working at Alibaba cloud computing, participated in creating a large scale machine learning, matrix and statistics computation platform using Map-Reduce and MPI.<\/p> <p>Talk 2: Swimming in the Data River<\/p> <p>The dirty secret of most “streaming analytics” technologies is that they are just stream processors: they sit on a stream and continuously compute the results of a particular query. They’re good for alerting, keeping a dashboard up-to-date in real-time, and streaming ETL, but they’re not good at powering apps that give you true insight into what is happening: for this, you need the ability to explore, slice/dice, drill down, and search into the data. This talk will cover the current state of the streaming analytics world and what Apache Druid, a real-time analytical database, brings to the table.<\/p> <p>Speaker Gian (Imply)<\/p> <p>Gian is a co-founder and CTO of Imply, a San Francisco based technology company. Gian is also one of the main committers of Druid. Previously, Gian led the data ingestion team at Metamarkets and held senior engineering positions at Yahoo. He holds a BS in Computer Science from Caltech.<\/p> ",
-    "url": "https://www.meetup.com/druidio/events/263294942/"
-  },
-  {
-    "title": "Apache Druid Bay Area Meetup: Rethinking Druid's user experience (@ Big Data and Cloud Meetup)",
-    "group": "Apache Druid Bay Area Meetup",
-    "start": "2019-09-19",
-    "description": "<p>1st Talk:<br/>TITLE:<br/>Combining Large Scale Data Processing and Low Latency on the Cloud with Spark + Druid<\/p> <p>SPEAKER:<br/>Minesh Patel is a seasoned enterprise software professional with years of customer facing experience. He excels at establishing solid relationships with customers and partners across a variety of business verticals. Minesh has architected and been hands on with some of the largest big data implementations in the cloud.<\/p> <p>ABSTRACT:<br/>Apache Spark is one of the most widely used cluster computing frameworks. Spark is used to process tons of data for different workloads. These workloads include batch/streaming ingestion and ETL, ad hoc analytics, and data science. Apache Druid focuses on enabling low latency queries for OLAP workloads. Combining these technologies on a cloud substrate allows for massive scalability with managed cost and faster time to delivery.<\/p> <p>2nd Talk:<br/>TITLE:<br/>Rethinking Druid's user experience<\/p> <p>SPEAKER:<br/>Vadim Ogievetsky, Co-Founder and CPO of Imply<br/>LinkedIn: <a href=\"https://www.linkedin.com/in/vogievetsky/\" class=\"linkified\">https://www.linkedin.com/in/vogievetsky/<\/a><\/p> <p>ABSTRACT:<br/>Apache Druid has always been a fast, powerful, and scalable, but it has never been \"user-friendly\" from a UX perspective. This talk will examine how the Druid UX is being redesigned from the ground up. This will make Druid straightforward to get started with, load data into, and manage at scale.<\/p> <p>SPEAKER BIOGRAPHY:<br/>Vadim Ogievetsky, cares about two things: making huge datasets accessible to everyone, and highly complex distributed systems easier to manage. Previously Vadim led the Application team at Metamarkets (acquired by Snap). He holds an MS in Computer Science from Stanford and a BA in Mathematics and Computer Science from Oxford.<\/p> <p>SPONSOR:<br/>Imply.io<\/p> ",
-    "url": "https://www.meetup.com/druidio/events/264439338/"
-  },
-  {
     "title": "Pune Big Data Analytics Meetup: 2 Days Knowledge Based Workshop On Tableau",
     "group": "Pune Big Data Analytics Meetup",
     "start": "2019-09-14",
@@ -2007,48 +1986,6 @@
     "start": "2019-09-21",
     "description": "<p>Program Highlights:<br/>• Introduction to Python<br/>• Scope of Python.<br/>• What can I do with python?<br/>• Why do people use Python?<br/>• Python Basics<br/>• Features of Python<\/p> <p>Benefits through the program:<br/>1. Benefits of Python Language<br/>2. What can I do with python?<br/>3. Why do people use Python?<br/>4. Future scope of python<\/p> <p>Guidelines to participate in the webinar:<br/>Participants must book their seat at the provided link:<\/p> <p><a href=\"https://urlzs.com/Cy3T\" class=\"linkified\">https://urlzs.com/Cy3T<\/a><\/p> <p>After Registration, you will get a webinar link 1 day before the webinar is scheduled on your registered Email ID<\/p> <p>Last date for registration: 20th September 2019<br/>Duration of the webinar: 1 HR<\/p> <p>Mode of Session: Online<\/p> <p>Scheduled On<br/>Saturday, 21th September 2019<br/>10:00 AM (IST)<\/p> <p>For any further assistance contact us:<br/>Call us: [masked] / [masked] / 2 / 3<br/>Or Email us: [masked]<br/>Visit us: <a href=\"https://www.defouranalytics.com/\" class=\"linkified\">https://www.defouranalytics.com/<\/a><\/p> ",
     "url": "https://www.meetup.com/meetup-group-mBrnrixQ/events/264714546/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): UX - Conducting a Heuristic Review (aka Usability Test)",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-08-29",
-    "description": "<p>Join us as we cover one of my favorite topics, conducting a heuristic review. We will review a site during the meeting from the perspective of a user and a usability expert. We will find what the site does well and what we can improve upon. This will be an open discussion and everyone will be welcome to participate.<\/p> <p>Note: We will be in a new location for this event.<\/p> <p>We don't have a sponsor to provide lunch tomorrow. You will need to bring your own lunch.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/264378303/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): All your BASE are belong to us",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-08-29",
-    "description": "<p>Come on out grab a beer, eat a corn dog, and nerd out! We're back downtown this month, hanging out at Carrigan's. Hope to see you there.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/gvtdkpyzlbmc/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Architecture Forum",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-09-12",
-    "description": "<p>Hello everyone!<\/p> <p>The purpose of the architectural forum is for local software architects (or anyone interested in the topic) to meet and discuss technologies, patterns, and problems faced designing applications and systems.<\/p> <p>We hope to make this Meetup a monthly occurrence to help knowledge transfer for our local architectural gurus. Looking forward to seeing everyone!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/dvbqdqyzmbqb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Advanced Work Packaging with O3 Solutions",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-09-17",
-    "description": "<p>*** CROSS POST FROM AGILE BIRMINGHAM: <a href=\"https://www.meetup.com/Agile-Birmingham/events/264699877/\" class=\"linkified\">https://www.meetup.com/Agile-Birmingham/events/264699877/<\/a> ***<br/>O3 Solutions is a Birmingham based startup with global enterprise class customers. They specialize in Advanced Work Packaging, a technique that uses Agile principles within the world of large construction projects. They will speak about applying Agile principles with hard materials.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/264923424/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): React Lunch and Learn",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-09-20",
-    "description": "<p>Each third Friday of the month we meet, eat, and talk about React! This month, Michael Panik will speak about the power of Gatsby.js with WordPress.<\/p> <p>Gatsby.js + WordPress For Marketing Websites<\/p> <p>Often you find marketing teams and clients demanding WordPress, and development teams who refuse to use it. WordPress isn't without it's problems, but it is usually the simplest CMS for marketers to use. Gatsby is a simple-to-use, React-based static site generator that's flexible and backed by a huge community of users. If you want to avoid the countless \"how-to\" emails, while still building a sustainable and modern marketing site, Gatsby.js with headless WordPress is one of the best and most common ways to accomplish both.<\/p> <p>About Michael Panik<\/p> <p>Michael has been developing WordPress sites for 8 years, and is currently the WordPress lead and a general software engineer with Alloy Digital. With his strong background in development for digital marketing, he's always seeking to help product teams and marketing teams get along better.<br/>---------<br/>If you would like to give a talk (we ALL have valuable knowledge to share), or your company is willing to sponsor lunch for 30-40 people, please contact Jennifer Nelson at [masked] or on Magic City Tech Slack @jennianelson.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/hpjggryzmbbc/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Code Co-op - A free coding help & hack night",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-09-24",
-    "description": "<p>Interested in breaking out of a dead end career, shifting into a coding / tech job, improving your skillset, or just switching things up?<\/p> <p>Don't have the time or cash to get into coding / tech via a college program or bootcamp?<\/p> <p>If you said yes to any of that, then this might be the event for you.<\/p> <p>Plain and simple, Code Co-op is a help and hack night focused in on connecting people with better opportunities through collaboration and conversation.<\/p> <p>Now, this isn't a class, but it is your opportunity to talk with other people in the community and get help jumpstarting your learning process or with a programming lesson / personal project you've been working on. Come with your laptop, a notebook &amp; pen, and/or a drive to learn!<\/p> <p>6:00PM MEETUP LOCATION:<br/>If you enter the CoWorking Night Entrance, close to First Avenue North, instantly turn right towards the cafe, walk straight down a hallway, turn right when the hallway comes to a T, and the room (CR-B) will be on your left.<\/p> <p>To get a better idea of where we are, please check out the map image attached in the event.<\/p> <p>LATE ARRIVAL INFO:<br/>If you arrive or plan to arrive after the group leaves (6:15pm) for a group work space, please try to find one of the CoWorking Night Birmingham attendants and ask for directions to CR-B. We've attached a map to help you find our room (CR-B), but if you are unable to get assistance, send us a private message via Facebook / Twitter (links listed below). We'll get back to you as your post or message is spotted!<\/p> <p>NEED MORE INFO?<br/>If you're needing more info, please feel free to head to our website (<a href=\"http://www.codeconnective.com\" class=\"linkified\">http://www.codeconnective.com<\/a>), Facebook page (<a href=\"http://www.facebook.com/codeconnective\" class=\"linkified\">http://www.facebook.com/codeconnective<\/a>), or Twitter account (<a href=\"http://www.twitter.com/codeconnective\" class=\"linkified\">http://www.twitter.com/codeconnective<\/a>).<\/p> ",
-    "url": "https://www.meetup.com/base205/events/kpfkqqyzmbgc/"
   },
   {
     "title": "Data Science Brest: Ocean Data Lab-SeaScop:  Harmoniser et optimiser le format IDFmulti-résolution",
@@ -2875,18 +2812,18 @@
     "url": "https://www.meetup.com/India-Data-Science-AI-Machine-learning-Analytics-Meetup/events/265146030/"
   },
   {
-    "title": "Python And Data Science For Freshers Training and Workshop: Artificial Intelligence And Data Science Meetup",
-    "group": "Python And Data Science For Freshers Training and Workshop",
-    "start": "2019-10-13",
-    "description": "<p>Book Your Seat Now: <a href=\"https://www.eventbrite.com/e/artificial-intelligence-and-data-science-meetup-for-working-professionals-tickets-74256275519\" class=\"linkified\">https://www.eventbrite.com/e/artificial-intelligence-and-data-science-meetup-for-working-professionals-tickets-74256275519<\/a><\/p> <p>We are organising Artificial Intelligence and Data Science Meetup on 13th Oct ,Sun from 10:00 Am to 12:30 PM at Learnbay ,Workvista Coworking Space , 2nd Floor ,147, 5th Main Rd, Rajiv Gandhi Nagar, Sector 7 Near Rapido Office ,HSR 7th Sector, Bangalore, Karnataka[masked]<\/p> <p>Please find the details about the meetup:<br/>Agenda:<br/>Introduction to data science and Artificial Intelligence.<br/>Difference between AI,Machine Learning and Deep Learning<br/>Career Options in data science and AI domain<br/>2 Use cases of Machine Learning Algorithm<br/>2 Use cases of Deep learning and computer vision<\/p> <p>Regards<br/>Krishna Kumar<br/>Whatsapp :[masked]<\/p> ",
-    "url": "https://www.meetup.com/Python-And-Data-Science-For-Freshers-Training-Workshop/events/265176938/"
-  },
-  {
     "title": "Bay Area Data Science Enthusiasts: (Robot) Data Scientists as a Service",
     "group": "Bay Area Data Science Enthusiasts",
     "start": "2019-10-02",
     "description": "<p>We have another exciting Data Science meetup.<\/p> <p>As companies collect more and more data, there is a growing need for trained professionals to build models out of those data: humans, however, are costly and do not scale too well. On the opposite side of the spectrum, tools for automated data analysis promise to do everything with one click; in reality, they are often just a list of pre-compiled models, with huge variance in accuracy and interpretability.<\/p> <p>In this talk, we will try to find some middle ground by taking a fresh look at \"symbolic regression\", i.e. the idea that you can fit arbitrary datasets by evolving a population of mathematical expressions until you find something that fits data well enough. Instead of taking the standard optimization route provided by genetic algorithms, we will borrow ideas from probabilistic programming to build a small \"robot scientist\" with webPPL: if mathematics is a language, why can't we use ideas from natural language processing to explore the space of expressions?<\/p> <p>Agenda:<\/p> <p>5:50 pm - 6:00 pm Arrival and socializing<br/>6:00 pm - 6:10 pm Opening<br/>6:10 pm - 7:10 pm Jacopo Tagliabue, \"(Robot) Data Scientists as a Service\"<br/>7:10 pm - 7:30 pm Q&amp;A<\/p> <p>About Jacopo Tagliabue:<\/p> <p>Jacopo Tagliabue was co-founder and nerd in chief at Tooso - a Gartner “Cool Vendor” company that was acquired in 2019 by world search leader Coveo. Before Tooso, he has been a Best &amp; Brightest fellow at the Santa Fe Institute and led the Data Science team of AxonVibe in New York.<\/p> <p>In previous lives, he managed to get a Ph.D. in Cognitive Science (UNISR/MIT), do sciency things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on video games (among others improbable \"achievements\"). His research and industry work has been featured several times in international conferences and the general press.<\/p> ",
     "url": "https://www.meetup.com/Bay-Area-Data-Science-Enthusiasts/events/264841820/"
+  },
+  {
+    "title": "Bay Area Data Science Enthusiasts: How to prepare for ML interviews",
+    "group": "Bay Area Data Science Enthusiasts",
+    "start": "2019-10-03",
+    "description": "<p>For machine learning engineer candidates who are actively looking for jobs.<\/p> <p>In this meetup Osman Aka will introduce you the general interview study mindset, interview question examples and some hidden tactics that can help you to land your dream job. It will be interactive, and you will have get good sense of actual interview questions and how you should approach from a very talented industry expert.<\/p> <p>Agenda:<\/p> <p>6:20 pm - 6:30 pm Arrival and socializing<br/>6:30 pm - 6:40 pm Opening words<br/>6:40 pm - 7:50 pm Osman Aka, \"How to prepare for ML interviews\"<br/>7:50 pm - 8:00 pm Q&amp;A<\/p> <p>About Osman Aka:<\/p> <p>Osman Aka works in Google Brain team in machine learning fairness field. Previously, he worked for startups in convolutional neural networks. Former math and computer olympiad students.<\/p> ",
+    "url": "https://www.meetup.com/Bay-Area-Data-Science-Enthusiasts/events/265191541/"
   },
   {
     "title": "Bay Area Data Science Enthusiasts: Introduction to Machine Learning Mini Bootcamp (5 days - 17 hours)",
@@ -3057,10 +2994,10 @@
     "url": "https://www.meetup.com/Fort-Collins-Data-Science/events/scsrzqyznbmc/"
   },
   {
-    "title": "Fort Collins Data Science: Julia Maddalena: Reinforcement Learning",
+    "title": "Fort Collins Data Science: Julia Maddalena: A Survey of Modern Reinforcement Learning",
     "group": "Fort Collins Data Science",
     "start": "2019-11-12",
-    "description": "<p>Details TBA<\/p> ",
+    "description": "<p>Reinforcement learning is s type of machine learning separate from supervised and unsupervised learning methods. It involves an agent interacting with an environment and learning to take actions that result in greater cumulative reward. In this hour long talk, we will review the fundamental concepts reinforcement learning and discuss a handful of state-of-the-art methods that have practical applications in the real world.<\/p> ",
     "url": "https://www.meetup.com/Fort-Collins-Data-Science/events/scsrzqyzpbqb/"
   },
   {
@@ -4415,13 +4352,6 @@
     "url": "https://www.meetup.com/DataCouncil-AI-London-Data-Engineering-and-Science/events/262028901/"
   },
   {
-    "title": "PGH Data Science: Analytics Q&A Panel",
-    "group": "PGH Data Science",
-    "start": "2019-09-30",
-    "description": "<p>Join us as we get perspective from local analytics leaders through an interactive Q&amp;A panel interview session. We will begin the session asking the panelists about the work they are involved in, challenges they face and how their companies are leveraging analytics solutions to provide value to the business. Patrick Harrison, Lucky Pamula and Chris Stephens are our panelists - check out their bios below!<\/p> <p>Patrick Harrison - Director of AI Engineering at S&amp;P Global<\/p> <p>Patrick Harrison serves as Director of AI Engineering at S&amp;P Global, a financial data &amp; technology company. He started S&amp;P Global’s AI Engineering group, a group of data scientists and machine learning engineers who design, build, and operate AI-powered software in production settings. Outside of S&amp;P, he has also served as adjunct faculty at the University of Virginia’s Darden School of Business, where he co-taught the course Data Science in Business. He is a founding organizer of the Applied Machine Learning Conference in Charlottesville, Virginia, and is actively involved in building both regional and global data science communities.<\/p> <p>Lucky Pamula - Head of Cognitive Automation (A.I.) at PNC Bank<\/p> <p>Lucky Pamula(real name Vishnu) currently Heading the Cognitive Automation(A.I.) within Intelligent Automation CoE at PNC Bank.<\/p> <p>Prior to joining PNC, Lucky worked for Bayer for 12 years where he built a reputation by growing his roles and responsibilities by using analytical platforms to support research and innovation. Lucky was deployed in Mountain View on a special assignment in 2017 where he received Bayer Global Digital Innovation award for his research on Emotional Intelligence with Artificial Intelligence.<\/p> <p>Lucky holds both Bachelors and Masters degrees in Statistics and an Executive MBA.<\/p> <p>Lucky has an amazing journey to share... he was born and raised in a tiny 15 home remote village in India and successfully navigated socio-economic and cultural challenges to achieve successful education that includes winning a Gold Medal for outstanding academic performance. After completing his education he worked briefly in India, Malaysia before migrating to the US in 2004. He likes to set tougher goals for himself and consistently demonstrates a never give up attitude to accomplish those goals.<\/p> <p>Lucky is also going through his entrepreneurship journey with a startup that is developing an AI enabled Cognitive Diabetes Assistant.<\/p> <p>Christopher Stephens - VP, Data Technology at American Eagle Outfitters Inc.<\/p> <p>Chris Stephens is the Vice President of Data Technology at American Eagle Outfitters. He is responsible for all things data across the end-to-end value chain of the $4B retailer. Chris’ team leads with a Product mindset facilitated by his Data Product organization. The Data Product team aligns priorities and value creation for every line of business at AEO. Chris’ Engineering, Analytics, Data Science and Governance teams collectively work toward the advancement in analytics maturity for every associate in the company. Chris came to AEO from Pivotal where he led the Data Science team in the field from 2012 (when Data Science was barely a term). Prior to that Chris led product teams at SAS bringing to market in-memory distributed versions of SAS’ core platforms. Chris and his wife have 5 teenage children, none of whom cared about Chris’ career until he joined American Eagle in Nov 2017.<\/p> <p>How to find the conference room:<br/>The Microsoft Office is in the Federated Building, which is one of two towers in Liberty Center (the other is the Westin). Once inside Liberty Center, walk to the Federated Building sign-in desk and tell the administrator that you are visiting the Microsoft office for a MeetUp. They will issue you a visitor badge and direct you to the elevators that you should take up to the 14th floor.<\/p> <p>Parking recommendations:<br/>David L. Lawrence Convention Center Parking Garage (pay to park)<br/>Smithfield-Liberty Garage (pay to park)<br/>Street parking (if you're lucky)<\/p> ",
-    "url": "https://www.meetup.com/PGH-Data-Science/events/264615799/"
-  },
-  {
     "title": "Boston Area Pharmaceutical Statistics and Data Science Group: How to Build Shiny Apps People Actually Use",
     "group": "Boston Area Pharmaceutical Statistics and Data Science Group",
     "start": "2019-10-03",
@@ -4821,27 +4751,6 @@
     "url": "https://www.meetup.com/KoelnRUG/events/265020982/"
   },
   {
-    "title": "Quantum Computing Collective Trivandrum: Emerging Frontiers and Fundamental Building Blocks of Quantum Computing : ",
-    "group": "Quantum Computing Collective Trivandrum",
-    "start": "2019-10-02",
-    "description": "<p># Fundamentals Building Blocks<br/># Demo of Rigetti QVM<br/># Demo of QC Simulator<br/># Demo of QuTiP Toolbox<br/># Demo of IBM Quantum Experience<br/># Demo of IBM Quantum Card Test<br/># Demo of Google Playground<br/># Topologic Quantum Computing<br/># Holonomic Quantum Computing<\/p> <p>Please join us on Skype if are joining us Remotely :<br/><a href=\"https://join.skype.com/kYVigukFhcy3\" class=\"linkified\">https://join.skype.com/kYVigukFhcy3<\/a><\/p> ",
-    "url": "https://www.meetup.com/Quantum-Computing-Collective-Trivandrum/events/xjrwqpyznbdb/"
-  },
-  {
-    "title": "Quantum Computing Collective Trivandrum: Emerging Frontiers and Fundamental Building Blocks of Quantum Computing : ",
-    "group": "Quantum Computing Collective Trivandrum",
-    "start": "2019-11-06",
-    "description": "<p># Fundamentals Building Blocks<br/># Demo of Rigetti QVM<br/># Demo of QC Simulator<br/># Demo of QuTiP Toolbox<br/># Demo of IBM Quantum Experience<br/># Demo of IBM Quantum Card Test<br/># Demo of Google Playground<br/># Topologic Quantum Computing<br/># Holonomic Quantum Computing<\/p> <p>Please join us on Skype if are joining us Remotely :<br/><a href=\"https://join.skype.com/kYVigukFhcy3\" class=\"linkified\">https://join.skype.com/kYVigukFhcy3<\/a><\/p> ",
-    "url": "https://www.meetup.com/Quantum-Computing-Collective-Trivandrum/events/xjrwqpyzpbjb/"
-  },
-  {
-    "title": "Quantum Computing Collective Trivandrum: Emerging Frontiers and Fundamental Building Blocks of Quantum Computing : ",
-    "group": "Quantum Computing Collective Trivandrum",
-    "start": "2019-12-04",
-    "description": "<p># Fundamentals Building Blocks<br/># Demo of Rigetti QVM<br/># Demo of QC Simulator<br/># Demo of QuTiP Toolbox<br/># Demo of IBM Quantum Experience<br/># Demo of IBM Quantum Card Test<br/># Demo of Google Playground<br/># Topologic Quantum Computing<br/># Holonomic Quantum Computing<\/p> <p>Please join us on Skype if are joining us Remotely :<br/><a href=\"https://join.skype.com/kYVigukFhcy3\" class=\"linkified\">https://join.skype.com/kYVigukFhcy3<\/a><\/p> ",
-    "url": "https://www.meetup.com/Quantum-Computing-Collective-Trivandrum/events/xjrwqpyzqbgb/"
-  },
-  {
     "title": "R-Ladies St. Louis: Graphics in base R",
     "group": "R-Ladies St. Louis",
     "start": "2019-10-10",
@@ -5177,13 +5086,6 @@
     "url": "https://www.meetup.com/Hitchin-Data-Science-Meetup-Group/events/265022926/"
   },
   {
-    "title": "Apache Druid Bay Area Meetup: Bay Area Druid Meetup @ Pinterest",
-    "group": "Apache Druid Bay Area Meetup",
-    "start": "2019-10-07",
-    "description": "<p>*** Notes ***<\/p> <p>Please register with your full name and email for NDA purposes. IDs will be checked at the front door.<\/p> <p>------------------------------------------------------------------------------------------------------<\/p> <p>*** Presentations ***<\/p> <p>Talk 1:<br/>Pinterest: Our Journey to Operationalizing Druid at Scale<\/p> <p>Speaker(s): Filip Jaros + colleagues<\/p> <p>Abstract:<br/>We will present the unique challenges of migrating our ads metrics store backed by HBase into a new stack on top of Druid. First, we will discuss why we chose Druid, highlighting the features which were impossible to implement with the old solution and which unlocked opportunities for us to bring deeper analytical capabilities to our ads platform. Next, we will take you through the long journey it took to change our access patterns and productionize Druid in our ecosystem:<br/>Development of our special ingestion process on top of Apache Spark<br/>Namespacing of segments to allow ingestions from multiple pipelines<br/>Metadata service to short-circuit querying non-existent data<br/>The choice of Native vs SQL querying<br/>Effort of tuning access patterns from HBase-friendly to Druid-friendly.<\/p> <p>Bio:<br/>Filip Jaros is a software engineer at Pinterest. Starting his career in VoIP technologies, he has worked in the ads space for the last five years focusing on developing scalable ETL pipelines, designing database schemas and data retrieval services. Outside of the office, he is passionate about learning foreign languages, computer game design philosophy and nutrition science.<\/p> <p>------------------------------------------------------------------------------------------------------<\/p> <p>Talk 2:<br/>Rethinking Druid's user experience<\/p> <p>Speaker: Vadim Ogievetsky<\/p> <p>Abstract:<br/>Apache Druid has always been a fast, powerful, and scalable, but it has never been \"user friendly\" from a UX perspective. This talk will examine how the Druid UX is being redesigned from the ground up. This will make Druid straightforward to get started with, load data into, and manage at scale.<\/p> <p>Bio: Vadim Ogievetsky, co-founder of Imply, cares about two things: making huge datasets accessible to everyone, and highly complex distributed systems easier to manage. Previously Vadim led the Application team at Metamarkets (acquired by Snap). He holds an MS in Computer Science from Stanford and a BA in Mathematics and Computer Science from Oxford.<\/p> <p>------------------------------------------------------------------------------------------------------<\/p> <p>Talk 3:<br/>Druid Roadmap Discussion<\/p> <p>Speaker: Gian Merlino<\/p> <p>Abstract:<br/>We will talk about Druid news, including details about the latest roadmap and releases.<\/p> <p>Bio: Gian is a co-founder of Imply, a San Francisco based technology company, and a committer on Apache Druid. Previously, Gian led the data ingestion team at Metamarkets (now a part of Snapchat) and held senior engineering positions at Yahoo. He holds a BS in Computer Science from Caltech.<\/p> <p>------------------------------------------------------------------------------------------------------<\/p> <p>*** Schedule ***<\/p> <p>6:00 - 6:25 -- People shuffle in, get food and beverage and talk<br/>6:25 - 6:30 -- \"Hi, Welcome to Druid Meetup Group\" talk and introduction<br/>6:30 - 7:30 -- Talk 1 + Q&amp;A<br/>7:30 - 8:00 -- Talk 2 + Q&amp;A<br/>8:00 - 8:15 -- Druid roadmap discussion<br/>8:15 - 9:00 -- Networking, exit.<\/p> ",
-    "url": "https://www.meetup.com/druidio/events/264755005/"
-  },
-  {
     "title": "ATLytiCS: Analytics For Good: Getting Value from Your (Volunteer) Data Science Teams",
     "group": "ATLytiCS: Analytics For Good",
     "start": "2019-10-01",
@@ -5210,146 +5112,6 @@
     "start": "2019-10-19",
     "description": "<p>Program Highlights:<br/>Introduction of Data Science<br/>What is data Science and why is it important?<br/>Why do we use Data Science?<br/>Benefits of Data Science<br/>Importance and Applications of Data Science<\/p> <p>Benefits through the program:<br/>What is data Science and why is it important?<br/>Data Science Applications<br/>Benefits of Data Science<\/p> <p>Guidelines to participate in the webinar:<br/>Participants must book their seat at provided link:<br/><a href=\"https://bit.ly/2TRrqYN\" class=\"linkified\">https://bit.ly/2TRrqYN<\/a><br/>After Registration, you will get a webinar link 1 day before the webinar is scheduled on your registered Email ID<\/p> <p>Last date for registration: 18th October 2019<br/>Duration of the seminar: 1 Hr<\/p> <p>Mode of Session: Online<\/p> <p>Scheduled On:<br/>Saturday, 19th October 2019<br/>12:00 PM<\/p> ",
     "url": "https://www.meetup.com/meetup-group-mBrnrixQ/events/265208010/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Roundtable Tuesdays",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-10-01",
-    "description": "<p>Roundtable Tuesdays are your monthly opportunity to get insights from some of Birmingham's most knowledgeable developers, sysadmins, and techies on a range of topics.<\/p> <p>A big thanks to our sponsor, ITAC Solutions, who has graciously offered to host and provide the refreshments for these meetups!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/qpmszpyznbcb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): All Your BASE Are Belong To Us",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-10-03",
-    "description": "<p>A monthly social hangout to drink beer and discuss code (or whatever topic may come up). Bring a friend that may be interested in growing in the Birmingham tech community, or getting started in a tech career.<\/p> <p>No structure, no introductions, no pressure!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/rgqjjryznbfb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): All Your BASE Are Belong To Us",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-10-03",
-    "description": "<p>A monthly social hangout to drink beer and discuss code (or whatever topic may come up). Bring a friend that may be interested in growing in the Birmingham tech community, or getting started in a tech career.<\/p> <p>No structure, no introductions, no pressure!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/rgqjjryzmbjc/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Architecture Forum",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-10-10",
-    "description": "<p>Hello everyone!<\/p> <p>The purpose of the architectural forum is for local software architects (or anyone interested in the topic) to meet and discuss technologies, patterns, and problems faced designing applications and systems.<\/p> <p>We hope to make this Meetup a monthly occurrence to help knowledge transfer for our local architectural gurus. Looking forward to seeing everyone!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/dvbqdqyznbnb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Birmingham Game Developer Meetup",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-10-17",
-    "description": "<p>A Meetup for Birmingham based game developers, animators, interactive media designers, artists, coders with an an interest in making games or interactive media. We are a small group of multi-talented creators. Our community is to help share resources, knowledge, support, and collaboration. If it is your first time attending the meetup, make sure to message us on the night of so we know to expect you so we can get you in the building.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/nkfzhryznbwb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): React Lunch and Learn",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-10-18",
-    "description": "<p>Each third Friday of the month we meet, eat, and talk about React! Specific details about the topic and location will be posted prior to the event.<\/p> <p>If you would like to give a talk (we ALL have valuable knowledge to share), or your company is willing to sponsor lunch for 30-40 people, please contact Jennifer Nelson at [masked] or on Magic City Tech Slack @jennianelson.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/hpjggryznbxb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Code Co-op - A free coding help & hack night",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-10-22",
-    "description": "<p>Interested in breaking out of a dead end career, shifting into a coding / tech job, improving your skillset, or just switching things up?<\/p> <p>Don't have the time or cash to get into coding / tech via a college program or bootcamp?<\/p> <p>If you said yes to any of that, then this might be the event for you.<\/p> <p>Plain and simple, Code Co-op is a help and hack night focused in on connecting people with better opportunities through collaboration and conversation.<\/p> <p>Now, this isn't a class, but it is your opportunity to talk with other people in the community and get help jumpstarting your learning process or with a programming lesson / personal project you've been working on. Come with your laptop, a notebook &amp; pen, and/or a drive to learn!<\/p> <p>6:00PM MEETUP LOCATION:<br/>If you enter the CoWorking Night Entrance, close to First Avenue North, instantly turn right towards the cafe, walk straight down a hallway, turn right when the hallway comes to a T, and the room (CR-B) will be on your left.<\/p> <p>To get a better idea of where we are, please check out the map image attached in the event.<\/p> <p>LATE ARRIVAL INFO:<br/>If you arrive or plan to arrive after the group leaves (6:15pm) for a group work space, please try to find one of the CoWorking Night Birmingham attendants and ask for directions to CR-B. We've attached a map to help you find our room (CR-B), but if you are unable to get assistance, send us a private message via Facebook / Twitter (links listed below). We'll get back to you as your post or message is spotted!<\/p> <p>NEED MORE INFO?<br/>If you're needing more info, please feel free to head to our website (<a href=\"http://www.codeconnective.com\" class=\"linkified\">http://www.codeconnective.com<\/a>), Facebook page (<a href=\"http://www.facebook.com/codeconnective\" class=\"linkified\">http://www.facebook.com/codeconnective<\/a>), or Twitter account (<a href=\"http://www.twitter.com/codeconnective\" class=\"linkified\">http://www.twitter.com/codeconnective<\/a>).<\/p> ",
-    "url": "https://www.meetup.com/base205/events/kpfkqqyznbdc/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Roundtable Tuesdays",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-11-05",
-    "description": "<p>Roundtable Tuesdays are your monthly opportunity to get insights from some of Birmingham's most knowledgeable developers, sysadmins, and techies on a range of topics.<\/p> <p>A big thanks to our sponsor, ITAC Solutions, who has graciously offered to host and provide the refreshments for these meetups!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/qpmszpyzpbhb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): All Your BASE Are Belong To Us",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-11-07",
-    "description": "<p>A monthly social hangout to drink beer and discuss code (or whatever topic may come up). Bring a friend that may be interested in growing in the Birmingham tech community, or getting started in a tech career.<\/p> <p>No structure, no introductions, no pressure!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/rgqjjryzpbkb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Architecture Forum",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-11-14",
-    "description": "<p>Hello everyone!<\/p> <p>The purpose of the architectural forum is for local software architects (or anyone interested in the topic) to meet and discuss technologies, patterns, and problems faced designing applications and systems.<\/p> <p>We hope to make this Meetup a monthly occurrence to help knowledge transfer for our local architectural gurus. Looking forward to seeing everyone!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/dvbqdqyzpbsb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): React Lunch and Learn",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-11-15",
-    "description": "<p>Each third Friday of the month we meet, eat, and talk about React! Specific details about the topic and location will be posted prior to the event.<\/p> <p>If you would like to give a talk (we ALL have valuable knowledge to share), or your company is willing to sponsor lunch for 30-40 people, please contact Jennifer Nelson at [masked] or on Magic City Tech Slack @jennianelson.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/hpjggryzpbtb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Birmingham Game Developer Meetup",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-11-21",
-    "description": "<p>A Meetup for Birmingham based game developers, animators, interactive media designers, artists, coders with an an interest in making games or interactive media. We are a small group of multi-talented creators. Our community is to help share resources, knowledge, support, and collaboration. If it is your first time attending the meetup, make sure to message us on the night of so we know to expect you so we can get you in the building.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/nkfzhryzpbcc/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Code Co-op - A free coding help & hack night",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-11-26",
-    "description": "<p>Interested in breaking out of a dead end career, shifting into a coding / tech job, improving your skillset, or just switching things up?<\/p> <p>Don't have the time or cash to get into coding / tech via a college program or bootcamp?<\/p> <p>If you said yes to any of that, then this might be the event for you.<\/p> <p>Plain and simple, Code Co-op is a help and hack night focused in on connecting people with better opportunities through collaboration and conversation.<\/p> <p>Now, this isn't a class, but it is your opportunity to talk with other people in the community and get help jumpstarting your learning process or with a programming lesson / personal project you've been working on. Come with your laptop, a notebook &amp; pen, and/or a drive to learn!<\/p> <p>6:00PM MEETUP LOCATION:<br/>If you enter the CoWorking Night Entrance, close to First Avenue North, instantly turn right towards the cafe, walk straight down a hallway, turn right when the hallway comes to a T, and the room (CR-B) will be on your left.<\/p> <p>To get a better idea of where we are, please check out the map image attached in the event.<\/p> <p>LATE ARRIVAL INFO:<br/>If you arrive or plan to arrive after the group leaves (6:15pm) for a group work space, please try to find one of the CoWorking Night Birmingham attendants and ask for directions to CR-B. We've attached a map to help you find our room (CR-B), but if you are unable to get assistance, send us a private message via Facebook / Twitter (links listed below). We'll get back to you as your post or message is spotted!<\/p> <p>NEED MORE INFO?<br/>If you're needing more info, please feel free to head to our website (<a href=\"http://www.codeconnective.com\" class=\"linkified\">http://www.codeconnective.com<\/a>), Facebook page (<a href=\"http://www.facebook.com/codeconnective\" class=\"linkified\">http://www.facebook.com/codeconnective<\/a>), or Twitter account (<a href=\"http://www.twitter.com/codeconnective\" class=\"linkified\">http://www.twitter.com/codeconnective<\/a>).<\/p> ",
-    "url": "https://www.meetup.com/base205/events/kpfkqqyzpbjc/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Roundtable Tuesdays",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-12-03",
-    "description": "<p>Roundtable Tuesdays are your monthly opportunity to get insights from some of Birmingham's most knowledgeable developers, sysadmins, and techies on a range of topics.<\/p> <p>A big thanks to our sponsor, ITAC Solutions, who has graciously offered to host and provide the refreshments for these meetups!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/qpmszpyzqbfb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): All Your BASE Are Belong To Us",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-12-05",
-    "description": "<p>A monthly social hangout to drink beer and discuss code (or whatever topic may come up). Bring a friend that may be interested in growing in the Birmingham tech community, or getting started in a tech career.<\/p> <p>No structure, no introductions, no pressure!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/rgqjjryzqbhb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Architecture Forum",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-12-12",
-    "description": "<p>Hello everyone!<\/p> <p>The purpose of the architectural forum is for local software architects (or anyone interested in the topic) to meet and discuss technologies, patterns, and problems faced designing applications and systems.<\/p> <p>We hope to make this Meetup a monthly occurrence to help knowledge transfer for our local architectural gurus. Looking forward to seeing everyone!<\/p> ",
-    "url": "https://www.meetup.com/base205/events/dvbqdqyzqbqb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Birmingham Game Developer Meetup",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-12-19",
-    "description": "<p>A Meetup for Birmingham based game developers, animators, interactive media designers, artists, coders with an an interest in making games or interactive media. We are a small group of multi-talented creators. Our community is to help share resources, knowledge, support, and collaboration. If it is your first time attending the meetup, make sure to message us on the night of so we know to expect you so we can get you in the building.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/nkfzhryzqbzb/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): React Lunch and Learn",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-12-20",
-    "description": "<p>Each third Friday of the month we meet, eat, and talk about React! Specific details about the topic and location will be posted prior to the event.<\/p> <p>If you would like to give a talk (we ALL have valuable knowledge to share), or your company is willing to sponsor lunch for 30-40 people, please contact Jennifer Nelson at [masked] or on Magic City Tech Slack @jennianelson.<\/p> ",
-    "url": "https://www.meetup.com/base205/events/hpjggryzqbbc/"
-  },
-  {
-    "title": "BASE (Birmingham Alabama Software Enthusiasts): Code Co-op - A free coding help & hack night",
-    "group": "BASE (Birmingham Alabama Software Enthusiasts)",
-    "start": "2019-12-24",
-    "description": "<p>Interested in breaking out of a dead end career, shifting into a coding / tech job, improving your skillset, or just switching things up?<\/p> <p>Don't have the time or cash to get into coding / tech via a college program or bootcamp?<\/p> <p>If you said yes to any of that, then this might be the event for you.<\/p> <p>Plain and simple, Code Co-op is a help and hack night focused in on connecting people with better opportunities through collaboration and conversation.<\/p> <p>Now, this isn't a class, but it is your opportunity to talk with other people in the community and get help jumpstarting your learning process or with a programming lesson / personal project you've been working on. Come with your laptop, a notebook &amp; pen, and/or a drive to learn!<\/p> <p>6:00PM MEETUP LOCATION:<br/>If you enter the CoWorking Night Entrance, close to First Avenue North, instantly turn right towards the cafe, walk straight down a hallway, turn right when the hallway comes to a T, and the room (CR-B) will be on your left.<\/p> <p>To get a better idea of where we are, please check out the map image attached in the event.<\/p> <p>LATE ARRIVAL INFO:<br/>If you arrive or plan to arrive after the group leaves (6:15pm) for a group work space, please try to find one of the CoWorking Night Birmingham attendants and ask for directions to CR-B. We've attached a map to help you find our room (CR-B), but if you are unable to get assistance, send us a private message via Facebook / Twitter (links listed below). We'll get back to you as your post or message is spotted!<\/p> <p>NEED MORE INFO?<br/>If you're needing more info, please feel free to head to our website (<a href=\"http://www.codeconnective.com\" class=\"linkified\">http://www.codeconnective.com<\/a>), Facebook page (<a href=\"http://www.facebook.com/codeconnective\" class=\"linkified\">http://www.facebook.com/codeconnective<\/a>), or Twitter account (<a href=\"http://www.twitter.com/codeconnective\" class=\"linkified\">http://www.twitter.com/codeconnective<\/a>).<\/p> ",
-    "url": "https://www.meetup.com/base205/events/kpfkqqyzqbgc/"
-  },
-  {
-    "title": "Kaohsiung Python Meetup: Kaohsiung Python Meetup #52 - Py車達人",
-    "group": "Kaohsiung Python Meetup",
-    "start": "2019-10-01",
-    "description": "<p>主題：Py車達人<\/p> <p>講者：Malo Yang<\/p> <p>簡介：<br/>當我們便利的使用車輛於日常交通時，你知道車上有一台行車電腦在和它的周邊不斷通訊嗎?<br/>當保險業者說要由你的行車資訊來決定你的保險額度、費用時，你知道除了AI在分析你的開車習慣以外，是什麼把你的車輛資訊取出來送回去的嗎?<br/>本演講將說明行車電腦常用的CANBus協定，並使用Python語言藉此協定把車輛資訊取出上傳至雲端，讓資料科學家來分析數據。<\/p> <p>說明：<br/>CANbus為汽車產業中常用的標準通訊介面，目前亦被用於其它需要高可靠性傳輸的工作控制應用中。<br/>Python3.4以上原生支援Socket-CAN，較為方便使用；而以下版本，如Python2.7時，須改用C來實作訊介面API，亦將分享這部份的實作經驗<br/>雲端使用dweet.io / freeboard 來快速完成dashboard<br/>並進行實際應用案例之分享說明<\/p> <p>費用： 免費<\/p> <p>日期：2019/10/01 (二)<br/>時間：19:00~21:30<br/>地點：文藻外語大學 F201 教室<\/p> <p>議程：<br/>19:00~19:30 會前交流<br/>19:30~21:00 主題分享<br/>21:00~21:10 Q &amp; A<\/p> <p>講者簡介：<br/>Malo (楊熲煜)<\/p> <p>由機構工程師轉職的韌體工程師，對IoT的議題感到很有興趣，平時工作因為大多接觸的是較低階的硬體，因此主要使用C語言，近二年開始接觸Python語言後，開始逐步把工作上的需求轉用Python來完成，希望在社群和更多同好一起開心的探索工業控制和IoT的領域。<\/p> <p>備註:<br/>感謝Devin幫忙安排聚會的場地!<\/p> ",
-    "url": "https://www.meetup.com/Kaohsiung-Python-Meetup/events/265143189/"
   },
   {
     "title": "Milwaukee Data Science: Data Science Camp",
