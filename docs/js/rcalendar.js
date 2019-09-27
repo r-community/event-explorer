@@ -16,13 +16,14 @@ $(document).ready(function() {
                 selectHelper:!0,
 			weekNumbers: true,
       navLinks: true, // can click day/week names to navigate views
-      eventLimit: true, // allow "more" link when too many events
+      //eventLimit: true, // allow "more" link when too many events
 
 			eventSources: [
 
     {
       url: 'data/rugs_events.json', // use the `url` property
-      color: '#2165b6'
+      color: '#ffffff',
+      textColor:'blue'
     }
 
 
@@ -31,7 +32,7 @@ $(document).ready(function() {
             element.qtip({
                 content: '<b>' + event.title + '</b>' + '<br />' + event.description +  '<br />' + event.url,
                 style: {
-                     classes: 'qtip-white qtip-shadow'
+                     classes: 'qtip-light qtip-youtube'
                 }, 
 hide: {
         fixed: true
