@@ -445,6 +445,7 @@ get_upcoming_events <- function(){
 rugs = read.csv("https://raw.githubusercontent.com/benubah/r-community-explorer/master/docs/data/rugs.csv", fileEncoding = "UTF-8")
 
 rugs2 <- rugs[!(rugs$upcoming_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
+rugs2 <- rugs2[!grepl("sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software", tolower(rugs2$name)),]
 rugs_urlnames <- rugs2$fullurl
 rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
 rugs_urlnames <- gsub("/", "", rugs_urlnames) 
@@ -453,11 +454,29 @@ all_upcoming_revents <- lapply(rugs_urlnames,
                                function(x) 
                                {
                                  y <- get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
-                                 Sys.sleep(0.3)
+                                 Sys.sleep(0.5)
                                  y
                                }
 )
+  
+# PAST EVENTS 30 days ago
+rugs2 <- rugs[!(rugs$past_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
+rugs2 <- rugs2[!grepl("sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software", tolower(rugs2$name)),]
+rugs_urlnames <- rugs2$fullurl
+rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
+rugs_urlnames <- gsub("/", "", rugs_urlnames) 
+
+all_past_revents <- lapply(rugs_urlnames, 
+                          function(x) 
+                          {
+                            y <- get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date()-1)
+                            Sys.sleep(0.4)
+                            y
+                          }
+)  
 eventdf <- do.call("rbind", lapply(all_upcoming_revents, '[', c("name","group_name","local_date", "description","link")))
+past_eventdf <- do.call("rbind", lapply(all_past_revents, '[', c("name","group_name","local_date", "description","link")))
+eventdf <- rbind(past_eventdf, eventdf)
 eventdf$name <- paste(eventdf$group_name, eventdf$name, sep = ": ")
 colnames(eventdf) <- c("title", "group","start", "description", "url")
 
