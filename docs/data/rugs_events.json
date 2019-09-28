@@ -1,10 +1,24 @@
 [
   {
+    "title": "Ulmer Data Science Stammtisch: DataScience Stammtisch at EvoBus",
+    "group": "Ulmer Data Science Stammtisch",
+    "start": "2019-09-26",
+    "description": "<p>On 26.09. another Data Science Stammtisch will take place. This time our host is Evobus Gmbh who invites us at 06:30pm to the Setra customer center.<\/p> <p>A relaxed atmosphere, exciting lectures on data topics and a concluding networking &amp; get together are waiting for you. Details for the Agenda will follow in the next days.<\/p> <p>Please block the evening in the calendar and register here - the places are limited to 40. So don't hesitate! ;-)<\/p> <p>--<br/>Data Topics:<\/p> <p>1.) KI-Dreiklang für ein erfolgreiches Business: Data Scientist, Domänen-Experte &amp; Kunde (Dr. Christoph Oestreicher)<\/p> <p>Wenn Data Scientists, Domänen-Experten und Kunden eng im Austausch stehen, geschieht etwas phänomenales. Der Data Scientist erfreut sich am Wert seiner Analysen. Der Domänen-Experte sieht seine zahlreichen Ideen in konkrete Produkte umgesetzt. Der Kunde hält Produkte in den Händen, die genau auf seinen Bedarf zielen. Wie oft habt Ihr so einen KI-Dreiklang schon gehört? Wir diskutieren gemeinsam konkrete Beispiele von Harmonie und Disharmonie.<\/p> <p>AI triad for a successful business: Data Scientist, Domain Expert &amp; Customer (Dr. Christoph Oestreicher)<\/p> <p>When data scientists, domain experts and customers are in close contact, something phenomenal happens. The data scientists enjoy the value of their analysis. The domain experts see their numerous ideas implemented in tangible products. The customers hold products in their hands that are precisely targeted to their needs. How often have you listened to such an AI triad? We discuss practical examples of harmony and disharmony.<\/p> <p>2.) Die Fabric Recognition App - Stofferkennung mit Hilfe von AI (Heiko Güßmann)<\/p> <p>Immer wieder kommt es im After Sales vor, dass Stoffe von Sitzen erneuert werden müssen.<br/>Doch die Suche nach dem passenden Stoff nimmt viel Zeit in Anspruch.<br/>Mit der Fabric Recognition App kann aus über 2000 Stoffen, die richtige Materialnummer anhand von einem Foto ermittelt werden.<br/>Dadurch erübrigt sich eine lange Suche nach der richtigen Materialnummer und der Stoff kann schnell getauscht werden.<br/>Die Fortschritte im Bereich Bildklassifizierung mit Hilfe von AI machte diese Anwendung möglich.<br/>Die hier eingesetzten Convolutional Neural Networks (CNN) brachten eine bedeutende Verbesserung bei der Klassifizierung von Fotos und Objekten.<\/p> <p>Vielen Dank schon vorab für eure Beiträge<\/p> ",
+    "url": "https://www.meetup.com/Ulmer-Data-Science-Stammtisch/events/264805068/"
+  },
+  {
     "title": "LA R users group: LA East R Users: Creating custom vector classes with vctrs & Python for R Users",
     "group": "LA R users group",
     "start": "2019-09-09",
     "description": "<p>Talk 1:<br/>Speaker: Jesse Sadler (@vivalosburros), Loyola Marymount University, Department of History<br/>website: jessesadler.com<br/>Title: vctrs: Creating custom vector classes with the vctrs package<\/p> <p>Abstract:<br/>The base R types of vectors enable the representation of an amazingly wide array of data types. There is so much you can do with R. However, there may be times when your data does not fit into one of the base types and/or you want to add metadata to vectors. vctrs is a developer-focused package that provides a clear path for creating your own S3-vector class, while ensuring that the class integrates into user expectations for how vectors work in R. This talk will discuss the why and how of using vctrs through the example of debkeepr, a package for integrating historical non-decimal currencies such as pounds, shillings, and pence into R.<\/p> <p>Talk 2:<br/>Speaker: Sylvia Tran (www.linkedin.com/in/sylvia-s-tran/)<br/>Title: Python for R Users<\/p> <p>Abstract:<br/>The switch from Python to R or R to Python doesn’t always feel natural. In this talk, Sylvia will help draw some parallels and leave you with a high-level cheat sheet for how to do the following using pandas and scikit, learn without having to get into the low-level weeds of Python object types.<br/>a) light data cleaning / standardizing features<br/>b) train-test-split<br/>c) pipe your data into a model<br/>d) evaluate model performance<\/p> <p>Code of Conduct: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>Timeline:<br/>6:30: Socializing<br/>7:00-8:00: Talks<br/>8:00: Socializing<\/p> <p>Address:<br/>Room 115/116<br/>USC<br/>2001 N. Soto St.<br/>Los Angeles, CA 90032<\/p> <p>Invite yourself to our Slack group: <a href=\"http://bit.ly/laerug\" class=\"linkified\">http://bit.ly/laerug<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laeRusers/presentations\" class=\"linkified\">https://github.com/laeRusers/presentations<\/a><br/>Follow us on Twitter: @laeRusers<br/>Check out more events: <a href=\"https://laocr.org/\" class=\"linkified\">https://laocr.org/<\/a><\/p> ",
     "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/264051830/"
+  },
+  {
+    "title": "LA R users group: LA West R Users: September Meeting",
+    "group": "LA R users group",
+    "start": "2019-09-26",
+    "description": "<p>LA West R Users Group will have our September meeting at WeWork One Culver, 10000 Washington Boulevard Culver City CA 90232.<\/p> <p>**Talk**<br/>Speaker: Malcolm Barrett, Ph.D. student in Epidemiology at USC (@malco_barrett)<\/p> <p>Title: Functional programming with purrr<\/p> <p>Description: One of R’s most powerful features is that it’s a functional programming language. purrr is a consistent and efficient toolkit for programming with functions and working with lists. At its heart is `map()` and friends: functions for the common pattern of iterating over a vector or list, doing something to each element, and then storing the results. These functions let you iterate efficiently and with less code. As Jenny Bryan once said, “of course someone needs to write `for` loops; it doesn’t have to be you.”<\/p> <p>Code of Conduct: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>6:00-6:45 open door<br/>6:45-7:30 talk starts (45min presentation + Q&amp;A)<br/>7:30-8:00 socialize<br/>8:00 leave venue<\/p> <p>**Venue**<br/>Address: WeWork One Culver, 10000 Washington Boulevard, Culver City, CA 90232<\/p> <p>Thanks to our sponsor Sabio Mobile (<a href=\"https://sabiomobile.com\" class=\"linkified\">https://sabiomobile.com<\/a>), food and drinks will be provided at the event. Come early to eat and hang out!<\/p> <p>When you arrive: Bring a photo ID and scan it at the guest registration tablets at the front desk for the Meetup event. If your photo ID does not successfully scan, check in at the tablet as a guest of \"Meetup Event\".<\/p> <p>Direction:<br/>15 min walk away from Expo Line Palms Station<br/>Parking:<br/>- Onsite parking entrances on Madison or Duquesne ($9/hr or $25/day)<br/>- Culver Medical Plaza for $14/day<br/>- Corbett also offers parking<br/>- Street parking in the area, please note posted signs<\/p> <p>**LA (West) R Users Group**<br/>Email: [masked]<br/>Invite yourself to our Slack group: <a href=\"http://bit.ly/laerug\" class=\"linkified\">http://bit.ly/laerug<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: laocr.org/<\/p> <p>******* CALL FOR SPEAKERS *********<br/>Reach out to [masked] or [masked] if you want to be a speaker. First-time speakers are welcome<br/>******* DON'T BE SHY *********<\/p> <p>We are working on building a network for all useRs in SoCal. Come be our guest! Come be our speaker!<\/p> ",
+    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/262796755/"
   },
   {
     "title": "Oxford R User Group: September OxfordRUG meeting",
@@ -77,13 +91,6 @@
     "url": "https://www.meetup.com/rugnepal/events/259600598/"
   },
   {
-    "title": "Cork (Ireland) R-Users Group: 2-day R workshop for beginners",
-    "group": "Cork (Ireland) R-Users Group",
-    "start": "2019-09-19",
-    "description": "<p>We are delighted to offer a 2-day introduction to the statistical language R. No previous experience of R is expected. This course is free to attend and will take place in UCC.<\/p> <p>Over the two days we will cover data handling, data visualisation, reproducible research, project-oriented workflows, and statistics with a focus on the R language and RStudio.<br/>The teachers are Dr Enrico Pirotta (<a href=\"https://labs.wsu.edu/leslie-new/people/\" class=\"linkified\">https://labs.wsu.edu/leslie-new/people/<\/a>), Dr Adam Kane (<a href=\"https://people.ucd.ie/adam.kane\" class=\"linkified\">https://people.ucd.ie/adam.kane<\/a>) and Dr Brendan Palmer (<a href=\"https://www.ucc.ie/en/publichealth/people/estaff/drbrendanpalmer/\" class=\"linkified\">https://www.ucc.ie/en/publichealth/people/estaff/drbrendanpalmer/<\/a>).<\/p> <p>Please email <b>[masked]<\/b> with your expression of interest as spaces on the course will be limited to ~30 people. We look forward to hearing from you.<\/p> ",
-    "url": "https://www.meetup.com/Cork-Ireland-R-Users-Group/events/264775677/"
-  },
-  {
     "title": "Exeter R Users Group (Exeter, Devon, England): Q-estival: R presentation and social event",
     "group": "Exeter R Users Group (Exeter, Devon, England)",
     "start": "2019-09-09",
@@ -112,11 +119,25 @@
     "url": "https://www.meetup.com/Budapest-Users-of-R-Network/events/263996546/"
   },
   {
+    "title": "Meetup R Nantes: Cartographie avec R et d3.js",
+    "group": "Meetup R Nantes",
+    "start": "2019-09-26",
+    "description": "<p>Les cartes sont omniprésentes, mais les règles qui président à leur construction restent souvent méconnues. Avec R, faire des cartes est simple. Faire de \"belles\" cartes plus compliqué. Faire des cartes \"pertinentes\" plus encore. Et quid de l'interactivité ? En 1h, nous nous intéressons / parcourrons l'univers de la cartographie pour le data-scientist et expliquerons les erreurs les plus courantes. Nous finirons par une exploration de ce que peut apporter l'interactivité avec des exemples en d3.js.<\/p> <p>Arthur Katossky est enseignant en informatique, statistique et économie à l'ENSAI (Rennes) où il donne entre autres les cours de visualisation de données. Auparavant, il est passé par la finance, l'immobilier, l'enseignement, la recherche, le marketing, l'écologie... en France et au Danemark, dans le public et dans le privé.<br/>Son twitter : <a href=\"https://twitter.com/akatossky\" class=\"linkified\">https://twitter.com/akatossky<\/a> .<\/p> ",
+    "url": "https://www.meetup.com/Meetup-R-Nantes/events/264212199/"
+  },
+  {
     "title": "Tampa R Users Group: Liz  Herdter presents Cheatsheets!",
     "group": "Tampa R Users Group",
     "start": "2019-09-24",
     "description": "<p>• What we'll do<br/>Liz will be talking about R cheatsheets!<\/p> <p>• What to bring<br/>If you wish to bring a laptop to follow along, code and slides will be posted ~24 hours in advance at <a href=\"https://github.com/TampaUseRs/TampaUseRs/tree/master/meetups\" class=\"linkified\">https://github.com/TampaUseRs/TampaUseRs/tree/master/meetups<\/a><\/p> ",
     "url": "https://www.meetup.com/Tampa-R-Users-Group/events/264780004/"
+  },
+  {
+    "title": "Cork (Ireland) R-Users Group: 2-day R workshop for beginners",
+    "group": "Cork (Ireland) R-Users Group",
+    "start": "2019-09-19",
+    "description": "<p>We are delighted to offer a 2-day introduction to the statistical language R. No previous experience of R is expected. This course is free to attend and will take place in UCC.<\/p> <p>Over the two days we will cover data handling, data visualisation, reproducible research, project-oriented workflows, and statistics with a focus on the R language and RStudio.<br/>The teachers are Dr Enrico Pirotta (<a href=\"https://labs.wsu.edu/leslie-new/people/\" class=\"linkified\">https://labs.wsu.edu/leslie-new/people/<\/a>), Dr Adam Kane (<a href=\"https://people.ucd.ie/adam.kane\" class=\"linkified\">https://people.ucd.ie/adam.kane<\/a>) and Dr Brendan Palmer (<a href=\"https://www.ucc.ie/en/publichealth/people/estaff/drbrendanpalmer/\" class=\"linkified\">https://www.ucc.ie/en/publichealth/people/estaff/drbrendanpalmer/<\/a>).<\/p> <p>Please email <b>[masked]<\/b> with your expression of interest as spaces on the course will be limited to ~30 people. We look forward to hearing from you.<\/p> ",
+    "url": "https://www.meetup.com/Cork-Ireland-R-Users-Group/events/264775677/"
   },
   {
     "title": "Berlin R Users Group: #39 WhyR pre-meeting: Segmentation in Surveys using NMF (talk+workshop)",
@@ -154,6 +175,13 @@
     "url": "https://www.meetup.com/Santa-Barbara-R-Users-Group/events/264543716/"
   },
   {
+    "title": "CopenhagenR - useR Group: Smooth curves in R and Xaringan shenanigans",
+    "group": "CopenhagenR - useR Group",
+    "start": "2019-09-26",
+    "description": "<p>Two exciting upcoming talks:<\/p> <p>Smooth curves in R by Niels Lundtorp Olsen<br/>===========================================<\/p> <p>R is a great and flexible software but lacks an easy and fast package for dealing curves such as in functional data and vector graphics.<br/>This talk will not be about all the cool tools for making plots, but we will go one step behind and look at how smooth curves are represented as data in a computer, and how to implement this in R.<br/>Doing things fast in R often means doing it in C++, which also will bring us past object-oriented programming. In the end, we get a package that can easily be applied to functional data and elsewhere. This is work in progress and feedback will be appreciated.<\/p> <p>Xaringan shenanigans by Claus Thorn Ekstrøm<br/>=============================================<br/>R provides several possibilities for using Rmarkdown to quickly create<br/>excellent presentations combining R code, R output, mathematics,<br/>animations, and interactive widgets.<\/p> <p>In this code-along I will show how to use the package xaringan to<br/>build simple, elegant, Rmarkdown-driven presentations based on the<br/>remark.js presentation framework. We will cover formatting, widgets,<br/>caveats, show some tips and tricks, and how to customise your own<br/>presentation template.<\/p> ",
+    "url": "https://www.meetup.com/CopenhagenR-useR-Group/events/264598548/"
+  },
+  {
     "title": "Zurich R User Group: Web scraping & relational data models with R",
     "group": "Zurich R User Group",
     "start": "2019-09-16",
@@ -189,11 +217,11 @@
     "url": "https://www.meetup.com/Grupo-de-Usuarios-de-R-de-Madrid/events/264807287/"
   },
   {
-    "title": "Greater Cleveland R Group: Contributing to Open Source with John Blischak",
-    "group": "Greater Cleveland R Group",
-    "start": "2019-08-28",
-    "description": "<p>Are you interested in contributing to open source software projects,<br/>but unsure how to get started? With a focus on the R software<br/>ecosystem, I’ll describe open source software development, provide<br/>motivations for contributing to open source software, give some advice<br/>for getting started in open source, and detail some of the technical<br/>steps for making a contribution.<\/p> ",
-    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/263391227/"
+    "title": "Meetup de Grupo de Usuarios de R de Málaga: 8ª reunión de Grupo de Usuarios de R de Málaga ",
+    "group": "Meetup de Grupo de Usuarios de R de Málaga",
+    "start": "2019-09-26",
+    "description": "<p>Hola, tras la consulta Doodle que realizamos a todos vosotros, os informamos de la fecha que ha logrado mayor consenso.<\/p> <p>Jueves 26 de Septiembre a las 19:00. La duración será de una hora a hora y media como mucho.<\/p> <p>Título: RR - Reproducible Research in R (Rmarkdown)<br/>Autor: Domingo López<br/>(solo en inglés el título)<\/p> <p>\"R integra un conjunto de herramientas que permite que cualquier persona puede reproducir los resultados bajo las mismas condiciones. Esto es posible gracias a los documentos dinámicos - dynamic documents (literate programming, Donald Knuth, 1984).<\/p> <p>El producto final de un análisis, o de una investigación no es solo un<br/>informe o un artículo, es también el entorno computacional completo para reproducir los resultados, el código y los datos.<\/p> <p>Desde R podemos generar documentos dinámicos que integren:<br/>- los datos usados<br/>- Latex<br/>- explicaciones<br/>- código en R o en otros lenguajes<br/>- resultados (solo resultados y no el código, solo el código, todo)<\/p> <p>Desde R, usando la herramienta denominada RMarkdown podemos generar informes, presentaciones en pdf o beamer, libros, webs de alta calidad, siguiendo el paradigma de la investigación reproducible.\"<\/p> <p>Con esta charla que nos dará Domingo queremos dar una introducción a Rmarkdown para que comencéis a elaborar presentaciones desde Rstudio.<\/p> <p>Cuidado: Cuando comiences a usar RMarkdown,... no hay marcha atrás.<\/p> <p>Lugar: Laboratorio[masked] (sitio habitual de anteriores charlas).<\/p> <p>Recomendación - traer vuestro portátil los que podáis y tengáis acceso a la wifi de la UMA. Andamos renovando laboratorio, para los que no tengáis acceso a la wifi de la UMA, usaremos los ordenadores que tenemos. Dar las gracias al Departamento de Matemática Aplicada por su colaboración.<\/p> <p>Límite de asistentes: 50 plazas<\/p> <p>Si necesitáramos algo especial os lo decimos estos días.<\/p> <p>Como siempre, luego una/s cerveza/s y/o refresco/s.<\/p> <p>Com siempre, si conocéis a alguien que se apuntó antes en el grupo de usuarios pero no está en Meetup, por favor, indicarle que a partir de ahora trabajamos para coordinarnos usando Meetup.<\/p> <p>Manda esta información a interesados en nuestro grupo.<\/p> <p>¡Un saludo!<\/p> ",
+    "url": "https://www.meetup.com/Meetup-de-Grupo-de-Usuarios-de-R-de-Malaga/events/264998889/"
   },
   {
     "title": "Greater Cleveland R Group: Real-time file import with the vroom package (Jim Hester)",
@@ -229,6 +257,20 @@
     "start": "2019-09-18",
     "description": "<p>Instead of an \"R vs python\" discussion that's being revisited in Linkedin lately (at least in my feed!), we invite everyone to know, understand and come out wiser than hyped on when both tools/languages may be used in real-world scenarios and fields of study, from practitioners in the industry and academe alike.<\/p> <p>R+python bilingual peeps will do a show-and-tell, do Q&amp;A, share tips on which one they choose when, or any format they feel is best that will drive home the point that coexistence is possible and may even be ideal. Or at least just to prevent us from getting sucked in to this age-old debate again.<\/p> <p>=======================<br/>Please bring a valid ID.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/npdrgpyzmbxb/"
+  },
+  {
+    "title": "Greater Portland useR Group (R programming language): The ETL Machine: An approach to ETL in R, Part 1 - Writing good functions",
+    "group": "Greater Portland useR Group (R programming language)",
+    "start": "2019-09-26",
+    "description": "<p>There are lots of good reasons to avoid using R for ETL. But that doesn't mean one shouldn't try. Sometimes business constraints and lack of adequate tools make ETL orchestration far more painful than it needs to be. That is why David Denton is currently endeavoring to build a robust, portable, ETL Machine with R &amp; Shiny. This is a work in progress that he is sharing in hopes of eliciting some helpful feedback (booing and hissing is acceptable as well). Part 1 will focus on writing versatile, well-documented functions in R.<\/p> <p>David Denton currently works as a data engineer at the Maine Medical Center Research Institute.<\/p> <p>Pizza and beverages will be provided.<\/p> ",
+    "url": "https://www.meetup.com/Greater-Portland-useR-Group/events/264749154/"
+  },
+  {
+    "title": "Salt Lake City R Users Group: Object-oriented programming in R with R6",
+    "group": "Salt Lake City R Users Group",
+    "start": "2019-09-26",
+    "description": "<p>Our next Meetup will be at SelectHealth in Murray. There is visitor parking available in front of SelectHealth. Or, if you want to get your steps in for the day you can take the FrontRunner or Trax blue or green line to Murray Central Station. SelectHealth is about a mile from Trax (25 minute walk). Uber from the station would be approx. $10.<\/p> <p>In this presentation, Greg Snow, a statistical consultant for research at Intermountain Healthcare and an adjunct professor at BYU, will focus on OOP for R using R6 classes.<\/p> ",
+    "url": "https://www.meetup.com/slc-rug/events/263633915/"
   },
   {
     "title": "Oslo useR! Group: Fit for future portfolio: A quantitative approach to sustainable investing",
@@ -287,6 +329,13 @@
     "url": "https://www.meetup.com/Florianopolis-R-NNQ-R-users-group/events/264140560/"
   },
   {
+    "title": "Florianópolis R-NNQ R users group: Encontro R",
+    "group": "Florianópolis R-NNQ R users group",
+    "start": "2019-09-26",
+    "description": "<p>Prezados:<\/p> <p>Nosso próximo Meetup será realizado no dia 26/09/2019.<br/>Local: Anfiteatro B – Programa de Pós-Graduação em Engenharia de Produção (PPGEP) -CTC-UFSC<br/>Horário: 19h<\/p> <p>Programação<\/p> <p>Palestra 1<br/>Utilizando o R para a Análise de Dados Biológicos.<br/>Ministrante: Edroaldo Lummertz da Rocha- Professor e pesquisador do Departamento de Microbiologia, Imunologia e Parasitologia do Centro de Ciências Biológicas.<\/p> <p>Palestra 2<br/>Expressões Regulares (REGEX) no R<br/>Ministrante: Rodrigo Gabriel de Miranda - SAMAIA IT e Membro do NNQ.<\/p> <p>Contamos com a sua participação.<\/p> ",
+    "url": "https://www.meetup.com/Florianopolis-R-NNQ-R-users-group/events/264989811/"
+  },
+  {
     "title": "Melbourne Users of R Network (MelbURN): Data Clustering and Segmentation in R for Business",
     "group": "Melbourne Users of R Network (MelbURN)",
     "start": "2019-09-09",
@@ -327,13 +376,6 @@
     "start": "2019-09-17",
     "description": "<p>Building on the surprising turnout for the Data Science After Dark kickoff in August (~50) I’m happy to announce the Tue, September 17th agenda is ready!<\/p> <p>The flywheel for meetup success starts slowly but thank you so much to the 100+ people who have provided input either in person or by the survey, informing our path forward. And thanks to those who have volunteered to speak!<\/p> <p>One of the things I have heard many of you say is that you are interested in hearing about what others in the Springfield area are doing with data. This is something I am affectionately calling, “Who’s Who in Data Springfield”, something I hope we can repeat regularly, in addition to the other types of things we do together.<\/p> <p>To kick this series off I have invited Sherry Woosley and Matt Venaas, from Skyfactor, a Macmillan learning company subsidiary, out to discuss what they are doing with data at Skyfactor. Skyfactor provides market-leading assessments and benchmarking that empower programs across colleges and universities to identify areas of improvement for maximum impact on student outcomes. Learning about learning, with data – fascinating.<\/p> <p>After that, we will take the remaining time to come to some concrete decisions on a plan for how to use this group to learn the tools &amp; methods of data science, and a plan for how we will work together with data to make Springfield a better place. Two other very important things I know you want from DSAD.<\/p> <p>Details:<br/>We’ll be meeting at The eFactory (405 N. Jefferson Ave.) on Tuesday, September 17th from 5:30p to 7:00p. Food and drink will be provided while everyone settles in.<\/p> <p>RSVP on meetup.com now so you get updates on the meeting room location &amp; any other last-minute details. As we get our wheels turning faster, we will post future events several months advance– for now, please bear with our dust as we try to get out ahead of you. We plan on meeting the third Tuesday of every month - it may help to go ahead and hold your calendar now.<\/p> <p>Agenda:<br/>5:30-6:00 – Arrival, Food, Drinks, Networking<br/>6:00-6:30 –Who’s Who in Data Springfield - Macmillan/Skyfactor: Lessons from Surveys of College Students (Sherry Woosley &amp; Matt Venaas)<br/>6:30-7:00 -- Data Science After Dark Learning and Community Service Sub-Groups – What, How, When (Mike West)<\/p> <p>Macmillan/Skyfactor: Lessons from Surveys of College Students: After two decades, 500 national surveys, and 15 million survey responses from more than 1,100 colleges and universities, Skyfactor has learned a few things. Sherry and Matt will take a look at how data over the past ten years supports or contradicts common stories about college students and surveys.<\/p> <p>About Our Presenters:<br/>Sherry Woosley, Ph.D., is the Senior Director of Analytics and Research at Skyfactor, a Macmillan Learning Company. She drives the research and analytics for 50+ national program assessments as well as other student success-related products. She has delivered more than 100 presentations at conferences and is nationally recognized for her work in assessment, college student transitions, and predictive analytics. She holds a Ph.D. from the University of California, Santa Barbara.<\/p> <p>Matt Venaas is a Research Manager on the Analytics &amp; Research Team at Skyfactor, a Macmillan Learning company. In this capacity, he is responsible for survey design and content for 50+ national benchmarking assessments used at colleges and universities. He also is responsible for analyzing assessment data for building educational content, including webinars, conference presentations, and research articles. He has an M.S.Ed. in Adult and Higher Education and a B.A. in Political Science from Northern Illinois University.<\/p> <p>Resources:<br/>Meetup page: <a href=\"https://www.meetup.com/Data-Science-After-Dark/\" class=\"linkified\">https://www.meetup.com/Data-Science-After-Dark/<\/a><br/>Facebook: <a href=\"https://www.facebook.com/groups/475003726608912/\" class=\"linkified\">https://www.facebook.com/groups/475003726608912/<\/a><br/>Slack: <a href=\"https://join.slack.com/t/datascienceafterdark/shared_invite/enQtNjg1NzkyNjQ4NDM5LTg4NjVmMGU3NzNjZDQzODc1YTYzMGQ0NGI2MzkyOGIxMjBkNzIyMjU5OWRjMTUxNzRmNDJlZDNkNzQzOGYwNmI\" class=\"linkified\">https://join.slack.com/t/datascienceafterdark/shared_invite/enQtNjg1NzkyNjQ4NDM5LTg4NjVmMGU3NzNjZDQzODc1YTYzMGQ0NGI2MzkyOGIxMjBkNzIyMjU5OWRjMTUxNzRmNDJlZDNkNzQzOGYwNmI<\/a><\/p> ",
     "url": "https://www.meetup.com/Data-Science-After-Dark/events/264703725/"
-  },
-  {
-    "title": "Bay Area Data Science Enthusiasts: Cracking The Data Science Interview",
-    "group": "Bay Area Data Science Enthusiasts",
-    "start": "2019-08-28",
-    "description": "<p>Data Science positions have quickly proliferated among organisations and adds seeking candidates are now abundant on employment websites. While it’s quite new, organisations are crying out for candidates and Universities are only offering tailored programmes in very recent years, interviews are still a large hurdle to get past. Job hunting can feel like a full-time job in itself.<\/p> <p>You have to tailor your application, research all the companies you are applying to and later interviewing at and you need the broad domain knowledge to get past the hours of questions.<\/p> <p>In this talk, Siobhan would like to breakdown what it is that the data science interview requires and Siobhan will offer some suggested resources to help you prepare. We will cover resume writing briefly.<\/p> <p>Following this, we will move into how interviews are structured, broken into four categories. This helps candidates to organise their preparation and to feel confident as interviews unfold without any major surprises.<\/p> <p>Agenda:<\/p> <p>5:50 pm - 6:00 pm Arrival and socializing<br/>6:00 pm - 6:10 pm Opening<br/>6:10 pm - 7:10 pm Siobhan Mcnamara, \"The Data Science Interview\"<br/>7:10 pm - 7:30 pm Q&amp;A<\/p> <p>About Siobhan Mcnamara:<\/p> <p>Siobhan Mcnamara is a data scientist working at Agari, a cybersecurity company in the Bay Area. Originally Siobhan studied Psychology &amp; Economics and had an interest in the intersection of the two. This has lend itself to her current role, they analyze behaviours and use that for identity verification, that is to determine if someone online is who they claim to be. Earlier in her career, Siobhan had a number of research roles in economics and later on learned to code so that she could apply that skillset to a data science position.<\/p> ",
-    "url": "https://www.meetup.com/Bay-Area-Data-Science-Enthusiasts/events/263847855/"
   },
   {
     "title": "Bay Area Data Science Enthusiasts: Big Data MBA: Driving Business Strategies with Data Science",
@@ -504,13 +546,6 @@
     "url": "https://www.meetup.com/Fort-Collins-Data-Science/events/scsrzqyzmbwb/"
   },
   {
-    "title": "Learn Data Science: [Advanced] Data Science Reading Group :: Learning to Learn without Forgetting",
-    "group": "Learn Data Science",
-    "start": "2019-08-28",
-    "description": "<p>The next reading is \"Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference\" <a href=\"https://arxiv.org/abs/1810.11910\" class=\"linkified\">https://arxiv.org/abs/1810.11910<\/a><\/p> <p>Please try to read it before the meetup. It's OK if you don't understand it all. The meetup is for questions and discussion.<\/p> <p>Schedule:<\/p> <p>• 6:00PM Doors are open, feel free to mingle<br/>• 6:30 Reading Group starts<br/>• ~7:45 Off to a nearby restaurant for food, drinks, and breakout discussions<\/p> <p>----------<\/p> <p>What is the Data Science Reading Group about?:<\/p> <p>We will meet every other Wednesday of every month and present/discuss a topic of interest.<\/p> <p>The group votes on the topic/paper to read next time. Anyone can propose a paper for the following Meetup.<\/p> <p>Discussions about this meetup also happen on Slack and Discord. To join Slack, go here: <a href=\"http://vantech.herokuapp.com/\" class=\"linkified\">http://vantech.herokuapp.com/<\/a> To join Discord, go here: <a href=\"https://discord.gg/EpJPUks\" class=\"linkified\">https://discord.gg/EpJPUks<\/a> Once you're in, join the #data-science channel.<\/p> <p>A list of past papers, both discussed and proposed, is available here: <a href=\"https://github.com/learn-data-science/data-science-reading\" class=\"linkified\">https://github.com/learn-data-science/data-science-reading<\/a><\/p> ",
-    "url": "https://www.meetup.com/LearnDataScience/events/wwqpgryzlblc/"
-  },
-  {
     "title": "Learn Data Science: Learn Data Science by Doing Kaggle Competitions: Categorize animals in the wild",
     "group": "Learn Data Science",
     "start": "2019-09-05",
@@ -565,13 +600,6 @@
     "start": "2019-09-11",
     "description": "<p>Faculty believes there are three laws of AI that we need today: Explainability, fairness and robustness.<br/>For many real-world applications of AI it is essential that predictions can be explained. This talk, delivered by Data Scientist and researcher Markus Kunesch, will offer explanations into de-mystifying the decisions of black box models. He will discuss why these ‘explanations’ are important, and how they can be achieved.<\/p> <p>Explainability is definitely not a “solved” problem and there is a lot of ongoing research. Throughout the talk Markus will point out problems of current explainability methods when applied to real-world problems.<\/p> <p>This talk will cover:<\/p> <p>Why explanations are important: for decisions that significantly affect people’s lives, being able to explain model predictions is an important part of AI safety. However, in practice the need for explainability goes far beyond this legal and ethical “right to an explanation”. Markus will summarise some of the reasons (including the less commonly discussed and less intuitive ones) and give real life examples.<\/p> <p>What an explanation is: this seemingly simple question is crucial but doesn’t have a precise answer. Markus will show what types of explanations are currently possible and in which cases they are or are not helpful.<\/p> <p>How explainability can be achieved: Markus will summarise the state of the art for explaining predictions, together with their advantages and disadvantages.<\/p> <p>The two most popular ways of explaining predictions of arbitrary black box models, LIME and SHAP. Markus will explain both these methods in detail and show how they work in practical examples.<\/p> <p>No AI/coding experience necessary for this talk, however it will be beneficial for data scientists who want to use explainability methods.<\/p> <p>Event Timings:<\/p> <p>18:00 Event opens<\/p> <p>18:30 Talk starts<\/p> <p>19:30 Networking, beer and pizza<\/p> <p>20:30 Event close<\/p> <p>The Faculty Research Lab, in collaboration with top universities, explores the frontier of AI through the publication of research papers and the development of novel technology. We consider our research efforts in terms of two categories: improving the safety of machine learning algorithms (AI Safety) and advancing their capabilities (ML Research).<\/p> ",
     "url": "https://www.meetup.com/data-science-lab/events/264188214/"
-  },
-  {
-    "title": "Data Science Dojo – Seattle: Experiment Management for Machine Learning",
-    "group": "Data Science Dojo – Seattle",
-    "start": "2019-08-28",
-    "description": "<p>Details:<br/>An average data scientist (ML Practitioner, AI expert) spends a significant amount of time designing and running experiments (and waiting for them to complete)<\/p> <p>This involves one or many of the following:<\/p> <p>- trying out various training algorithms<br/>- doing some feature engineering<br/>- changing preprocessing steps to get more homogeneous data<br/>- trying out different types of hyperparameters<br/>- testing data with different datasets<\/p> <p>There is a lot that is involved with creating and running experiments, but the only thing that we seem to be equipped to keep track of is the source code of the best performing experiments, and none of the other configuration parameters that actually constitute an experiment.<\/p> <p>Because of this, it is quite frequently that we hear phrases like:<\/p> <p>“It was working yesterday” - highlighting the commonality in reproducibility of experiment “I don’t remember what the actual scores are, but using feature X didn’t help” - documentation issue “I fixed a bug, but I ran so many previous experiments with that bug”<br/>- code dependency issue<br/>“I am using the same parameters as experiment 4, why is it not working” - reproducibility and documentation issue<\/p> <p>In this talk I will go through the typical process that ML practitioners and data scientists follow, taking python and scikit-learn as a use case, and the recurring issues that we are starting to see with these processes.<\/p> <p>I will describe the best practices to follow to help document experiments to help reproducibility, and tools and startups that are working on this space to fix the gaping issues that we have for experiment management.<\/p> <p>Presenter Bio:<br/>Dr. Rutu Mulkar is the founder of Hunchera, and previously the founder of Ticary Solutions (acquired by Sigmoidal). She received her Ph.D. in Natural Language Processing from USC and has contributed to IBM's Watson system that defeated humans in Jeopardy!<\/p> <p>She is interested in solving problems related to Natural Language Processing, specifically - Topic Modeling, Recommender Systems, Information Extraction, Semantics, and Search to name a few, and to apply them to various domains such as SEO and healthcare.<\/p> <p>Agenda:<br/>6:00-6:30: Socialize<br/>6:30-7:45: Follow along with the presentation<br/>7:45-8:00 Questions<\/p> ",
-    "url": "https://www.meetup.com/data-science-dojo/events/263784296/"
   },
   {
     "title": "Data Science for Non-Profits: Data Science for Non-Profits - Workshop Wednesdays",
@@ -679,13 +707,6 @@
     "url": "https://www.meetup.com/Dubai-Data-Science-Meetup/events/263845673/"
   },
   {
-    "title": "San Antonio Women in Machine Learning & Data Science: Women in AI Panel",
-    "group": "San Antonio Women in Machine Learning & Data Science",
-    "start": "2019-08-28",
-    "description": "<p>Please join us for an exciting panel discussion with top leading Women in AI from academia &amp; industry. The panelist will address the following issues and topics:<\/p> <p>• What’s like to be a woman in AI?<br/>• Why AI needs more women?<br/>• How to access Venture Capital Funds?<br/>• Challenges for women working in AI &amp; how to overcome them?<br/>• Advice on career progression<br/>• How to get started?<\/p> <p>This is a great opportunity to network and get answers to your questions from the experts! This event is open to anyone keen to support technical women in the field.<\/p> <p>Panelists:<\/p> <p>Suja Kamma: Co-founder @Funnel AI<br/>Dr. Yu Zhang: Professor &amp; Chair @Trinity University<br/>Dr. Nicole Beebe: Professor &amp; Chair @UTSA<br/>Dr. Sylvia Qi: Senior Data Scientist @USAA<br/>Dr. Amanda Heiderman: Senior Data Scientist @Dell<br/>Cat Dizon: Co-founder &amp; COO @ Active Capital<\/p> <p>Amy Daali: CEO &amp; Founder @Lucea AI (Moderator)<\/p> <p>Schedule:<\/p> <p>6:00-6:30: Food + Networking<br/>6:30-7:15: Panel Discussion<br/>7:15-7:30: Q&amp;A<\/p> ",
-    "url": "https://www.meetup.com/San-Antonio-Women-in-Machine-Learning-and-Data-Science/events/263632672/"
-  },
-  {
     "title": "San Antonio Women in Machine Learning & Data Science: Networking Dinner with Dr. Ruthie Lyle: Trailblazer,Master Inventor and Engineer",
     "group": "San Antonio Women in Machine Learning & Data Science",
     "start": "2019-09-23",
@@ -698,13 +719,6 @@
     "start": "2019-09-25",
     "description": "<p>If you want to learn top statistics mistakes made by data scientists and want to become a better statistician, then this talk is for you! Please join us as Rinu Fasehun, Senior Data Scientist at USAA, gives a talk on “Why Data Science cannot ignore Statistics”.<\/p> <p>Statistics is the science of data and statistical methods are a key part of data science, yet a lot of data scientists’ misconceptions regarding statistics involve coding algorithms without learning the prerequisites. With the rise of big data, citizen data scientists, and tools allowing for easy implementation of powerful machine learning algorithms, it’s worth asking if statistical concerns are being overlooked. Using examples, I will discuss how statistics and statistical methods play a key role in data science. I will illustrate the most common types of statistical mistakes in the data science process that people in the field tend to make.<\/p> <p> Bias/ Sampling<br/> Exploratory data analysis<br/> Feature engineering<br/> Simpson’s Paradox<br/> Coding algorithms without knowing what goes on under the hood<\/p> <p>Prior to joining USAA as a senior data scientist, Rinu worked as an Analytic Consultant in the Life and Health Services industry where she was responsible for developing statistical models for health outcomes, call center optimization techniques and disease management program evaluations.<br/>Rinu holds a Bachelor of Science degree in Mathematics and Statistics and a Masters of Science degree in Computer Science from the University of Lagos, Nigeria and a Masters degree in Statistics from Columbia University New York.<\/p> <p>This event will also be YouTube streamed at: <a href=\"https://youtu.be/1G0D2WBnVaw\" class=\"embedded\">https://youtu.be/1G0D2WBnVaw<\/a><\/p> ",
     "url": "https://www.meetup.com/San-Antonio-Women-in-Machine-Learning-and-Data-Science/events/264781317/"
-  },
-  {
-    "title": "Data Science Łódź:  DSŁ-16 Quantum-assisted machine learning",
-    "group": "Data Science Łódź",
-    "start": "2019-08-28",
-    "description": "<p>Szanowni Państwo,<\/p> <p>tym razem trzeba zarezerwować więcej czasu, ale myślę że warto - Maciej Adamiak nie tylko opowie ale i zademonstruje kilka rozwiązań oferowanych przez komputery kwantowe w obszarze Data Science/ML:<\/p> <p>Undoubtedly information processing is undergoing rapid an profound changes. Various data sources are more accessible than ever. The volume has dramatically increased. Not only we have tools to gather data but also to distribute and analyse it. We are trying to answer complex and previously inaccessible questions. Among multiple developing disciplines a careful attention should be paid to quantum computing.<br/>Quantum computing is exceptionally interesting for machine learning. Not only it changes the way we perceive our data but also introduces an interesting set of tools that support machine learning routines.<br/>During this meetup we will talk about quantum states, quantum circuits quantum algorithms and finally, how to use them in machine learning.<\/p> ",
-    "url": "https://www.meetup.com/data-science-lodz/events/263759745/"
   },
   {
     "title": "Silicon Valley Data Science Predictive Analytics Meetup: $150!! Python for Data Science Training with AI/ML and Data Eng Sept7-8 2019",
@@ -770,6 +784,13 @@
     "url": "https://www.meetup.com/Advanced-Analytics-and-Research-Lab/events/264216037/"
   },
   {
+    "title": "Advanced Analytics and Research Lab: Fundamentals of Data Science and Analytics",
+    "group": "Advanced Analytics and Research Lab",
+    "start": "2019-09-26",
+    "description": "<p>Advanced Analytics and Research Lab presents \"Fundamentals of Data Science and Analytics\".<\/p> <p>Purchase your tickets here (<a href=\"https://www.eventbrite.ca/e/fundamentals-of-data-science-and-analytics-tickets-71680812239\" class=\"linkified\">https://www.eventbrite.ca/e/fundamentals-of-data-science-and-analytics-tickets-71680812239<\/a>).<\/p> <p>Summary of this workshop:<\/p> <p>A 1.5-hour \"all practical for real life\" workshop on data science with an introduction to critical concepts in types of analytics, types of data, use cases in the business world. The workshop will end on a high note with a mini-lecture on Machine Learning and Artificial Intelligence.<\/p> <p>A quick video on how and why analytics is important for performance, decision making and learning in organizations.<br/><a href=\"https://youtu.be/C59kI3Na340\" class=\"embedded\">https://youtu.be/C59kI3Na340<\/a><\/p> <p>Audience:<\/p> <p>This is ideal for people who have a basic understanding of math and a strong willingness to learn and practice!<\/p> <p>Goal:<br/>You will finish the workshop with the fundamental knowledge of what people mean when they say analytics, business intelligence, and machine learning. You would have learned about the methodology at which data science analytics professionals solve problems. As well, gain a high level overview of the types of tools needed to deal with, understand and analyze data.<\/p> <p>You will definitely have fun, meet new people and would have learned many new things about the exciting world of Analytics!<\/p> <p>Testimonials from past attendees:<\/p> <p>“I had the best time!”<br/>“Love the combination of lecture and hands-on learning.”<br/>“I enjoyed how everyone there was eager to learn which made the conversation much more interesting and engaging. The R portion was well planned for people of all different levels.”<br/>“I liked how the instructor took the time to engage with every one of the attendees and make them feel a part of the whole experience. It is very evident that the instructor is very passionate about what he does”<\/p> <p>Breakdown of Schedule:<br/>Introduction to analytics, what is it and why businesses use it<br/>Types of analytics and how it applies to businesses<br/>Types of data<br/>Machine Learning mini-lecture<\/p> <p>About the instructor:<\/p> <p>Eric is the Founder and CEO of Advanced Analytics and Research Lab and lectures at the MSc Analytics at Ivey Business School. He has an undergraduate degree in HBA from Ivey Business School, a Honors Specialization in Economics from Western University and a Masters of Science in Analytics from Ivey Business School. He worked in various capacities in consulting, business development, finance, and academia and has experiences teaching professionals, undergraduate and masters level students in fun, engaging and practical ways.<\/p> <p>He's also a totally fun and friendly individual who loves to learn about everything in the world. Also an avid coffee drinker, and volunteer.<\/p> <p>Check out our website for other events and more at www.aaarl.ca!<\/p> ",
+    "url": "https://www.meetup.com/Advanced-Analytics-and-Research-Lab/events/264592218/"
+  },
+  {
     "title": "Eventos MBIT SCHOOL: Big Data para la Estrategia Relacional del Cliente en retail",
     "group": "Eventos MBIT SCHOOL",
     "start": "2019-09-12",
@@ -777,18 +798,18 @@
     "url": "https://www.meetup.com/mbitschool/events/264611589/"
   },
   {
+    "title": "Eventos MBIT SCHOOL: Ciencia de Datos Aplicada al Marketing Político",
+    "group": "Eventos MBIT SCHOOL",
+    "start": "2019-09-26",
+    "description": "<p>En este evento veremos de la mano de Kenedy Alva, el concepto de análisis de sentimientos y clasificación de la polaridad de los políticos influencers, considerando los datos que nos proporcione la API de Twitter.<\/p> <p>Kenedy Alva, Data Scientist en ViewNext-IMB nos mostrará el uso del enfoque semántico y enfoque computacional para clasificar los sentimientos positivos y negativos.<\/p> <p>INSCRÍBETE: <a href=\"http://bit.ly/2kQaYfQ\" class=\"linkified\">http://bit.ly/2kQaYfQ<\/a><\/p> <p>¡Te esperamos!<\/p> ",
+    "url": "https://www.meetup.com/mbitschool/events/265090136/"
+  },
+  {
     "title": "DataChangers - Open Your World With Data & AI: Global AI Night at Microsoft NL (Hosted by the Global AI Community)",
     "group": "DataChangers - Open Your World With Data & AI",
     "start": "2019-09-05",
     "description": "<p>We are very much looking forward to the second Global AI Night and have crafted a well divers program for the evening.<\/p> <p>======== ATTENTION ========<br/>In order to attend the event you have to register through:<br/><a href=\"https://www.eventbird.nl/p/gainams2019\" class=\"linkified\">https://www.eventbird.nl/p/gainams2019<\/a><br/>======== ======== ========<\/p> <p>Detailed program available on:<br/><a href=\"https://global.ainights.com/bootcamp/a58d62ea-f95f-4dae-a66d-43790f681cfa\" class=\"linkified\">https://global.ainights.com/bootcamp/a58d62ea-f95f-4dae-a66d-43790f681cfa<\/a><\/p> <p>=== Quick - Program ===<\/p> <p>17:30 - 18:30 - Walk-In / Diner<br/>18:30 - 19:00 - Opening &amp; keynote<\/p> <p>-- Track 1 --<br/>19:00 - 19:25 - Session 1 - \"What's that fish?\" - species recognition using the Custom Vision api<br/>19:30 - 19:55 - Session 2 - Securing the web with AI<br/>19:55 - 20:15 - Short break<br/>20:15 - 20:40 - Session 3 - Privacy &amp; Computer Vision: Automated Video Anonymization through 3D Scene Reconstruction<br/>20:45 - 21:10 - Session 4 - MLOps in action<\/p> <p>-- Track 2 --<br/>19:00 - 20:00 - Workshop part 1<br/>20:15 - 21:15 - Workshop part 2<\/p> <p>21:50 - 22:00 - Drinks and chats.<\/p> ",
     "url": "https://www.meetup.com/datachangers/events/263932944/"
-  },
-  {
-    "title": "Melbourne ML/AI Bookclub: ML/AI Bookclub - Reinforcement Learning",
-    "group": "Melbourne ML/AI Bookclub",
-    "start": "2019-08-28",
-    "description": "<p>Which way will pendulum swing? We will check how much torque needs to be applied to swing pendulum using PPO (Proximal Policy Optimization)<\/p> <p>After practical demonstration will continue to go through Soft Actor Critic (SAC) papers:<\/p> <p><a href=\"https://arxiv.org/pdf/1801.01290.pdf\" class=\"linkified\">https://arxiv.org/pdf/1801.01290.pdf<\/a><\/p> <p>and OpenAI’s documentation of this algorithm:<\/p> <p><a href=\"https://spinningup.openai.com/en/latest/algorithms/sac.html\" class=\"linkified\">https://spinningup.openai.com/en/latest/algorithms/sac.html<\/a><\/p> <p>Join us live or on the web and help us ask and answer questions to get the most out of our topic!<\/p> <p>We stream most of our sessions interactively on the Eliiza youtube channel:<\/p> <p><a href=\"https://www.youtube.com/channel/UCwEG0qniFKXkyS9W9XYPc_A\" class=\"embedded\">https://www.youtube.com/channel/UCwEG0qniFKXkyS9W9XYPc_A<\/a><\/p> <p>We're looking at reinforcement learning using the Sutton &amp; Barto textbook, which is freely available at <a href=\"http://incompleteideas.net/book/the-book-2nd.html\" class=\"linkified\">http://incompleteideas.net/book/the-book-2nd.html<\/a><\/p> <p>The book is pretty theoretical (cynics might even call it \"dry\" ;) ), so instead of forcing ourselves through pages of abstract theory, we'll do some actual reinforcement learning first and then use the book as a reference to understand the general principles underlying what we did.<br/>With the chapters as a guide, we'll pick an exercise or workshop from the web and watch, discuss and implement something worthwhile.<\/p> <p>We're not aiming for a lecture - the idea is to discuss the elements and ideas that were hard to grasp with the help of peers. By questioning and explaining we deepen the understanding of the topic.<\/p> <p>If you have any further questions or suggestions, shoot me a message :)<\/p> <p>Image credit: Mantel's own Jeremy Duff for an amazing design!<\/p> ",
-    "url": "https://www.meetup.com/Melbourne-ML-AI-Bookclub/events/vllddryzlblc/"
   },
   {
     "title": "Melbourne ML/AI Bookclub: ML/AI Bookclub - Reinforcement Learning",
@@ -833,6 +854,13 @@
     "url": "https://www.meetup.com/barcelona-data-science-machine-learning/events/264716249/"
   },
   {
+    "title": "Barcelona R User Group: Barcelona R User Group meetup",
+    "group": "Barcelona R User Group",
+    "start": "2019-09-26",
+    "description": "<p>Hello everyone, we are happy to announce that we have a new meetup planned!<\/p> <p>There will be two presentations:<br/>1) Understanding Behavioural Data With PCA In R by Rubén Guerrero Ramírez<br/>2) Moving Projects Into Production by Chris Collins<\/p> <p>We are also working on having a 45min workshop.<\/p> <p>For more information please visit our website: <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a><\/p> <p>Please note that due to space restrictions we have allowed a limited number of spaces.<\/p> <p>See you soon!<\/p> ",
+    "url": "https://www.meetup.com/BarcelonaR/events/264905449/"
+  },
+  {
     "title": "Data Viz Jam Sessions - MTL: Data Viz - Work Session 📉 💻 📚",
     "group": "Data Viz Jam Sessions - MTL",
     "start": "2019-09-14",
@@ -852,6 +880,13 @@
     "start": "2019-08-29",
     "description": "<p>Abstract:<br/>For forecasts to be trusted, it is crucial to explain how we produce them. This creates a barrier to wider use of deep learning approaches to time series. In this presentation we will, with examples:<br/>• explore the benefits and limitations of AI in forecasting<br/>• demonstrate how to combine them with state-of-the-art time series analytics<br/>• explore some of the business cases that suggest when and how to incorporate AI into forecasting<\/p> <p>Bio:<br/>Leo has over 20 years of Advanced Analytics consulting experience across four continents and multiple industries. He currently leads FICO's Data Science initiatives in Asia Pacific. Previous careers in academia and R&amp;D have produced three patents in Analytics and High Performance Computing and over a dozen papers in Optimization and Machine Learning.<\/p> ",
     "url": "https://www.meetup.com/Citizen/events/263450359/"
+  },
+  {
+    "title": "Citizen Data Scientists - Melbourne: Timeseries Forecasting - A live demo",
+    "group": "Citizen Data Scientists - Melbourne",
+    "start": "2019-09-26",
+    "description": "<p>Slava Razbash presents a live demo of forecasting transaction revenue.<br/>Key takeaways for aspiring data scientists:<br/>1. How to forecast real sales data, even in the presence of funky errors.<br/>2. In which cases is it possible to create a sensible forecast with a timeseries forecasting?<br/>Key takeaways at the management level:<br/>1. Understanding what you can do with your organisation's data<br/>2. How to verify the work of your forecasting team.<\/p> <p>Add-Ons:<br/>You may also be interested in the Enterprise Data Science Architecture Conference:<br/>Ticket sales for the Enterprise Data Science Architecture Conference are open! We are a unique conference that focuses on how to properly deploy data science solutions at scale. We have confirmed speakers from Microsoft, Coles Group, ANZ Bank and Growing Data. More speakers will be announced as we get closer to the date of the event. Purchase tickets at <a href=\"https://edsaconf.io\" class=\"linkified\">https://edsaconf.io<\/a><\/p> <p>Enterprise scale brings its own challenges and solutions. Automation, resilience, scalability and the appropriateness of the data science techniques used have significant impact on profit and loss. The presentations at our conference will show you how enterprises are doing it right.<\/p> <p>Purchase early bird tickets while they are still available. Early bird tickets are limited in quantity. Reserve your place at <a href=\"https://edsaconf.io\" class=\"linkified\">https://edsaconf.io<\/a><\/p> ",
+    "url": "https://www.meetup.com/Citizen/events/265084738/"
   },
   {
     "title": "LAN Connect@AI - Leverage AWS Now: Data Competitions: Hands On Machine Learning",
@@ -889,6 +924,13 @@
     "url": "https://www.meetup.com/rladies-buenos-aires/events/264481641/"
   },
   {
+    "title": "Birmingham R User Group (R Programming Language): September BirminghamR Meetup",
+    "group": "Birmingham R User Group (R Programming Language)",
+    "start": "2019-09-26",
+    "description": "<p>For our September meetup we will have two talks by Hayley Tumas (University of Oxford) and David Selby (University of Warwick).<\/p> <p>This time we will be at the University of Birmingham campus (directions below), doors open at 17:30 and presentations will start at 18:00. Food and drinks afterwards.<\/p> <p>Presentations<\/p> <p>1) Hayley Tumas - Genetics the “R”ight way<br/>Decades of habitat destruction, increasing species extinction rate, and climate change have motivated ecosystem restoration efforts on a global scale. Genetic diversity is key for creating healthy and resilient populations, meaning genetic analyses are critical for informing effective ecosystem restoration. The size of genetic data, especially with recent advances, and complexity of analyses requires specialized software. In the past, analyses have required multiple software programs with different user interfaces and data formats. R has not only made genetic analyses more streamlined and straight forward, but has also increased reproducibility and provided the opportunity for more innovative approaches. From data management to data visualization and publication, R is the future for genetic analysis in conservation sciences and across other disciplines.<\/p> <p>2) David Selby - Modelling research funding with R<\/p> <p>The location of the meetup is room MUIR-112, Muirhead Tower, University of Birmingham campus (B15 2TN). The building is just off Pritchatts Road, which is a short walk from the train station (called University) or bus stop (busses X20/21/22, stop University North Gate). If you're coming by car the nearest car park is the UoB North East car park.<\/p> ",
+    "url": "https://www.meetup.com/BirminghamR/events/264747490/"
+  },
+  {
     "title": "Greater Nashville Healthcare Analytics: Dr. Kirk Borne Fireside Chat on State of Data Science in Nashville",
     "group": "Greater Nashville Healthcare Analytics",
     "start": "2019-09-25",
@@ -910,6 +952,13 @@
     "url": "https://www.meetup.com/rladies-chicago/events/264595913/"
   },
   {
+    "title": "R-Ladies Chicago: September Double Header: Connecting R/RMarkdown & Microsoft Word using StatTag",
+    "group": "R-Ladies Chicago",
+    "start": "2019-09-26",
+    "description": "<p>**Note: This is one of two events happening this month for our Northside-Southside double header, one in Hyde Park on 9/24, and another in Evanston on 9/26. Choose one or attend both!**<\/p> <p>Dr. Leah Welty will present: \"Collaborative Reproducibility: Connecting R/R Markdown and Microsoft Word using StatTag\"<\/p> <p>Although R Markdown can render documents to Microsoft Word, R/R Markdown users must sometimes transcribe statistical content in to separate Microsoft Word documents (e.g., documents drafted by colleagues in Word, or documents that must be prepared in Word), a process that is error prone, irreproducible, and inefficient. We will present StatTag (www.stattag.org), an open source, free, and user-friendly program we developed to address this problem. StatTag establishes a bi-directional link between R/RMarkdown files and a Word document, and supports a reproducible pipeline even when: (1) statistical results must be included and updated in Word documents that were never generated from Markdown; and (2) text in Word files generated from R/RMarkdown has departed substantially from original Markdown content, for example through tracked changes or comments. We will demonstrate how to use StatTag to connect R/RMarkdown and Word files so that all files can be edited separately, but statistical content –values, tables, figures, and verbatim output– can be updated automatically in Word. Using practical examples, we will also illustrate how to use StatTag to view, edit, and rerun R/RMarkdown code directly from Word. The talk will also include an overview of reproducible research in the collaborative research.<\/p> <p>About the Speaker<br/>Leah J. Welty, PhD is Professor in the Division of Biostatistics, Department of Preventive Medicine and in the Department of Psychiatry and Behavioral Sciences, Northwestern University Feinberg School of Medicine, and is the Director of the Biostatistics Collaboration Center within the Northwestern University Clinical and Translational Sciences Institute. She is also the Immediate Past President of the Association of Clinical and Translational Statisticians. She earned her PhD in statistics from the University of Chicago, and completed a postdoctoral fellowship in the Department of Biostatistics at Johns Hopkins University Bloomberg School of Public Health. Her research interests include longitudinal and multilevel models, psychiatric epidemiology, and the development of reproducible research tools for clinical and translational science. She is the lead biostatistician for the Northwestern Juvenile Project, a large-scale longitudinal study of psychiatric disorders and risky behaviors in delinquent youth. She has led the development of StatTag, a free, open-source program to support reproducible research in clinical and translational science.<\/p> <p>Schedule<br/>4:30-5pm - Food, Intros &amp; Announcements<br/>5-6pm - StatTag<br/>6-6:30pm - Socializing/Networking<\/p> <p>**This event is child-friendly!<br/>We realize this is an earlier start time than our normal events and strive to make it accessible to all. Any parents are welcome to bring their children. There will be a child-friendly activity at this event. Please email [masked] if you have any questions.<\/p> <p>Q: Are men welcome to attend this event?<br/>A: Our primary mission is to encourage more women &amp; non-binary individuals to get involved in the R community. **As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact [masked] if you have questions.**<\/p> <p>Additionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.<\/p> <p>• Important to know<br/>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-chicago/events/264617746/"
+  },
+  {
     "title": "R-Ladies Adelaide: Introduction to R",
     "group": "R-Ladies Adelaide",
     "start": "2019-09-12",
@@ -922,6 +971,13 @@
     "start": "2019-09-19",
     "description": "<p>Join us on Thursday mornings to work on our individual programming projects over coffee. Let's motivate each other to keep to our coding goals! The first Keep Calm and Code will be on the morning of the 19th of September.<\/p> <p>All genders welcome. At least one RLadies Adelaide organiser will be there - drop in for half an hour to try a new package, or stay for two hours and work through an online course.<\/p> <p>This is not a workshop - the RLadies organisers will be working on their own projects and are not there in a teaching capacity. They are there as your community, to support and motivate you whilst they work on their own coding goals!<\/p> <p>We'll be in the communal desk space on the ground floor of the Adelaide Health and Medical Sciences building (no scan pass required), next to Bean Bar. Grab yourself a coffee and come and find us!<\/p> <p>Eduroam wifi will be accessible. If you are not a part of the eduroam network, you will need to hotspot in order to access the internet.<\/p> ",
     "url": "https://www.meetup.com/rladies-adelaide/events/pmcnhryzmbzb/"
+  },
+  {
+    "title": "R-Ladies Adelaide: Keep Calm and Code",
+    "group": "R-Ladies Adelaide",
+    "start": "2019-09-26",
+    "description": "<p>Join us on Thursday mornings to work on our individual programming projects over coffee. Let's motivate each other to keep to our coding goals! The first Keep Calm and Code will be on the morning of the 19th of September.<\/p> <p>All genders welcome. At least one RLadies Adelaide organiser will be there - drop in for half an hour to try a new package, or stay for two hours and work through an online course.<\/p> <p>This is not a workshop - the RLadies organisers will be working on their own projects and are not there in a teaching capacity. They are there as your community, to support and motivate you whilst they work on their own coding goals!<\/p> <p>We'll be in the communal desk space on the ground floor of the Adelaide Health and Medical Sciences building (no scan pass required), next to Bean Bar. Grab yourself a coffee and come and find us!<\/p> <p>Eduroam wifi will be accessible. If you are not a part of the eduroam network, you will need to hotspot in order to access the internet.<\/p> ",
+    "url": "https://www.meetup.com/rladies-adelaide/events/pmcnhryzmbjc/"
   },
   {
     "title": "Statistical Society of Australia, Victorian Branch: Young Statisticians Showcase 2019",
@@ -980,13 +1036,6 @@
     "url": "https://www.meetup.com/rladies-philly/events/264928726/"
   },
   {
-    "title": "R-Ladies Sydney: Gold star reproducibility with Saras Windecker",
-    "group": "R-Ladies Sydney",
-    "start": "2019-08-28",
-    "description": "<p>Research using R underpins a wide array of applied decision-making. Growing recognition of irreproducibility of results produced using R raises concerns about the credibility of research and the reliability of decisions they inform.<\/p> <p>Although there are many aspects to reproducible research, one major problem is the basic lack of computational reproducibility of published work – or the ability to rerun an analysis and reproduce the same results. There are many strategies for improving computational reproducibility, such as clear code structure, functional programming, and version control. Besides these tactics, however, we often find that analyses that reproduce on one machine or in one environment do not run in another, or do not run in the future. This problem is related to changing computing environments and software versions, and can be addressed using containerisation.<\/p> <p>In this talk, Saras will introduce containerisation and its implementation using an open-access R package. This introduction should be accessible to those who have never heard of or used containerisation before, as well as those who already actively use services such as Docker for containerisation.<\/p> <p>Saras Windecker is an ecologist and postdoctoral fellow with the Quantitative and Applied Ecology Group at the University of Melbourne. Check out her work on github at <a href=\"https://github.com/smwindecker\" class=\"linkified\">https://github.com/smwindecker<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-sydney/events/262527903/"
-  },
-  {
     "title": "R-Ladies Sydney: Learn to Pivot with Little Miss Tidyverse ",
     "group": "R-Ladies Sydney",
     "start": "2019-09-10",
@@ -1022,6 +1071,13 @@
     "url": "https://www.meetup.com/rladies-charlottesville/events/263807287/"
   },
   {
+    "title": "R-Ladies Charlottesville: RLadies Cville turns 2! ",
+    "group": "R-Ladies Charlottesville",
+    "start": "2019-09-26",
+    "description": "<p>Two years and over 150 members - let's celebrate! All are welcome to join us for drinks and snacks at Kardinal Hall.<\/p> <p>Baked goods encouraged. :)<\/p> <p>Image from @oleolesko<\/p> ",
+    "url": "https://www.meetup.com/rladies-charlottesville/events/264555395/"
+  },
+  {
     "title": "R-Ladies Christchurch: Reading and wrangling data in the Tidyverse",
     "group": "R-Ladies Christchurch",
     "start": "2019-09-03",
@@ -1034,13 +1090,6 @@
     "start": "2019-09-10",
     "description": "<p>WHERE: E13 in Engineering Core on UC's Ilam campus<\/p> <p>This hands-on, group work session allows you to practice the techniques you learnt on Sept 3, in Rogini &amp; Michelle's 'Reading and wrangling data in the Tidyverse' session.<\/p> ",
     "url": "https://www.meetup.com/rladies-christchurch/events/263770606/"
-  },
-  {
-    "title": "Diagnostics World Network of Researchers: End-to-End Application of UltiMapper Kits for Multiplexed Immuno-Profiling",
-    "group": "Diagnostics World Network of Researchers",
-    "start": "2019-08-28",
-    "description": "<p>Hi All! We are hosting another webinar that I believe would be very beneficial to our group. I have included the information below. Let me know if you have any questions.<\/p> <p>Title: From Staining to Analysis: End-to-End Application of UltiMapper Kits for Multiplexed Immuno-Profiling<br/>Register: <a href=\"http://www.bio-itworld.com/ultivue/from-staining-to-analysis/\" class=\"linkified\">http://www.bio-itworld.com/ultivue/from-staining-to-analysis/<\/a><\/p> <p>Webinar Description:<br/>Conventional immunohistochemistry (IHC) methods only provide insight into a limited number of markers of interest. With high spatial heterogeneity and biological complexity, resected tumor samples present a significant characterization challenge, particularly when samples are scarce. Multiplexing in a single, intact tissue sample is required to identify cell types, understand biological pathways, and map cellular interactions.<\/p> <p>The past decade has seen the introduction of multiplexed immunofluorescence to establish the spatial relationships between various immune cells in tumor biology, in context. Histopathologists not only need to detect these multiple cell populations identified by specific protein markers, but also need to determine how they interact spatially, through a complex array of signaling markers. From upstream discovery, down to translational and clinical implementation, this multiplexing in situ need translates into high single-digit, even double-digit numbers of protein markers, to be imaged on single biopsy sections. Addressing this need, especially acute in immuno-oncology, Ultivue provides significant benefits of shorter panel validation, whole slide imaging at higher throughput without requiring dedicated instrumentation.<\/p> <p>Ultivue has developed a fully optimized, automated staining protocol on the Leica BOND RX platform. Such walkaway automation enables the staining of up to 30 slides per 4 to 5 hour run, with high reproducibility run-to-run and exceptional operator-to-operator consistency. Using our predefined UltiMapperTM I/O 5-plex kits on the BOND RX for research use only, Discovery, Translational and Clinical Research labs can implement easy and convenient multiplexed staining. Avoiding any linear unmixing after image acquisition, the UltiMapper I/O whole slide images are directly analyzed using the IndicaLabs HALO software, to derive cell counts, marker co-localization and proximity data. HALO therefore provides the analytical tools to tap into convoluted biomarker signatures and answer complex biological questions posed by the tumor micro-environment.<\/p> <p>Learning Objectives<\/p> <p>Benefits of the Ultivue technology and value proposition of the UltiMapper I/O kits<br/>UltiMapper I/O automated workflow on the Leica BOND RX<br/>Downstream image analysis using IndicaLabs’ HALO<\/p> <p>Register for this free informative webinar: <a href=\"http://www.bio-itworld.com/ultivue/from-staining-to-analysis/\" class=\"linkified\">http://www.bio-itworld.com/ultivue/from-staining-to-analysis/<\/a><\/p> ",
-    "url": "https://www.meetup.com/diagnostics_world/events/kdfsxpyzlblc/"
   },
   {
     "title": "Diagnostics World Network of Researchers: End-to-End Application of UltiMapper Kits for Multiplexed Immuno-Profiling",
@@ -1106,6 +1155,13 @@
     "url": "https://www.meetup.com/rladies-perth/events/264357671/"
   },
   {
+    "title": "R-Ladies Edinburgh: Introduction to Bayesian Statistical Modelling using brms",
+    "group": "R-Ladies Edinburgh",
+    "start": "2019-09-26",
+    "description": "<p>We are super pleased to invite you to our workshop \"Introduction to Bayesian Statistical Modelling using brms\". In this two-day workshop, we will learn some basics about Bayesian statistics, with a focus on using a Bayesian approach to statistical modelling. We will use brms package by Paul Bürkner, which uses Stan.<\/p> <p>On the first day, we will have an intro to Bayesian statistics and statistical modelling. We will be introduced to brms using simple variants of the general linear model, and multi-level models, with a normal response distribution.<\/p> <p>On the second day, we will take a look at the binomial and Poisson distribution for count data, and learn when we should used them and how to do so using brms.<\/p> <p>The workshop will have small lectures and some practical exercises so the participants can fit their own models with brms.<\/p> <p>This workshop will be facilitated by Marie Beisemann. She's about to start her Phd in Statistics at the Technical University of Dortmund, Germany, right after finishing he Master's degree in psychology at the University of Münster. She's (really) passionate about sharing her knowledge about brms and Bayes with us, and we're super excited to have her here!<\/p> <p>P. S., if you will attend this workshop, we really need you to install brms beforehand.<\/p> ",
+    "url": "https://www.meetup.com/rladies-edinburgh/events/264430787/"
+  },
+  {
     "title": "R-Ladies Belgrade: R u analitici semantičkog veba: slučaj Wikidata; Izlagač: Dr G. S. Milovanović ",
     "group": "R-Ladies Belgrade",
     "start": "2019-09-11",
@@ -1148,6 +1204,13 @@
     "url": "https://www.meetup.com/rladies-kyiv/events/hmjzhryzmbhc/"
   },
   {
+    "title": "R-Ladies Copenhagen: Exploration of Big Data and Machine Learning in Healthcare",
+    "group": "R-Ladies Copenhagen",
+    "start": "2019-09-26",
+    "description": "<p>Feel the cool breeze of Autumn R Ladies. Come and meet us because we have two speakers excited to share their research about the application of Big Data and Machine Learning in their respective field.<\/p> <p>Our first speaker is Joji Teves, a current Ph.D. fellow at the University of Copenhagen – iMED program. As a trained cellular biologist in a computational biology group, Joji is currently exploring big data tools to map out genomic marks of healthy and diseased cell states. Prior to moving to Copenhagen, Joji earned her Master’s at the University of Arizona College of Medicine, USA where she studied Patient-derived biospecimens from Parkinson’s disease patients and studied cellular marks related to cellular autophagy and UV damage in comparison to healthy age-match cohorts. As a “data science” noob, she takes on a different perspective on how data science tools can be applied in biology to study health and diseases.<\/p> <p>Our second speaker is Jhaz Petersen - a data-savvy Marketer who is a Graduate from Copenhagen Business School. She studied the traditional research methodologies but wanted to challenge that with the current technologies available. Therefore, she applies Machine Learning Algorithms in analyzing Big Data to solve Sales and Marketing case problems. She would like to share her original framework on how businesses in every industry can leverage their existing big data to create a business strategy.<\/p> <p>Program:<br/>17:00 - 17:15 Welcome<br/>17:15 - 17:35 Presentation by Joji Marie Teves - \"Exploring Computational<br/>Biology to study Cellular Health and Disease\"<br/>17:35 - 17:45 BREAK<br/>17:45 - 18:05 Presentation by Jhaz Petersen - \"Leveraging Big Data and Machine Learning in Sales &amp; Marketing - Application of Market Basket Analysis, Clustering &amp; 3D Customer Segmentation in R\"<br/>18:05 - 18:30 Closing and Networking<\/p> <p>Coffee and snacks will be served.<\/p> <p>Stay tuned for more details.<\/p> <p>*New info: If you are interested to learn the codes, I can share it after the presentation. Email me at [masked]. Due to time constraints, I will not be able to explain the codes and the steps line by line but you can practice the code on your own time with your own dataset.<\/p> <p>Kind regards,<\/p> <p>R Ladies CPH<\/p> ",
+    "url": "https://www.meetup.com/rladies-copenhagen/events/264775794/"
+  },
+  {
     "title": "R-Ladies Bucharest: Lansare R-Ladies Bucharest Community #1",
     "group": "R-Ladies Bucharest",
     "start": "2019-09-17",
@@ -1155,18 +1218,18 @@
     "url": "https://www.meetup.com/rladies-bucharest/events/264438688/"
   },
   {
-    "title": "R-Ladies Columbus: New advancements to tidyr package: Good riddance Gather and Spread! ",
-    "group": "R-Ladies Columbus",
-    "start": "2019-09-12",
-    "description": "<p>We've had a lot of sessions on the very important steps of tidying data (what some call \"denormalized\" data in database land). Tidy data is essential for all things modeling and visualization. The tidyr package offers several functions for reproducible and fast tidying, but two of the main ones (gather and spread) were a bit tricky to use!<\/p> <p>Join us as we walk through key updates to the tidyr package, namely the new pivot_longer and pivot_wider functions. These functions are designed to be far more user friendly and robust than their old counter parts.<\/p> <p>Please come with a machine that can access rstudio.cloud. Katie will share link to project prior to session.<\/p> <p>Misc update: this meet up will be the first that puts us back on our intended schedule, of the second Thursday of every month.<\/p> <p>As always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.<\/p> <p>Parking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard. See pics below for directions.<\/p> ",
-    "url": "https://www.meetup.com/rladies-columbus/events/264223774/"
-  },
-  {
     "title": "R-Ladies Twin Cities: September Meetup: Version Control (joint with TC Women in Machine Learning & DS)",
     "group": "R-Ladies Twin Cities",
     "start": "2019-09-17",
     "description": "<p>Somya Sharma will teach us how to use git and Github for version control. No prior experience with Github/git required.<\/p> <p>This meeting is joint between R Ladies TC and Minneapolis Women in Machine Learning and Data Science (<a href=\"https://www.meetup.com/minneapolis-wimlds/\" class=\"linkified\">https://www.meetup.com/minneapolis-wimlds/<\/a>).<\/p> ",
     "url": "https://www.meetup.com/rladies-tc/events/264094320/"
+  },
+  {
+    "title": "R-Ladies Columbus: New advancements to tidyr package: Good riddance Gather and Spread! ",
+    "group": "R-Ladies Columbus",
+    "start": "2019-09-12",
+    "description": "<p>We've had a lot of sessions on the very important steps of tidying data (what some call \"denormalized\" data in database land). Tidy data is essential for all things modeling and visualization. The tidyr package offers several functions for reproducible and fast tidying, but two of the main ones (gather and spread) were a bit tricky to use!<\/p> <p>Join us as we walk through key updates to the tidyr package, namely the new pivot_longer and pivot_wider functions. These functions are designed to be far more user friendly and robust than their old counter parts.<\/p> <p>Please come with a machine that can access rstudio.cloud. Katie will share link to project prior to session.<\/p> <p>Misc update: this meet up will be the first that puts us back on our intended schedule, of the second Thursday of every month.<\/p> <p>As always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.<\/p> <p>Parking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard. See pics below for directions.<\/p> ",
+    "url": "https://www.meetup.com/rladies-columbus/events/264223774/"
   },
   {
     "title": "R-Ladies Rotterdam: R-Ladies Social Drinks",
@@ -1218,6 +1281,13 @@
     "url": "https://www.meetup.com/rladies-melbourne/events/264567591/"
   },
   {
+    "title": "R-Ladies Melbourne: Take a Sad Plot & Make It Better",
+    "group": "R-Ladies Melbourne",
+    "start": "2019-09-26",
+    "description": "<p>Hi everyone! Here is the second of our September events!<\/p> <p>For our second event this month, we welcome Alison Hill, who will give a seminar about plots and how to improve them.<\/p> <p>In this talk, Alison will talk about one plot’s life cycle, from a sad Powerpoint slide to an Excel chart and finally to the finished product made with the ggplot2 package in R. Along the way, she will discuss why each version of the plot fails in different ways and how each iteration improved on the last one.<\/p> <p>Alison is a data scientist &amp; professional educator at RStudio, where she works to help people learn and use programming to do better work in less time, with less friction, and (perhaps) more joy. She loves working with data scientists across the spectrum- from beginners to advanced users- and particularly enjoy using software tools to create educational materials that enlighten and engage learners. Topics Alison teaches range from literate programming to machine learning. Her teaching materials have been used by NASA, Pew Research Center, University of Oregon, and now RStudio.<\/p> <p>This event will be hosted by our fantastic sponsor Nous. Pizza and drinks will be supplied for the evening. Arrive any time from 6.15 pm for a 6.30 pm start.<\/p> <p>See you all there!<\/p> <p>R-Ladies Melbourne<\/p> ",
+    "url": "https://www.meetup.com/rladies-melbourne/events/264886404/"
+  },
+  {
     "title": "R-Ladies Montreal: R-Ladies Meeting: DashR by Ryan Kyle ",
     "group": "R-Ladies Montreal",
     "start": "2019-09-19",
@@ -1239,18 +1309,18 @@
     "url": "https://www.meetup.com/rladies-london/events/261815509/"
   },
   {
-    "title": "R para utilizadores Excel Lisboa: Encontro R/Excel  #1",
-    "group": "R para utilizadores Excel Lisboa",
-    "start": "2019-09-19",
-    "description": "<p>Meetup informal e sem agenda, que tem como objectivo a troca de ideias e networking entre a comunidade R/Excel em Portugal.<br/>Os temas que vierem a ser abordados na reunião darão pistas para a programação das actividades de 2020 e inscrição de voluntários para a liderança dessas actividades.<\/p> ",
-    "url": "https://www.meetup.com/R-para-utilizadores-Excel-Lisboa/events/264496850/"
-  },
-  {
     "title": "R-Ladies Freiburg: Thinking about and exploring data in R",
     "group": "R-Ladies Freiburg",
     "start": "2019-09-04",
     "description": "<p>We'll work together to think about and solve different data problems using a variety of tools for data wrangling, transformation and plotting.<\/p> ",
     "url": "https://www.meetup.com/rladies-freiburg/events/264312180/"
+  },
+  {
+    "title": "R para utilizadores Excel Lisboa: Encontro R/Excel  #1",
+    "group": "R para utilizadores Excel Lisboa",
+    "start": "2019-09-19",
+    "description": "<p>Meetup informal e sem agenda, que tem como objectivo a troca de ideias e networking entre a comunidade R/Excel em Portugal.<br/>Os temas que vierem a ser abordados na reunião darão pistas para a programação das actividades de 2020 e inscrição de voluntários para a liderança dessas actividades.<\/p> ",
+    "url": "https://www.meetup.com/R-para-utilizadores-Excel-Lisboa/events/264496850/"
   },
   {
     "title": "R-Ladies Valparaíso: Visualización de datos con ggplot y gganimate",
@@ -1421,6 +1491,20 @@
     "url": "https://www.meetup.com/Datascrum/events/263617806/"
   },
   {
+    "title": "GigBuzz Zürich: GigBuzz #10: Perfect Match ",
+    "group": "GigBuzz Zürich",
+    "start": "2019-09-25",
+    "description": "<p>GigBuzz #10 - Perfect Match!<\/p> <p>No, not a dating show but the latest fresh outing from the FinTech community leaders in Zurich.<\/p> <p>Hear from inspiring CTO’s &amp; Founders about their latest and greatest projects, learn what they are currently working on &amp; what profiles they are looking for to add to their team in order to reach their goals. This is your opportunity to mingle with the brightest FinTech experts in town. Who knows, you may even find your next Gig!!<\/p> <p>We are thrilled to announce the following confirmed companies: additiv, BlockFactory, Integration Alpha, and Pexapark will be joining us on stage in their hunt for the perfect match.<\/p> <p>- Additiv<\/p> <p>The leading provider in the field of digitalization of wealth managers. Additiv empowers financial institutions around the globe to deploy class-leading client advisory, servicing and expert tools in wealth and asset management for the digitalization of new and existing business segments.<\/p> <p>CEO &amp; Founder Michael Stemmle will tell you how he was able to grow the team to over 120 employees and what profiles he is looking for to shape additiv's future.<\/p> <p>- BlockFactory<\/p> <p>With a goal of developing high impact solutions that foster blockchain adoption worldwide, BlockFactory has been at the forefront of the industry since 2012.<\/p> <p>BlockFactory has developed a technology stack that can be reused in a more modular way for many use cases. With the proven technology and their experienced team, they help to build your blockchain projects successfully. CTO Emeka Mosanya will tell you all about it.<\/p> <p>- Integration Alpha<\/p> <p>A Crypto Valley Zug based data science company that uses artificial intelligence to build new disruptive business ecosystems, both on blockchain or traditional data science technologies.<\/p> <p>Their ferris.ai platform empowers clients to embrace new and data-driven business models, Data Science as a Service. Felix Caprez will tell you more about their wide scope of projects.<\/p> <p>- Pexapark<\/p> <p>An award-winning Swiss FinTech that is disrupting the renewables industry by facilitating the PPA (Power Purchase Agreement) process for investors and offering them a turn-key solution for their assets. They have multiple interesting open roles that CTO &amp; Co-founder Florian Muller will try to find the perfect match for.<\/p> <p>Join us if:<\/p> <p>- You want to find out more about the projects these companies are working on<br/>- You are actively or passively looking for a new job at an exciting startup<br/>- You want to meet &amp; interact with key actors in the Fintech scene<br/>- You want all of this while having lots of fun<\/p> <p>Agenda<\/p> <p>6:00 – 6:30 Opening<br/>6:30 – 8:00 CTOs on stage<br/>8:00 – 8:30 Happy Network<\/p> <p>This first edition of Perfect Match will take place at Spaces Bleicherweg, right in the heart of Zurich's financial district.<\/p> <p>See you there!<\/p> ",
+    "url": "https://www.meetup.com/GigBuzz-Zurich/events/264519559/"
+  },
+  {
+    "title": "Boston Dataquest Group: Community Event: WiMLDS and R-Ladies Boston Data Viz Challenge",
+    "group": "Boston Dataquest Group",
+    "start": "2019-09-19",
+    "description": "<p>Join teams and work with local Boston data to create informative visualizations at this community event hosted by R-Ladies Boston and WiMLDS Boston.<\/p> <p>This is a ticketed event with a limited number of spots. PLEASE FOLLOW THE SIGN UP INSTRUCTIONS HERE: <a href=\"https://www.meetup.com/Boston-Women-in-Machine-Learning-and-Data-Science/events/264646073/\" class=\"linkified\">https://www.meetup.com/Boston-Women-in-Machine-Learning-and-Data-Science/events/264646073/<\/a><\/p> ",
+    "url": "https://www.meetup.com/Boston-Dataquest-Group/events/264778198/"
+  },
+  {
     "title": "R-Ladies East Lansing: Data Science Journeys",
     "group": "R-Ladies East Lansing",
     "start": "2019-09-16",
@@ -1433,34 +1517,6 @@
     "start": "2019-09-23",
     "description": "<p>WHO is this for?<br/>- If you are new to R &amp; are short-budgeted on time!<br/>- If you'd like to start working with data in R w/o learning all the programming details first!!<br/>- If you have a neat data set you'd like to explore w/ basic statistics!<br/>- If you are getting started with base R and want to learn more!<\/p> <p>* If any of this is true, this workshop might be for you!<\/p> <p>AGENDA<br/>6:00–6:15 Meet &amp; Greet | 🍕| Set-up<br/>6:15–7:25 Workshop: Intro to R/RStudio<br/>7:25–7:30 Q&amp;A| How to reach us to continue this conversation!<\/p> <p>SETUP INSTRUCTIONS<br/>*This is a hands-on workshop. Please bring your laptop<br/>* Before the Workshop: install R &amp; RStudio OR use RStudio Cloud. See full installation instructions: <a href=\"https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing<\/a><\/p> <p>Having trouble with installation &amp; set-up? Ping us on Slack! Or come 15min early.<\/p> <p>USEFUL RESOURCES<br/>Software Carpentry's Video Tutorial for installing R and R Studio:<br/>* For Windows Users: <a href=\"https://www.youtube.com/watch?v=q0PjTAylwoU\" class=\"embedded\">https://www.youtube.com/watch?v=q0PjTAylwoU<\/a><br/>* For Mac Users: <a href=\"https://www.youtube.com/watch?v=5-ly3kyxwEg\" class=\"embedded\">https://www.youtube.com/watch?v=5-ly3kyxwEg<\/a><\/p> <p>** Questions? Find us on slack: rladies-eastlansing.slack.com OR<br/>** Email us: [masked]<\/p> ",
     "url": "https://www.meetup.com/rladies-eastlansing/events/264340414/"
-  },
-  {
-    "title": "GigBuzz Zürich: GigBuzz #9: Exbeertise",
-    "group": "GigBuzz Zürich",
-    "start": "2019-08-28",
-    "description": "<p>FinTech Giggers,<\/p> <p>Two months ago we introduced you to a whole new networking format, exbeertise. The weather was great, connections were made &amp; the expertise was paid (in kind). Now, let's do it again!<\/p> <p>For those of you who just arrived:<\/p> <p>exbeertise<br/>/ˌɛkspəerːˈtiːz/<\/p> <p>noun<br/>expert skill or knowledge in a particular field paid for with beer.<\/p> <p>How does it work?<\/p> <p>-&gt; Attendees can offer a particular skill or service they possess or provide:<\/p> <p>Some examples of last time<\/p> <p>- A crash course on AI<br/>- Tips and tricks to win a start-up competition<br/>- How to survive the fintech frenzy<br/>- CV or LinkedIn profile review<br/>- A survival kit for agile development methodologies at banks<\/p> <p>-&gt; Giggers will bid for your \"give\", and the currency of trade will be beer!<\/p> <p>Do you feel like getting some beers in return for your expertise? Drop us a note with your offer and we'll make sure to add you to the list.<\/p> <p>Oh and Baris, our great auctioneer, will host the night to make sure all debts are paid and beers are guzzled.<\/p> <p>Location to be announced<\/p> <p>See you there!<\/p> ",
-    "url": "https://www.meetup.com/GigBuzz-Zurich/events/263805060/"
-  },
-  {
-    "title": "GigBuzz Zürich: GigBuzz #10: Perfect Match ",
-    "group": "GigBuzz Zürich",
-    "start": "2019-09-25",
-    "description": "<p>GigBuzz #10 - Perfect Match!<\/p> <p>No, not a dating show but the latest fresh outing from the FinTech community leaders in Zurich.<\/p> <p>Hear from inspiring CTO’s &amp; Founders about their latest and greatest projects, learn what they are currently working on &amp; what profiles they are looking for to add to their team in order to reach their goals. This is your opportunity to mingle with the brightest FinTech experts in town. Who knows, you may even find your next Gig!!<\/p> <p>We are thrilled to announce the following confirmed companies: additiv, BlockFactory, Integration Alpha, and Pexapark will be joining us on stage in their hunt for the perfect match.<\/p> <p>- Additiv<\/p> <p>The leading provider in the field of digitalization of wealth managers. Additiv empowers financial institutions around the globe to deploy class-leading client advisory, servicing and expert tools in wealth and asset management for the digitalization of new and existing business segments.<\/p> <p>CEO &amp; Founder Michael Stemmle will tell you how he was able to grow the team to over 120 employees and what profiles he is looking for to shape additiv's future.<\/p> <p>- BlockFactory<\/p> <p>With a goal of developing high impact solutions that foster blockchain adoption worldwide, BlockFactory has been at the forefront of the industry since 2012.<\/p> <p>BlockFactory has developed a technology stack that can be reused in a more modular way for many use cases. With the proven technology and their experienced team, they help to build your blockchain projects successfully. CTO Emeka Mosanya will tell you all about it.<\/p> <p>- Integration Alpha<\/p> <p>A Crypto Valley Zug based data science company that uses artificial intelligence to build new disruptive business ecosystems, both on blockchain or traditional data science technologies.<\/p> <p>Their ferris.ai platform empowers clients to embrace new and data-driven business models, Data Science as a Service. Felix Caprez will tell you more about their wide scope of projects.<\/p> <p>- Pexapark<\/p> <p>An award-winning Swiss FinTech that is disrupting the renewables industry by facilitating the PPA (Power Purchase Agreement) process for investors and offering them a turn-key solution for their assets. They have multiple interesting open roles that CTO &amp; Co-founder Florian Muller will try to find the perfect match for.<\/p> <p>Join us if:<\/p> <p>- You want to find out more about the projects these companies are working on<br/>- You are actively or passively looking for a new job at an exciting startup<br/>- You want to meet &amp; interact with key actors in the Fintech scene<br/>- You want all of this while having lots of fun<\/p> <p>Agenda<\/p> <p>6:00 – 6:30 Opening<br/>6:30 – 8:00 CTOs on stage<br/>8:00 – 8:30 Happy Network<\/p> <p>This first edition of Perfect Match will take place at Spaces Bleicherweg, right in the heart of Zurich's financial district.<\/p> <p>See you there!<\/p> ",
-    "url": "https://www.meetup.com/GigBuzz-Zurich/events/264519559/"
-  },
-  {
-    "title": "Boston Dataquest Group: Data Science Office Hours",
-    "group": "Boston Dataquest Group",
-    "start": "2019-08-28",
-    "description": "<p>Do you work for an academic institution or a non-profit organization and need assistance in analyzing and visualizing a dataset? Volunteer data scientists can work with you to develop solutions to your data problems. Send the organizer a brief message about your project scope and goals to schedule a 15-minute initial consultation (in-person or online)<\/p> ",
-    "url": "https://www.meetup.com/Boston-Dataquest-Group/events/264187324/"
-  },
-  {
-    "title": "Boston Dataquest Group: Community Event: WiMLDS and R-Ladies Boston Data Viz Challenge",
-    "group": "Boston Dataquest Group",
-    "start": "2019-09-19",
-    "description": "<p>Join teams and work with local Boston data to create informative visualizations at this community event hosted by R-Ladies Boston and WiMLDS Boston.<\/p> <p>This is a ticketed event with a limited number of spots. PLEASE FOLLOW THE SIGN UP INSTRUCTIONS HERE: <a href=\"https://www.meetup.com/Boston-Women-in-Machine-Learning-and-Data-Science/events/264646073/\" class=\"linkified\">https://www.meetup.com/Boston-Women-in-Machine-Learning-and-Data-Science/events/264646073/<\/a><\/p> ",
-    "url": "https://www.meetup.com/Boston-Dataquest-Group/events/264778198/"
   },
   {
     "title": "Data Viz Jam Sessions: 🍰📊Data Viz and Snacks📈🍩",
@@ -1505,6 +1561,13 @@
     "url": "https://www.meetup.com/Artificial-Intelligence-for-Medical-Technology/events/262991352/"
   },
   {
+    "title": "Bioinformatics London: Nextflow pipelines (Frenk) and DNA Computing (Limbachiya)",
+    "group": "Bioinformatics London",
+    "start": "2019-09-26",
+    "description": "<p>This month at Bioinformatics: London!<\/p> <p>Dr Steve Frenk: Building reproducible and scalable pipelines with Nextflow<\/p> <p>Nextflow is a fluent domain specific language modelled around the UNIX pipe concept that simplifies writing parallel and scalable pipelines in a portable manner.<\/p> <p>Steve will give an overview of Nextflow and provide use cases that demonstrate its utility in both academic and industrial settings. Basic concepts of the language as well as more recent developments will be covered.<\/p> <p>Steve is a Bioinformatics Software Engineer at Achilles Therapeutics, an immuno-oncology start-up that was founded from cutting-edge research on cancer evolution at the Crick Institute. Before moving to Achilles Therapeutics, Steve worked as a postdoctoral scientist at the University of North Carolina, Chapel Hill.<\/p> <p>Dr Dixita Limbachiya: DNA - a tool for computing<\/p> <p>The talk will focus on how we can construct DNA codes that can avoid certain errors essential to use DNA for computation. These DNA codes can be used for a myriad of applications, one of which is data storage.<\/p> <p>Dixita will discuss how we can develop efficient DNA codes with properties that are essential to store data in DNA. The first part of the talk will give an overview of designing DNA codes and the second half of the talk will include an answer to how can we use DNA to store the data? Recent exciting results of DNA based data storage systems will also be discussed.<\/p> <p>Dixita is currently working as a technical consultant for Helixworks Technologies, a company that designs, manufactures and sells DNA-based Data Storage technologies.<\/p> <p>Before this, Dixita completed her PhD in DNA computing at DA-IICT, with part of her thesis work on DNA data storage featured in the Times of India.<\/p> <p>Ticketing is required, the event will still be free but use EventBrite so we have names for security: <a href=\"https://www.eventbrite.com/e/bioinformatics-london-nextflow-pipelines-and-dna-computing-tickets-70879084249\" class=\"linkified\">https://www.eventbrite.com/e/bioinformatics-london-nextflow-pipelines-and-dna-computing-tickets-70879084249<\/a><\/p> <p>Approximate schedule:<\/p> <p>6:30: doors open, food &amp; drinks<br/>6:45: chitchat, announcements<br/>7:00: talk starts<br/>7:45: talk ends, adjourn to pub<\/p> ",
+    "url": "https://www.meetup.com/Bioinformatics-London/events/ksqwtmyzmbjc/"
+  },
+  {
     "title": "R-Ladies Lima: Minería de textos científicos: ¿Cómo analizar publicaciones sin leerlas?",
     "group": "R-Ladies Lima",
     "start": "2019-09-04",
@@ -1517,6 +1580,13 @@
     "start": "2019-09-24",
     "description": "<p>Our third meeting (and first on meetup.com) will be hosted by Statistics Estonia at their office on Tatari street. After introductory remarks by our hosts we will have two ~20m presentations, as well as time for discussion and networking afterwards.<\/p> <p>Program:<\/p> <p>17:30 - Arrival and snacks<br/>18:00 - Introductory remarks by Siim Nettan, Statistics Estonia<br/>18:15 - Start of presentations<\/p> <p>First talk - Alexander Matrunich, Data Analyst at Bolt, \"userR! 2019: tidyverse vs base and other notes from the conference\"<\/p> <p>Second talk - Siim Nettan, Product Manager at Statistics Estonia, \"Goodbye SAS, hello R\"<\/p> <p>Logistics:<\/p> <p>Statistics Estonia is located at Tatari 51. There is free parking for 4 hours if you enter your license plate number in the computer at the ES entrance.<\/p> <p>Light dinner/snacks will be available, and you can bring food if you'd like.<\/p> ",
     "url": "https://www.meetup.com/r-tallinn/events/264212143/"
+  },
+  {
+    "title": "R-Ladies San Jose: Introducción a Bookdown",
+    "group": "R-Ladies San Jose",
+    "start": "2019-09-26",
+    "description": "<p>Es preferible traer computadora para que el taller sea más didáctico.<\/p> ",
+    "url": "https://www.meetup.com/rladies-san-jose/events/264645822/"
   },
   {
     "title": "R-Ladies Madrid: R-Ladies Madrid + Grupo de usuarios de R: presentación del curso 2019-2020",
@@ -1547,6 +1617,13 @@
     "url": "https://www.meetup.com/Thinking-Thursday/events/fmsmfryzlbdc/"
   },
   {
+    "title": "Thinking Thursday: Thinking Thursday 第四場",
+    "group": "Thinking Thursday",
+    "start": "2019-09-26",
+    "description": "<p>19:00 - 19:10 WarmUp<br/>19:10 - 19:50 短講<br/>19:50 - 20:10 中場交流時間<br/>20:10 - 研討會<\/p> <p>Thinking Thursday至今舉辦了三次共七場開源社群演講，得到熱烈的迴響～～<\/p> <p>第四場加碼邀請到也是社群共同創辦人之一的Pecu親自上陣，清楚地跟大家分享如何「分辨AI真偽」，並透過研討會的形式與觀眾直接交流，回應大眾對於AI的困惑和好奇，也幫助有AI應用需求的廠商找到合適的AI應用！<\/p> <p>短講 Pecu<\/p> <p>如何打破 AI 迷思？<\/p> <p>在全民瘋 AI 的時刻，要如何建立判斷能力，如何清楚定義出什麼才是真正的 AI ？到底 AI 改變了什麼？沒改變什麼？<\/p> ",
+    "url": "https://www.meetup.com/Thinking-Thursday/events/263826166/"
+  },
+  {
     "title": "R-Ladies Frankfurt: #6: Let’s git together: Introduction to git with github and gitkraken",
     "group": "R-Ladies Frankfurt",
     "start": "2019-09-12",
@@ -1575,6 +1652,13 @@
     "url": "https://www.meetup.com/rladies-lancaster/events/263942029/"
   },
   {
+    "title": "R-Ladies San Diego: R for Beginners",
+    "group": "R-Ladies San Diego",
+    "start": "2019-09-26",
+    "description": "<p>*** UPDATES 11SEP2019 ***<br/>Hello R-Ladies,<\/p> <p>To help us better prepare for September's Meetup, please take a few moments to answer our questionnaire.<\/p> <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSchVbTLm5IMj-3ocIR2GYXU3Vxl0LiiBHgiQS_VvhChAiytZQ/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSchVbTLm5IMj-3ocIR2GYXU3Vxl0LiiBHgiQS_VvhChAiytZQ/viewform<\/a><\/p> <p>Please note that the venue location has changed:<br/>Hera Hub Mission Valley<br/>8885 Rio San Diego Dr, Unit 237<br/>San Diego, CA 92108<\/p> <p>Thank you,<\/p> <p>Elke<\/p> <p>*** ***<\/p> <p>Hey everyone,<\/p> <p>Let's join Elke as she presents an amazing tutorial on how to get started with R.<br/>If you consider yourself a beginner, this is your chance to hit the ground running.<br/>If you already have experience using R, please come anyway! We'd love to have more experienced users to help out the beginners as we progress through the tutorial.<\/p> <p>More information coming soon.<\/p> <p>See you then!<\/p> <p>WHAT DO YOU NEED?<\/p> <p>Please bring your laptop to follow along with the tutorial. I recommend downloading R (<a href=\"http://www.r-project.org/\" class=\"linkified\">http://www.r-project.org/<\/a>) then R Studio (<a href=\"https://www.rstudio.com/products/rstudio/#Desktop\" class=\"linkified\">https://www.rstudio.com/products/rstudio/#Desktop<\/a>) onto your laptop. They are both free and there are lot's of videos and tutorials out there to help you through the process. Thanks!<\/p> ",
+    "url": "https://www.meetup.com/rladies-san-diego/events/262833042/"
+  },
+  {
     "title": "R-Ladies Tampa: Map Figures with Jordan C.",
     "group": "R-Ladies Tampa",
     "start": "2019-09-14",
@@ -1596,32 +1680,11 @@
     "url": "https://www.meetup.com/Bern-R/events/sffhtqyzmbmb/"
   },
   {
-    "title": "Ciencia de Datos con R: Charlas de: Análisis geográfico, Shiny y hacking de variables @ data neRds ES",
-    "group": "Ciencia de Datos con R",
-    "start": "2019-08-28",
-    "description": "<p>Antes, novedades! Decidimos renombrar la comunidad de \"ArgentinaR\" a \"Data neRds ES\" ¿Por qué?<br/>Somos una comunidad de nerds que les gustan los datos, obviamente, y aunque queremos que crezca la comunidad en toda Argentina, no somos representantes de todas las comunidades que ya existen y están surgiendo a lo largo del país (Como R-Ladies, RenBaires y muchas mas).<\/p> <p>Queremos ser una comunidad mas que trabaje codo a codo con todas las otras que están trabajando y por lo tanto dejamos de lado el nombre que tenia una connotación nacional. Sin embargo nuestro objetivo no cambio, difundir conocimiento, apoyar el aprendizaje y hacer crecer la comunidad de usuarios en R en español!<\/p> <p>La nueva página es &gt; <a href=\"https://dataneRdses.org\" class=\"linkified\">https://dataneRdses.org<\/a><\/p> <p>------<\/p> <p>Vamos a transmitir el evento para llegar a todos los que desean escuchar y no pueden asistir &gt; <a href=\"https://auth0.zoom.us/j/455550861\" class=\"linkified\">https://auth0.zoom.us/j/455550861<\/a><\/p> <p>------<\/p> <p>## Agenda!<\/p> <p>- Charlas prácticas de R:<\/p> <p>-- 1 \"Todo lo que brilla es Shiny: un pantallazo a la generación de apps interactivas en R\" por Hernan Escudero (<a href=\"https://www.linkedin.com/in/hernanescudero/\" class=\"linkified\">https://www.linkedin.com/in/hernanescudero/<\/a>)<\/p> <p>-- 2 \"Análisis de información geográfica en R\" por Angie Scetta<br/>(<a href=\"https://www.linkedin.com/in/maría-de-los-ángeles-scetta-b7b82a80\" class=\"linkified\">https://www.linkedin.com/in/maría-de-los-ángeles-scetta-b7b82a80<\/a>)<\/p> <p>-- 3 \"Hackeando variables problemáticas en ML. Hoy, categóricas.\" por Pablo Casas (<a href=\"https://www.linkedin.com/in/pcasas/\" class=\"linkified\">https://www.linkedin.com/in/pcasas/<\/a>)<\/p> <p>------<\/p> <p>Angie y Hernán son un caso de éxito de que no hace falta ser informático para hacer ciencia de datos, ya que provienen de arquitectura y sociología. Esperamos que muchos mas puedan sacarse el miedo y empezar con la práctica :)<\/p> <p>// La entrada es un alimento no perecedero<\/p> <p>Agradecemos el apoyo de Auth0 al evento.<br/>Mas información: <a href=\"https://auth0.com\" class=\"linkified\">https://auth0.com<\/a><br/>Búsquedas laborales vigentes: <a href=\"https://auth0.com/careers\" class=\"linkified\">https://auth0.com/careers<\/a><\/p> <p>--<\/p> <p>L@s esperamos!<\/p> ",
-    "url": "https://www.meetup.com/meetup-group-ZtqriXwa/events/263946975/"
-  },
-  {
     "title": "Ciencia de Datos con R: Mapas, clustering y datawarehousing, todo con R! #dataNerdsES",
     "group": "Ciencia de Datos con R",
     "start": "2019-09-20",
     "description": "<p>6to encuentro de data neRds ES! // considerando los anteriores ;)<\/p> <p>Para los que no pudieron asistir al anterior, pueden encontrar PPTs + código en: <a href=\"https://datanerdses.org/2019/08/29/resumen-del-encuentro-data-nerds-es-ago-2019-ppts-codigo-r/\" class=\"linkified\">https://datanerdses.org/2019/08/29/resumen-del-encuentro-data-nerds-es-ago-2019-ppts-codigo-r/<\/a><\/p> <p># Agenda<\/p> <p>1 - \"Trabajando con imágenes satelitales y R\" por Priscilla Minotti // <a href=\"https://www.linkedin.com/in/priscilla-gail-minotti-a61b4211/2\" class=\"linkified\">https://www.linkedin.com/in/priscilla-gail-minotti-a61b4211/2<\/a><\/p> <p>2 - \"Clustering con estilo: hdbscan y umap\" por Lucas Enrich // <a href=\"https://www.linkedin.com/in/lucas-ariel-enrich-a7320a933\" class=\"linkified\">https://www.linkedin.com/in/lucas-ariel-enrich-a7320a933<\/a><\/p> <p>3 - \"Como hacer y usar un datawarehouse con R y Tidyverse\" por Pablo Seibelt // <a href=\"https://www.linkedin.com/in/pabloseibelt/\" class=\"linkified\">https://www.linkedin.com/in/pabloseibelt/<\/a><\/p> <p>--<\/p> <p># Acerca de los lugares<\/p> <p>Si no podés asistir, te pedimos que te des de baja, no hace falta avisar ya que el sistema le da la vacante al siguiente en la lista, además de evitar el envío de mensajes por lugares.<\/p> <p>Por otra consulta, escrbinos en la página :)<\/p> <p># ¿Se va a transmitir?<\/p> <p>Si! No hay que anotarse a Meetup para ver la transmisión.<br/>Pueden acceder al link acá: <a href=\"https://auth0.zoom.us/j/927178730\" class=\"linkified\">https://auth0.zoom.us/j/927178730<\/a><\/p> <p># Horario<\/p> <p>Desde las 18:30 se podrá entrar, merendar algunos de los snacks y charlar. Si la sala no se llena, empezaremos 19:10hs a más tardar.<\/p> <p>--<\/p> <p>Si queres dar una charla, contactanos!<br/>L@s esperamos!<\/p> <p><a href=\"https://datanerdses.org/\" class=\"linkified\">https://datanerdses.org/<\/a><br/><a href=\"https://twitter.com/datanerdses\" class=\"linkified\">https://twitter.com/datanerdses<\/a><\/p> ",
     "url": "https://www.meetup.com/meetup-group-ZtqriXwa/events/264788014/"
-  },
-  {
-    "title": "Komunitas R Indonesia: SBM ITB X Komunitas R Indonesia",
-    "group": "Komunitas R Indonesia",
-    "start": "2019-08-31",
-    "description": "<p>Komunitas R Indonesia in collaboration with Big Data Analysis and Social Simulation Laboratory at SBM ITB will held R user meetup in Bandung.<\/p> <p>The agendas of the meetup are as following:<br/>1. Mini-workshop: \"Extending RStudio with Git(Hub)\" by Muhammad Aswan Syahputra (Initiator of Komunitas R Indonesia)<br/>2. Datathon using \"Kamisdata\" project<br/>3. Talks: \"Pendidikan Data Analytics dan Data Science di Indonesia\" by Dr. Eng. Manahan Siallagan (Director of Big Data Analysis and Social Simulation Laboratory at SBM ITB)<\/p> <p>This meetup is free of charge! You are encouraged to prepare R and RStudio as well as git prior to the event. Do not hesitate to join our community at <a href=\"https://t.me/GNURIndonesia\" class=\"linkified\">https://t.me/GNURIndonesia<\/a>!<\/p> ",
-    "url": "https://www.meetup.com/r-indonesia/events/264307479/"
-  },
-  {
-    "title": "Komunitas R Indonesia: Kopdar useR! Bogor",
-    "group": "Komunitas R Indonesia",
-    "start": "2019-09-11",
-    "description": "<p>Halo rekan-rekan useR di Bogor!<\/p> <p>Kita akan mengadakan acara meetup lagi di Bogor pada hari Rabu, 11 September 2019 jam[masked]. Berlokasi di kantor WCS Indonesia (Ruang Meeting Lt 2), Jl. Malabar I No 11 (lokasi di belakang Allfresh).<\/p> <p>Di meet up kali ini kita akan bersama-sama mengulik data \"Film Indonesia Sejak Tahun 1926\" sebagai bagian dari kegiatan Kamis Data yang diadakan oleh Komunitas R Indonesia. Dataset bisa diunduh di <a href=\"https://bit.ly/2m5c0oH\" class=\"linkified\">https://bit.ly/2m5c0oH<\/a>. Keterangan lebih lanjut tentang cara partisipasi di Kamis Data bisa dibaca di <a href=\"https://bit.ly/2k6eUJ8\" class=\"linkified\">https://bit.ly/2k6eUJ8<\/a>.<\/p> <p>Berhubung tempat hanya tersedia untuk max. 25 orang, buruan RSVP di <a href=\"https://s.id/kpdr_bgr\" class=\"linkified\">https://s.id/kpdr_bgr<\/a> ! Acara ini juga akan dihadiri oleh Muhammad Aswan Syahputra (inisiator Komunitas R Indonesia) dan beberapa anggota R Ladies Bogor.<\/p> <p>Jangan lupa untuk follow twitter twitter.com/r_indonesia_ untuk info-info terbaru. Sampai ketemu Rabu ini!<\/p> ",
-    "url": "https://www.meetup.com/r-indonesia/events/264663329/"
   },
   {
     "title": "R-Ladies Canberra: Statistics on Street Corners by Prof Di Cook",
@@ -1638,6 +1701,20 @@
     "url": "https://www.meetup.com/rladies-canberra/events/263857194/"
   },
   {
+    "title": "Komunitas R Indonesia: SBM ITB X Komunitas R Indonesia",
+    "group": "Komunitas R Indonesia",
+    "start": "2019-08-31",
+    "description": "<p>Komunitas R Indonesia in collaboration with Big Data Analysis and Social Simulation Laboratory at SBM ITB will held R user meetup in Bandung.<\/p> <p>The agendas of the meetup are as following:<br/>1. Mini-workshop: \"Extending RStudio with Git(Hub)\" by Muhammad Aswan Syahputra (Initiator of Komunitas R Indonesia)<br/>2. Datathon using \"Kamisdata\" project<br/>3. Talks: \"Pendidikan Data Analytics dan Data Science di Indonesia\" by Dr. Eng. Manahan Siallagan (Director of Big Data Analysis and Social Simulation Laboratory at SBM ITB)<\/p> <p>This meetup is free of charge! You are encouraged to prepare R and RStudio as well as git prior to the event. Do not hesitate to join our community at <a href=\"https://t.me/GNURIndonesia\" class=\"linkified\">https://t.me/GNURIndonesia<\/a>!<\/p> ",
+    "url": "https://www.meetup.com/r-indonesia/events/264307479/"
+  },
+  {
+    "title": "Komunitas R Indonesia: Kopdar useR! Bogor",
+    "group": "Komunitas R Indonesia",
+    "start": "2019-09-11",
+    "description": "<p>Halo rekan-rekan useR di Bogor!<\/p> <p>Kita akan mengadakan acara meetup lagi di Bogor pada hari Rabu, 11 September 2019 jam[masked]. Berlokasi di kantor WCS Indonesia (Ruang Meeting Lt 2), Jl. Malabar I No 11 (lokasi di belakang Allfresh).<\/p> <p>Di meet up kali ini kita akan bersama-sama mengulik data \"Film Indonesia Sejak Tahun 1926\" sebagai bagian dari kegiatan Kamis Data yang diadakan oleh Komunitas R Indonesia. Dataset bisa diunduh di <a href=\"https://bit.ly/2m5c0oH\" class=\"linkified\">https://bit.ly/2m5c0oH<\/a>. Keterangan lebih lanjut tentang cara partisipasi di Kamis Data bisa dibaca di <a href=\"https://bit.ly/2k6eUJ8\" class=\"linkified\">https://bit.ly/2k6eUJ8<\/a>.<\/p> <p>Berhubung tempat hanya tersedia untuk max. 25 orang, buruan RSVP di <a href=\"https://s.id/kpdr_bgr\" class=\"linkified\">https://s.id/kpdr_bgr<\/a> ! Acara ini juga akan dihadiri oleh Muhammad Aswan Syahputra (inisiator Komunitas R Indonesia) dan beberapa anggota R Ladies Bogor.<\/p> <p>Jangan lupa untuk follow twitter twitter.com/r_indonesia_ untuk info-info terbaru. Sampai ketemu Rabu ini!<\/p> ",
+    "url": "https://www.meetup.com/r-indonesia/events/264663329/"
+  },
+  {
     "title": "R-Ladies Nashville: Package Development in R",
     "group": "R-Ladies Nashville",
     "start": "2019-09-16",
@@ -1645,18 +1722,18 @@
     "url": "https://www.meetup.com/rladies-nashville/events/263567051/"
   },
   {
-    "title": "R en Rosario: 6° Encuentro del Grupo de Usuaries de R en Rosario! Festejo de aniversario",
-    "group": "R en Rosario",
-    "start": "2019-09-20",
-    "description": "<p>6° encuentro del Grupo de Usuaries de R en Rosario!<br/>En esta oportunidad nos juntaremos a festejar nuestro primer año de existencia, por lo que no habrá expositores, pero sí charlaremos sobre el software que nos une, de la mano de buena bebida y comida :).<br/>Te esperamos este viernes 20/9 en la cervecería Cleto (Callao 15), a las 20 hs.<\/p> ",
-    "url": "https://www.meetup.com/R-en-Rosario/events/264962535/"
-  },
-  {
     "title": "R-Ladies Cape Town: #TidyTuesday Practical Session",
     "group": "R-Ladies Cape Town",
     "start": "2019-09-17",
     "description": "<p>We are very excited to announce a new event format by R-Ladies Cape Town: #tidytuesday. The #tidytuesday initiative was created by R for Data Science (#R4DS) - they release a data set every Tuesday with the challenge to create a unique visualisation based on the data set. We will be doing just that! Bring along your laptop - we will be downloading the #tidytuesday data set released that day (or you could use a previous one if you like) and using it to practice our visualisation skills. We will provide a short script to get you started. You are welcome to work on your own or collaborate, and bring your own data and questions along if you'd like. If you can, please bring something to drink and/or some snacks to share!<\/p> <p>From R4DS: \"Join the R4DS online learning community in the weekly #TidyTuesday event! Every week we post a raw dataset, a chart or article related to that dataset, and ask you to explore the data. While the dataset will be “tamed”, it will not always be tidy! As such you might need to apply various R for Data Science techniques to wrangle the data into a true tidy format. The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community! As such we encourage everyone of all skills to participate!”<\/p> <p>We encourage a mix of regular useRs and total beginners to encourage a collaborative co-learning space. Follow #tidytuesday on Twitter for some examples of visualisations created in the past. If you feel up to it, we encourage posting your own visualisation :)<\/p> ",
     "url": "https://www.meetup.com/rladies-cape-town/events/264495431/"
+  },
+  {
+    "title": "R en Rosario: 6° Encuentro del Grupo de Usuaries de R en Rosario! Festejo de aniversario",
+    "group": "R en Rosario",
+    "start": "2019-09-20",
+    "description": "<p>6° encuentro del Grupo de Usuaries de R en Rosario!<br/>En esta oportunidad nos juntaremos a festejar nuestro primer año de existencia, por lo que no habrá expositores, pero sí charlaremos sobre el software que nos une, de la mano de buena bebida y comida :).<br/>Te esperamos este viernes 20/9 en la cervecería Cleto (Callao 15), a las 20 hs.<\/p> ",
+    "url": "https://www.meetup.com/R-en-Rosario/events/264962535/"
   },
   {
     "title": "R-Ladies El Paso: First meeting of R-Ladies El Paso",
@@ -1715,6 +1792,13 @@
     "url": "https://www.meetup.com/Scotland-Data-Science-Technology-Meetup/events/263031342/"
   },
   {
+    "title": "Scotland Data Science & Technology Meetup: Scotland Fintech - UiPath & VKY discuss Intelligent Automation",
+    "group": "Scotland Data Science & Technology Meetup",
+    "start": "2019-09-26",
+    "description": "<p>Scotland Fintech Festival - FinTech Scotland - <a href=\"https://www.fintechscotland.com/scotland-fintech-festival/\" class=\"linkified\">https://www.fintechscotland.com/scotland-fintech-festival/<\/a><\/p> <p>Scotland Fintech Festival will take place in September 2019 between the 9th and the 27th across Scotland.<\/p> <p>The festival will contain conferences, meet-ups, morning breakfast sessions, evening networking events and much more.<\/p> <p>Scotland Data Science &amp; Technology Meetup are delighted to have Doug Gowans - Technical Partner Manager - UiPath Alex Croucher - Director - VKY Intelligent Automation presenting.<\/p> <p>------------------------------------------------------------------------------------------------------<\/p> <p>Presentation 1 - Bringing an automation first mindset to finance. How Robotic Process Automation can bring Artificial Intelligence into the context of established business processes and customer interactions.<\/p> <p>Despite the failures, the promise of digital transformation remains.<\/p> <p>Intelligent automation finally enables banks to deliver on that promise.<\/p> <p>Speaker - Doug Gowans - Technical Partner Manager - UiPath - <a href=\"https://www.linkedin.com/in/douggowans\" class=\"linkified\">https://www.linkedin.com/in/douggowans<\/a><\/p> <p><a href=\"https://www.uipath.com/\" class=\"linkified\">https://www.uipath.com/<\/a><\/p> <p>------------------------------------------------------------------------------------------------------<br/>Presentation 2 - Intelligent Automation adoption<\/p> <p>Speaker - Alex Croucher - Director - VKY Intelligent Automation - <a href=\"https://www.linkedin.com/in/alex-croucher\" class=\"linkified\">https://www.linkedin.com/in/alex-croucher<\/a><\/p> <p>Having spent 10 years delivery business and technology change at Sky, Alex founded VKY Intelligent Automation. He has worked on major automation programmes including the Clydesdale Bank implementation of Automation Anywhere and later leading VKY's Automation and Innovation practice which has seen him work with clients such as Skipton Building Society, Ingenico Group, Abellio Scotrail, Ascensos and others. He is a regular writer and contributor on automation and AI related topics, in particular adoption in Scotland, the economic impacts of automation and the future of work.<\/p> <p>Alex has been the driving force behind establishing VKY as the leading Scottish Intelligent Automation services business and the only one to have secured partner status with UiPath, Automation Anywhere, Microsoft, IBM Watson, AWS and Liveperson.<\/p> <p>\"Alex was a central and key figure in our rapid scaling of automation across the operation\" - Dave, Head of Transformation, CYBG<\/p> <p>Agenda:<br/>6:30 PM – 7:00 PM: Networking<br/>7:00 PM – 7:30 PM: Doug Gowans - Technical Partner Manager - UiPath<br/>7.30 PM – 8.00 PM: Alex Croucher - Director - VKY Intelligent Automation<br/>8.00PM - 8.20PM - Q&amp;A<br/>8.20 PM - 9.00 PM: Networking and Drink<\/p> ",
+    "url": "https://www.meetup.com/Scotland-Data-Science-Technology-Meetup/events/263223307/"
+  },
+  {
     "title": "Predictive Analytics and Data Science using Spark, R, Python: Machine learning measurement and validation in the real world",
     "group": "Predictive Analytics and Data Science using Spark, R, Python",
     "start": "2019-09-14",
@@ -1729,11 +1813,25 @@
     "url": "https://www.meetup.com/Bauchi-R-User-Group-BauchiRUG/events/264481703/"
   },
   {
+    "title": "Ellucian AR Labs Technology Meetup: STRIVE 2019",
+    "group": "Ellucian AR Labs Technology Meetup",
+    "start": "2019-09-26",
+    "description": "<p>Please join us on Sept 26th 2019, at our second conference hosted by Ellucian in Bangalore for a day full of learning by our eminent global speakers from all walks of the industry on trending topics like Leveraging High Performance Teams, Diversity and Inclusion, Personal Leadership Branding , Technical workshop on IoT and Mid Career hacks for growth Technical showcases by a diverse group of enthusiastic technologists from Ellucian and across the industry around AI, ML, Deep Learning and AWS. Hurry and Register on the below link. Seats are filling fast!!<br/><a href=\"http://ow.ly/zw7150vED2B\" class=\"linkified\">http://ow.ly/zw7150vED2B<\/a><\/p> ",
+    "url": "https://www.meetup.com/Ellucian-AR-Labs-Technology-Meetup/events/264306310/"
+  },
+  {
     "title": "Salt Lake City R Language Study Group: Data Visualization for data science ",
     "group": "Salt Lake City R Language Study Group",
     "start": "2019-09-07",
     "description": "<p>At this time, we are going to visualize your data. R is an amazing platform for data analysis, capable of creating almost any type of graph. Bring your computer and enjoy it!<\/p> ",
     "url": "https://www.meetup.com/Salt-Lake-City-R-Language-Study-Group/events/264434360/"
+  },
+  {
+    "title": "MadR - Madison R Programming UseRs Group: Creating a Shiny app demo and Wrangling Categorical data",
+    "group": "MadR - Madison R Programming UseRs Group",
+    "start": "2019-09-26",
+    "description": "<p>Join us at the next MadR Meetup: Thursday, September 26 at 6 pm, in Room 301 of the Madison Public Library (201 W Mifflin St).<\/p> <p>Our group follows a show-and-tell model with varying degrees of expertise and experience. Come learn, contribute and meet other R useRs!<\/p> <p>1) Demo:<\/p> <p>How to create a Shiny app and release it on a cloud service like Digital Ocean using Docker (thanks to Arun).<\/p> <p>2) R is for Reading:<\/p> <p>McNamara A, Horton NJ. 2017. Wrangling categorical data in R.<br/><a href=\"https://peerj.com/preprints/3163.pdf\" class=\"linkified\">https://peerj.com/preprints/3163.pdf<\/a><\/p> <p>Thanks to Nichole for contributing the article. I will be presenting some examples.<\/p> <p>Abstract<br/>Data wrangling is a critical foundation of data science, and wrangling of categorical data is an important component of this process. However, categorical data can introduce unique issues in data wrangling, particularly in real-world settings with collaborators and periodically-updated dynamic data. This paper discusses common problems arising from categorical variable transformations in R, demonstrates the use of factors, and suggests approaches to address data wrangling challenges. For each problem, we present at least two strategies for management, one in base R and the other from the ‘tidyverse.’ We consider several motivating examples, suggest defensive coding strategies, and outline principles for data wrangling to help ensure data quality and sound analysis.<\/p> ",
+    "url": "https://www.meetup.com/MadR-Madison-R-Programming-UseRs-Group/events/264456545/"
   },
   {
     "title": "Houston R Users Group: Intro to Databases in R - Spark",
@@ -1748,6 +1846,13 @@
     "start": "2019-09-18",
     "description": "<p>Many R users love the dplyr package and broader tidyverse environment. The structure makes writing R code faster, and also more readable.<\/p> <p>For many people however, code speed is of the utmost importance. In R, this means working with data.table, which means sacrificing speed of development and readability. What a drag!<\/p> <p>That is where dtplyr comes in - and the latest changes make it more valuable than ever before.<\/p> <p>Using lazy evaluation and code translation behind the scenes, users can take advantage of dplyr's usability without compromising on speed.<\/p> <p>During this talk, we explore dtplyr. What are its pros and cons? The limitations and shortcomings? And what does the future hold for the latest addition to the tidyverse?<\/p> <p>Many thanks to Kevin Bolger of ProCogia for volunteering to talk at this meetup! Also a HUGE thank you to the ProCogia team for supporting these events and providing a space to have these meetups!<\/p> <p>If you are wanting to have your own meetup to discuss the cool ways you are using R, reach out to Ellis Hughes via Meetup.com!<\/p> ",
     "url": "https://www.meetup.com/Seattle-useR/events/264624760/"
+  },
+  {
+    "title": "Seattle useR Group (R Programming Language): Intro to R",
+    "group": "Seattle useR Group (R Programming Language)",
+    "start": "2019-09-26",
+    "description": "<p>This is intended to give a crash course to R users with none/little experience with R or programming, and end with visualizing a dataset. This is the first of a few courses we have planned in the coming weeks introducing people to critical R programming skills.<\/p> <p>For the more advanced useRs, we ask that while we teach, you flex your R muscles and try to come up with a unique way to visualize a data set that will be revealed at the beginning of the meetup. We will give the opportunity to share your creations at the end of the presentation.<\/p> <p>After the presentation we will have some networking and chatting time.<\/p> <p>We are limited in the size of the meeting room, so please only RSVP if you know you will be making it!<\/p> <p>If you are wanting to have your own meetup to discuss the cool ways you are using R, reach out to Ellis Hughes via Meetup.com!<\/p> ",
+    "url": "https://www.meetup.com/Seattle-useR/events/264625131/"
   },
   {
     "title": "R-Ladies RTP: #tidytuesday Work Group",
@@ -1804,13 +1909,6 @@
     "start": "2019-09-25",
     "description": "<p>En nuestro siguiente encuentro tendremos el gusto de contar con la presencia de Jenny Bryan, quien impartirá un taller sobre cómo escribir funciones.<\/p> <p>Jenny Bryan (PhD, UC Berkeley) es Ingeniera de Software en RStudio. Jenny es referente internacional en la comunidad de R, dentro de la cual es integrante ordinaria de la R Foundation, parte del Comité de Liderazgo de rOpenSci y forma parte del consejo asesor cientifico de BioConductor.<\/p> <p>El taller se impartirá en inglés, contando con ayudantes que pueden apoyar en español. Debes traer laptop con R (<a href=\"https://cran.r-project.org\" class=\"linkified\">https://cran.r-project.org<\/a>), RStudio (<a href=\"https://www.rstudio.com/products/rstudio/download/\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/<\/a>) y el paquete tidyverse (<a href=\"https://www.tidyverse.org/packages/\" class=\"linkified\">https://www.tidyverse.org/packages/<\/a>) instalado.<\/p> <p>Es muy importante que des RSVP únicamente si puedes asistir ya que los lugares son limitados. Si confirmas asistencia pero luego no puedes asistir, te pedimos por favor que dejes tu lugar disponible para otra persona.<\/p> <p>Agenda para el día:<br/>6:30 Bienvenida<br/>6:30-7:00 Networking<br/>7:00-8:30 Taller<\/p> <p>El evento será en las instalaciones de Kantar (donde está el edificio de Banregio), Kansas #20 col. Nápoles. También se puede entrar por Insurgentes Sur #863.<\/p> <p>Agradecemos a Kantar y a la AME por hacer este evento posible!!<\/p> <p>¡Nos vemos pronto!<\/p> ",
     "url": "https://www.meetup.com/rladies-cdmx/events/264764003/"
-  },
-  {
-    "title": "R-Ladies Seattle: Code Reviews! Learn how to review code & submit code for review",
-    "group": "R-Ladies Seattle",
-    "start": "2019-08-28",
-    "description": "<p>How do you review code from a data science project? Often, the goal of code review is to ensure that new code is free of bugs, efficient, well-documented, and maintainable. Code review is also an excellent opportunity to learn from others and get feedback on your work. However, practices vary widely from academia to industry and standards are mostly non-existent.<\/p> <p>At this event, we will hear from R-Ladies members about best practices for code review, how code review is conducted in their workplace, and then we'll practice code review in small groups.<\/p> <p>Speakers:<br/>Lauren Wolfe, Research Data Specialist at Fred Hutch<br/>Carrie Bennette, Principal Quantitative Scientist at Flatiron<\/p> <p>We are looking for R-Ladies members to share code that they'd like feedback on for the group exercise. Please comment in the event discussion thread if you have code you'd like to bring to the meeting.<\/p> <p>Pizza &amp; refreshments will be provided by Fred Hutch.<br/>Please feel free to bring children if childcare is unavailable.<\/p> ",
-    "url": "https://www.meetup.com/rladies-seattle/events/263876603/"
   },
   {
     "title": "R-Ladies Seattle: Happy Hour Hangout",
@@ -1951,6 +2049,13 @@
     "start": "2019-09-12",
     "description": "<p>Im Auftrag von BUND Ostwürttemberg (<a href=\"https://www.bund-ostwuerttemberg.de/bund-ov-aalen/\" class=\"linkified\">https://www.bund-ostwuerttemberg.de/bund-ov-aalen/<\/a>) werden öffentlichen Feinstaubsensordaten ausgewertet. Wir suchen dabei nach stark betroffene Gebiete, interessante Trends, Korrelationen, etc. Die Erkenntnisse und Visualisierungen werden anschließend auf einer Webseite veröffentlicht und dem BUND präsentiert.<\/p> <p>Das Treffen findet statt im Innovationszentrum Aalen (Anton-Huber-Straße 20, 73430 Aalen). Vom Eingang aus wir der Raum offensichtlich sein.<\/p> <p>Es wäre toll wenn ihr euren Laptop mitbringen könntet und davor schon folgende Software installieren könntet:<br/>* Tableau Public - <a href=\"https://public.tableau.com/de-de/s/download\" class=\"linkified\">https://public.tableau.com/de-de/s/download<\/a><br/>* Anaconda (die Python 3.7 version) - <a href=\"https://www.anaconda.com/distribution/\" class=\"linkified\">https://www.anaconda.com/distribution/<\/a><br/>Wenn ihr keine Erfahrung mit dieser Software habt bekommt ihr eine kurze Einführung und könnt schnell mitmachen.<\/p> <p>Für zukünftige Treffen seid ihr herzlich eingeladen Themen vorzuschlagen, wenn ihr von irgendwelchen coolen Datensätzen wisst.<\/p> <p>---------------------------------------------------------------------------------------<\/p> <p>On behalf of BUND Ostwürttemberg (<a href=\"https://www.bund-ostwuerttemberg.de/bund-ov-aalen/\" class=\"linkified\">https://www.bund-ostwuerttemberg.de/bund-ov-aalen/<\/a>)<br/>we will be evaluating public particulate pollution sensor data. The analysis might include looking for strongly affected areas, finding interesting trends, correlations, etc. The obtained insights and visualisations will subsequently be published on a website and presented to BUND.<\/p> <p>The Meetup will take place in the Innovationszentrum Aalen (Anton-Huber-Straße 20, 73430 Aalen). The Room will be clearly signposted.<\/p> <p>It would be great if you could bring your laptop with the following software already installed:<br/>* Tableau Public - <a href=\"https://public.tableau.com/de-de/s/download\" class=\"linkified\">https://public.tableau.com/de-de/s/download<\/a><br/>* Anaconda (die Python 3.7 version) - <a href=\"https://www.anaconda.com/distribution/\" class=\"linkified\">https://www.anaconda.com/distribution/<\/a><br/>If you don't have any experience with this software, you will get a short introduction and will be able to start working in no time.<\/p> <p>If you know of any cool datasets, you're very welcome to suggest subjects for future Meetups.<\/p> ",
     "url": "https://www.meetup.com/Data-Science-for-Good-Aalen/events/263090002/"
+  },
+  {
+    "title": "Data Science for Good, Aalen: Data Science for Good, Aalen",
+    "group": "Data Science for Good, Aalen",
+    "start": "2019-09-26",
+    "description": "<p>Im Auftrag von BUND Ostwürttemberg werden öffentliche<br/>Landnutzungsdaten ausgewertet. Die Erkenntnisse und Visualisierungen werden nach dem Meetup auf einer Webseite veröffentlicht und dem BUND präsentiert werden.<\/p> <p>Es wäre toll wenn ihr euren Laptop mitbringen könntet und davor schon folgende Software installieren könntet:<br/>* Tableau Public - <a href=\"https://public.tableau.com/de-de/s/download\" class=\"linkified\">https://public.tableau.com/de-de/s/download<\/a><br/>* Anaconda (die Python 3.7 version) - <a href=\"https://www.anaconda.com/distribution/\" class=\"linkified\">https://www.anaconda.com/distribution/<\/a><br/>Wenn ihr keine Erfahrung mit dieser Software habt bekommt ihr eine kurze Einführung und könnt schnell mitmachen.<\/p> <p>Für zukünftige Treffen seid ihr herzlich eingeladen Themen vorzuschlagen, wenn ihr von irgendwelchen coolen Datensätzen wisst.<\/p> <p>---------------------------------------------------------------------------------------<\/p> <p>On behalf of BUND Ostwürttemberg we will analyse public land usage data. After the Meetup the obtained insights and visualisations will be published on a website and presented to BUND.<\/p> <p>It would be great if you could bring your laptop with the following software already installed:<br/>* Tableau Public - <a href=\"https://public.tableau.com/de-de/s/download\" class=\"linkified\">https://public.tableau.com/de-de/s/download<\/a><br/>* Anaconda (die Python 3.7 version) - <a href=\"https://www.anaconda.com/distribution/\" class=\"linkified\">https://www.anaconda.com/distribution/<\/a><br/>If you don't have any experience with this software, you will get a short introduction and will be able to start working in no time.<\/p> <p>If you know of any cool datasets, you're very welcome to suggest subjects for future Meetups.<\/p> ",
+    "url": "https://www.meetup.com/Data-Science-for-Good-Aalen/events/263090121/"
   },
   {
     "title": "Lyon Data Science: L'importance de la normalisation en analyse de données",
@@ -2791,6 +2896,13 @@
     "url": "https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/264301141/"
   },
   {
+    "title": "Data Science Festival - London: DSF Women in Data Meetup with Deliveroo",
+    "group": "Data Science Festival - London",
+    "start": "2019-10-22",
+    "description": "<p>Women working in Data, what's your story? Join Data Science Festival - London in partnership with Deliveroo October 22nd, for an evening of 5 lightning talks and a panel discussion including 5 x female data enthusiasts. This evening we will be focusing on diversity and personal experiences as a women working in data.<\/p> <p>Due to the popularity of Data Science Festival events, we are now allocating event tickets via a random ballot. Registering here enters you into the ticket ballot for the Data Science Festival Event at Deliveroo on October 22nd 2019, the ballot will be drawn on October 18th. Those randomly selected will then be e-mailed a Universe ticket for the event, with the joining details.<\/p> <p>If you get an allocated Universe ticket, please bring a copy of your paper ticket or your ticket on your phone to the event to check in with your QR code. Tickets are non-transferable.<\/p> <p>PLEASE NOTE REGISTERING ON MEETUP DOES NOT GUARANTEE YOU ENTRY TO THIS EVENT.<\/p> <p>Please click here to apply for a ticket: <a href=\"https://www.datasciencefestival.com/event/dsf-women-in-data-meetup-with-deliveroo/\" class=\"linkified\">https://www.datasciencefestival.com/event/dsf-women-in-data-meetup-with-deliveroo/<\/a><\/p> <p>SCHEDULE<\/p> <p>6:00: Doors open<br/>6:30: 5 x 10 minute lightning talks<br/>7:20: Break<br/>7:50: Panel discussion<br/>8:40: Networking<br/>9:00: Close<\/p> <p>Ela Osterberger - Director of Data Science at Deliveroo<\/p> <p>Sonya Barlow - Founder of Like Minded Females and Delivery Manager at Mudano<\/p> <p>Katherine James - Head of Data Science at Royal Mail<\/p> <p>Chandini Jain - Founder at Auquan<\/p> <p>Click here for all speaker summaries and bios: <a href=\"https://www.datasciencefestival.com/event/dsf-women-in-data-meetup-with-deliveroo/\" class=\"linkified\">https://www.datasciencefestival.com/event/dsf-women-in-data-meetup-with-deliveroo/<\/a><\/p> ",
+    "url": "https://www.meetup.com/Data-Science-Festival-London/events/265211766/"
+  },
+  {
     "title": "Newcastle Upon Tyne Data Science Meetup: Data Science North East: November Meeting",
     "group": "Newcastle Upon Tyne Data Science Meetup",
     "start": "2019-11-26",
@@ -3120,6 +3232,13 @@
     "url": "https://www.meetup.com/LearnDataScience/events/wwqpgryzqbxb/"
   },
   {
+    "title": "Learn Data Science: Learn Data Science by Doing Kaggle Competitions",
+    "group": "Learn Data Science",
+    "start": "2019-12-26",
+    "description": "<p>We meet every two weeks to learn more about data science by discussing Kaggle competitions (<a href=\"https://www.kaggle.com\" class=\"linkified\">https://www.kaggle.com<\/a>). If you want to get better at data wrangling, feature engineering, model selection or just want to have fun solving non-trivial data science problems, this is the right group to join!<\/p> <p>(Competition description coming soon)<\/p> <p>To get the most out of the meetup, please try to look at the competition beforehand. It's OK if you don't understand it all. The meetup is for questions and discussion.<\/p> <p>At the end of the meeting we will discuss which competitions we want to look at for future meetups. Bring your suggestions!<\/p> <p>6:00 Doors are open, feel free to mingle<br/>6:30 Presentation and discussion begins<br/>~7:45 Pick the next competition, then off to a nearby restaurant for food, drinks, and breakout discussions<\/p> <p>The meetup will be live streamed here:<br/><a href=\"https://www.youtube.com/c/LearnDataScience/live\" class=\"embedded\">https://www.youtube.com/c/LearnDataScience/live<\/a><\/p> <p>A list of past meetups and the slides and videos for them is here:<br/><a href=\"https://docs.google.com/spreadsheets/d/1dmunY2g2Is-S6PlfKVZy_99zbIGvVD-f4Omu_rcXrLo/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1dmunY2g2Is-S6PlfKVZy_99zbIGvVD-f4Omu_rcXrLo/edit?usp=sharing<\/a><\/p> <p>Discussions about this meetup also happen on Slack. To join, go here: <a href=\"http://vantech.herokuapp.com/\" class=\"linkified\">http://vantech.herokuapp.com/<\/a>. Once you're in, join the #kaggle-competitions channel.<\/p> <p>Thanks to VentureLabs (<a href=\"http://www.venturelabs.ca/\" class=\"linkified\">http://www.venturelabs.ca/<\/a>) for the meeting space!<\/p> <p><img src=\"https://secure.meetupstatic.com/photos/event/5/2/6/1/600_465141089.jpeg\" /><\/p> ",
+    "url": "https://www.meetup.com/LearnDataScience/events/fbczqqyzqbjc/"
+  },
+  {
     "title": "Southern Data Science (BBDS): The Evolution of Data Science",
     "group": "Southern Data Science (BBDS)",
     "start": "2019-09-30",
@@ -3211,18 +3330,18 @@
     "url": "https://www.meetup.com/Westlake-Village-Data-Science-Meetup/events/rqwdwqyzqbrb/"
   },
   {
-    "title": "Data Science & Business Intelligence Society of Atlanta: Financial Market Insights from Stream Processing",
-    "group": "Data Science & Business Intelligence Society of Atlanta",
-    "start": "2019-10-24",
-    "description": "<p>This talk will show how Hazelcast Jet, an open source in-memory Stream Processing Engine that provides higher throughput and lower latency that previous generations of streaming solutions, can be applied to financial markets to detect patterns and react to events as they happen.<\/p> <p>Abstract:<\/p> <p>Stream Processing provides a way to process and/or query a continuous data stream at near real-time speeds. Stream processing engines provide the ability to gain insight into changing conditions as they are happening, rather than analyzing historical data. In businesses such as trading where opportunities can arise and disappear in fractions of a second, the ability to understand what is happening while it is happening is critical.<\/p> <p>The Presenter:<\/p> <p>Mike Yawn is a Senior Solutions Architect with Hazelcast, the provider of the leading operational In-Memory Computing Platform. In that role he provides pre-sales consulting on Hazelcast IMDG, Hazelcast Jet, and Hazelcast Cloud solutions to commercial customers. Prior to joining Hazelcast, Mike performed a number of consulting and R&amp;D functions with HP, eBay, Oracle, and other tech companies, supporting customers in financial services, healthcare, manufacturing, retail, and other industries.<\/p> ",
-    "url": "https://www.meetup.com/Atlanta-Society-for-Business-Intelligence/events/262035147/"
-  },
-  {
     "title": "Data Science Tbilisi: How to build an Ai powered fintech startup",
     "group": "Data Science Tbilisi",
     "start": "2019-10-01",
     "description": "<p>**For English, please scroll down**<\/p> <p>ღონისძიება ეძღვნება Optio.Ai-ის გამოცდილების გაზიარებას საქართველოში Fintech სტარტაპის დაწყებასთან დაკავშირებით. ასევე, მათს აღმოჩენებს ფინანსური სერვისების პრობლემებში ხელოვნური ინტელექტის გამოყენების მიმართულებით. შეხვედრაზე დამფუძნებლები ისაუბრებენ გამოწვევებზე, რომლებიც ისეთი fintech პროდუქტების შექმნისას შეხვდათ, როგორიც ბანკებსა თუ სხვა მომხმარებლებს უყვართ და იყენებენ. ასევე, ისაუბრებენ, თუ რა გავლენა აქვს ცოდნის გაზიარებას ამ ინდუსტრიაში.<\/p> <p>Optio.Ai-ის მისიაა, რომ განავითაროს გლობალური საბანკო სისტემა 21-ე საუკუნეში ხელოვნური ინტელექტის ჭკვიანი აპლიკაციებისა და მონაცემთა ანალიზის მეშვეობით. კომპანიის მიერ შექმნილი ძლიერი, მონაცემებზე დაფუძნებული პროგრამული პროდუქტების სერია ფინანსურ ფირმებს აძლევს საშუალებას, დაახარისხონ მომხმარებლების ტრანზაქციები. ასევე, შექმნან ინტერაქციული საბანკო გამოცდილებები, რომლებიც ეხმარება მომხმარებელს პირადი ფინანსების დაგეგმვაში.<\/p> <p>მომხსენებლების შესახებ:<\/p> <p>შოთა გიორგობიანი, თანადამფუძნებელი და CEO<br/>Optio.Ai-მდე შოთა სხვადასხვა ინდუსტრიასა და კომპანიაში 12 წლის განმავლობაში მუშაობდა პროგრამული ურუნველყოფის ინჟინრად, განვითარების ხელმძღვანელად და გუნდის ლიდერად. მათ შორის \"საქართველოს რკინიგზაში\", საქართველოს ფინანსთა სამინისტროში, \"UGT\"-ში და სხვა.<\/p> <p>გიორგი მირზიკაშვილი, თანადამფუძნებელი<br/>გიორგის აქვს 10-წლიანი გამოცდილება საქართველოს ფინანსურ სექტორში, ორ ყველაზე დიდ ბანკში საქართველოში. მისი სამუშაო გამოცდილება მოიცავს საცალო ვაჭრობას, მონაცემთა ანალიზს, კამპანიის მართვას, პროდუქტის განვითარებას, CRM-ს, მარკეტინგსა და კომუნიკაციებს.<\/p> <p>სამუშაო ენა: ქართული<br/>შეხვედრის ორგანიზატორია DataFest Tbilisi და Fintech.ge<br/>დასწრება უფასოა, თუმცა აუცილებელია, რომ გაიაროთ meetup.com-ზე<\/p> <p>This event will be dedicated to sharing Optio.Ai's experience about starting a fintech startup in Georgia, and their findings regarding Ai services applied to problems in financial services. During the meetup, the founders will share their experience and challenges in building fintech products that banks and other customers love and use. Also, what impact knowledge sharing creates for all participants from the industry<\/p> <p>Optio.Ai is on a mission to move the global banking system into the 21st century through smart applications of artificial intelligence and data analytics. The company’s series of powerful, data-driven software products enable financial firms to precisely categorize their customers’ transactions and create conversational banking experiences that help people to manage their personal finances.<\/p> <p>About Speakers:<br/>Shota Giorgobiani. Co-Founder and CEO<br/>Before Optio.Ai Shota has worked as a software engineer, head of development and team leader for more than 12 years in various industries and companies, including \"Georgian Railway\", \"Standard Bank\", \"Ministry of Finance of Georgia\", \"UGT\" and etc.<\/p> <p>Giorgi Mirzikashvili. Co-Founder<br/>Giorgi has over 10 years of experience in the Georgian financial sector at the two biggest Georgian banks. His working experience includes Retail sales, Data analytics, Campaign management, Product development, CRM, Marketing and Operations.<\/p> <p>The working language: Georgian<br/>The meetup is organized by DataFest Tbilisi in partnership with Fintech.ge<\/p> ",
     "url": "https://www.meetup.com/Data-Science-Tbilisi/events/265116251/"
+  },
+  {
+    "title": "Data Science & Business Intelligence Society of Atlanta: Financial Market Insights from Stream Processing",
+    "group": "Data Science & Business Intelligence Society of Atlanta",
+    "start": "2019-10-24",
+    "description": "<p>This talk will show how Hazelcast Jet, an open source in-memory Stream Processing Engine that provides higher throughput and lower latency that previous generations of streaming solutions, can be applied to financial markets to detect patterns and react to events as they happen.<\/p> <p>Abstract:<\/p> <p>Stream Processing provides a way to process and/or query a continuous data stream at near real-time speeds. Stream processing engines provide the ability to gain insight into changing conditions as they are happening, rather than analyzing historical data. In businesses such as trading where opportunities can arise and disappear in fractions of a second, the ability to understand what is happening while it is happening is critical.<\/p> <p>The Presenter:<\/p> <p>Mike Yawn is a Senior Solutions Architect with Hazelcast, the provider of the leading operational In-Memory Computing Platform. In that role he provides pre-sales consulting on Hazelcast IMDG, Hazelcast Jet, and Hazelcast Cloud solutions to commercial customers. Prior to joining Hazelcast, Mike performed a number of consulting and R&amp;D functions with HP, eBay, Oracle, and other tech companies, supporting customers in financial services, healthcare, manufacturing, retail, and other industries.<\/p> ",
+    "url": "https://www.meetup.com/Atlanta-Society-for-Business-Intelligence/events/262035147/"
   },
   {
     "title": "Data Science KC: Using Data Science to Determine Liveness",
@@ -3321,6 +3440,13 @@
     "start": "2019-11-28",
     "description": "<p>TBA<\/p> ",
     "url": "https://www.meetup.com/Waterloo-Data-Science-and-Data-Engineering/events/264883807/"
+  },
+  {
+    "title": "Bristol Data Scientists: Bristol Data Scientists Meeting - October 2019",
+    "group": "Bristol Data Scientists",
+    "start": "2019-10-29",
+    "description": "<p>IMPORTANT NOTE: Registration for this event is via an external ticketing system here: <a href=\"https://ti.to/bristol-data-scientists/29-oct-2019\" class=\"linkified\">https://ti.to/bristol-data-scientists/29-oct-2019<\/a><\/p> <p>You do not need to register on meetup, only the above link. This helps us track numbers better.<\/p> <p>If you would like to speak please drop us a message on meetup!<\/p> ",
+    "url": "https://www.meetup.com/Bristol-Data-Scientists/events/265210651/"
   },
   {
     "title": "Portland Data Science Group: Data Discussions - Cloudability",
@@ -3519,6 +3645,20 @@
     "url": "https://www.meetup.com/Washington-DC-Women-In-Data/events/264738465/"
   },
   {
+    "title": "Lagos R User Group: Getting Started with Data Science (Advanced Analytics)",
+    "group": "Lagos R User Group",
+    "start": "2019-09-28",
+    "description": "<p>We started the Getting Started with Data Science Series last month and the previous edition was more on the basics of analyzing data and making meaningful decision from it. For september meetup, we are focused on building on what we have done, making it more advanced with a touch of excellence.<\/p> <p>It is our aim that at the end of the class, you should be able to manipulate, visualize any dataset you are given be it clean or dirty, being a good storyteller and problem solver and also build a dashboard.<\/p> <p>The meetup is a fit for anybody, be it a developer, designer, analyst, researcher or whatever occupation you are in.<\/p> <p>We are open to accepting anybody and taking you through the basics till they are confident to call themselves masters<\/p> <p>Register Here: <a href=\"https://forms.gle/vzvkvmhWUADuDBdM6\" class=\"linkified\">https://forms.gle/vzvkvmhWUADuDBdM6<\/a><\/p> ",
+    "url": "https://www.meetup.com/LagosRUsers/events/264951029/"
+  },
+  {
+    "title": "Kaggle Paris Meetup: Hands-on Kaggle meetup #21  AutoML 2 : MLBox new release",
+    "group": "Kaggle Paris Meetup",
+    "start": "2019-09-30",
+    "description": "<p>Dear Members,<\/p> <p>Agenda 7pm-7:30 welcome<\/p> <p>After some feedback on the current challenges, open discussions<br/>and some hints on the DL summer school in warsaw,<\/p> <p>Axel de Romblay and Henri Gérard will present the latest release of MLBox !<\/p> <p>0°) Introduction &amp; news since last meetup.<\/p> <p>1°) MLBox workshop: quick introduction on Auto-ML + tool overview (repo, features, setup...) + hands-on on a real dataset.<\/p> <p>We recommend you to install MLBox before the workshop:<\/p> <p>&gt;&gt;&gt; <a href=\"https://github.com/AxeldeRomblay/MLBox\" class=\"linkified\">https://github.com/AxeldeRomblay/MLBox<\/a><\/p> <p>2°) Discussion about the next meetup. One speaker from Deezer is forecasted<\/p> <p>3°) Networking , buffet<\/p> <p>End 10pm<\/p> <p>Please put your remarks and suggestion in the discussion page.<\/p> <p>&gt;&gt; materials :<\/p> <p>AutoML, : huge list of products coming from GAFA or editors ( like H2O.ai)<\/p> <p>Note last one from Google<br/><a href=\"https://cloud.google.com/automl-tables/docs/quickstart\" class=\"linkified\">https://cloud.google.com/automl-tables/docs/quickstart<\/a><\/p> <p>Also this competition oriented on AutoML :<br/><a href=\"https://www.kaggle.com/c/ieee-fraud-detection/rules\" class=\"linkified\">https://www.kaggle.com/c/ieee-fraud-detection/rules<\/a><\/p> <p>Book :<br/><a href=\"https://www.automl.org/book/\" class=\"linkified\">https://www.automl.org/book/<\/a><\/p> <p>===<\/p> <p>MLBox<br/><a href=\"https://github.com/AxeldeRomblay/MLBox\" class=\"linkified\">https://github.com/AxeldeRomblay/MLBox<\/a><\/p> <p>CPMP<br/><a href=\"https://www.youtube.com/watch?time_continue=6&amp;v=fH_FiquKhiI\" class=\"embedded\">https://www.youtube.com/watch?time_continue=6&amp;v=fH_FiquKhiI<\/a><\/p> <p>Slack channel<br/><a href=\"https://kagglenoobs.slack.com/\" class=\"linkified\">https://kagglenoobs.slack.com/<\/a><\/p> <p>=================== NeurIPS tutorial<\/p> <p><a href=\"https://nips.cc/Conferences/2018/Schedule?showParentSession=12526\" class=\"linkified\">https://nips.cc/Conferences/2018/Schedule?showParentSession=12526<\/a><\/p> <p>Franck Hutter team<\/p> <p>=================== From Robert's meetup<br/>Papers:<\/p> <p>1. Automated Machine Learning: <a href=\"https://en.wikipedia.org/wiki/Automated_machine_learning\" class=\"linkified\">https://en.wikipedia.org/wiki/Automated_machine_learning<\/a><\/p> <p>2. Visus: An Interactive System for Automatic Machine Learning Model Building and Curation: <a href=\"https://arxiv.org/abs/1907.02889v1\" class=\"linkified\">https://arxiv.org/abs/1907.02889v1<\/a><\/p> <p>3. An Open Source AutoML Benchmark: <a href=\"https://arxiv.org/pdf/1907.00909v1.pdf\" class=\"linkified\">https://arxiv.org/pdf/1907.00909v1.pdf<\/a><\/p> <p>4. Transfer Learning with Neural AutoML: <a href=\"https://arxiv.org/abs/1803.02780v5\" class=\"linkified\">https://arxiv.org/abs/1803.02780v5<\/a><\/p> <p>5. A Very Brief and Critical Discussion on AutoML: <a href=\"https://arxiv.org/abs/1811.03822v1\" class=\"linkified\">https://arxiv.org/abs/1811.03822v1<\/a><\/p> <p>6. Survey on Automated Machine Learning: <a href=\"https://arxiv.org/abs/1904.12054\" class=\"linkified\">https://arxiv.org/abs/1904.12054<\/a><\/p> <p>7. AutoML: Automating the design of machine learning models for autonomous driving: <a href=\"https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a\" class=\"linkified\">https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a<\/a><\/p> <p>8. Neural Architecture Search with Reinforcement Learning: <a href=\"https://arxiv.org/abs/1611.01578\" class=\"linkified\">https://arxiv.org/abs/1611.01578<\/a><\/p> <p>Bonus Resources:<\/p> <p>1. An End-to-End AutoML Solution for Tabular Data at KaggleDays: <a href=\"https://ai.googleblog.com/2019/05/an-end-to-end-automl-solution-for.html\" class=\"linkified\">https://ai.googleblog.com/2019/05/an-end-to-end-automl-solution-for.html<\/a><\/p> <p>2. Hyperparameter tuning: <a href=\"https://en.wikipedia.org/wiki/Hyperparameter_optimization\" class=\"linkified\">https://en.wikipedia.org/wiki/Hyperparameter_optimization<\/a><\/p> <p>3. Model selection: <a href=\"https://en.wikipedia.org/wiki/Model_selection\" class=\"linkified\">https://en.wikipedia.org/wiki/Model_selection<\/a><\/p> <p>4. Neural architecture search: <a href=\"https://en.wikipedia.org/wiki/Neural_architecture_search\" class=\"linkified\">https://en.wikipedia.org/wiki/Neural_architecture_search<\/a><\/p> <p>5. Neuroevolution: <a href=\"https://en.wikipedia.org/wiki/Neuroevolution\" class=\"linkified\">https://en.wikipedia.org/wiki/Neuroevolution<\/a><\/p> <p>6. Self-tuning: <a href=\"https://en.wikipedia.org/wiki/Self-tuning\" class=\"linkified\">https://en.wikipedia.org/wiki/Self-tuning<\/a><\/p> <p>7. AutoML: Methods, Systems, Challenges (book): <a href=\"https://www.automl.org/book\" class=\"linkified\">https://www.automl.org/book<\/a><\/p> <p>8. AutoML for Keras: <a href=\"https://autokeras.com\" class=\"linkified\">https://autokeras.com<\/a><\/p> <p>Best Regards<br/>Organizing team<\/p> ",
+    "url": "https://www.meetup.com/Kaggle-Paris-Meetup/events/264475098/"
+  },
+  {
     "title": "Melbourne ML/AI Bookclub: ML/AI Bookclub - Reinforcement Learning",
     "group": "Melbourne ML/AI Bookclub",
     "start": "2019-10-02",
@@ -3610,20 +3750,6 @@
     "url": "https://www.meetup.com/Melbourne-ML-AI-Bookclub/events/vllddryzqbhc/"
   },
   {
-    "title": "Lagos R User Group: Getting Started with Data Science (Advanced Analytics)",
-    "group": "Lagos R User Group",
-    "start": "2019-09-28",
-    "description": "<p>We started the Getting Started with Data Science Series last month and the previous edition was more on the basics of analyzing data and making meaningful decision from it. For september meetup, we are focused on building on what we have done, making it more advanced with a touch of excellence.<\/p> <p>It is our aim that at the end of the class, you should be able to manipulate, visualize any dataset you are given be it clean or dirty, being a good storyteller and problem solver and also build a dashboard.<\/p> <p>The meetup is a fit for anybody, be it a developer, designer, analyst, researcher or whatever occupation you are in.<\/p> <p>We are open to accepting anybody and taking you through the basics till they are confident to call themselves masters<\/p> <p>Register Here: <a href=\"https://forms.gle/vzvkvmhWUADuDBdM6\" class=\"linkified\">https://forms.gle/vzvkvmhWUADuDBdM6<\/a><\/p> ",
-    "url": "https://www.meetup.com/LagosRUsers/events/264951029/"
-  },
-  {
-    "title": "Kaggle Paris Meetup: Hands-on Kaggle meetup #21  AutoML 2 : MLBox new release",
-    "group": "Kaggle Paris Meetup",
-    "start": "2019-09-30",
-    "description": "<p>Dear Members,<\/p> <p>Agenda 7pm-7:30 welcome<\/p> <p>After some feedback on the current challenges, open discussions<br/>and some hints on the DL summer school in warsaw,<\/p> <p>Axel de Romblay and Henri Gérard will present the latest release of MLBox !<\/p> <p>0°) Introduction &amp; news since last meetup.<\/p> <p>1°) MLBox workshop: quick introduction on Auto-ML + tool overview (repo, features, setup...) + hands-on on a real dataset.<\/p> <p>We recommend you to install MLBox before the workshop:<\/p> <p>&gt;&gt;&gt; <a href=\"https://github.com/AxeldeRomblay/MLBox\" class=\"linkified\">https://github.com/AxeldeRomblay/MLBox<\/a><\/p> <p>2°) Discussion about the next meetup. One speaker from Deezer is forecasted<\/p> <p>3°) Networking , buffet<\/p> <p>End 10pm<\/p> <p>Please put your remarks and suggestion in the discussion page.<\/p> <p>&gt;&gt; materials :<\/p> <p>AutoML, : huge list of products coming from GAFA or editors ( like H2O.ai)<\/p> <p>Note last one from Google<br/><a href=\"https://cloud.google.com/automl-tables/docs/quickstart\" class=\"linkified\">https://cloud.google.com/automl-tables/docs/quickstart<\/a><\/p> <p>Also this competition oriented on AutoML :<br/><a href=\"https://www.kaggle.com/c/ieee-fraud-detection/rules\" class=\"linkified\">https://www.kaggle.com/c/ieee-fraud-detection/rules<\/a><\/p> <p>Book :<br/><a href=\"https://www.automl.org/book/\" class=\"linkified\">https://www.automl.org/book/<\/a><\/p> <p>===<\/p> <p>MLBox<br/><a href=\"https://github.com/AxeldeRomblay/MLBox\" class=\"linkified\">https://github.com/AxeldeRomblay/MLBox<\/a><\/p> <p>CPMP<br/><a href=\"https://www.youtube.com/watch?time_continue=6&amp;v=fH_FiquKhiI\" class=\"embedded\">https://www.youtube.com/watch?time_continue=6&amp;v=fH_FiquKhiI<\/a><\/p> <p>Slack channel<br/><a href=\"https://kagglenoobs.slack.com/\" class=\"linkified\">https://kagglenoobs.slack.com/<\/a><\/p> <p>=================== NeurIPS tutorial<\/p> <p><a href=\"https://nips.cc/Conferences/2018/Schedule?showParentSession=12526\" class=\"linkified\">https://nips.cc/Conferences/2018/Schedule?showParentSession=12526<\/a><\/p> <p>Franck Hutter team<\/p> <p>=================== From Robert's meetup<br/>Papers:<\/p> <p>1. Automated Machine Learning: <a href=\"https://en.wikipedia.org/wiki/Automated_machine_learning\" class=\"linkified\">https://en.wikipedia.org/wiki/Automated_machine_learning<\/a><\/p> <p>2. Visus: An Interactive System for Automatic Machine Learning Model Building and Curation: <a href=\"https://arxiv.org/abs/1907.02889v1\" class=\"linkified\">https://arxiv.org/abs/1907.02889v1<\/a><\/p> <p>3. An Open Source AutoML Benchmark: <a href=\"https://arxiv.org/pdf/1907.00909v1.pdf\" class=\"linkified\">https://arxiv.org/pdf/1907.00909v1.pdf<\/a><\/p> <p>4. Transfer Learning with Neural AutoML: <a href=\"https://arxiv.org/abs/1803.02780v5\" class=\"linkified\">https://arxiv.org/abs/1803.02780v5<\/a><\/p> <p>5. A Very Brief and Critical Discussion on AutoML: <a href=\"https://arxiv.org/abs/1811.03822v1\" class=\"linkified\">https://arxiv.org/abs/1811.03822v1<\/a><\/p> <p>6. Survey on Automated Machine Learning: <a href=\"https://arxiv.org/abs/1904.12054\" class=\"linkified\">https://arxiv.org/abs/1904.12054<\/a><\/p> <p>7. AutoML: Automating the design of machine learning models for autonomous driving: <a href=\"https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a\" class=\"linkified\">https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a<\/a><\/p> <p>8. Neural Architecture Search with Reinforcement Learning: <a href=\"https://arxiv.org/abs/1611.01578\" class=\"linkified\">https://arxiv.org/abs/1611.01578<\/a><\/p> <p>Bonus Resources:<\/p> <p>1. An End-to-End AutoML Solution for Tabular Data at KaggleDays: <a href=\"https://ai.googleblog.com/2019/05/an-end-to-end-automl-solution-for.html\" class=\"linkified\">https://ai.googleblog.com/2019/05/an-end-to-end-automl-solution-for.html<\/a><\/p> <p>2. Hyperparameter tuning: <a href=\"https://en.wikipedia.org/wiki/Hyperparameter_optimization\" class=\"linkified\">https://en.wikipedia.org/wiki/Hyperparameter_optimization<\/a><\/p> <p>3. Model selection: <a href=\"https://en.wikipedia.org/wiki/Model_selection\" class=\"linkified\">https://en.wikipedia.org/wiki/Model_selection<\/a><\/p> <p>4. Neural architecture search: <a href=\"https://en.wikipedia.org/wiki/Neural_architecture_search\" class=\"linkified\">https://en.wikipedia.org/wiki/Neural_architecture_search<\/a><\/p> <p>5. Neuroevolution: <a href=\"https://en.wikipedia.org/wiki/Neuroevolution\" class=\"linkified\">https://en.wikipedia.org/wiki/Neuroevolution<\/a><\/p> <p>6. Self-tuning: <a href=\"https://en.wikipedia.org/wiki/Self-tuning\" class=\"linkified\">https://en.wikipedia.org/wiki/Self-tuning<\/a><\/p> <p>7. AutoML: Methods, Systems, Challenges (book): <a href=\"https://www.automl.org/book\" class=\"linkified\">https://www.automl.org/book<\/a><\/p> <p>8. AutoML for Keras: <a href=\"https://autokeras.com\" class=\"linkified\">https://autokeras.com<\/a><\/p> <p>Best Regards<br/>Organizing team<\/p> ",
-    "url": "https://www.meetup.com/Kaggle-Paris-Meetup/events/264475098/"
-  },
-  {
     "title": "Analytics Vidhya Bangalore: DataHack Summit 2019, Bengaluru (Conference, Hack Day & Workshops)",
     "group": "Analytics Vidhya Bangalore",
     "start": "2019-11-13",
@@ -3664,6 +3790,13 @@
     "start": "2019-12-07",
     "description": "<p>Venez partager, échanger, travailler sur vos projets ou présenter de vos plus récentes visualisations. Arrivez quand vous voulez, repartez quand vous voulez, c'est relax. Et comme toujours, apportez votre laptop!<\/p> <p>Join us to share, work on personal projects or show and tell your latest data viz! Come whenever you're ready, leave when you feel like it, we're casual. As per usual, bring your laptop!<\/p> ",
     "url": "https://www.meetup.com/Data-Viz-Jam-Sessions-MTL/events/261596174/"
+  },
+  {
+    "title": "Warwick R User Group (R Programming Language): October Warwick R meetup",
+    "group": "Warwick R User Group (R Programming Language)",
+    "start": "2019-10-25",
+    "description": "<p>As we huRtle into autumn, it's time for our October R meetup. Meet at 18:00 for drinks and (free!) food in The Graduate at the University of Warwick. Talks to start at 18:30.<\/p> <p>***<\/p> <p>Stefan Stein — Around the World in 64 Hops<\/p> <p>When visiting a page on the Internet, your request doesn't go directly from your laptop to the web site; instead it jumps from one server to another, across the globe, until it eventually reaches the destination. Stefan shows us how to map this journey with R.<\/p> <p>David Selby — Making Less Repulsive Plots with ggrepel<\/p> <p>This leads into an informal discussion where attendees each take a minute to share an R package or function that they find particularly useful or interesting. No slides necessary.<\/p> <p>***<\/p> <p>Got friends/colleagues who are R users or data scientists? Remember to share this event with them!<\/p> ",
+    "url": "https://www.meetup.com/Warwick-useRs/events/265207632/"
   },
   {
     "title": "Citizen Data Scientists - Melbourne: Model Interpretability and Data Drift",
@@ -3750,11 +3883,11 @@
     "url": "https://www.meetup.com/Greater-Nashville-Healthcare-Analytics/events/263567685/"
   },
   {
-    "title": "Manchester R user Group: External registration req: Manchester R Meetup",
-    "group": "Manchester R user Group",
-    "start": "2019-11-21",
-    "description": "<p>Welcome to the Manchester R Meetup. This free event requires registration via the ti.to ticketing system. Please register here for your free ticket and for more information on the agenda: TBD<\/p> <p>For more information follow @MangoTheCat on Twitter. For past presentations visit www.rmanchester.org.<\/p> ",
-    "url": "https://www.meetup.com/Manchester-R/events/264397680/"
+    "title": "Statistical Programming DC: Job hunting and salary negotiation",
+    "group": "Statistical Programming DC",
+    "start": "2019-10-02",
+    "description": "<p>This event is organized by R-Ladies Washington D.C.: <a href=\"https://www.meetup.com/rladies-dc/events/265104303/\" class=\"linkified\">https://www.meetup.com/rladies-dc/events/265104303/<\/a><br/>Please check out the RLadies Meetup group: <a href=\"https://www.meetup.com/rladies-dc/\" class=\"linkified\">https://www.meetup.com/rladies-dc/<\/a><\/p> <p>Date: Wednesday, October 2, 2019<br/>Time: 6:30 PM to 8:00 PM<\/p> <p>Venue: Tenley-Friendship Neighborhood Library<br/>Address: 4450 Wisconsin Ave NW · Washington, DC<\/p> <p>Event Description:<br/>RLadies are invited to a skill-building workshop to maximize our power as candidates in tech. Together we will:<br/>- walkthrough strategies for job hunting to boost the volume of offers<br/>- vet tools to assess compensation data<br/>- try out techniques to negotiate for a higher salary<br/>Women who are senior in the industry, mid-career, early-career, and entry-level will have the opportunity to learn, to share, and to practice together in a facilitator-led workshop setting. The goal of this event is to empower RLadies to leverage our competitive strengths and resources in pursuit of great jobs with great compensation.<\/p> <p>Facilitator Bio:<br/>Ellen Greer works in Product at Vistaprint Digital and is a former tech recruiter. In the IT field, she has led talent acquisition programs and consulted on job hunts both on the employer’s side of the table and the candidate’s. Ellen is a volunteer leader with Femex, a 16-week class that builds community and empowerment with women, trans, and non-binary individuals in DC.<\/p> ",
+    "url": "https://www.meetup.com/stats-prog-dc/events/265212944/"
   },
   {
     "title": "R-Ladies Adelaide: Keep Calm and Code",
@@ -3776,6 +3909,13 @@
     "start": "2019-10-17",
     "description": "<p>Join us on Thursday mornings to work on our individual programming projects over coffee. Let's motivate each other to keep to our coding goals! The first Keep Calm and Code will be on the morning of the 19th of September.<\/p> <p>All genders welcome. At least one RLadies Adelaide organiser will be there - drop in for half an hour to try a new package, or stay for two hours and work through an online course.<\/p> <p>This is not a workshop - the RLadies organisers will be working on their own projects and are not there in a teaching capacity. They are there as your community, to support and motivate you whilst they work on their own coding goals!<\/p> <p>We'll be at Bean Bar. Grab yourself a coffee and come and find us!<\/p> <p>Eduroam wifi will be accessible. If you are not a part of the eduroam network, you will need to hotspot in order to access the internet.<\/p> ",
     "url": "https://www.meetup.com/rladies-adelaide/events/hgfljryznbwb/"
+  },
+  {
+    "title": "Manchester R user Group: External registration req: Manchester R Meetup",
+    "group": "Manchester R user Group",
+    "start": "2019-11-21",
+    "description": "<p>Welcome to the Manchester R Meetup. This free event requires registration via the ti.to ticketing system. Please register here for your free ticket and for more information on the agenda: TBD<\/p> <p>For more information follow @MangoTheCat on Twitter. For past presentations visit www.rmanchester.org.<\/p> ",
+    "url": "https://www.meetup.com/Manchester-R/events/264397680/"
   },
   {
     "title": "Campus useR Group Frankfurt: October meeting: Publishing with R",
@@ -3855,18 +3995,18 @@
     "url": "https://www.meetup.com/rladies-sydney/events/264936677/"
   },
   {
-    "title": "R-Ladies Tucson AZ: Exploratory Data Analysis & Adventures in R",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2019-10-05",
-    "description": "<p>Our October workshop will focus on Exploratory Data Analysis (EDA) and what to do when you're handed a bunch of data (or have collected it yourself), but don't know where to start. Together we will work through the data science process of asking questions, knowing which questions to ask, and how to answer them. We will provide you with a dataset, but you can of course bring your own project if you'd like feedback and help from others.<\/p> <p>What to bring:<\/p> <p>- Your laptop and charger with RStudio installed, but the library also provides laptops you may use<\/p> <p>Who should come:<\/p> <p>- Everybody of all skill levels<\/p> <p>Where to Park:<\/p> <p>The Cherry Avenue Garage is right across from the library, and parking should be free on the weekend (unless there's a special event).<\/p> <p>Hope to see you there!<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/264723707/"
-  },
-  {
     "title": "R-Ladies Toronto: October Event: Working with Text in R!",
     "group": "R-Ladies Toronto",
     "start": "2019-10-05",
     "description": "<p>We're back from an extended summer break with a Saturday event! Please join us for a talk by Ella Kaye on working with text in R.<\/p> <p>Doors will open at 2:00pm and the talk will begin at 2:30pm. There will be light snacks.<\/p> <p>The talk will be held in room 409 in the Stewart Building (149 College). Entry will be through the door on the west side of the building. Entrances to the building and room are wheelchair accessible.<\/p> <p>Talk:<br/>Transcending its origins as a programming language for statistics, R provides excellent tools for working with text. This tidyverse-based talk will provide an overview of some of the fantastic packages available for this, including (but not limited to) `stringr`, `RVerbalExpressions`, `tidytext` and `wordcloud`.<\/p> <p>Speaker:<br/>Ella is a PhD student in Statisitcs at the University of Warwick. She followed her undergraduate degree in Mathematics and Philosophy with Masters degrees in History and Philosophy of Science and then Mathematics Education. Her interest in statistics was first piqued as a secondary school maths teacher when thinking about how to make the subject interesting for teenagers. An MSc in Applied Statistics followed (via a couple of years in working in market research), which lead to the PhD. Ella is an R enthusiast and package author, and the co-organiser of the Oxford R User Group. She also enjoys cooking, cycling and playing the clarinet.<\/p> <p>Please note that by attending you agree to abide by our code of conduct: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-toronto/events/265028511/"
+  },
+  {
+    "title": "R-Ladies Tucson AZ: Exploratory Data Analysis & Adventures in R",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2019-10-05",
+    "description": "<p>Our October workshop will focus on Exploratory Data Analysis (EDA) and what to do when you're handed a bunch of data (or have collected it yourself), but don't know where to start. Together we will work through the data science process of asking questions, knowing which questions to ask, and how to answer them. We will provide you with a dataset, but you can of course bring your own project if you'd like feedback and help from others.<\/p> <p>What to bring:<\/p> <p>- Your laptop and charger with RStudio installed, but the library also provides laptops you may use<\/p> <p>Who should come:<\/p> <p>- Everybody of all skill levels<\/p> <p>Where to Park:<\/p> <p>The Cherry Avenue Garage is right across from the library, and parking should be free on the weekend (unless there's a special event).<\/p> <p>Hope to see you there!<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/264723707/"
   },
   {
     "title": "R-Ladies Brisbane: Introduction to Statistics with R",
@@ -4163,18 +4303,18 @@
     "url": "https://www.meetup.com/rladies-montreal/events/bfrjgryzqbzb/"
   },
   {
-    "title": "R-Ladies Ottawa: R-Ladies Ottawa - Fall Event",
-    "group": "R-Ladies Ottawa",
-    "start": "2019-10-02",
-    "description": "<p>Come join R-Ladies Ottawa for a fun, interactive mini-coding session! For this event, we will be using data from the National Health Interview Survey (NHIS: <a href=\"https://www.cdc.gov/nchs/nhis/nhis_2017_data_release.htm\" class=\"linkified\">https://www.cdc.gov/nchs/nhis/nhis_2017_data_release.htm<\/a>) to demonstrate how to analyze \"real\" data. The data we're required to use in our day-to-day work are often messy, hard to read, and may contain missing values. The goal of this exercise is to demonstrate how to overcome these difficulties in order to find meaningful relationships in the data.<\/p> <p>Note: Please bring your laptops in order to be able to participate in this session! We will leave 20-30 minutes at the end for those of you who wish to share your results.<\/p> ",
-    "url": "https://www.meetup.com/rladies-ottawa/events/265000452/"
-  },
-  {
     "title": "R Glasgow: RGlasgow - meetup to start the new year",
     "group": "R Glasgow",
     "start": "2019-10-10",
     "description": "<p>Welcome back to our first RGlasgow meetup of the new academic year! We want to get started as we mean to go on: sharing insights, expertise, stories of learning and the variety of uses we're finding for R in Glasgow. We'll be hosting two speakers this evening to give us some insight into their work in R:<\/p> <p>Russ Hyde will be presenting on 'How to contribute to the R ecosystem/community'. Russ has been a bioinformatician at the University of Glasgow's Paul O'Gorman Leukaemia Research Centre for the past 4 years, studying gene regulation in chronic myeloid leukaemia. R is his go-to tool for data analysis / visualisation / reporting, and he started coding in R about 10 years ago (alongside perl / python etc). Find him on twitter as @haematobot and on github as @russHyde.<\/p> <p>Martin Anderson will be walking us through his R work in ‘Using social network analysis in a realist evaluation of a recovery enterprise’<br/>– describing a procedure for collecting ego-network data using participatory mapping methods and using R to code and analyse this data. Martin is a PhD student at the Social and Public Health Sciences Unit. His PhD research is an evaluation of the implementation of the San Patrignano recovery enterprise model in Scotland, seeking to understand the influence of contextual factors on change mechanisms when transferring an intervention model to a substantially different setting.<\/p> <p>Come along to hear our two speakers. Afterwards we'll head to the Raven again for post-meetup catchup!<\/p> ",
     "url": "https://www.meetup.com/RGlasgow/events/265030860/"
+  },
+  {
+    "title": "R-Ladies Ottawa: R-Ladies Ottawa - Fall Event",
+    "group": "R-Ladies Ottawa",
+    "start": "2019-10-02",
+    "description": "<p>Come join R-Ladies Ottawa for a fun, interactive mini-coding session! For this event, we will be using data from the National Health Interview Survey (NHIS: <a href=\"https://www.cdc.gov/nchs/nhis/nhis_2017_data_release.htm\" class=\"linkified\">https://www.cdc.gov/nchs/nhis/nhis_2017_data_release.htm<\/a>) to demonstrate how to analyze \"real\" data. The data we're required to use in our day-to-day work are often messy, hard to read, and may contain missing values. The goal of this exercise is to demonstrate how to overcome these difficulties in order to find meaningful relationships in the data.<\/p> <p>Note: Please bring your laptops in order to be able to participate in this session! We will leave 20-30 minutes at the end for those of you who wish to share your results.<\/p> ",
+    "url": "https://www.meetup.com/rladies-ottawa/events/265000452/"
   },
   {
     "title": "R-Ladies Freiburg: Modeling in R - Part One",
@@ -4373,13 +4513,6 @@
     "url": "https://www.meetup.com/Long-Island-Data-Analytics-Meetup-Group/events/264954091/"
   },
   {
-    "title": "Innomatics Research Labs - Datascience and AI group: Seminar on Artificial Intelligence and it's applications in Face Recognition.",
-    "group": "Innomatics Research Labs - Datascience and AI group",
-    "start": "2019-09-28",
-    "description": "<p>***FREE SEMINAR ON INTRODUCTION TO DATA SCIENCE AND ARTIFICIAL INTELLIGENCE ****<\/p> <p>Want to build a lucrative career in Data Science by getting trained by the Lead Data Scientists?<br/>Here is the opportunity!<br/>We are happy to inform about the upcoming, AI and Face Recognition Meetup, handled by expert Data Scientists. The Meetup starts on 28th September and is a one day event.<br/>This Meetup is part of the Face Recognition Conference and an incredible chance to connect with both organizers, and individuals like you.<\/p> <p>Face recognition in static images and video sequences captured in unconstrained recording conditions is one of the most widely studied topics in computer vision due to its extensive applications in surveillance, law enforcement, bio-metrics, marketing, and so forth. Recently, methodologies that achieve good performance have been presented in top-tier computer vision conferences (e.g., ICCV, CVPR, ECCV etc.) and great progress has been achieved in face recognition with deep learning-based methods. Even though comprehensive benchmarks and extensive efforts exist for deep face recognition, very limited effort has been made towards benchmarking lightweight deep face recognition, which aims at model compactness and energy efficiency to enable efficient system deployment. In ICCV 2019, we make a significant step further and propose a new comprehensive benchmark, as well as organize the first challenge &amp; meetup for lightweight deep face recognition.<\/p> <p>Goal:<br/>Understand what AI is and it's applications in Face Recognition.<\/p> <p>What you'll learn:<br/>How to plan your career in Artificial Intelligence?<br/>Career path in Artificial Intelligence.<br/>Understanding Face Recognition and it's applications in day to day life.<\/p> <p>Ideal for:<br/>Anyone looking for career transformation and career guidance<br/>Who are interested in Artificial Intelligence?<br/>Graduates/Employees looking for upgrading skills<\/p> <p>Objectives of the Meetup:<br/>Understanding what Artificial Intelligence is<br/>Applications of AI in in different domains<br/>Understanding Face Recognition<br/>Applications of Face Recognition<\/p> ",
-    "url": "https://www.meetup.com/Innomatics-Research-Labs-Datascience-and-AI-group/events/265141867/"
-  },
-  {
     "title": "R-Ladies East Lansing: Importing & Tidying Data w/ R",
     "group": "R-Ladies East Lansing",
     "start": "2019-10-07",
@@ -4541,6 +4674,13 @@
     "url": "https://www.meetup.com/Bern-R/events/sffhtqyzqbmb/"
   },
   {
+    "title": "R-Ladies Ames: TidyTuesday",
+    "group": "R-Ladies Ames",
+    "start": "2019-10-01",
+    "description": "<p>Everyone is welcome with or without laptop ;)<br/>Room 195A<\/p> ",
+    "url": "https://www.meetup.com/rladies-ames/events/265210243/"
+  },
+  {
     "title": "R-Ladies Canberra: Workshop for Design a personal website with R by Dr Alison Hill (RStudio)",
     "group": "R-Ladies Canberra",
     "start": "2019-10-03",
@@ -4625,13 +4765,6 @@
     "url": "https://www.meetup.com/Digital-Marketing-Data-Science-Ateliers-Q-R-Gratuits/events/qdhskqyzpblc/"
   },
   {
-    "title": "Predictive Analytics and Data Science using Spark, R, Python: Free Local Meetup – How to Become a  Data Scientist",
-    "group": "Predictive Analytics and Data Science using Spark, R, Python",
-    "start": "2019-09-27",
-    "description": "<p>Link to Register:<br/><a href=\"https://meetupciam0927.eventbrite.com/?aff=meetup\" class=\"linkified\">https://meetupciam0927.eventbrite.com/?aff=meetup<\/a><\/p> <p>Location:<br/>California Institute of Advanced Management (CiAM)<br/>1000 South Fremont Ave. Building A-10, 4th Floor,<br/>Alhambra, CA 91803<\/p> <p>Description:<br/>How to be a data scientist? How to transfer from your current job to a data scientist? These are the concerns for many new graduates and young professionals.<br/>Come and enjoy the meetup. You will get:<br/>• The opportunity to meet with senior data scientists in different industry and experts in career development.<br/>• The firsthand experience sharing from our keynote speaker about their career life and insight of industry trends.<br/>• Get advises in designing your data career from the professional career mentor.<br/>• Job opportunities of data scientists will be shared in the meetup as well.<br/>• Drinking water, Soda, snacks and chips will be served.<br/>• We will provide a parking voucher.<\/p> <p>Introduction of Hosts:<\/p> <p>International Data Engineering and Science Association (IDEAS)<\/p> <p>IDEAS is a nonprofit organization which offers practical resources to help members connect and collaborate. Our members are individuals and organizations that are enthusiastic about developing Data Science skills, and also eager to exchange knowledge with other Data Science experts. We bridge the gap between academia and the industry. We build a data engineering and science hub by providing robust resources and connecting real-world expertise together from business leaders, professionals, and promising students. Our vision is to foster the data engineering and data science ecosystems and broaden the adoption of their underlying technologies, thus accelerating the innovations data can bring to society. We empower and nurture community growth by offering online resources, conferences, latest industry trends and data related job opportunities.<\/p> <p>California Institute of Advanced Management (CiAM)<\/p> <p>The California Institute of Advanced Management (CiAM) is a nonprofit graduate university specializing in experiential learning and responsible management. Our Mission builds from the wisdom of Peter F. Drucker, the Father of Modern Management, to produce leaders who have a deep understanding of their management responsibilities to achieve personal and societal success. We do this by delivering experiential learning in both traditional classroom and virtual environments.Students who enroll at CiAM have the opportunity to work on 6 consulting projects with real businesses. With real-world business experience as our core, we provide students the opportunity to build a portfolio of business accomplishments. CiAM, a WASC accredited educational institution, offers a general MBA and MBA with concentrations in Business Analytics and Project Management.<\/p> ",
-    "url": "https://www.meetup.com/Predictive-Analytics-and-Data-Science-using-Spark-R-Python/events/znffjryzmbkc/"
-  },
-  {
     "title": "Predictive Analytics and Data Science using Spark, R, Python: SoCal AI, Data Science Conference Tickets with 50% OFF ONLY for Meetup",
     "group": "Predictive Analytics and Data Science using Spark, R, Python",
     "start": "2019-10-26",
@@ -4644,13 +4777,6 @@
     "start": "2019-10-17",
     "description": "<p>Hi everyone! We're kicking off our first event in October, sponsored by trivago (<a href=\"https://www.trivago.com/\" class=\"linkified\">https://www.trivago.com/<\/a>), with three short talks:<\/p> <p>• How to find, evaluate and launch data business ideas (Daniel Kupka)<br/>• Practical reproducibility of analyses (Alex Dolphin)<br/>• Shiny development in an academic vs business setting (Praer Owlarn)<\/p> <p>*** Agenda ***<br/>• 18:30 - 19:00: Arrival, get a drink and socialise<br/>• 19:00 - 19:10: Quick introduction<br/>• 19:10 - 19:30: Daniel's Talk + Q&amp;A<br/>• 19:30 - 19:50: Alex's Talk + Q&amp;A<br/>• 19:50 - 20:10: Praer's Talk + Q&amp;A<br/>• 20:10 - Open End: Socialising<\/p> <p>*** How to find, evaluate and launch data business ideas (Daniel Kupka) ***<\/p> <p>-- abstract and speaker info coming soon --<\/p> <p>-----------------------------------------<\/p> <p>*** Practical reproducibility of analyses (Alex Dolphin) ***<\/p> <p>In the pursuit of robust, reproducible, and extendable analyses, one key aspect frequently gets overlooked: practicality. Reproducible analyses with a potential for good review are often cumbersome to write: they may require branches to be pulled, environments to be built, and variables to be changed in a well-hidden file. I will propose a step towards greater practicality with an example using three technologies many data scientists know to some extent:<br/>- RMarkdown<br/>- R shiny server<br/>- Docker<\/p> <p>By presenting this concept I hope to demonstrate that it is possible for:<br/>- data scientists to review the live code with one link to a shiny-rendered page<br/>- non-data-scientists to rerun and extend the analysis through an intuitive GUI<br/>- the data scientist doing the task to achieve this only writing one file in their preferred coding language<\/p> <p>Alex Dolphin is a Data Scientist in the Marketplace Intelligence team of trivago. He has worked for 3 years in the Data Science function, and comes from a background of Mathematics at university. He believes that data scientists should have access to highly-reliable data and well-maintained tools as a minimum to produce quality output.<\/p> <p>-----------------------------------------<\/p> <p>*** Shiny development in an academic vs business setting (Praer Owlarn) ***<\/p> <p>Shiny is a popular R package for building interactive web apps – no web development knowledge required (<a href=\"https://shiny.rstudio.com\" class=\"linkified\">https://shiny.rstudio.com<\/a>)! Its ease-of-use and extendibility makes it popular in both academic and business settings, but implementation in the two environments can be rather different. I’ll share my experience writing shiny apps at a Max Planck Institute (a non-profit research institute) and trivago (a German hotel search engine), and how differences in task complexity, IT infrastructure and organisational mindset affected my approaches and the packages I used.<\/p> <p>Praer Owlarn is a data analyst at trivago. After a decade as a biologist, she decided to learn a little R and immediately fell in love! Soon, she waved goodbye to the bench and is now having fun diving into big data sets, exploring/contributing to R packages and building shiny apps.<\/p> <p>-----------------------------------------<\/p> <p>Thanks to trivago for hosting &amp; sponsoring this edition of the Düsseldorf R User Group Meetup. There will be food and drinks available.<\/p> ",
     "url": "https://www.meetup.com/Dusseldorf-R-User-Group/events/265061800/"
-  },
-  {
-    "title": "Intelligence of Things at CoE Gurugram: Live Coding Session on Breast Cancer Detection",
-    "group": "Intelligence of Things at CoE Gurugram",
-    "start": "2019-09-28",
-    "description": "<p>In recent times, breast cancer has become the most common type of cancer affecting women worldwide accounting for 25% of all cancer cases and affected 3.5 million people in[masked]. Early diagnosis in these cases significantly increases the chances of survival. The key challenge in cancer detection is how to classify tumours into malignant or benign. Artificial Intelligence can dramatically improve the accuracy of diagnosis. Research indicates that most experienced physicians can diagnose cancer with 79% accuracy while using artificial intelligence based diagnosis, it is possible to achieve 91% accuracy.<\/p> <p>NASSCOM CoE – IoT &amp; AI, Gurugram &amp; Equonix Tech Lab have organised a LIVE CODING SESSION on BREAST CANCER DETECTION<\/p> <p>SESSION FEES : ₹300<br/>PAYMENT CAN ALSO BE MADE ON THE SPOT<\/p> <p>REGISTRATION via <a href=\"https://forms.gle/8VxrTkrxu5ppGTYR8\" class=\"linkified\">https://forms.gle/8VxrTkrxu5ppGTYR8<\/a><\/p> <p>AGENDA<\/p> <p>09:30am - 10:00am | REGISTRATION<\/p> <p>10:00am - 12:00pm | SESSION 1<br/>To understand this problem set and understanding the Machine learning approaches, researchers worldwide are developing autonomous, user-friendly solution for cancer detection. This may improve the overall healthcare system and associated policies drastically in the next few years. This session is focussed on the following topics:<\/p> <p>• Introduction and importance of Machine Learning in Medical Applications<br/>• Current Market Trends<br/>• Introduction to Cancer Dataset and Significance<br/>• Visualization of Dataset<br/>• Understand the dataset<br/>• Feature Selection and Random Forest Classification<br/>• Feature Extraction<br/>• Estimation and Classification<br/>• How to improve the results, understand the parameters.<br/>• Deployment strategy &amp; Cost Estimation<\/p> <p>12:00pm – 12:15pm | TEA &amp; SNACKS<\/p> <p>12:15pm – 01:15pm | SESSION 2<br/>Developing more specialized chips and reducing the computation required during deep learning is very important to execute an optimised, resource efficient deep learning model on the edge device itself. This is known as “AI on the edge” and could benefit from specialized, fixed chip architectures that are more efficient. Datacentres that power “AI on the cloud” on the other hand, would run on fully scalable and programmable chip architectures, to handle a much broader spectrum of learning tasks. This session will give an overview of the following:<br/>• IP market for Artificial Intelligence<br/>• Growth report on semiconductor market in VLSI and Machine Learning based systems<br/>• Market Analysis on neural networks in the semiconductor market<\/p> <p>For any queries, please reach out to [masked]<\/p> ",
-    "url": "https://www.meetup.com/Intelligence-of-Things-CoE_Gurugram/events/264928602/"
   },
   {
     "title": "Salt Lake City R Language Study Group: SVM for Regression(SVR)  and Classification ",
@@ -4735,6 +4861,13 @@
     "start": "2019-10-10",
     "description": "<p>What will we cover in this hands-on workshop?<br/>To get data into R, the first step is to import it. It’s very common to get data from databases, csv files, Excel files, APIs, or from websites through HTML tables. One less common but tricky way to get data is from PDFs. PDFs come in 2 forms - machine readable and non-machine readable. Dr. Stephanie Zimmer will give examples of both and discuss some tricks and tips she's learned to get these data into R so they can be analyzed. The bulk of the work will be done by two packages: pdftools and tesseract. We will also use the tidyverse package to parse data once it's in R.<\/p> <p>What's the schedule?<br/>6:00pm - 6:15pm - Networking<br/>6:15pm - 6:35pm - Lightning Talks* (Karen Jin)<br/>6:35pm - 6:45pm - Set up (install R packages, etc.)<br/>6:45pm - 7:45pm - Workshop<br/>7:45pm - 8:00pm - Wrap up<\/p> <p>*We are looking for Lightning Talk presenters! Please email Sheila at [masked] or message her on Meetup if you are interested in giving a five minute Lightning Talk.<\/p> <p>What should I bring?<br/>Please bring your own (fully charged) laptop.<\/p> <p>What about parking?<br/>The best place to park for this event is the Bryan Center Garage on Science Drive. It is $1 for 30 minutes.<\/p> <p>Who should come?<br/>Beginners are welcome and encouraged to join this event but please install the most recent version of R as well as RStudio on your laptop before attending this meetup event. Experienced R users are also encouraged to update their versions of R and RStudio as well as their R packages (in RStudio go to Tools &gt; Check for package updates...). Here are links to free downloads for R (<a href=\"https://cran.r-project.org/\" class=\"linkified\">https://cran.r-project.org/<\/a>) and RStudio (<a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a>). Downloading and installing both of these programs before this meetup will help us keep on schedule and make sure you learn the most you can while at the meetup event.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
     "url": "https://www.meetup.com/rladies-rtp/events/264804570/"
+  },
+  {
+    "title": "Statistical Seminars DC: Risk, Mobile Phones, Drugs, and Uncertainty: Applied Data Science in the Wild",
+    "group": "Statistical Seminars DC",
+    "start": "2019-10-02",
+    "description": "<p>Join us on Day 2 of Data Week DC 2019 as Mathematica (<a href=\"https://www.mathematica.org/services/data-science-and-analytics\" class=\"linkified\">https://www.mathematica.org/services/data-science-and-analytics<\/a>) researchers share case studies of data science in the wild! The evening’s talks will explore a range of methods used to address policymaking and program administration challenges faced by Federal and state agencies.<\/p> <p>AGENDA<\/p> <p>6:00 – Welcome and Introductions<\/p> <p>6:15 – Applied Data Science for Federal and State Agencies: Mathematica Researchers at Work (and at Play)<\/p> <p>6:30 – Deep Dive I: Using Multilevel Regression with Poststratification to Adjust for Non-representative Sampling of Mobile Phone Survey Data<\/p> <p>6:45 – Deep Dive II: Machine Learning and Natural Language Processing to Identify Opioid Users from Administrative Data<\/p> <p>7:00 – Deep Dive III: Speaking on Data’s Behalf: Communicating Uncertainty to Non-technical Audiences and Supporting Decisionmaking with Bayesian or Frequentist Results<\/p> <p>7:15 – Q&amp;A<\/p> <p>7:30 – Data Drinks at Tonic<\/p> <p>****<br/>As a follow-up to this event, is there a methods workshop we could offer? Let us know when you see us or leave a note in the comments.<\/p> <p>****<br/>TALK DESCRIPTIONS AND SPEAKERS<\/p> <p>FEI XING, Senior Data Scientist (Ph.D., Mathematics), will open the evening with an overview of how Mathematica researchers use data science to support their work for Federal and state agencies. He’ll share a number of examples including: designing and implementing data visualization for decision making, building risk adjustment models to develop health quality measures, and applying machine learning to build an algorithm to automate coding of national survey data. Learn more about Fei on LinkedIn: <a href=\"https://www.linkedin.com/in/fei-xing-5b692a47/\" class=\"linkified\">https://www.linkedin.com/in/fei-xing-5b692a47/<\/a><\/p> <p>Data collection in many parts of the world is expensive, but mobile technology has the ability to reach individuals in remote areas much more cheaply than ever before. However, the sample that respond to a mobile phone survey is not likely to be representative of the full population of interest. In this talk, JONATHAN GELLAR, Statistician (Ph.D., Biostatistics), will illustrate how multilevel regression with poststratification (MRP) can be used to adjust for non-representative sampling. He will also discuss the assumptions of the procedure, and introduce a novel calibration method that is helpful when MRP’s assumptions do not hold. Learn more about Jonathan on LinkedIn: <a href=\"https://www.linkedin.com/in/jonathan-gellar-b0a690a7/\" class=\"linkified\">https://www.linkedin.com/in/jonathan-gellar-b0a690a7/<\/a><\/p> <p>PETER MARIANI, Lead Data Analytics Developer (M.S., Applied and Computational Mathematics), will discuss how a Mathematica team used machine learning and natural language processing to identify opioid users from administrative data. This enabled asking different kinds and deeper questions about how opioid use impacts outcomes. Learn more about Peter on LinkedIn: <a href=\"https://www.linkedin.com/in/peter-mariani-84860063/\" class=\"linkified\">https://www.linkedin.com/in/peter-mariani-84860063/<\/a><\/p> <p>Communicating uncertainty to non-technical audiences can be challenging. In this presentation, IGNACIO MARTINEZ (Ph.D., Economics), will show evidence that presenting Bayesian or frequentist results based on the same underlying data can influence the decisions people make. Learn more about Ignacio on LinkedIn: <a href=\"https://www.linkedin.com/in/ignacio82/\" class=\"linkified\">https://www.linkedin.com/in/ignacio82/<\/a><\/p> ",
+    "url": "https://www.meetup.com/Statistical-Seminars-DC/events/265234585/"
   },
   {
     "title": "R-Ladies Los Angeles: Advanced R Book Club Part 4b: Metaprogramming",
@@ -5126,6 +5259,13 @@
     "start": "2019-10-21",
     "description": "<p>Join us for this introductory workshop! We will touch on the basics of R, navigating the RStudio IDE and various troubleshooting issues.<\/p> <p>If you've never been to our meetings, this is a great chance to come say hi and get started with R.<\/p> <p>Please install R and R Studio before the meeting. We will have facilitators available in case you have issues with installation, but it will be easier for us to move on to using R if the software is already installed.<\/p> <p>1. Install R: <a href=\"https://cran.r-project.org/\" class=\"linkified\">https://cran.r-project.org/<\/a><br/>2. Install R Studio (free desktop version): <a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a><\/p> <p>Please join our Slack channel for questions or installation troubleshooting<br/><a href=\"https://join.slack.com/t/rladies-gainesville/shared_invite/enQtNDY0Nzk1NDMzMzkzLTc2YjE3MTI1YzFkZmQ3NTQ1MDc1MGJmMWQ4MjA4YzAxOWYyYTU1MzJjNjVmNjY5MWM5MWQ0NWI3MDA4ODUxMjU\" class=\"linkified\">https://join.slack.com/t/rladies-gainesville/shared_invite/enQtNDY0Nzk1NDMzMzkzLTc2YjE3MTI1YzFkZmQ3NTQ1MDc1MGJmMWQ4MjA4YzAxOWYyYTU1MzJjNjVmNjY5MWM5MWQ0NWI3MDA4ODUxMjU<\/a><\/p> <p>R-LADIES IS A WORLDWIDE ORGANIZATION WHOSE MISSION IS TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY.<\/p> <p>The R community suffers from an underrepresentation of minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educators, or users.<\/p> <p>As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.<\/p> ",
     "url": "https://www.meetup.com/rladies-gainesville/events/265180063/"
+  },
+  {
+    "title": "R-Ladies Atlanta: Welcome to the Tidyverse: An Introduction to R for Data Science",
+    "group": "R-Ladies Atlanta",
+    "start": "2019-10-14",
+    "description": "<p>R-Ladies Atlanta - you may be interested in attending the following 2-day workshop in October 2019.<\/p> <p>Register now for the “Welcome to the Tidyverse: An Introduction to R for Data Science” on October 14-15, 2019! These one-day workshops will cover the basics of data cleanup, analysis, and visualization. This workshop is aimed squarely at people with little or no previous programming experience.<\/p> <p>Register at<\/p> <p><a href=\"https://web.cvent.com/event/d99160b2-4b34-4513-a001-58e0e93e13e2/summary\" class=\"linkified\">https://web.cvent.com/event/d99160b2-4b34-4513-a001-58e0e93e13e2/summary<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-atlanta/events/265211260/"
   },
   {
     "title": "R-Ladies Boston: Tidy Tuesday",
