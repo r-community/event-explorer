@@ -442,31 +442,34 @@ options(meetupr.use_oauth = TRUE)
 
 
 get_upcoming_events <- function(){
-rugs = read.csv("https://raw.githubusercontent.com/benubah/r-community-explorer/master/docs/data/rugs.csv", fileEncoding = "UTF-8")
-nonRgroups = "sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software|fresno data|pune big data|wids|women in data|ai bookclub|kaggle|data scientist|data science enthusiasts|applied data science|atlytics|advanced analytics|big data|open data|thinking thursday|open source|data science|machine learning|artificial intelligence|analytics meetup|data viz|@ai|women in machine|datascrum|datacouncil|bit|nycfinance|bangalore natural language|digital science|data visualization|diagnostics|bio-data|dataquest|datachangers|digital|ar labs|data savvy|bioinformatics|computational|in tech|society|hackers|analytics vidhya|statistical seminars"
-rugs2 <- rugs[!(rugs$upcoming_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
-rugs2 <- rugs2[!grepl(nonRgroups, tolower(rugs2$name)),]
-rugs_urlnames <- rugs2$fullurl
-rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
-rugs_urlnames <- gsub("/", "", rugs_urlnames) 
-
-all_upcoming_revents <- lapply(rugs_urlnames, 
+  rugs = read.csv("rugs2.csv", encoding = "UTF-8")
+  rugs_urlnames <- rugs$fullurl
+  rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
+  rugs_urlnames <- gsub("/", "", rugs_urlnames) 
+  rugs_urlnames <- gsub("\"", "", rugs_urlnames)
+  
+  rconsortium_pro = c("r-korea", "honolulu-data-science-group", "biodataclub", "open-source-greenville","guru-mvd",
+                      "newcastle-upon-tyne-data-science-meetup", "bamako-data-science", "vuna-sdc-r-user-group",
+                      "meetup-de-grupo-de-usuarios-de-r-de-malaga")
+  rugs_urlnames_full = c(rconsortium_pro, rugs_urlnames)
+  
+all_upcoming_revents <- lapply(rugs_urlnames_full, 
                                function(x) 
                                {
                                  y <- get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
-                                 Sys.sleep(0.5)
+                                 Sys.sleep(0.4)
                                  y
                                }
 )
   
 # PAST EVENTS 30 days ago
-rugs2 <- rugs[!(rugs$past_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
-rugs2 <- rugs2[!grepl(nonRgroups, tolower(rugs2$name)),]
-rugs_urlnames <- rugs2$fullurl
-rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
-rugs_urlnames <- gsub("/", "", rugs_urlnames) 
+#rugs2 <- rugs[!(rugs$past_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
+#rugs2 <- rugs2[!grepl("sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software", tolower(rugs2$name)),]
+#rugs_urlnames <- rugs2$fullurl
+#rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
+#rugs_urlnames <- gsub("/", "", rugs_urlnames) 
 
-all_past_revents <- lapply(rugs_urlnames, 
+all_past_revents <- lapply(rugs_urlnames_full, 
                           function(x) 
                           {
                             y <- get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date()-1)
