@@ -443,9 +443,9 @@ options(meetupr.use_oauth = TRUE)
 
 get_upcoming_events <- function(){
 rugs = read.csv("https://raw.githubusercontent.com/benubah/r-community-explorer/master/docs/data/rugs.csv", fileEncoding = "UTF-8")
-
+nonRgroups = "sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software|fresno data|pune big data|wids|women in data|ai bookclub|kaggle|data scientists|data science enthusiasts|applied data science|atlytics|advanced analytics|big data|open data|data science a|data science "
 rugs2 <- rugs[!(rugs$upcoming_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
-rugs2 <- rugs2[!grepl("sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software", tolower(rugs2$name)),]
+rugs2 <- rugs2[!grepl(nonRgroups, tolower(rugs2$name)),]
 rugs_urlnames <- rugs2$fullurl
 rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
 rugs_urlnames <- gsub("/", "", rugs_urlnames) 
@@ -461,7 +461,7 @@ all_upcoming_revents <- lapply(rugs_urlnames,
   
 # PAST EVENTS 30 days ago
 rugs2 <- rugs[!(rugs$past_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
-rugs2 <- rugs2[!grepl("sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software", tolower(rugs2$name)),]
+rugs2 <- rugs2[!grepl(nonRgroups, tolower(rugs2$name)),]
 rugs_urlnames <- rugs2$fullurl
 rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
 rugs_urlnames <- gsub("/", "", rugs_urlnames) 
