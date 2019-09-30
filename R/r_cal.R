@@ -442,7 +442,7 @@ options(meetupr.use_oauth = TRUE)
 
 
 get_upcoming_events <- function(){
-  rugs = read.csv("rugs2.csv", encoding = "UTF-8")
+  rugs = read.csv("docs/data/rugs2.csv", encoding = "UTF-8")
   rugs_urlnames <- rugs$fullurl
   rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
   rugs_urlnames <- gsub("/", "", rugs_urlnames) 
