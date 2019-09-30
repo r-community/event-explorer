@@ -48,8 +48,11 @@ resize: true
                     
                 }
             });
+return $('#eventselector').val() === 'all' ||    event.title.toLowerCase().indexOf($('#eventselector').val()) >= 0
         }
 
 });
-	
+	$('#eventselector').on('change',function(){ 
+$('#mycalendar').fullCalendar('rerenderEvents');
+ });
 	});
