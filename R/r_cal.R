@@ -461,7 +461,7 @@ all_upcoming_revents <- lapply(rugs_urlnames_full,
 #rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
 #rugs_urlnames <- gsub("/", "", rugs_urlnames) 
 
-all_past_revents <- lapply(rugs_urlnames_full, 
+all_past_revents <- lapply(rugs_urlnames_full[-388], 
                           function(x) 
                           {
                             y <- get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date()-1)
