@@ -442,17 +442,9 @@ options(meetupr.use_oauth = TRUE)
 
 
 get_upcoming_events <- function(){
-  rugs = read.csv("docs/data/rugs2.csv", encoding = "UTF-8")
-  rugs_urlnames <- rugs$fullurl
-  rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
-  rugs_urlnames <- gsub("/", "", rugs_urlnames) 
-  rugs_urlnames <- gsub("\"", "", rugs_urlnames)
-  
-  rconsortium_pro = c("r-korea", "honolulu-data-science-group", "biodataclub", "open-source-greenville","guru-mvd",
-                      "newcastle-upon-tyne-data-science-meetup", "bamako-data-science", "vuna-sdc-r-user-group",
-                      "meetup-de-grupo-de-usuarios-de-r-de-malaga")
-  rugs_urlnames_full = c(rconsortium_pro, rugs_urlnames)
-  
+  rugs = read.csv("docs/data/rugs_list.csv", encoding = "UTF-8")
+  rugs_urlnames_full = rugs$rugs_urlnames_full
+    
 all_upcoming_revents <- lapply(rugs_urlnames_full, 
                                function(x) 
                                {
