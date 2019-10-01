@@ -1,26 +1,5 @@
 [
   {
-    "title": "Moffitt Cancer Center Bio-Data Club: September Meeting: Introduction to Networking and Linux",
-    "group": "Moffitt Cancer Center Bio-Data Club",
-    "start": "2019-09-20",
-    "description": "<p>The most up to date information for this meeting is available here <a href=\"https://github.com/pstew/biodataclub/blob/master/meetings/september_2019/README.md\" class=\"linkified\">https://github.com/pstew/biodataclub/blob/master/meetings/september_2019/README.md<\/a> .<\/p> <p>The purpose of this session is to learn the basics of Unix systems, to understand how clients connect to servers (basic networking), how we can use linux commands (and regular expressions) to look for specific data, and other useful commands.<\/p> <p>For Windows users, they will need to download PuTTY to be able to connect to a linux server. They can either download the MSI (‘Windows Installer’) version, or if they don’t have permission to install software, they can download the standalone version.<\/p> <p>Mac users will be able to use the built-in Terminal application.<\/p> <p>About the Club: The club is an informal group at Moffitt dedicated to promoting a fun and supportive culture for learning biological data science. Our meetings are intended for all levels of computational backgrounds. We meet once a month in the Moffitt Stabile Research Building on the USF campus. The public is encouraged to attend! More information is available at www.biodataclub.org .<\/p> ",
-    "url": "https://www.meetup.com/biodataclub/events/263287907/"
-  },
-  {
-    "title": "Bamako Data Science: Le développement du langage chez l'enfant au stade du babillage",
-    "group": "Bamako Data Science",
-    "start": "2019-09-28",
-    "description": "<p>Pour ce meetup de rentrée, nous recevrons Dr. Ibrahima Cissé, PhD en linguistique. Spécialiste du développement du langage chez l'enfant, il a consacré sa thèse de doctorat à l'étude du babillage et à la formation premiers mots chez l'enfant (la thèse est accessible ici: <a href=\"http://www.theses.fr/2014GRENL029\" class=\"linkified\">http://www.theses.fr/2014GRENL029<\/a>). Il a procédé à des comparaisons entre différents milieux sociolinguistiques (monolingues, bilingues).<\/p> <p>La présentation consistera à revisiter certaines des données qu'il a collectées lors de sa thèse à l'aide de ggplot2. Elle sera focalisée sur les données relatives au babillage, à la structure de la production vocalique et à l'inventaire des vocants et closants relevés ainsi qu'à la période d'apparition de ceux-ci. Ca a l'air très intéréssant, n'est-ce pas?<\/p> <p>Pensez s'il vous plait à RSVP... A très bientôt.<\/p> ",
-    "url": "https://www.meetup.com/Bamako-Data-Science/events/265121854/"
-  },
-  {
-    "title": "Meetup de Grupo de Usuarios de R de Málaga: 8ª reunión de Grupo de Usuarios de R de Málaga ",
-    "group": "Meetup de Grupo de Usuarios de R de Málaga",
-    "start": "2019-09-26",
-    "description": "<p>Hola, tras la consulta Doodle que realizamos a todos vosotros, os informamos de la fecha que ha logrado mayor consenso.<\/p> <p>Jueves 26 de Septiembre a las 19:00. La duración será de una hora a hora y media como mucho.<\/p> <p>Título: RR - Reproducible Research in R (Rmarkdown)<br/>Autor: Domingo López<br/>(solo en inglés el título)<\/p> <p>\"R integra un conjunto de herramientas que permite que cualquier persona puede reproducir los resultados bajo las mismas condiciones. Esto es posible gracias a los documentos dinámicos - dynamic documents (literate programming, Donald Knuth, 1984).<\/p> <p>El producto final de un análisis, o de una investigación no es solo un<br/>informe o un artículo, es también el entorno computacional completo para reproducir los resultados, el código y los datos.<\/p> <p>Desde R podemos generar documentos dinámicos que integren:<br/>- los datos usados<br/>- Latex<br/>- explicaciones<br/>- código en R o en otros lenguajes<br/>- resultados (solo resultados y no el código, solo el código, todo)<\/p> <p>Desde R, usando la herramienta denominada RMarkdown podemos generar informes, presentaciones en pdf o beamer, libros, webs de alta calidad, siguiendo el paradigma de la investigación reproducible.\"<\/p> <p>Con esta charla que nos dará Domingo queremos dar una introducción a Rmarkdown para que comencéis a elaborar presentaciones desde Rstudio.<\/p> <p>Cuidado: Cuando comiences a usar RMarkdown,... no hay marcha atrás.<\/p> <p>Lugar: Laboratorio[masked] (sitio habitual de anteriores charlas).<\/p> <p>Recomendación - traer vuestro portátil los que podáis y tengáis acceso a la wifi de la UMA. Andamos renovando laboratorio, para los que no tengáis acceso a la wifi de la UMA, usaremos los ordenadores que tenemos. Dar las gracias al Departamento de Matemática Aplicada por su colaboración.<\/p> <p>Límite de asistentes: 50 plazas<\/p> <p>Si necesitáramos algo especial os lo decimos estos días.<\/p> <p>Como siempre, luego una/s cerveza/s y/o refresco/s.<\/p> <p>Com siempre, si conocéis a alguien que se apuntó antes en el grupo de usuarios pero no está en Meetup, por favor, indicarle que a partir de ahora trabajamos para coordinarnos usando Meetup.<\/p> <p>Manda esta información a interesados en nuestro grupo.<\/p> <p>¡Un saludo!<\/p> ",
-    "url": "https://www.meetup.com/Meetup-de-Grupo-de-Usuarios-de-R-de-Malaga/events/264998889/"
-  },
-  {
     "title": "LA R users group: LA East R Users: Creating custom vector classes with vctrs & Python for R Users",
     "group": "LA R users group",
     "start": "2019-09-09",
@@ -852,8 +831,8 @@
     "url": "https://www.meetup.com/Bern-R/events/sffhtqyzmbmb/"
   },
   {
-    "title": "Ciencia de Datos con R: Mapas, clustering y datawarehousing, todo con R! #dataNerdsES",
-    "group": "Ciencia de Datos con R",
+    "title": "data neRds ES > Ciencia de Datos con R: Mapas, clustering y datawarehousing, todo con R! #dataNerdsES",
+    "group": "data neRds ES > Ciencia de Datos con R",
     "start": "2019-09-20",
     "description": "<p>6to encuentro de data neRds ES! // considerando los anteriores ;)<\/p> <p>Para los que no pudieron asistir al anterior, pueden encontrar PPTs + código en: <a href=\"https://datanerdses.org/2019/08/29/resumen-del-encuentro-data-nerds-es-ago-2019-ppts-codigo-r/\" class=\"linkified\">https://datanerdses.org/2019/08/29/resumen-del-encuentro-data-nerds-es-ago-2019-ppts-codigo-r/<\/a><\/p> <p># Agenda<\/p> <p>1 - \"Trabajando con imágenes satelitales y R\" por Priscilla Minotti // <a href=\"https://www.linkedin.com/in/priscilla-gail-minotti-a61b4211/2\" class=\"linkified\">https://www.linkedin.com/in/priscilla-gail-minotti-a61b4211/2<\/a><\/p> <p>2 - \"Clustering con estilo: hdbscan y umap\" por Lucas Enrich // <a href=\"https://www.linkedin.com/in/lucas-ariel-enrich-a7320a933\" class=\"linkified\">https://www.linkedin.com/in/lucas-ariel-enrich-a7320a933<\/a><\/p> <p>3 - \"Como hacer y usar un datawarehouse con R y Tidyverse\" por Pablo Seibelt // <a href=\"https://www.linkedin.com/in/pabloseibelt/\" class=\"linkified\">https://www.linkedin.com/in/pabloseibelt/<\/a><\/p> <p>--<\/p> <p># Acerca de los lugares<\/p> <p>Si no podés asistir, te pedimos que te des de baja, no hace falta avisar ya que el sistema le da la vacante al siguiente en la lista, además de evitar el envío de mensajes por lugares.<\/p> <p>Por otra consulta, escrbinos en la página :)<\/p> <p># ¿Se va a transmitir?<\/p> <p>Si! No hay que anotarse a Meetup para ver la transmisión.<br/>Pueden acceder al link acá: <a href=\"https://auth0.zoom.us/j/927178730\" class=\"linkified\">https://auth0.zoom.us/j/927178730<\/a><\/p> <p># Horario<\/p> <p>Desde las 18:30 se podrá entrar, merendar algunos de los snacks y charlar. Si la sala no se llena, empezaremos 19:10hs a más tardar.<\/p> <p>--<\/p> <p>Si queres dar una charla, contactanos!<br/>L@s esperamos!<\/p> <p><a href=\"https://datanerdses.org/\" class=\"linkified\">https://datanerdses.org/<\/a><br/><a href=\"https://twitter.com/datanerdses\" class=\"linkified\">https://twitter.com/datanerdses<\/a><\/p> ",
     "url": "https://www.meetup.com/meetup-group-ZtqriXwa/events/264788014/"
@@ -1256,109 +1235,25 @@
     "url": "https://www.meetup.com/rladies-concepcion/events/264444513/"
   },
   {
-    "title": "Newcastle Upon Tyne Data Science Meetup: Data Science North East: November Meeting",
-    "group": "Newcastle Upon Tyne Data Science Meetup",
-    "start": "2019-11-26",
-    "description": "<p>Details<br/>Schedule:<\/p> <p>6:00 - Food and drinks<br/>6:30 - Matthew Forshaw<br/>7:00 - TBC<\/p> ",
-    "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/257156431/"
+    "title": "Moffitt Cancer Center Bio-Data Club: September Meeting: Introduction to Networking and Linux",
+    "group": "Moffitt Cancer Center Bio-Data Club",
+    "start": "2019-09-20",
+    "description": "<p>The most up to date information for this meeting is available here <a href=\"https://github.com/pstew/biodataclub/blob/master/meetings/september_2019/README.md\" class=\"linkified\">https://github.com/pstew/biodataclub/blob/master/meetings/september_2019/README.md<\/a> .<\/p> <p>The purpose of this session is to learn the basics of Unix systems, to understand how clients connect to servers (basic networking), how we can use linux commands (and regular expressions) to look for specific data, and other useful commands.<\/p> <p>For Windows users, they will need to download PuTTY to be able to connect to a linux server. They can either download the MSI (‘Windows Installer’) version, or if they don’t have permission to install software, they can download the standalone version.<\/p> <p>Mac users will be able to use the built-in Terminal application.<\/p> <p>About the Club: The club is an informal group at Moffitt dedicated to promoting a fun and supportive culture for learning biological data science. Our meetings are intended for all levels of computational backgrounds. We meet once a month in the Moffitt Stabile Research Building on the USF campus. The public is encouraged to attend! More information is available at www.biodataclub.org .<\/p> ",
+    "url": "https://www.meetup.com/biodataclub/events/263287907/"
   },
   {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- Introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-10",
-    "description": "<p>Hi guys, this is an opportunity to learn and network<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/fphvgqyznbnb/"
+    "title": "Bamako Data Science: Le développement du langage chez l'enfant au stade du babillage",
+    "group": "Bamako Data Science",
+    "start": "2019-09-28",
+    "description": "<p>Pour ce meetup de rentrée, nous recevrons Dr. Ibrahima Cissé, PhD en linguistique. Spécialiste du développement du langage chez l'enfant, il a consacré sa thèse de doctorat à l'étude du babillage et à la formation premiers mots chez l'enfant (la thèse est accessible ici: <a href=\"http://www.theses.fr/2014GRENL029\" class=\"linkified\">http://www.theses.fr/2014GRENL029<\/a>). Il a procédé à des comparaisons entre différents milieux sociolinguistiques (monolingues, bilingues).<\/p> <p>La présentation consistera à revisiter certaines des données qu'il a collectées lors de sa thèse à l'aide de ggplot2. Elle sera focalisée sur les données relatives au babillage, à la structure de la production vocalique et à l'inventaire des vocants et closants relevés ainsi qu'à la période d'apparition de ceux-ci. Ca a l'air très intéréssant, n'est-ce pas?<\/p> <p>Pensez s'il vous plait à RSVP... A très bientôt.<\/p> ",
+    "url": "https://www.meetup.com/Bamako-Data-Science/events/265121854/"
   },
   {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-23",
-    "description": "<p>Hi guys, this is a chance to learn and network.<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/rbthfqyznbfc/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- Introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-31",
-    "description": "<p>Hi guys, this is an opportunity to learn and network<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/fphvgqyzkbpb/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- Introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-31",
-    "description": "<p>Hi guys, this is an opportunity to learn and network<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/fphvgqyzgbpb/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-31",
-    "description": "<p>Hi guys, this is a chance to learn and network.<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/rbthfqyzfbkc/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- Introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-31",
-    "description": "<p>Hi guys, this is an opportunity to learn and network<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/fphvgqyzfbsb/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- Introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-31",
-    "description": "<p>Hi guys, this is an opportunity to learn and network<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/fphvgqyzmbqb/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-31",
-    "description": "<p>Hi guys, this is a chance to learn and network.<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/rbthfqyzlblc/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-31",
-    "description": "<p>Hi guys, this is a chance to learn and network.<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/rbthfqyzkbgc/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-10-31",
-    "description": "<p>Hi guys, this is a chance to learn and network.<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/rbthfqyzmbhc/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- Introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-11-14",
-    "description": "<p>Hi guys, this is an opportunity to learn and network<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/fphvgqyzpbsb/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-11-27",
-    "description": "<p>Hi guys, this is a chance to learn and network.<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/rbthfqyzpbkc/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- Introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-12-12",
-    "description": "<p>Hi guys, this is an opportunity to learn and network<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/fphvgqyzqbqb/"
-  },
-  {
-    "title": "FREE ! Learn R for Big Data / Data Science: Learn R- introduction",
-    "group": "FREE ! Learn R for Big Data / Data Science",
-    "start": "2019-12-25",
-    "description": "<p>Hi guys, this is a chance to learn and network.<\/p> ",
-    "url": "https://www.meetup.com/Learn-R-for-Big-Data/events/rbthfqyzqbhc/"
+    "title": "Meetup de Grupo de Usuarios de R de Málaga: 8ª reunión de Grupo de Usuarios de R de Málaga ",
+    "group": "Meetup de Grupo de Usuarios de R de Málaga",
+    "start": "2019-09-26",
+    "description": "<p>Hola, tras la consulta Doodle que realizamos a todos vosotros, os informamos de la fecha que ha logrado mayor consenso.<\/p> <p>Jueves 26 de Septiembre a las 19:00. La duración será de una hora a hora y media como mucho.<\/p> <p>Título: RR - Reproducible Research in R (Rmarkdown)<br/>Autor: Domingo López<br/>(solo en inglés el título)<\/p> <p>\"R integra un conjunto de herramientas que permite que cualquier persona puede reproducir los resultados bajo las mismas condiciones. Esto es posible gracias a los documentos dinámicos - dynamic documents (literate programming, Donald Knuth, 1984).<\/p> <p>El producto final de un análisis, o de una investigación no es solo un<br/>informe o un artículo, es también el entorno computacional completo para reproducir los resultados, el código y los datos.<\/p> <p>Desde R podemos generar documentos dinámicos que integren:<br/>- los datos usados<br/>- Latex<br/>- explicaciones<br/>- código en R o en otros lenguajes<br/>- resultados (solo resultados y no el código, solo el código, todo)<\/p> <p>Desde R, usando la herramienta denominada RMarkdown podemos generar informes, presentaciones en pdf o beamer, libros, webs de alta calidad, siguiendo el paradigma de la investigación reproducible.\"<\/p> <p>Con esta charla que nos dará Domingo queremos dar una introducción a Rmarkdown para que comencéis a elaborar presentaciones desde Rstudio.<\/p> <p>Cuidado: Cuando comiences a usar RMarkdown,... no hay marcha atrás.<\/p> <p>Lugar: Laboratorio[masked] (sitio habitual de anteriores charlas).<\/p> <p>Recomendación - traer vuestro portátil los que podáis y tengáis acceso a la wifi de la UMA. Andamos renovando laboratorio, para los que no tengáis acceso a la wifi de la UMA, usaremos los ordenadores que tenemos. Dar las gracias al Departamento de Matemática Aplicada por su colaboración.<\/p> <p>Límite de asistentes: 50 plazas<\/p> <p>Si necesitáramos algo especial os lo decimos estos días.<\/p> <p>Como siempre, luego una/s cerveza/s y/o refresco/s.<\/p> <p>Com siempre, si conocéis a alguien que se apuntó antes en el grupo de usuarios pero no está en Meetup, por favor, indicarle que a partir de ahora trabajamos para coordinarnos usando Meetup.<\/p> <p>Manda esta información a interesados en nuestro grupo.<\/p> <p>¡Un saludo!<\/p> ",
+    "url": "https://www.meetup.com/Meetup-de-Grupo-de-Usuarios-de-R-de-Malaga/events/264998889/"
   },
   {
     "title": "LA R users group: LA East R Users: Deep learning with R & Run Python in RStudio with reticulate",
@@ -1366,13 +1261,6 @@
     "start": "2019-10-14",
     "description": "<p>Talk 1:<br/>Speaker: Huiyu Deng, PhD candidate in Biostatistics, University of Southern California<br/>Title: A gentle Introduction Using R for Deep Learning<\/p> <p>Abstract:<br/>Do you know that R can also develop and evaluate deep learning models using Keras, one of the most popular deep learning libraries in Python? In this presentation, I will introduce the steps to set up the platform to run Keras in R and give you an overview of the concepts of neural network (NN) and deep learning models such as convolutional neural network (CNN). In the end, we will analyze a dataset using the Keras package.<\/p> <p>Talk 2:<br/>Speaker: Jo Hardin (@jo_hardin47), Professor, Pomona College<br/>Title: reticulate: running Python within RStudio<\/p> <p>Abstract:<br/>A quick google search can quickly bring up many arguments on both sides of the heated Python vs R debate. I don’t take sides in that conversation, but I do recognize the value of knowing both languages and the power of being able to use one language inside software designed for the other. Whatever computational environment is used to execute instructions to the computer, it can be illuminating to see different implementations of the same syntax producing the same results, or alternatively, implementation of different syntax producing the same result. In this talk, I discuss running Python in the RStudio environment. I provided a series of examples in R Markdown chunks (both Python chunks and R chunks). I include details for those working with Python in R for the first time.<\/p> <p>Code of Conduct: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>Timeline:<br/>6:30: Socializing<br/>7:00-8:00: Talks<br/>8:00: Socializing<\/p> <p>Address:<br/>Room 115/116<br/>USC<br/>2001 N. Soto St.<br/>Los Angeles, CA 90032<\/p> <p>Parking: Parking is free in the metered spots on the east side of the parking lot after 5 PM<\/p> <p>Invite yourself to our Slack group: <a href=\"http://bit.ly/laerug\" class=\"linkified\">http://bit.ly/laerug<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://laocr.org/\" class=\"linkified\">https://laocr.org/<\/a><\/p> ",
     "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/264756567/"
-  },
-  {
-    "title": "R Generation: Creating beautiful analytics dashboards in R",
-    "group": "R Generation",
-    "start": "2019-10-01",
-    "description": "<p>The dashboard is an excellent tool for presenting performance measures such as business KPIs as well as general trends and patterns in data. Dashboards can also serve as a canvas from which to tell a story with your data. In this workshop, we will use the flexdashboard package to build an elegant dashboard that contains interactive data visualisation components along with other nice features such as gauges and dials.<\/p> ",
-    "url": "https://www.meetup.com/Dublin-R-Generation/events/260966628/"
   },
   {
     "title": "Colchester R Meetup: Colchester R Users Group",
@@ -1662,13 +1550,6 @@
     "url": "https://www.meetup.com/Inland-Northwest-R-User-Group-INRUG/events/265192874/"
   },
   {
-    "title": "Sevilla R Users: Reunión SevillaR: 1 Octubre. Procesamiento de Lenguaje Natural con R",
-    "group": "Sevilla R Users",
-    "start": "2019-10-01",
-    "description": "<p>¡Empezamos nuevo curso en SevillaR!<\/p> <p>El próximo martes 1 de Octubre Montse López Cobo (<a href=\"https://www.linkedin.com/in/montserrat-l%C3%B3pez-cobo-25069ab1/\" class=\"linkified\">https://www.linkedin.com/in/montserrat-l%C3%B3pez-cobo-25069ab1/<\/a>), Scientific Project Officer en el Joint Research Centre de la Unión Europea, nos hablará sobre Procesamiento del Lenguaje Natural con R.<\/p> <p>El procesamiento del lenguaje natural (<a href=\"https://en.wikipedia.org/wiki/Natural_language_processing\" class=\"linkified\">https://en.wikipedia.org/wiki/Natural_language_processing<\/a>) es un campo en intenso desarrollo y con múltiples aplicaciones, como la minería y análisis de textos, interpretación y generación del lenguaje, chatbots, etc.<\/p> <p>El encuentro será en el aula TIC4 (2ª planta) del edificio CRAI (<a href=\"https://bib.us.es/ulloa\" class=\"linkified\">https://bib.us.es/ulloa<\/a>) del campus de Reina Mercedes, a las 19 horas.<\/p> <p>Tras la conferencia tendremos la oportunidad de hablar sobre nuestros proyectos en R y conocernos mejor tomando unas cervezas en el Aljibe, muy cercano al CRAI.<\/p> <p>¡Os esperamos!<\/p> ",
-    "url": "https://www.meetup.com/Sevilla-R-users/events/265072088/"
-  },
-  {
     "title": "Greater Cleveland R Group: Teaching Lab R&D Chemists using RMD and Shiny with Mukul Mehta",
     "group": "Greater Cleveland R Group",
     "start": "2019-10-23",
@@ -1821,6 +1702,20 @@
     "url": "https://www.meetup.com/Malaysia-R-User-Group/events/263477109/"
   },
   {
+    "title": "Denver R User Group: TBA: Save the date",
+    "group": "Denver R User Group",
+    "start": "2019-10-22",
+    "description": "<p>Speaker and Topic will be announced shortly.<\/p> ",
+    "url": "https://www.meetup.com/DenverRUG/events/265318268/"
+  },
+  {
+    "title": "Denver R User Group: TBA: save the date",
+    "group": "Denver R User Group",
+    "start": "2019-11-19",
+    "description": "<p>Speaker and Topic will be announced shortly.<\/p> ",
+    "url": "https://www.meetup.com/DenverRUG/events/265318284/"
+  },
+  {
     "title": "Saint Louis R User Group: Machine Learning in R with mlr3",
     "group": "Saint Louis R User Group",
     "start": "2019-10-02",
@@ -1854,13 +1749,6 @@
     "start": "2019-10-15",
     "description": "<p>Electronic Data Capture (EDC) as a replacement for traditional paper-based data capture can streamline the path from observation to analysis by cutting out redundant, resource-intensive, and error-prone steps of data transcription. OpenDataKit (ODK, <a href=\"https://opendatakit.org/\" class=\"linkified\">https://opendatakit.org/<\/a>) is a Free and Open Source (FOSS) software suite for EDC. ODK has a world-wide user community (<a href=\"https://forum.opendatakit.org/\" class=\"linkified\">https://forum.opendatakit.org/<\/a>), an active developer community, a sustainable business model, comes at no cost to users, and is targeted towards resource-restricted, remote and offline data capture. ODK users include Google, WHO, CDC, USAID, the Red Cross and Red Crescent, the Carter Center, the Jane Goodall Institute and many others.<br/>​<br/>In this session, we will run through the process of EDC end to end, with the option of participating in each step.<br/>We will design a new EDC form using the online form builder ODK Build (<a href=\"https://build.opendatakit.org/\" class=\"linkified\">https://build.opendatakit.org/<\/a>), then publish the form on DBCA's ODK Central instance (<a href=\"https://odkcentral.dbca.wa.gov.au/\" class=\"linkified\">https://odkcentral.dbca.wa.gov.au/<\/a>, credentials given out on the day), download the forms, capture and submit some data using ODK Collect, and lastly use ruODK to access, wrangle, and analyse the data using ruODK.<br/>​<br/>Interested participants can obtain a login to the ODK Central Sandbox (<a href=\"https://sandbox.central.opendatakit.org/\" class=\"linkified\">https://sandbox.central.opendatakit.org/<\/a>), so they can continue to evaluate ODK (with our without ruODK) in a no-cost environment.<\/p> <p>Details<br/>​<br/>Activity: Live demo and code-along for those who are keen<\/p> <p>Duration: ca 45 mins; some prep for audience hands-on beforehand<\/p> <p>Target audience: Practicing R users with an interest in electronic data capture using FOSS.<\/p> <p>If interested in hands-on, bring:<br/>* To build your own form: Sign up for a free account at <a href=\"https://build.opendatakit.org/\" class=\"linkified\">https://build.opendatakit.org/<\/a><br/>* To collect your own data: Bring an Android device with ODK Collect installed.<br/>* To access and analyse the data: Bring a Laptop with R and ruODK with dependencies intstalled (<a href=\"https://dbca-wa.github.io/ruODK/\" class=\"linkified\">https://dbca-wa.github.io/ruODK/<\/a>)<br/>Come 30 mins early to do your ruODK/ODK Collect installation on the day.<br/>​​<br/>​​About the presenter<br/>​<br/>Florian Mayer is an Ecoinformatician at the Western Australian Department of Biodiversity, Conservation and Attractions (DBCA) working on threatened species and ecological communities with a focus on marine turtles (North West Shelf Flatback Turtle Conservation Program, <a href=\"https://flatbacks.dbca.wa.gov.au/\" class=\"linkified\">https://flatbacks.dbca.wa.gov.au/<\/a>). Florian has introduced ODK to DBCA's and affiliated Western Australian turtle monitoring programs in 2016 (~30k records captured through ~500 staff and volunteers since 2016) and authored ruODK.<br/>​<br/>[masked]<br/><a href=\"https://www.linkedin.com/in/florian-mayer-9633085b/\" class=\"linkified\">https://www.linkedin.com/in/florian-mayer-9633085b/<\/a><br/><a href=\"https://github.com/florianm/\" class=\"linkified\">https://github.com/florianm/<\/a><br/><a href=\"https://twitter.com/fistful_of_bass\" class=\"linkified\">https://twitter.com/fistful_of_bass<\/a><\/p> ",
     "url": "https://www.meetup.com/portland-r-user-group/events/264758652/"
-  },
-  {
-    "title": "SheffieldR - Sheffield R Users Group: Hacktoberfest 2019 - Kick Off",
-    "group": "SheffieldR - Sheffield R Users Group",
-    "start": "2019-10-01",
-    "description": "<p>Research Software Engineering (RSE) @ Sheffield (<a href=\"https://rse.shef.ac.uk/\" class=\"linkified\">https://rse.shef.ac.uk/<\/a>), Sheffield Bioinformatics Hub (<a href=\"https://sbc.shef.ac.uk/\" class=\"linkified\">https://sbc.shef.ac.uk/<\/a>) &amp; Sheffield R User Group welcome you to Hacktoberfest 2019! Starts 1st Oct. &amp; every Tuesday evening in October.<\/p> <p>Hacktoberfest is back! a one-month celebration of open source software, all about encouraging meaningful contributions to the open source ecosystem, for beginners and veterans alike.<\/p> <p>We’re offering a range of sessions, open to anyone (not just R users!) in a friendly, informal environment, as a great opportunity to learn more about:<\/p> <p>- open source and the huge diversity of projects available for contribution.<br/>- how to find projects, tasks and ways to contribute.<br/>- version control through git and GitHub.<br/>- programming and software development.<br/>- effective collaboration online.<\/p> <p>Make five contributions to projects on GitHub during October and get a Hacktoberfest t-shirt!<\/p> <p>Sessions<br/>Introductory session<br/>1st Oct. 5.30- 7.30 pm, The Red Deer<\/p> <p>We’ll kick off with an introductory session on open source on Tues 1st October. The focus of the session will be on using GitHub to explore and contribute to open source and is not limited to R users. Feel free to bring your laptop and follow allow to get yourself set up, practice and get ready to contribute.<\/p> <p>Hacky hour sessions<br/>Meeting room 1, the Diamond, 5:30 pm to 8:00 pm<br/>The University of Sheffield, 32 Leavygreave Rd, S3 7RD<\/p> <p>For every following Tuesday evening of October, we’ve booked a room to explore Hacktoberfest projects together! The room is booked on the following dates:<\/p> <p>- 08 October<br/>- 15 October<br/>- 22 October<br/>- 29 October<\/p> <p>(If you don't have a TUoS swipe card, please register here for a pass to the Diamond: <a href=\"https://forms.gle/iwBKYLVoC5uouUCg7\" class=\"linkified\">https://forms.gle/iwBKYLVoC5uouUCg7<\/a>)<\/p> <p>Come to as many sessions as you like, stay as long as you can, bring your friends! If anyone gets stuck, there’ll be others around to help. There’ll also be at least one member of the RSE team at each session to help with questions and demystifying any open source jargon.<\/p> <p>By the end, hopefully, you’ll have had an opportunity to learn more about collaboration, play around with something new and managed to contribute and get the t-shirt to prove it!<\/p> <p>Hope to see you there!<\/p> <p>Please read our Events Code of Conduct (<a href=\"https://do.co/hacktoberconduct\" class=\"linkified\">https://do.co/hacktoberconduct<\/a>) before attending. Happy hacking!<\/p> <p>Find out more about Hacktoberefest: <a href=\"https://hacktoberfest.digitalocean.com/\" class=\"linkified\">https://hacktoberfest.digitalocean.com/<\/a><\/p> ",
-    "url": "https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/events/264956415/"
   },
   {
     "title": "Bay Area useR Group (R Programming Language): Time Series Workshop",
@@ -1908,22 +1796,8 @@
     "title": "CalgaryR: Cybera’s tools&programs; application of TA&NLP; Calgary AI",
     "group": "CalgaryR",
     "start": "2019-10-16",
-    "description": "<p>**A location is to be determined**<\/p> <p>Three speakers are contributing to our meetup in October. Doors will open at 5:30PM where members can enjoy pizza, soda, and networking. The first talk will begin at 6:00PM. Included below are brief summaries of the topics covered in this meetup. If you would like to read more about the speakers, view future events, or contact us please visit our site:<br/><a href=\"https://imstatsbee.github.io/calgaryr/meetings1920.html\" class=\"linkified\">https://imstatsbee.github.io/calgaryr/meetings1920.html<\/a><\/p> <p>Talk 1: Cybera’s tools and programs in support of data science in Alberta by David Chan<\/p> <p>An overview will be provided of the tools and projects Cybera - an Alberta based not-for-profit organization - makes available to folks interested in data science, including members of the CalgaryR group. Tools include our free general purpose Infrastructure as a Service environment, which also provides access to GPU resources. Recent results and plans to support K-12, entrepreneurs, and budding data scientists in Alberta through our Callysto and Data Science for Albertans projects will also be presented. Lastly, we seek input from CalgaryR members on a tool that the team has been working on, which strives to apply best practices from the software development world to data science projects through a structured framework. This will include a brief demo and overview of a roadmap of challenges we hope to address with the tool.<\/p> <p>Talk 2: Practical Applications of Text Analysis / Natural Language Processing by Naoko Tomioka<\/p> <p>The field of text analysis is constantly evolving, and new tools and algorithms become available on a regular basis. Text analytic tools and packages range from low-level processing tools, such as tokenizer and entity extraction, to higher-level processing such as sentiment analysis and text classification. The applicability of each tool depends on the type of the data to be analysed and the intended use of the output. I will talk about several of my own projects in order to illustrate the process of selecting the best tools, and what text analysis looks like in a business context.<\/p> <p>Talk 3: Community Development - Calgary Artificial Intelligence Meetup by Drew Gilson<\/p> <p>Drew Gillson is a technologist, entrepreneur, and community leader. In addition to organizing the Calgary Artificial Intelligence Meetup, Drew works for Looker, a data analytics software company that is being acquired by Google. Drew has been an active member of the Calgary innovation ecosystem since the dark ages of 2001. He’ll share some highlights and learnings from his remarkable journey, in the hope that it will inspire you to also take the road less traveled.<\/p> <p>This event is supported by PIMS<\/p> ",
+    "description": "<p>**We are meeting at the Bow Valley College! Thank you very much for this venue support!**<\/p> <p>Three speakers are contributing to our meetup in October. Doors will open at 5:30PM where members can enjoy pizza, soda, and networking. The first talk will begin at 6:00PM. Included below are brief summaries of the topics covered in this meetup. If you would like to read more about the speakers, view future events, or contact us please visit our site:<br/><a href=\"https://imstatsbee.github.io/calgaryr/meetings1920.html\" class=\"linkified\">https://imstatsbee.github.io/calgaryr/meetings1920.html<\/a><\/p> <p>Talk 1: Cybera’s tools and programs in support of data science in Alberta by David Chan<\/p> <p>An overview will be provided of the tools and projects Cybera - an Alberta based not-for-profit organization - makes available to folks interested in data science, including members of the CalgaryR group. Tools include our free general purpose Infrastructure as a Service environment, which also provides access to GPU resources. Recent results and plans to support K-12, entrepreneurs, and budding data scientists in Alberta through our Callysto and Data Science for Albertans projects will also be presented. Lastly, we seek input from CalgaryR members on a tool that the team has been working on, which strives to apply best practices from the software development world to data science projects through a structured framework. This will include a brief demo and overview of a roadmap of challenges we hope to address with the tool.<\/p> <p>Talk 2: Practical Applications of Text Analysis / Natural Language Processing by Naoko Tomioka<\/p> <p>The field of text analysis is constantly evolving, and new tools and algorithms become available on a regular basis. Text analytic tools and packages range from low-level processing tools, such as tokenizer and entity extraction, to higher-level processing such as sentiment analysis and text classification. The applicability of each tool depends on the type of the data to be analysed and the intended use of the output. I will talk about several of my own projects in order to illustrate the process of selecting the best tools, and what text analysis looks like in a business context.<\/p> <p>Talk 3: Community Development - Calgary Artificial Intelligence Meetup by Drew Gilson<\/p> <p>Drew Gillson is a technologist, entrepreneur, and community leader. In addition to organizing the Calgary Artificial Intelligence Meetup, Drew works for Looker, a data analytics software company that is being acquired by Google. Drew has been an active member of the Calgary innovation ecosystem since the dark ages of 2001. He’ll share some highlights and learnings from his remarkable journey, in the hope that it will inspire you to also take the road less traveled.<\/p> <p>This event is supported by the Pacific Institutes of the Mathematical Sciences and the Bow Valley College.<\/p> ",
     "url": "https://www.meetup.com/calgaryr/events/265139871/"
-  },
-  {
-    "title": "R-Ladies Bariloche: R como un SIG: extracción de datos climáticos de WorldClim",
-    "group": "R-Ladies Bariloche",
-    "start": "2019-10-01",
-    "description": "<p>En esta oportunidad Paula Fergnani nos va a enseñar a extraer datos climáticos de la base de WorldClim a partir de una lista de coordenadas de sitios de muestreo. Es decir, vamos a usar R como un SIG!<\/p> <p>Les pedimos que antes de anotarse primero lean y acepten el código de conducta.<\/p> <p>¡No te olvides de traer tú notebook! Deberás traer R, Rstudio y LOS<br/>PAQUETES INSTALADOS, no contamos con internet para descargar los<br/>paquetes en la sala.<\/p> <p>Fundamental. Buscamos encargades de coffee break, que puedan traer alguna delicatessen para degustar. Escribinos para colaborar :) Las organizadoras llevarán las infusiones<\/p> <p>Paquetes para traer instalados!!<br/>tidyverse<br/>sp<br/>rgdal<br/>maptools<br/>raster<br/>rgeos<br/>cualquier problema con las instalación de los paquetes pueden escribir al slack<\/p> ",
-    "url": "https://www.meetup.com/rladies-bariloche/events/265031915/"
-  },
-  {
-    "title": "R-Ladies Bariloche: R como un SIG: extracción de datos climáticos de WorldClim ¡TURNO TARDE!",
-    "group": "R-Ladies Bariloche",
-    "start": "2019-10-01",
-    "description": "<p>En esta oportunidad Paula Fergnani nos va a enseñar a extraer datos climáticos de la base de WorldClim a partir de una lista de coordenadas de sitios de muestreo. Es decir, vamos a usar R como un SIG!<\/p> <p>Les pedimos que antes de anotarse primero lean y acepten el código de conducta<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡No te olvides de traer tú notebook! Deberás traer R, Rstudio y LOS<br/>PAQUETES INSTALADOS, no contamos con internet para descargar los<br/>paquetes en la sala.<\/p> <p>FUNDAMENTAL! Buscamos encargades de coffee break, que puedan traer alguna delicatessen para degustar. Escribinos para colaborar :) Las organizadoras llevarán las infusiones<\/p> <p>Paquetes para traer instalados!!<br/>tidyverse<br/>sp<br/>rgdal<br/>maptools<br/>raster<br/>rgeos<br/>cualquier problema con las instalación de los paquetes pueden escribir al slack<\/p> ",
-    "url": "https://www.meetup.com/rladies-bariloche/events/265090753/"
   },
   {
     "title": "R-Ladies Buenos Aires: ¡Nos visita Erin LeDell! ",
@@ -2068,13 +1942,6 @@
   {
     "title": "R-Ladies Perth: Book Club - R for Data Science",
     "group": "R-Ladies Perth",
-    "start": "2019-10-01",
-    "description": "<p>The idea of the book club is to read through an R programming book in stages and work through questions/exercises over a several consecutive meetings. During the meeting attendees have the opportunity to ask questions and discuss the content of the book with the session host and each other. If the book includes exercises the meeting offers the opportunity to compare each others answers and work on more difficult problems together.<\/p> <p>The first book we will work through is the R for Data Science book (available online: <a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a> ), each fortnight we will discuss one of the sections: Explore, Wrangle, Program, Model, Communicate<\/p> <p>This week we are discussing Part 1: Explore<br/>This includes dataviz with ggplot2, data transformation with dplyr, workflows and exploratory data analysis.<br/>Share your workflow tips and tricks, your favourite ggplot visualisation, or your go to dplyr functionality.<\/p> <p>Location - we are meeting at the Curtin University Law School, 57 Murray Street. Someone will be waiting by the entrance to let you in and point you to the right room. If possible please arrive by 5.45pm.<\/p> <p>If the book club format is successful, future books could include:<br/>1. Advanced R - <a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a><br/>2. R packages - <a href=\"http://r-pkgs.had.co.nz/\" class=\"linkified\">http://r-pkgs.had.co.nz/<\/a><br/>3. Deep Learning with R (Not available for free, however, the associated github repo has all exercises)<\/p> ",
-    "url": "https://www.meetup.com/rladies-perth/events/fpxhjryznbcb/"
-  },
-  {
-    "title": "R-Ladies Perth: Book Club - R for Data Science",
-    "group": "R-Ladies Perth",
     "start": "2019-10-15",
     "description": "<p>The idea of the book club is to read through an R programming book in stages and work through questions/exercises over a several consecutive meetings. During the meeting attendees have the opportunity to ask questions and discuss the content of the book with the session host and each other. If the book includes exercises the meeting offers the opportunity to compare each others answers and work on more difficult problems together.<\/p> <p>The first book we will work through is the R for Data Science book (available online: <a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a> ), each fortnight we will discuss one of the sections: Explore, Wrangle, Program, Model, Communicate<\/p> <p>If this format is successful, future books could include:<br/>1. Advanced R - <a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a><br/>2. R packages - <a href=\"http://r-pkgs.had.co.nz/\" class=\"linkified\">http://r-pkgs.had.co.nz/<\/a><br/>3. Deep Learning with R (Not available for free, however, the associated github repo has all exercises)<\/p> <p>Location - we are meeting at the Curtin University Law School, 57 Murray Street. Someone will be waiting by the entrance to let you in and point you to the right room. If possible please arrive by 5.45pm.<\/p> ",
     "url": "https://www.meetup.com/rladies-perth/events/fpxhjryznbtb/"
@@ -2135,6 +2002,13 @@
     "url": "https://www.meetup.com/BaselR/events/265280405/"
   },
   {
+    "title": "R-Ladies Columbus: Experience the power of version control! - Use Git with RStudio",
+    "group": "R-Ladies Columbus",
+    "start": "2019-10-10",
+    "description": "<p>About this meetup and prep before meetup:<\/p> <p>We will talk about the basics of version control with Git, and how this sometimes painful looking process can be made easy with RStudio and RStudio projects. This will be a repetition of a previous session, because this is a very crucial step for package development. So before we get into package dev, it would be nice to have these things set up first.<\/p> <p>Please bring your laptop and have R and RStudio installed and working.<br/>You can do everything we will do in this session on RStudio Cloud as well. But if you want to join us for a package development meetup later on you should have R, RStudio and Git installed on your computer. So we can connect these and it will be ready when the time comes for package dev. But if things don't work and you're having issues, don't worry! We're here to help (◕‿◕✿)<\/p> <p>Although anything you'll learn in this session can be used with any Git web repository, I'll mainly show examples via GitHub. If you don't have one yet please DON'T FORGET to create an account on <a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a> -- it's free!<\/p> <p>Please make sure that you have git installed by typing<\/p> <p>git<\/p> <p>on your terminal and executing it. Git installation can be quite painful on Windows machines, but we will try to help you if you can't figure it out. If you're using a work laptop and don't have permissions to install things check with your IT department to make sure you can install all the software.<\/p> <p>Here are some introductory articles/links about Git:<br/><a href=\"https://medium.com/@garstep/osn-what-the-hell-is-git-6afbe634c4e8\" class=\"linkified\">https://medium.com/@garstep/osn-what-the-hell-is-git-6afbe634c4e8<\/a><br/><a href=\"http://rogerdudler.github.io/git-guide/\" class=\"linkified\">http://rogerdudler.github.io/git-guide/<\/a><br/><a href=\"http://happygitwithr.com/\" class=\"linkified\">http://happygitwithr.com/<\/a><br/><a href=\"https://git-scm.com/docs/gittutorial\" class=\"linkified\">https://git-scm.com/docs/gittutorial<\/a><\/p> <p>I would suggest looking at Installation chapter in happygitwithr if you have no idea how to install R, RStudio or Git: <a href=\"https://happygitwithr.com/install-intro.html\" class=\"linkified\">https://happygitwithr.com/install-intro.html<\/a><\/p> <p>We won't really have materials for this meetup, but I will ask you to potentially fork a repo from my github account: <a href=\"https://github.com/karaesmen/git_and_Rprojects\" class=\"linkified\">https://github.com/karaesmen/git_and_Rprojects<\/a><br/>You can find a quick readme in there too.<\/p> <p>As always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.<\/p> <p>Parking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard. See pics below for directions.<\/p> ",
+    "url": "https://www.meetup.com/rladies-columbus/events/265314344/"
+  },
+  {
     "title": "R-Ladies Twin Cities: October Meetup: Met Council Data Science (Joint with WiMLDS)",
     "group": "R-Ladies Twin Cities",
     "start": "2019-10-08",
@@ -2142,7 +2016,7 @@
     "url": "https://www.meetup.com/rladies-tc/events/264826629/"
   },
   {
-    "title": "R-Ladies Twin Cities: November Meetup: TBD with Melanie Tierney",
+    "title": "R-Ladies Twin Cities: November Meetup: Rmarkdown and kableExtra w/ Melanie Tierney",
     "group": "R-Ladies Twin Cities",
     "start": "2019-11-12",
     "description": "<p>LOCATION:<br/>Meet us in room 275 of Owens Science Hall (OWS).<\/p> <p>PARKING:<br/>Street parking on Summit is free but limited. The parking ramp (on Grand and Cretin) is very close to OWS and is decently priced ($1.00 per hour).<\/p> ",
@@ -2154,6 +2028,13 @@
     "start": "2019-12-10",
     "description": "<p>Are you looking for some fun with functions? We'll cover writing functions and then using the purrr package to apply functions to functions!<\/p> <p>For ladies who want to read ahead, I'll probably grab most material from Ch. 9 of Advanced R: <a href=\"https://adv-r.hadley.nz/fp.html\" class=\"linkified\">https://adv-r.hadley.nz/fp.html<\/a><\/p> <p>Install purrr before you come. We'll also use some other tidyverse packages, so a one step solution is the following:<br/>install.packages('tidyverse')<\/p> <p>LOCATION:<br/>Meet us in room 275 of Owens Science Hall (OWS).<\/p> <p>PARKING:<br/>Street parking on Summit is free but limited. The parking ramp (on Grand and Cretin) is very close to OWS and is decently priced ($1.00 per hour in the evening).<\/p> ",
     "url": "https://www.meetup.com/rladies-tc/events/264291454/"
+  },
+  {
+    "title": "R-Ladies London: Time series forecasting using ARIMA",
+    "group": "R-Ladies London",
+    "start": "2019-10-24",
+    "description": "<p>(Please, ensure that register to this event at our Eventbrite page<br/><a href=\"https://www.eventbrite.co.uk/e/time-series-forecasting-using-arima-tickets-74863220909\" class=\"linkified\">https://www.eventbrite.co.uk/e/time-series-forecasting-using-arima-tickets-74863220909<\/a>, Meetup registration alone won't be valid!).<\/p> <p>In this workshop, we will be reviewing the basic statistical theory and a straightforward worked example of Autoregressive Integrated Moving Average (ARIMA) models for time series analysis. As one of several alternative approaches to forecasting future trends using past information, ARIMA is a flexible but also powerful ‘semi-parametric’ method for forecasting and fitting longitudinal (aka panel) data, and there is also a user-friendly R implementation. In contrast to more inferential tools like Cox survival models, ARIMA models can make useful, potentially more accurate forward predictions with relatively sparse datasets, and they can be very useful for surfacing initial evidence of causal trends for further validation.<\/p> <p>ARIMA can be used for everything from forecasting highly seasonal sales trends for food products, to the main example we’ll work through: surfacing a potential link between delayed discharges of hospitalised NHS patients and the unusual increase in English mortality rates since 2015.<\/p> <p>The workshop does not presuppose any prior experience with time series/panel data analysis, but it will be helpful to have some statistical background as well as basic R skills. Bring your laptops! Data and code will be circulated on Github.<\/p> <p>The talk will be given by Jules Shen, who is a statistical consultant with the Health Foundation, working primarily with the Improvement Analytics Unit. She is also a part-time PhD student in public health and policy at the LSHTM, who previously worked in development/health economics and management consultancy. Jules’ wife has worked out that her optimal day is a generalised linear function of pet budgies + ramen noodles.<\/p> <p>Agenda:<\/p> <p>6pm - snacks and networking for R-Ladies and hosts [lower ground floor downstairs; LSHTM refectory]<\/p> <p>6:30ish pm – workshop starts! [upstairs in 1st floor John Snow lecture theatre, please note that no food is allowed in the lecture theatre]<\/p> <p>8:00ish pm - end of workshop!<\/p> ",
+    "url": "https://www.meetup.com/rladies-london/events/265319212/"
   },
   {
     "title": "We R: Let's set up our personal Cloud Machine for Data Science [Workshop]",
@@ -2249,7 +2130,7 @@
     "title": "R-Ladies Ottawa: R-Ladies Ottawa - Fall Event",
     "group": "R-Ladies Ottawa",
     "start": "2019-10-02",
-    "description": "<p>Come join R-Ladies Ottawa for a fun, interactive mini-coding session! For this event, we will be using data from the National Health Interview Survey (NHIS: <a href=\"https://www.cdc.gov/nchs/nhis/nhis_2017_data_release.htm\" class=\"linkified\">https://www.cdc.gov/nchs/nhis/nhis_2017_data_release.htm<\/a>) to demonstrate how to analyze \"real\" data. The data we're required to use in our day-to-day work are often messy, hard to read, and may contain missing values. The goal of this exercise is to demonstrate how to overcome these difficulties in order to find meaningful relationships in the data.<\/p> <p>Note: Please bring your laptops in order to be able to participate in this session! We will leave 20-30 minutes at the end for those of you who wish to share your results.<\/p> ",
+    "description": "<p>Come join R-Ladies Ottawa for a fun, interactive mini-coding session! For this event, we will be using data from the National Health Interview Survey (NHIS: <a href=\"https://www.cdc.gov/nchs/nhis/nhis_2017_data_release.htm\" class=\"linkified\">https://www.cdc.gov/nchs/nhis/nhis_2017_data_release.htm<\/a>) to demonstrate how to analyze \"real\" data. The data we're required to use in our day-to-day work are often messy, hard to read, and may contain missing values. The goal of this exercise is to demonstrate how to overcome these difficulties in order to find meaningful relationships in the data.<\/p> <p>Note: Please bring your laptops in order to be able to participate in this session! We will leave 20-30 minutes at the end for those of you who wish to share your results.<\/p> <p>P.S. We put up some starter code to help you load the data in case you need a bit of help to get you started. It's on our GitHub page: <a href=\"https://github.com/R-LadiesOtt/meetup_Oct02_2019\" class=\"linkified\">https://github.com/R-LadiesOtt/meetup_Oct02_2019<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-ottawa/events/265000452/"
   },
   {
@@ -2302,13 +2183,6 @@
     "url": "https://www.meetup.com/rladies-amsterdam/events/264758006/"
   },
   {
-    "title": "R-Ladies Newcastle: October meetup",
-    "group": "R-Ladies Newcastle",
-    "start": "2019-10-01",
-    "description": "<p>We will be having a series of lightning talks from our R-Ladies community! We’d love to hear from as many of you as possible on how you’ve used R, no matter your level of experience.<\/p> <p>It should be an excellent chance to hear about the breadth of R use which is happening in Newcastle.<\/p> <p>There will be talks on:<br/>- Using R for eye tracking while reading<br/>- What is Bioinformatics?<br/>- Using factors in R<br/>- Working with satellite data to map forests &amp; forest quality<br/>- Topic modelling<br/>- Disentangling the drivers of predators on coral reefs<br/>- Modelling hierarchical data for children in schools for a language intervention study<br/>and more!<\/p> <p>As always, there will be pizza too! We will meet in room 4.005.<\/p> <p>If you have any questions, comments or suggestions, you can email us at [masked]<\/p> ",
-    "url": "https://www.meetup.com/rladies-newcastle/events/263994681/"
-  },
-  {
     "title": "R-Ladies Newcastle: November meetup",
     "group": "R-Ladies Newcastle",
     "start": "2019-11-05",
@@ -2323,13 +2197,6 @@
     "url": "https://www.meetup.com/rladies-baltimore/events/263279186/"
   },
   {
-    "title": "R-Ladies Manchester: R-Ladies MCR at Thoughtworks",
-    "group": "R-Ladies Manchester",
-    "start": "2019-10-01",
-    "description": "<p>R-Ladies Manchester at Thoughtworks<\/p> <p>Keep your eye on this event and follow @rladiesmcr on twitter for updates and announcements!<\/p> <p>Speaker<\/p> <p>Phrances Perez (@AyveePhrances)<br/>Talk synopsis: Phrances will talk about her learnings in R, particularly reactive and dynamic filters in Shiny, as well as some tips on version control and best practises<\/p> <p>Discussion - Post your questions on our twitter page! We want an exciting and lively discussion on whatever you think it means to be an R-Lady! At the previous two events we have got so carried away chatting that we've decided to dedicate a whole hour to it this time.<\/p> <p>Introducing Hacktoberfest! How to get involved in an exciting month of Open Source events (and get a cool free t-shirt too!)<\/p> <p>R-Ladies Code of Conduct - <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-manchester/events/264129519/"
-  },
-  {
     "title": "R-Ladies Manchester: Manchester Hacktoberfest",
     "group": "R-Ladies Manchester",
     "start": "2019-10-19",
@@ -2342,13 +2209,6 @@
     "start": "2019-10-02",
     "description": "<p>This is a beginner friendly session. We'll be working through Chapter 14 of the R for Data Science book, which deals with manipulating strings (text). This is available freely online at <a href=\"http://r4ds.had.co.nz\" class=\"linkified\">http://r4ds.had.co.nz<\/a> . There will be a short presentation and then we'll work through some exercises together.<\/p> <p>Afterwards, we will try these out on our own data. So please, if you can, bring along some of your own data. You could be working on this data at the moment, or it could be something you have used in the past. If you don't have any data, this would be a good learning opportunity to try and find some open source data from the internet.<\/p> <p>This will be an interactive session so please bring your laptop. Ideally this should have R and RStudio installed. If you have trouble downloading these, you can use <a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>. You will also need the stringr R package. You might want to install this before coming along to the session. You can do this by running install.packages(\"stringr\") in R.<\/p> <p>We will be in Lancaster University Library - Room C130. The session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.<\/p> ",
     "url": "https://www.meetup.com/rladies-lancaster/events/265069622/"
-  },
-  {
-    "title": "R-Ladies Johannesburg: September Meetup - Intro to writing your own Package in R",
-    "group": "R-Ladies Johannesburg",
-    "start": "2019-10-01",
-    "description": "<p>Hi everyone,<\/p> <p>Given the long weekend this month, our September meetup will be on the 1st October :), since we're set to have the normal October meetup later in October.<\/p> <p>The session will be interactive so please bring along your laptop, and please install the ffg. packages to follow along:<br/>1. roxygen2<br/>2. usethis<br/>3. devtools<br/>4. testthat<\/p> <p>Please also bring along a small piece of code with one or two functions in it - we will use this as the base for the package.<\/p> <p>If you don't yet have a GitHub account please consider signing up for one, as we'll integrate the package build with Git, to understand the workflow.<\/p> <p>Hope to see you there!<\/p> ",
-    "url": "https://www.meetup.com/rladies-johannesburg/events/264886971/"
   },
   {
     "title": "R-Ladies Tampa: Getting Started with Blogdown ",
@@ -2384,13 +2244,6 @@
     "start": "2019-12-09",
     "description": "<p>We want to hear why you love R, why you would like to learn R, special interests, weird hobbies, ...<\/p> ",
     "url": "https://www.meetup.com/Bern-R/events/sffhtqyzqbmb/"
-  },
-  {
-    "title": "R-Ladies Ames: TidyTuesday",
-    "group": "R-Ladies Ames",
-    "start": "2019-10-01",
-    "description": "<p>Everyone is welcome with or without laptop ;)<br/>Room 195A<\/p> ",
-    "url": "https://www.meetup.com/rladies-ames/events/265210243/"
   },
   {
     "title": "R-Ladies Canberra: Workshop for Design a personal website with R by Dr Alison Hill (RStudio)",
@@ -2764,5 +2617,12 @@
     "start": "2019-10-02",
     "description": "<p>Te invitamos con mucho agrado a este MeetUp en conjunto de estas dos comunidades. Extraeremos datos con Power BI desde una API Rest Pública, luego correremos algunos script en R con esos datos para terminar visualizándolos en Power BI, un gran ejercicio con estas dos herramientas.<\/p> <p>Las/Los esperamos el próximo miércoles 02 de octubre a las 18:40 hrs. en la Facultad de Ciencias Económicas y Administrativas de la UCSC.<\/p> <p>Para el taller, es importante que tengan sus propios computadores, y que descarguen R project desde este link -&gt;: <a href=\"https://dirichlet.mat.puc.cl/\" class=\"linkified\">https://dirichlet.mat.puc.cl/<\/a> y descargar la versión gratuita de R Studio -&gt;: <a href=\"https://www.rstudio.com/products/rstudio/download/\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/<\/a><\/p> <p>Si es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>Inviten a sus amigos y todos los profesionales interesados, es gratuito y terminaremos compartiendo pizzas.<\/p> <p>¡Te esperamos!<\/p> ",
     "url": "https://www.meetup.com/rladies-concepcion/events/265188124/"
+  },
+  {
+    "title": "Newcastle Upon Tyne Data Science Meetup: Data Science North East: November Meeting",
+    "group": "Newcastle Upon Tyne Data Science Meetup",
+    "start": "2019-11-26",
+    "description": "<p>Details<br/>Schedule:<\/p> <p>6:00 - Food and drinks<br/>6:30 - Matthew Forshaw<br/>7:00 - TBC<\/p> ",
+    "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/257156431/"
   }
 ]
