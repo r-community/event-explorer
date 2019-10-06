@@ -35,6 +35,13 @@
     "url": "https://www.meetup.com/OC-RUG/events/264445700/"
   },
   {
+    "title": "Orange County R Users Group (OCRUG): Advanced Regression Models with R Applications",
+    "group": "Orange County R Users Group (OCRUG)",
+    "start": "2019-10-05",
+    "description": "<p>**SIGN UP ON EVENTBRITE **<br/><a href=\"https://www.eventbrite.com/e/ocrug-advanced-regression-models-with-r-applications-tickets-70416075377\" class=\"linkified\">https://www.eventbrite.com/e/ocrug-advanced-regression-models-with-r-applications-tickets-70416075377<\/a><\/p> <p>In this workshop, we will talk about a variety of regression models, give their definitions, discussing goodness-of-fit criteria, presenting fitted models, interpreting estimated regression coefficients, and using the fitted models for prediction. The models will be limited to: linear regression, Box-Cox transformation, gamma regression, ordinary logistic regression, Poisson regression, beta regression, longitudinal (repeated measures) regression, and hierarchical model.<\/p> <p>The workshop is designed to be hands-on. Participants are required to bring laptops and be ready to write R, analyzing data and interpreting results. For each model, we present an example with a complete R code, and then will an exercise to work on. Workshop participants should be familiar with algebraic expressions of different probability distributions and have a fundamental knowledge of simple linear regression: normally distributed random error, continuous and categorical independent variables (requiring creating dummy variables).<\/p> <p>The material covered by the workshop will be taken from my recently published book “Advanced Regression Models with SAS and R Applications”, CRC Press, 2018.<\/p> ",
+    "url": "https://www.meetup.com/OC-RUG/events/264303830/"
+  },
+  {
     "title": "Bengaluru R UseR Group (BRUG): Data science with R - September Edition (with PyData BLR)",
     "group": "Bengaluru R UseR Group (BRUG)",
     "start": "2019-09-21",
@@ -91,6 +98,13 @@
     "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/chzdspyzmblc/"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group",
+    "group": "Central Iowa R User Group",
+    "start": "2019-10-05",
+    "description": "<p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/chzdspyznbhb/"
+  },
+  {
     "title": "St. Petersburg R User Group: SPbR #15",
     "group": "St. Petersburg R User Group",
     "start": "2019-10-04",
@@ -131,13 +145,6 @@
     "start": "2019-09-25",
     "description": "<p>For our Spring meet-up, we have four guest speakers from academia, industry and government each giving a short talk on how they use R.<\/p> <p>Everyone is welcome! Regardless of your experience with R, if you use R or would be interested in using R then you are welcome.<\/p> <p>The short talks will be:<\/p> <p>Rachel Searston<br/>Using exciting new approaches to visualizing human data with ggplot2 for more meaningful and reproducible visualizations of data in psychology research.<\/p> <p>Rory Tarnow-Mordi<br/>Sometimes our datasets are just too darn big. In this talk we'll look at using SparkR to spread our data and data transformations over a cluster of machines.<\/p> <p>Kristen Osborne<br/>Putting R in the internet tubes; An introduction to blogdown! Blogdown is an R package that lets you create websites from R Markdown documents, making it easy to put your R code and outputs online. It creates a static website you can host on any server with minimal effort. In this talk we'll cover what blogdown is and why you might want to use it, look at some easy ways to get started, and share resources to take you further.<\/p> <p>Jonathan Carroll<br/>Got lots of loops or repetitive calculating to do? In this talk I'll walk through the basics of synchronous vs asynchronous processing and demonstrate some ways to perform calculations in parallel (or offsite) based on the {future} package.<\/p> <p>This R meet-up is governed by the R Community Code of Conduct: <a href=\"https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct\" class=\"linkified\">https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/Adelaide-R-Users/events/264061380/"
-  },
-  {
-    "title": "Budapest Users of R Network: Highlights from the useR! 2019 conference",
-    "group": "Budapest Users of R Network",
-    "start": "2019-09-05",
-    "description": "<p>HUN summary: A useR! 2019 konferencia (<a href=\"http://www.user2019.fr\" class=\"linkified\">http://www.user2019.fr<\/a>) idén Toulouse-ban került megrendezésre, amely 5 magyarországi résztvevője tart fényképes élménybeszámolót, amelyet követően sörözünk és kötetlenül beszélgetünk. Előadók: Alex Trickey, Bérczi András, Czeller Ildikó, Tarnói Csenge és Daróczi Gergely. A találkozót az R Ladies (<a href=\"https://www.meetup.com/R-Ladies-Budapest/\" class=\"linkified\">https://www.meetup.com/R-Ladies-Budapest/<\/a>) meetuppal együtt szervezzük, és sok szeretettel várunk minden érdeklődőt. Az előadások várhatóan vegyesen magyar vagy angol nyelven lesznek megtartva.<\/p> <p>Be prepared to recall some slides of the most inspiring talks of the useR! 2019 conference (<a href=\"http://www.user2019.fr\" class=\"linkified\">http://www.user2019.fr<\/a>) from Toulouse, see featured photos taken at the networking events, hear some backstage stories of the R gurus shared with us in person after the conference hours but not on Twitter yet. Most talks will be in English. Speakers: Alex Trickey, András Bérczi, Ildikó Czeller, Csenge Tarnói and Gergely Daróczi.<\/p> <p>Detailed schedule and location TBD.<\/p> <p>Previous events on useR! conference retrospects:<br/>- 2014: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/185043252\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/185043252<\/a><br/>- 2015: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/222568646\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/222568646<\/a><br/>- 2016: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/232088178\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/232088178<\/a><br/>- 2017: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/241089389\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/241089389<\/a><br/>- 2018: <a href=\"https://www.meetup.com/Big-Data-Meetup-Budapest/events/252743344/\" class=\"linkified\">https://www.meetup.com/Big-Data-Meetup-Budapest/events/252743344/<\/a><\/p> <p>This is a joint event with the local chapter of R Ladies: <a href=\"https://www.meetup.com/rladies-budapest/events/264021758/\" class=\"linkified\">https://www.meetup.com/rladies-budapest/events/264021758/<\/a><\/p> ",
-    "url": "https://www.meetup.com/Budapest-Users-of-R-Network/events/263996546/"
   },
   {
     "title": "Meetup R Nantes: Cartographie avec R et d3.js",
@@ -224,6 +231,13 @@
     "url": "https://www.meetup.com/Winnipeg-R-User-Group/events/265160698/"
   },
   {
+    "title": "Inland Northwest R User Group (INRUG): Google Deep Dream: What does my network actually see?",
+    "group": "Inland Northwest R User Group (INRUG)",
+    "start": "2019-10-05",
+    "description": "<p>Abstract: In this talk we will look at Neural Networks for object recognition in images (vgg16 and possibly inception). We will talk about how the network learns and how learning affects what the network is seeing, that is, What are the features that the network uses to \"understand\" that an object is present? This will further lead us to a discussion of gradient-based learning and how it affects the ability of the network to do what we train it to do. If we have time we will show how this leads to the possibility of \"fooling\" the algorithm into thinking it sees something that isn't present.<\/p> <p>Speaker: Joe Dumoulin, Chief Technology Innovation Officer at Verint Intelligent Self Service<\/p> <p>When and Where: October 5, 9.30 AM, Jepson 122 (School of Business Administration, Gonzaga University)<\/p> ",
+    "url": "https://www.meetup.com/Inland-Northwest-R-User-Group-INRUG/events/265192874/"
+  },
+  {
     "title": "Panama R User's Group: Power BI + R Bootcamp ",
     "group": "Panama R User's Group",
     "start": "2019-09-14",
@@ -301,6 +315,13 @@
     "url": "https://www.meetup.com/Oslo-useR-Group/events/262046333/"
   },
   {
+    "title": "Malaysia R User Public Group: confeRence 2019",
+    "group": "Malaysia R User Public Group",
+    "start": "2019-10-05",
+    "description": "<p>* This is a PAID event. Get your ticket here <a href=\"https://www.ticket2u.com.my/event/15007\" class=\"linkified\">https://www.ticket2u.com.my/event/15007<\/a><\/p> <p>Join us for this year's confeRence 2019 event on 5th October 2019, where we'll bring together R enthusiasts and the developer, data scientist and machine learning community to be a part of the R community experience.<\/p> <p>The R User Group Malaysia welcomes you to our second confeRence 2019 talks+workshops events. The R User Group Malaysia is a diverse group that come together to discuss anything related to the R programming language. We aim to provide members ranging from beginners to R professionals and experts to share and learn about R programming and gain competency as well as share new ideas or knowledge.<\/p> <p>The main objective of the confeRence 2019 is to allow members to come together and get to know each other better. Besides that, there will be knowledge sharing session by R practitioners.<\/p> <p>Date: 5th October 2019 (Saturday)<br/>Time: 9.00 a.m. - 5.00 p.m.<br/>Venue: Sunway University<br/>GPS:[masked],[masked]<\/p> <p>Talk Session<br/>8:00am : Check-in and Breakfast<br/>9:00am : Welcoming remarks/Keynote<br/>9:15am : Talk 1 : Dr. Yu Yong Poh - Creating smart manufacturing dashboard with R Shiny (45 mins)<br/>10:00am : Talk 2 : Pieter Stek - Writing an Awesome DisseRtation with R (45 mins)<br/>10.45am : Tea Break/Networking<br/>11:00am : Talk 3 : Dr. Poo Kuan Hoong - Exploring Tidyverse (45 mins)<br/>11.45am : Talk 4 : Brian Ho (Inmagine Group) - Using R with AWS EMR and SageMaker (45 mins)<br/>12:30pm : Lunch/Networking<br/>1:30pm : Talk 5 : Ooi Wen Fong (Ministry of Health Singapore) - Making R More Efficient!<br/>(45 mins)<br/>2:15pm : Talk 6 : Technical talk by R Practitioner (45 mins)<br/>3.00pm : Talk 7 : Sharat Chandra - Social Media Analytics with Machine Learning (45 mins)<br/>3.45pm : Tea Break/Networking<br/>4.00pm : Talk 8 : Technical talk by R Practitioner (45 mins)<br/>4.45pm : Networking &amp; Lucky Draw<br/>5.00pm : End of Event<\/p> <p>Workshop Session<br/>8:00am : Check-in and Breakfast<br/>9:30am : Code Lab / Workshop Session 1: Dr. Kamarul Imran Musa (USM) - Regression Analysis in Health and Medicine Using R (1.5 hours)<br/>11:00pm : Break<br/>11:15pm : Code Lab / Workshop Session 2: Dr. Wan Nor Arifin (USM) - Questionnaire Analysis Using R (1.5 hours)<br/>12.45pm: Lunch<br/>1.30pm: Code Lab / Workshop Session 3: Dr Tan Yan Bin (TARUC) - Machine Learning with R (1.5 hours)<\/p> <p>* Program schedule is subject to change<\/p> ",
+    "url": "https://www.meetup.com/Malaysia-R-User-Group/events/263477109/"
+  },
+  {
     "title": "Denver R User Group: twang for propensity score methods, magritter and office hours",
     "group": "Denver R User Group",
     "start": "2019-09-24",
@@ -357,6 +378,13 @@
     "url": "https://www.meetup.com/DakaR-R-User-Group/events/264842472/"
   },
   {
+    "title": "Bay Area useR Group (R Programming Language): Time Series Workshop",
+    "group": "Bay Area useR Group (R Programming Language)",
+    "start": "2019-10-05",
+    "description": "<p>We are trying something new for BARUG, offering a Saturday morning workshop where we can spend more time \"hands on\" working with R code. Rami Krispin will present our first workshop on Time Series Analysis. Rami is a data scientist that focuses on time series analysis and forecasting. He is the author of \"Hands-On Time Series Analysis with R\" and several R packages, including the TSstudio package for time series analysis and forecasting applications.<\/p> <p>The workshop is free but seating is limited. If you do not RSVP for the event you may not get in.<\/p> <p>The agenda for the morning is as follows:<\/p> <p>8:00 AM - doors open<br/>8:30 Workshop Begins<br/>8:30 - 9:00 Introduction to time series analysis and forecasting<br/>a) An overview of the forecasting process<br/>b) Packages and tools<br/>9:30 - 10:00 Time series objects - introduction to the time series classes and their attributes:<br/>a) ts<br/>b) xts and zoo<br/>c) tsibble<br/>10:00 - 10:30 Descriptive analysis of time series:<br/>a) Correlation analysis - acf and pacf functions, lags plots, etc.<br/>b) Seasonal analysis<br/>10:30 - 10:45 Break<br/>10:45 - 11:30 Linear regression-based forecasting models:<br/>a) Feature engineering - decomposing the time series<br/>components into regression features<br/>b) Handling special events, holidays, outliers, etc<br/>11:30 - 12:30 The ARIMA family of models:<br/>a) Stationarity and differencing<br/>b) AR process<br/>c) MA process<br/>d) ARMA and ARIMA model<br/>e) Seasonal ARIMA<br/>f) Linear regression with ARIMA errors<\/p> ",
+    "url": "https://www.meetup.com/R-Users/events/264628352/"
+  },
+  {
     "title": "Florianópolis R-NNQ R users group: Encontro R",
     "group": "Florianópolis R-NNQ R users group",
     "start": "2019-09-26",
@@ -390,13 +418,6 @@
     "start": "2019-09-24",
     "description": "<p>This event requires registration via an external ticketing system...<\/p> <p>To register please visit ti.to: <a href=\"https://ti.to/londonr/londonr-24-September\" class=\"linkified\">https://ti.to/londonr/londonr-24-September<\/a><\/p> <p>You must have a ti.to ticket in order to attend - thanks!<\/p> ",
     "url": "https://www.meetup.com/LondonR/events/264183122/"
-  },
-  {
-    "title": "CalgaryR: [R-Meds] Nonlinear models with R",
-    "group": "CalgaryR",
-    "start": "2019-09-05",
-    "description": "<p>A new interest group for R users in the healthcare field is meeting on Thursday September 5, 2019, at the Center for Health Informatics (5th floor, TRW Building, 3280 Hospital Dr NW, Calgary)!<\/p> <p>The door opens at 5:30 pm with pizza and soda for networking. The meeting starts by Dr. Catherine Eastwood with a brief introduction of CHI and R-Meds. Dr. Lee is contributing to a meeting this month speaking about nonlinear models using R.<\/p> <p>A nonlinear model is an important tool used to describe the complex nature of observations which are not adequately explained by a linear model in medical and biomedical engineering research. An introduction to the use of nonlinear models with R will be provided. In the first session (40 mins), we cover the following: 1. choosing good candidate nonlinear models, 2. estimating parameters (and choice of starting values), 3. checking model assumptions, and 4. summarizing results from the model. In the second session (30 mins), key R functions are introduced and outputs are visualized step-by-step using nlme package. Extension to data with repeated measurements will be discussed if time permits.<\/p> <p>This event is supported by the Centre for Health Informatics (<a href=\"https://cumming.ucalgary.ca/centres/centre-health-informatics\" class=\"linkified\">https://cumming.ucalgary.ca/centres/centre-health-informatics<\/a>).<\/p> ",
-    "url": "https://www.meetup.com/calgaryr/events/263815910/"
   },
   {
     "title": "CalgaryR: Event-Study Method, Similiarity, Susceptibility Ranking",
@@ -594,6 +615,13 @@
     "url": "https://www.meetup.com/rladies-xalapa/events/264903459/"
   },
   {
+    "title": "R-Ladies Toronto: October Event: Working with Text in R!",
+    "group": "R-Ladies Toronto",
+    "start": "2019-10-05",
+    "description": "<p>We're back from an extended summer break with a Saturday event! Please join us for a talk by Ella Kaye on working with text in R.<\/p> <p>Doors will open at 2:00pm and the talk will begin at 2:30pm. There will be light snacks.<\/p> <p>The talk will be held in room 409 in the Stewart Building (149 College). Entry will be through the door on the west side of the building. Entrances to the building and room are wheelchair accessible.<\/p> <p>Talk:<br/>Transcending its origins as a programming language for statistics, R provides excellent tools for working with text. This tidyverse-based talk will provide an overview of some of the fantastic packages available for this, including (but not limited to) `stringr`, `RVerbalExpressions`, `tidytext` and `wordcloud`.<\/p> <p>Speaker:<br/>Ella is a PhD student in Statisitcs at the University of Warwick. She followed her undergraduate degree in Mathematics and Philosophy with Masters degrees in History and Philosophy of Science and then Mathematics Education. Her interest in statistics was first piqued as a secondary school maths teacher when thinking about how to make the subject interesting for teenagers. An MSc in Applied Statistics followed (via a couple of years in working in market research), which lead to the PhD. Ella is an R enthusiast and package author, and the co-organiser of the Oxford R User Group. She also enjoys cooking, cycling and playing the clarinet.<\/p> <p>Please note that by attending you agree to abide by our code of conduct: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-toronto/events/265028511/"
+  },
+  {
     "title": "R-Ladies Brisbane: Introduction to Statistics with R",
     "group": "R-Ladies Brisbane",
     "start": "2019-10-02",
@@ -606,6 +634,13 @@
     "start": "2019-09-07",
     "description": "<p>In this workshop, we will look a difference sources of public data. We will then go over some coding examples to analyze it. Participants will then work in groups, choosing a data set, and writing code in R to explore and visualize it.<\/p> <p>We are meeting at UA's Main Library (Main 112)<\/p> ",
     "url": "https://www.meetup.com/rladies-tucson-az/events/264318083/"
+  },
+  {
+    "title": "R-Ladies Tucson AZ: Exploratory Data Analysis & Adventures in R",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2019-10-05",
+    "description": "<p>Our October workshop will focus on Exploratory Data Analysis (EDA) and what to do when you're handed a bunch of data (or have collected it yourself), but don't know where to start. Together we will work through the data science process of asking questions, knowing which questions to ask, and how to answer them. We will provide you with a dataset, but you can of course bring your own project if you'd like feedback and help from others.<\/p> <p>What to bring:<\/p> <p>- Your laptop and charger with RStudio installed, but the library also provides laptops you may use<\/p> <p>Who should come:<\/p> <p>- Everybody of all skill levels<\/p> <p>Where to Park:<\/p> <p>The Cherry Avenue Garage is right across from the library, and parking should be free on the weekend (unless there's a special event).<\/p> <p>Hope to see you there!<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/264723707/"
   },
   {
     "title": "Grupo de Usuarios de R en Chile: Latin-R 2019 Santiago Chile",
@@ -780,13 +815,6 @@
     "start": "2019-09-13",
     "description": "<p>If you would like to be part of the R-Ladies team, join us on 13 September 2018 at 6pm for a kick-off meeting.<\/p> <p>Please email [masked] if you would like to attend and for more information.<\/p> ",
     "url": "https://www.meetup.com/rladies-cambridge/events/264495865/"
-  },
-  {
-    "title": "R-Ladies Budapest: Highlights from the useR! 2019 conference",
-    "group": "R-Ladies Budapest",
-    "start": "2019-09-05",
-    "description": "<p>A useR! 2019 konferencia (<a href=\"http://www.user2019.fr\" class=\"linkified\">http://www.user2019.fr<\/a>) idén Toulouse-ban került megrendezésre, amely 5 magyarországi résztvevője tart fényképes élménybeszámolót, amelyet követően sörözünk és kötetlenül beszélgetünk. Előadók: Alex Trickey, Bérczi András, Czeller Ildikó, Tarnói Csenge és Daróczi Gergely. A találkozót a Budapest-Users-of-R-Network/BURN meetuppal (<a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/<\/a>) együtt szervezzük, és sok szeretettel várunk minden érdeklődőt. Az előadások várhatóan vegyesen magyar vagy angol nyelven lesznek megtartva.<\/p> <p>English summary: Be prepared to recall some slides of the most inspiring talks of the useR! 2019 conference (<a href=\"http://www.user2019.fr\" class=\"linkified\">http://www.user2019.fr<\/a>) from Toulouse, see featured photos taken at the networking events, hear some backstage stories of the R gurus shared with us in person after the conference hours but not on Twitter yet. Most talks will be in English. Speakers: Alex Trickey, András Bérczi, Ildikó Czeller, Csenge Tarnói and Gergely Daróczi. This is a joint event with the Budapest-Users-of-R-Network/BURN meetup (<a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/<\/a>).<\/p> <p>Korábbi hasonló meetupok / Previous events on useR! conference retrospects:<br/>- 2014: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/185043252\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/185043252<\/a><br/>- 2015: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/222568646\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/222568646<\/a><br/>- 2016: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/232088178\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/232088178<\/a><br/>- 2017: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/241089389\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/241089389<\/a><br/>- 2018: <a href=\"https://www.meetup.com/Big-Data-Meetup-Budapest/events/252743344/\" class=\"linkified\">https://www.meetup.com/Big-Data-Meetup-Budapest/events/252743344/<\/a><\/p> <p>Ez a BURN meetuppal közös esemény/This is a joint event with BURN meetup: <a href=\"https://www.meetup.com/Budapest-Users-of-R-Network/events/263996546\" class=\"linkified\">https://www.meetup.com/Budapest-Users-of-R-Network/events/263996546<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-budapest/events/264021758/"
   },
   {
     "title": "R-Ladies Riverside: Welcome and Meet & Greet",
@@ -1097,6 +1125,13 @@
     "url": "https://www.meetup.com/Salt-Lake-City-R-Language-Study-Group/events/264434360/"
   },
   {
+    "title": "Salt Lake City R Language Study Group: SVM for Regression(SVR)  and Classification ",
+    "group": "Salt Lake City R Language Study Group",
+    "start": "2019-10-05",
+    "description": "<p>A support vector machine is a discriminative classifier defined by a separating hyperplane. SVR/ SVM analyze data used for classification and regression model. SVM can perform non-linear classification by kernel trick.<br/>Bring your laptop and have fun!<\/p> ",
+    "url": "https://www.meetup.com/Salt-Lake-City-R-Language-Study-Group/events/264707036/"
+  },
+  {
     "title": "R-Ladies Washington D.C.: Beer tasting and analysis of resultant data",
     "group": "R-Ladies Washington D.C.",
     "start": "2019-09-29",
@@ -1188,18 +1223,18 @@
     "url": "https://www.meetup.com/rladies-la/events/264681728/"
   },
   {
+    "title": "R-Ladies Los Angeles: Advanced R Book Club Part 4b: Metaprogramming",
+    "group": "R-Ladies Los Angeles",
+    "start": "2019-10-05",
+    "description": "<p>The LA West R Users Group and RLadies LA are teaming up for a book club series focused on Hadley Wickham’s ‘Advanced R’!<\/p> <p>Slides and materials from the previous Advanced R sessions:<br/><a href=\"https://github.com/amy17519/adv-r-bookclub\" class=\"linkified\">https://github.com/amy17519/adv-r-bookclub<\/a><\/p> <p>Where: UCLA Charles E. Young Research Library, West Classroom (Room 23167)<\/p> <p>Directions: Look for West Classroom (Room 23167) after entering the library. Consider public transit or rideshare if you live nearby since you need to pay for parking. UCLA Parking Structure 5 &amp; 3, both are walking distance to the library. See www.transportation.ucla.edu/campus-parking/visitors<\/p> <p>When: Saturday, October 5 at 10am<\/p> <p>Why: \"The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why R works the way it does.\" - Hadley Wickham<\/p> <p>Come join us for coffee and #rstats as we tackle the book’s sections one at a time. Each book club session will have a leader to guide the discussion, and we encourage everyone to take a look at the material beforehand. The full text of the book is online for free at <a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>, and there's an exercise answer guide at <a href=\"https://advanced-r-solutions.rbind.io/\" class=\"linkified\">https://advanced-r-solutions.rbind.io/<\/a>.<\/p> <p>Here’s the schedule:<br/>• Foundations - August 3, session leader was Amanda Tilot<br/>• Functional Programming - August 10, session leader was Amy Tzu-Yu Chen<br/>• OO Programming - split over August 24 (Base Types, S3, and R6) and September 7 (S4 and Trade-offs), session leader was Daniel Jacobs<br/>• **Metaprogramming - split over September 21 (Ch 17, 18, 19) and October 5 (Ch 20, 21), session leader will be Emil Hvitfeldt!**<br/>• Techniques - split over October 19 (Ch 22, 23) and November 2 (Ch 24, 25), session leaders will be Jake Kramer and Malcolm Barrett respectively!<\/p> <p>Advanced R dives deep into how R works as a language, and we highly recommend joining us for the first two sessions if you’re relatively new to R. We’re also looking for discussion leaders for the later sections of the book, so please reach out to Amy or Amanda if interested!<\/p> <p>This is a bring-your-own-coffee series, but we'll try to provide something sweet. As we're cohosting with the LA West RUG, all R users are welcome! Lastly, we expect all attendees to abide by the RLadies Code of Conduct, available here: <a href=\"https://www.meetup.com/rladies-la\" class=\"linkified\">https://www.meetup.com/rladies-la<\/a>.<\/p> <p>See you there!<br/>Amanda &amp; Amy<\/p> <p>\"This is the perfect book for someone who wants to understand R at a level slightly deeper than necessary for an analyst and less than a base R contributor. If you're interested in programming language design or at looking under the hood of R, this book rocks. \" - Goodreads review<\/p> <p>**To become more involved**<br/>Invite yourself to our SoCal R Users Slack group and join #adv-r-bookclub for discussions: <a href=\"http://bit.ly/laerug\" class=\"linkified\">http://bit.ly/laerug<\/a><br/>Check out more events: laocr.org/<\/p> ",
+    "url": "https://www.meetup.com/rladies-la/events/265172913/"
+  },
+  {
     "title": "Köln R User Group: R Benutzer Treffen Köln / R user meeting in Cologne",
     "group": "Köln R User Group",
     "start": "2019-09-20",
     "description": "<p>For organisational reasons: please only RSVP \"yes\" if you actually plan to attend and don't forget to update your RSVP if needed!<\/p> <p>Otherwise: same place, same time, same spirit :)<\/p> <p>Agenda:<\/p> <p>18:00 Talk<\/p> <p>Federico Marini - iSEEing is believing: exploration of sequencing data, made easy and efficient<\/p> <p>Recent technological advancements in the life and medical sciences have allowed these fields to evolve into quantitative disciplines.<br/>Gene expression profiling with RNA-sequencing, protein quantification via mass spectrometry, high throughput imaging are complex assays that often require advanced methods for processing and generating actionable results. Notably, large and heterogeneous datasets need specific techniques also for the exploration, and I found that an effective combination of interactivity and reproducibility is essential for doing this properly.<\/p> <p>Interactive visualization can be a key player in this regard: for quality assessment of often noisy multivariate data, for hypothesis generation and exploration, for the visualization of results, as well as for the efficient communication of findings. Another essential aspect is that often the scientists generating the primary data might not be well versed in programming, notably increasing the iterations required to extract insight out of it.<\/p> <p>Many of these aspects are common in other fields than bioinformatics, and I will present in detail the functionality of a Bioconductor software I co-developed, iSEE (<a href=\"http://bioconductor.org/packages/iSEE/\" class=\"linkified\">http://bioconductor.org/packages/iSEE/<\/a>) as an application. Leveraging point-and-click user interfaces with guided tours, I will show how users can efficiently explore high-dimensional datasets, automatically retrieve the code for the generated output, and learn (by doing) how to generate compelling scientific figures.<\/p> <p>About Federico (<a href=\"https://federicomarini.github.io/\" class=\"linkified\">https://federicomarini.github.io/<\/a>, @FedeBioinfo):<br/>I am a Postdoctoral Virchow Fellow at the Center for Thrombosis and Hemostasis (CTH) and at the Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI) in Mainz, Germany, where I can sit at the interface with many other disciplines and focus on translational bioinformatics. My research interests involve the development of methods and software for interactive and reproducible research, bringing together the fields of bioinformatics, statistics, genomics, and biology.<br/>I love working in the R programming language, and with software from the Bioconductor project, where I also contributed some packages over the years (pcaExplorer, ideal, iSEE).<\/p> <p>18:45 Talk<\/p> <p>Markus Nu - Deploying Shiny Apps in an Enterprise Context - ShinyProxy as an open source alternative<\/p> <p>After building your R Shiny app, you most often want to show it to others.<br/>Although Shiny Server provides an easy way to get started, in an enterprise context you soon reach a point where you want your users to authenticate and your applications to scale.<br/>ShinyProxy is an open source alternative to Shiny Server Pro, which has built-in functionality for user authentication and authorization, tracking and most importantly no limits on concurrent usage!<br/>In this talk we will see an end-2-end deployment with ShinyProxy, from running ShinyProxy as a docker container on a single machine, setting up an InfluxDB user tracking endpoint up to deploying your R Shiny application via ShinyProxy.<\/p> <p>About Markus: Markus is working as a Data Scientist at OBI next trying to discover interesting and meaningful patterns in data. He is excited by all kinds of data, big or small, logs or surveys, images or text. Prior to joining OBI next, he worked as a research analyst in market research. He studied Political Science (B.A.) and Survey and Data Science (M.Sc.) at the Universities of Mannheim and Maryland.<\/p> <p>Pizzas and drinks will be provided.<\/p> ",
     "url": "https://www.meetup.com/KoelnRUG/events/263188202/"
-  },
-  {
-    "title": "R-Ladies Madison: SOCIAL: WRap up your week with R-Ladies Madison",
-    "group": "R-Ladies Madison",
-    "start": "2019-09-05",
-    "description": "<p>Welcoming Meet n' Greet to share the mission and aims of the group. We'll gather ideas to design engaging and enthusiastic events that build a supportive and inclusive community to practice programming and professional skills.<\/p> <p>rladies.org<\/p> <p>Education Analytics will generously sponsor a round of drinks and appetizers for the evening.<\/p> <p>Education Analytics is a local non-profit that improves education policy through data-driven research.<\/p> ",
-    "url": "https://www.meetup.com/R-Ladies-Madison/events/262965884/"
   },
   {
     "title": "R-Ladies CDMX: Escribiendo funciones en R con Jenny Bryan",
@@ -1438,13 +1473,6 @@
     "url": "https://www.meetup.com/rladies-queretaro/events/264567433/"
   },
   {
-    "title": "R-Ladies Concepción: RMarkdown",
-    "group": "R-Ladies Concepción",
-    "start": "2019-09-05",
-    "description": "<p>En nuestro sexto taller aprenderás a utilizar la librería RMarkdown. En términos sencillos RMarkdown es un procesador de texto que ofrece además la posibilidad de incluir trozos de código desde R (u otros formatos). El principal beneficio de esta herramienta es que permite trabajar en un sólo documento tanto la redacción del contenido narrativo de reportes de investigación, como también la construcción y presentación formal de resultados de análisis estadísticos.<\/p> <p>Te esperamos el próximo jueves 05 de Septiembre a las 18:00 hrs. en la Sala A302AC en la Universidad del Bío-Bío.<\/p> <p>Para el taller, es importante que tengan sus propios computadores, y que descarguen R project desde este link -&gt;: <a href=\"https://dirichlet.mat.puc.cl/\" class=\"linkified\">https://dirichlet.mat.puc.cl/<\/a> y descargar la versión gratuita de R Studio -&gt;: <a href=\"https://www.rstudio.com/products/rstudio/download/\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/<\/a><br/>Además, para este taller sera necesaria la descarga de MySQL, desde el link -&gt; <a href=\"https://www.mysql.com/downloads/\" class=\"linkified\">https://www.mysql.com/downloads/<\/a><\/p> <p>Si es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡No dudes en consultarnos cualquier duda, te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-concepcion/events/264444513/"
-  },
-  {
     "title": "R-Ladies Concepción: Cross MeetUp RLadies Concepción + Power BI Chile Concepción",
     "group": "R-Ladies Concepción",
     "start": "2019-10-02",
@@ -1522,13 +1550,6 @@
     "url": "https://www.meetup.com/Oxford-R-User-Group/events/265179152/"
   },
   {
-    "title": "Orange County R Users Group (OCRUG): Advanced Regression Models with R Applications",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2019-10-05",
-    "description": "<p>**SIGN UP ON EVENTBRITE **<br/><a href=\"https://www.eventbrite.com/e/ocrug-advanced-regression-models-with-r-applications-tickets-70416075377\" class=\"linkified\">https://www.eventbrite.com/e/ocrug-advanced-regression-models-with-r-applications-tickets-70416075377<\/a><\/p> <p>In this workshop, we will talk about a variety of regression models, give their definitions, discussing goodness-of-fit criteria, presenting fitted models, interpreting estimated regression coefficients, and using the fitted models for prediction. The models will be limited to: linear regression, Box-Cox transformation, gamma regression, ordinary logistic regression, Poisson regression, beta regression, longitudinal (repeated measures) regression, and hierarchical model.<\/p> <p>The workshop is designed to be hands-on. Participants are required to bring laptops and be ready to write R, analyzing data and interpreting results. For each model, we present an example with a complete R code, and then will an exercise to work on. Workshop participants should be familiar with algebraic expressions of different probability distributions and have a fundamental knowledge of simple linear regression: normally distributed random error, continuous and categorical independent variables (requiring creating dummy variables).<\/p> <p>The material covered by the workshop will be taken from my recently published book “Advanced Regression Models with SAS and R Applications”, CRC Press, 2018.<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/264303830/"
-  },
-  {
     "title": "Orange County R Users Group (OCRUG): Using YAML and Python in your R Workflow",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2019-10-29",
@@ -1576,13 +1597,6 @@
     "start": "2019-12-12",
     "description": "<p>Attendee lead meeting in a casual setting.<\/p> <p>There is no set agenda. We just work on things as they come up.<br/>A new R UseR? We can help show you the ropes.<br/>Confident in your base skills but got a tricky bug? We can help you squish it.<br/>Experienced lone wolf? Let's talk deployment strategies and workflows, and share your experience with the group.<\/p> ",
     "url": "https://www.meetup.com/Cardiff-R-User-Group/events/kshpgryzqbqb/"
-  },
-  {
-    "title": "Central Iowa R User Group: R and Python study group",
-    "group": "Central Iowa R User Group",
-    "start": "2019-10-05",
-    "description": "<p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
-    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/chzdspyznbhb/"
   },
   {
     "title": "Central Iowa R User Group: R and Python study group",
@@ -1765,13 +1779,6 @@
     "start": "2019-10-12",
     "description": "<p>Winnipeg R User Group Meeting #4 - Text Mining with R (con't)<\/p> <p>Reference Material: <a href=\"https://www.tidytextmining.com\" class=\"linkified\">https://www.tidytextmining.com<\/a><\/p> <p>Continuation of working through the reference material for 2 hours.<\/p> <p>* Chapter 3 - Analyzing Word and Document Frequency: tf-idf<br/>* Chapter 4 - Relationships between words: n-grams and correlations<\/p> <p>Attendees can stay around for another half-hour to chat or ask fellow R Users questions about the presented material or chat about all subjects R-related.<\/p> <p>Please bring a laptop computer if you wish to do hands-on exercises at the meeting.<\/p> ",
     "url": "https://www.meetup.com/Winnipeg-R-User-Group/events/265260883/"
-  },
-  {
-    "title": "Inland Northwest R User Group (INRUG): Google Deep Dream: What does my network actually see?",
-    "group": "Inland Northwest R User Group (INRUG)",
-    "start": "2019-10-05",
-    "description": "<p>Abstract: In this talk we will look at Neural Networks for object recognition in images (vgg16 and possibly inception). We will talk about how the network learns and how learning affects what the network is seeing, that is, What are the features that the network uses to \"understand\" that an object is present? This will further lead us to a discussion of gradient-based learning and how it affects the ability of the network to do what we train it to do. If we have time we will show how this leads to the possibility of \"fooling\" the algorithm into thinking it sees something that isn't present.<\/p> <p>Speaker: Joe Dumoulin, Chief Technology Innovation Officer at Verint Intelligent Self Service<\/p> <p>When and Where: October 5, 9.30 AM, Jepson 122 (School of Business Administration, Gonzaga University)<\/p> ",
-    "url": "https://www.meetup.com/Inland-Northwest-R-User-Group-INRUG/events/265192874/"
   },
   {
     "title": "Greater Cleveland R Group: Teaching Lab R&D Chemists using RMD and Shiny with Mukul Mehta",
@@ -1961,13 +1968,6 @@
     "url": "https://www.meetup.com/portland-r-user-group/events/264758652/"
   },
   {
-    "title": "Bay Area useR Group (R Programming Language): Time Series Workshop",
-    "group": "Bay Area useR Group (R Programming Language)",
-    "start": "2019-10-05",
-    "description": "<p>We are trying something new for BARUG, offering a Saturday morning workshop where we can spend more time \"hands on\" working with R code. Rami Krispin will present our first workshop on Time Series Analysis. Rami is a data scientist that focuses on time series analysis and forecasting. He is the author of \"Hands-On Time Series Analysis with R\" and several R packages, including the TSstudio package for time series analysis and forecasting applications.<\/p> <p>The workshop is free but seating is limited. If you do not RSVP for the event you may not get in.<\/p> <p>The agenda for the morning is as follows:<\/p> <p>8:00 AM - doors open<br/>8:30 Workshop Begins<br/>8:30 - 9:00 Introduction to time series analysis and forecasting<br/>a) An overview of the forecasting process<br/>b) Packages and tools<br/>9:30 - 10:00 Time series objects - introduction to the time series classes and their attributes:<br/>a) ts<br/>b) xts and zoo<br/>c) tsibble<br/>10:00 - 10:30 Descriptive analysis of time series:<br/>a) Correlation analysis - acf and pacf functions, lags plots, etc.<br/>b) Seasonal analysis<br/>10:30 - 10:45 Break<br/>10:45 - 11:30 Linear regression-based forecasting models:<br/>a) Feature engineering - decomposing the time series<br/>components into regression features<br/>b) Handling special events, holidays, outliers, etc<br/>11:30 - 12:30 The ARIMA family of models:<br/>a) Stationarity and differencing<br/>b) AR process<br/>c) MA process<br/>d) ARMA and ARIMA model<br/>e) Seasonal ARIMA<br/>f) Linear regression with ARIMA errors<\/p> ",
-    "url": "https://www.meetup.com/R-Users/events/264628352/"
-  },
-  {
     "title": "Sydney Users of  R Forum (SURF): Oct 2019 - Video Analysis with Tensor Decomposition using R (Rene Essomba)",
     "group": "Sydney Users of  R Forum (SURF)",
     "start": "2019-10-09",
@@ -2092,20 +2092,6 @@
     "start": "2019-10-16",
     "description": "<p>Have you heard of Tidy Tuesday? It is a weekly visualisation challenge set by Thomas Mock from the R4DS community. Each week there is a new dataset posted to the github page (<a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>) and people have a go creating some kind of visualisation using ggplot. Lots of people then post their plots to twitter with the hashtag #tidytuesday.<\/p> <p>It is so fun to see how other rstats users approach the same dataset and because you can see the code that produced each plot, it is a great way to learn new ggplot tips and tricks.<\/p> <p>At this event, we are going to play with some Tidy Tuesday data. Jenny Sloane, who is a PhD student from UNSW Psychology, has kindly offered to lead us through a demo, showing us how to access the most recent Tidy Tuesday data. She is going to LIVE CODE a visualisation of it to give us a taste of what Tidy Tuesday is all about.<\/p> <p>Then we will break into teams, pick a different dataset and work together to produce a visualisation that we can share with the group at the end of the night.<\/p> <p>This is a great opportunity for those who don't know ggplot to learn from those who do. Social learning at its best!<\/p> ",
     "url": "https://www.meetup.com/rladies-sydney/events/265326306/"
-  },
-  {
-    "title": "R-Ladies Toronto: October Event: Working with Text in R!",
-    "group": "R-Ladies Toronto",
-    "start": "2019-10-05",
-    "description": "<p>We're back from an extended summer break with a Saturday event! Please join us for a talk by Ella Kaye on working with text in R.<\/p> <p>Doors will open at 2:00pm and the talk will begin at 2:30pm. There will be light snacks.<\/p> <p>The talk will be held in room 409 in the Stewart Building (149 College). Entry will be through the door on the west side of the building. Entrances to the building and room are wheelchair accessible.<\/p> <p>Talk:<br/>Transcending its origins as a programming language for statistics, R provides excellent tools for working with text. This tidyverse-based talk will provide an overview of some of the fantastic packages available for this, including (but not limited to) `stringr`, `RVerbalExpressions`, `tidytext` and `wordcloud`.<\/p> <p>Speaker:<br/>Ella is a PhD student in Statisitcs at the University of Warwick. She followed her undergraduate degree in Mathematics and Philosophy with Masters degrees in History and Philosophy of Science and then Mathematics Education. Her interest in statistics was first piqued as a secondary school maths teacher when thinking about how to make the subject interesting for teenagers. An MSc in Applied Statistics followed (via a couple of years in working in market research), which lead to the PhD. Ella is an R enthusiast and package author, and the co-organiser of the Oxford R User Group. She also enjoys cooking, cycling and playing the clarinet.<\/p> <p>Please note that by attending you agree to abide by our code of conduct: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-toronto/events/265028511/"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Exploratory Data Analysis & Adventures in R",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2019-10-05",
-    "description": "<p>Our October workshop will focus on Exploratory Data Analysis (EDA) and what to do when you're handed a bunch of data (or have collected it yourself), but don't know where to start. Together we will work through the data science process of asking questions, knowing which questions to ask, and how to answer them. We will provide you with a dataset, but you can of course bring your own project if you'd like feedback and help from others.<\/p> <p>What to bring:<\/p> <p>- Your laptop and charger with RStudio installed, but the library also provides laptops you may use<\/p> <p>Who should come:<\/p> <p>- Everybody of all skill levels<\/p> <p>Where to Park:<\/p> <p>The Cherry Avenue Garage is right across from the library, and parking should be free on the weekend (unless there's a special event).<\/p> <p>Hope to see you there!<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/264723707/"
   },
   {
     "title": "R-Ladies Auckland: Spatial data and making maps in R (using sf and ggplot2)",
@@ -2482,11 +2468,11 @@
     "url": "https://www.meetup.com/Dusseldorf-R-User-Group/events/265061800/"
   },
   {
-    "title": "Salt Lake City R Language Study Group: SVM for Regression(SVR)  and Classification ",
-    "group": "Salt Lake City R Language Study Group",
-    "start": "2019-10-05",
-    "description": "<p>A support vector machine is a discriminative classifier defined by a separating hyperplane. SVR/ SVM analyze data used for classification and regression model. SVM can perform non-linear classification by kernel trick.<br/>Bring your laptop and have fun!<\/p> ",
-    "url": "https://www.meetup.com/Salt-Lake-City-R-Language-Study-Group/events/264707036/"
+    "title": "R-Ladies Washington D.C.: Books In Bars - My Own Words by RBG",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2019-11-22",
+    "description": "<p>Spend Friday night discussing My Own Words by Ruth Bader Ginsburg.<\/p> <p>Purchase the book here: <a href=\"https://www.amazon.com/Own-Words-Ruth-Bader-Ginsburg/dp/150114524X/ref=asc_df_150114524X/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=312446862670&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=17670116525013062619&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9007813&amp;hvtargid=pla-404289631110&amp;psc=1\" class=\"linkified\">https://www.amazon.com/Own-Words-Ruth-Bader-Ginsburg/dp/150114524X/ref=asc_df_150114524X/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=312446862670&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=17670116525013062619&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9007813&amp;hvtargid=pla-404289631110&amp;psc=1<\/a>.<\/p> <p>My Own Words “showcases Ruth Ginsburg’s astonishing intellectual range” (The New Republic). In this collection Justice Ginsburg discusses gender equality, the workings of the Supreme Court, being Jewish, law and lawyers in opera, and the value of looking beyond US shores when interpreting the US Constitution. Throughout her life Justice Ginsburg has been (and continues to be) a prolific writer and public speaker. This book’s sampling is selected by Justice Ginsburg and her authorized biographers Mary Hartnett and Wendy W. Williams, who introduce each chapter and provide biographical context and quotes gleaned from hundreds of interviews they have conducted.<\/p> <p>Witty, engaging, serious, and playful, My Own Words is a fascinating glimpse into the life of one of America’s most influential women and “a tonic to the current national discourse” (The Washington Post).<\/p> <p>PS Please contact the organizer if you need support finding the book.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/265423520/"
   },
   {
     "title": "R-Ladies Buffalo: BuffaloR and R-LadiesBuffalo Combo Meeting",
@@ -2510,13 +2496,6 @@
     "url": "https://www.meetup.com/Seattle-useR/events/265299351/"
   },
   {
-    "title": "Houston R Users Group: Glasstire DataHack",
-    "group": "Houston R Users Group",
-    "start": "2019-10-05",
-    "description": "<p>Glasstire.com is hosting its first hackathon at Rice University this weekend. We encourage all of our members to participate in this free event. You can participate as an individual or with a team. There is a $5,000 prize!<\/p> <p>EVENT:<br/><a href=\"https://glasstire.com/2019/09/15/datahack/\" class=\"linkified\">https://glasstire.com/2019/09/15/datahack/<\/a><\/p> <p>REGISTRATION:<br/><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfep6uY7va9Ar3P3ZqAhO3-A3Z5Z5j6bMrkmVMFY9wa_nYjAA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfep6uY7va9Ar3P3ZqAhO3-A3Z5Z5j6bMrkmVMFY9wa_nYjAA/viewform<\/a><\/p> <p>SCHEDULE:<br/><a href=\"https://glasstire.com/2019-datahack-schedule/\" class=\"linkified\">https://glasstire.com/2019-datahack-schedule/<\/a><\/p> <p>FAQs:<br/><a href=\"https://glasstire.com/2019-datahack-faq/\" class=\"linkified\">https://glasstire.com/2019-datahack-faq/<\/a><\/p> ",
-    "url": "https://www.meetup.com/houstonr/events/265288506/"
-  },
-  {
     "title": "Houston R Users Group: How Would You Do It? Data Challenge: Web Scraping Amazon's Best sellers",
     "group": "Houston R Users Group",
     "start": "2019-11-05",
@@ -2538,13 +2517,6 @@
     "url": "https://www.meetup.com/rladies-rtp/events/264804570/"
   },
   {
-    "title": "R-Ladies Los Angeles: Advanced R Book Club Part 4b: Metaprogramming",
-    "group": "R-Ladies Los Angeles",
-    "start": "2019-10-05",
-    "description": "<p>The LA West R Users Group and RLadies LA are teaming up for a book club series focused on Hadley Wickham’s ‘Advanced R’!<\/p> <p>Slides and materials from the previous Advanced R sessions:<br/><a href=\"https://github.com/amy17519/adv-r-bookclub\" class=\"linkified\">https://github.com/amy17519/adv-r-bookclub<\/a><\/p> <p>Where: UCLA Charles E. Young Research Library, West Classroom (Room 23167)<\/p> <p>Directions: Look for West Classroom (Room 23167) after entering the library. Consider public transit or rideshare if you live nearby since you need to pay for parking. UCLA Parking Structure 5 &amp; 3, both are walking distance to the library. See www.transportation.ucla.edu/campus-parking/visitors<\/p> <p>When: Saturday, October 5 at 10am<\/p> <p>Why: \"The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why R works the way it does.\" - Hadley Wickham<\/p> <p>Come join us for coffee and #rstats as we tackle the book’s sections one at a time. Each book club session will have a leader to guide the discussion, and we encourage everyone to take a look at the material beforehand. The full text of the book is online for free at <a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>, and there's an exercise answer guide at <a href=\"https://advanced-r-solutions.rbind.io/\" class=\"linkified\">https://advanced-r-solutions.rbind.io/<\/a>.<\/p> <p>Here’s the schedule:<br/>• Foundations - August 3, session leader was Amanda Tilot<br/>• Functional Programming - August 10, session leader was Amy Tzu-Yu Chen<br/>• OO Programming - split over August 24 (Base Types, S3, and R6) and September 7 (S4 and Trade-offs), session leader was Daniel Jacobs<br/>• **Metaprogramming - split over September 21 (Ch 17, 18, 19) and October 5 (Ch 20, 21), session leader will be Emil Hvitfeldt!**<br/>• Techniques - split over October 19 (Ch 22, 23) and November 2 (Ch 24, 25), session leaders will be Jake Kramer and Malcolm Barrett respectively!<\/p> <p>Advanced R dives deep into how R works as a language, and we highly recommend joining us for the first two sessions if you’re relatively new to R. We’re also looking for discussion leaders for the later sections of the book, so please reach out to Amy or Amanda if interested!<\/p> <p>This is a bring-your-own-coffee series, but we'll try to provide something sweet. As we're cohosting with the LA West RUG, all R users are welcome! Lastly, we expect all attendees to abide by the RLadies Code of Conduct, available here: <a href=\"https://www.meetup.com/rladies-la\" class=\"linkified\">https://www.meetup.com/rladies-la<\/a>.<\/p> <p>See you there!<br/>Amanda &amp; Amy<\/p> <p>\"This is the perfect book for someone who wants to understand R at a level slightly deeper than necessary for an analyst and less than a base R contributor. If you're interested in programming language design or at looking under the hood of R, this book rocks. \" - Goodreads review<\/p> <p>**To become more involved**<br/>Invite yourself to our SoCal R Users Slack group and join #adv-r-bookclub for discussions: <a href=\"http://bit.ly/laerug\" class=\"linkified\">http://bit.ly/laerug<\/a><br/>Check out more events: laocr.org/<\/p> ",
-    "url": "https://www.meetup.com/rladies-la/events/265172913/"
-  },
-  {
     "title": "Köln R User Group: Get started with R - Data visualisation workshop with ggplot2",
     "group": "Köln R User Group",
     "start": "2019-10-11",
@@ -2555,7 +2527,7 @@
     "title": "R-Ladies Rio de Janeiro: Meetup R-Ladies Rio de Janeiro Outubro 2019 ",
     "group": "R-Ladies Rio de Janeiro",
     "start": "2019-10-24",
-    "description": "<p>Neste meetup vamos (re)conectar o grupo, conversar de R e fazer um lindo exemplo de física para se inspirar!<\/p> ",
+    "description": "<p>Neste meetup vamos (re)conectar o grupo, conversar sobre R e fazer um lindo exemplo de física para se inspirar!<\/p> <p>Palestra: Introdução ao R: tidyverse aplicado a dados de física!<\/p> ",
     "url": "https://www.meetup.com/rladies-rio/events/265195019/"
   },
   {
