@@ -471,9 +471,11 @@ all_past_revents <- lapply(rugs_urlnames_full[-388],
 )  
 eventdf <- do.call("rbind", lapply(all_upcoming_revents, '[', c("name","group_name","local_date", "description","link")))
 past_eventdf <- do.call("rbind", lapply(all_past_revents, '[', c("name","group_name","local_date", "description","link")))
+past_eventdf$textColor <- "#7171fb"
+eventdf$textColor <- "blue"
 eventdf <- rbind(past_eventdf, eventdf)
 eventdf$name <- paste(eventdf$group_name, eventdf$name, sep = ": ")
-colnames(eventdf) <- c("title", "group","start", "description", "url")
+colnames(eventdf) <- c("title", "group","start", "description", "url", "textColor")
 
 event_json <- jsonlite::toJSON(eventdf, pretty = TRUE )
 writeLines(event_json, "docs/data/rugs_events.json")
