@@ -446,13 +446,13 @@ get_upcoming_events <- function(){
   rugs_urlnames_full = rugs$rugs_urlnames_full
     
 all_upcoming_revents <- lapply(rugs_urlnames_full[-388], 
-                               function(x) 
-                               {
-                                 y <- get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
-                                 Sys.sleep(0.4)
-                                 y
-                               }
-)
+                                 function(x) 
+                                 {
+                                   y <- get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
+                                   Sys.sleep(0.4)
+                                   y
+                                 }
+  )
   
 # PAST EVENTS 30 days ago
 #rugs2 <- rugs[!(rugs$past_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
@@ -464,7 +464,7 @@ all_upcoming_revents <- lapply(rugs_urlnames_full[-388],
 all_past_revents <- lapply(rugs_urlnames_full[-388], 
                           function(x) 
                           {
-                            y <- get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date()-1)
+                            y <- get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date())
                             Sys.sleep(0.4)
                             y
                           }
