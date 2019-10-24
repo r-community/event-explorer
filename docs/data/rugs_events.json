@@ -296,6 +296,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Greater Cleveland R Group: Teaching Lab R&D Chemists using RMD and Shiny with Mukul Mehta",
+    "group": "Greater Cleveland R Group",
+    "start": "2019-10-23",
+    "description": "<p>Lab R&amp;D Chemists in Chemical, Food, Plastic, Polymer and Pharma industries are very creative and constantly develop new products over time. Their R&amp;D Managers worry, that R&amp;D is very slow and struggle to speed up NPD. Many big companies like DuPont, Dow, BF Goodrich Chemical and others have tried to bring new statistical and mathematical methods in-house, but without much success.<\/p> <p>Mukul Mehta will examine several problems he has identified and an R/Shiny based solution that he is developing to address these problems. Mukul hopes to train 10,000 Lab R&amp;D chemists over three years.<\/p> ",
+    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/263391285/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Portsmouth R User Group Meetup: Portsmouth R User Group meet-up",
     "group": "Portsmouth R User Group Meetup",
     "start": "2019-10-08",
@@ -549,6 +557,14 @@
     "start": "2019-10-01",
     "description": "<p>En esta oportunidad Paula Fergnani nos va a enseñar a extraer datos climáticos de la base de WorldClim a partir de una lista de coordenadas de sitios de muestreo. Es decir, vamos a usar R como un SIG!<\/p> <p>Les pedimos que antes de anotarse primero lean y acepten el código de conducta<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡No te olvides de traer tú notebook! Deberás traer R, Rstudio y LOS<br/>PAQUETES INSTALADOS, no contamos con internet para descargar los<br/>paquetes en la sala.<\/p> <p>FUNDAMENTAL! Buscamos encargades de coffee break, que puedan traer alguna delicatessen para degustar. Escribinos para colaborar :) Las organizadoras llevarán las infusiones<\/p> <p>Paquetes para traer instalados!!<br/>tidyverse<br/>sp<br/>rgdal<br/>maptools<br/>raster<br/>rgeos<br/>cualquier problema con las instalación de los paquetes pueden escribir al slack<\/p> ",
     "url": "https://www.meetup.com/rladies-bariloche/events/265090753/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "New York Open Statistical Programming Meetup: A Matter of Time: A Brief History of Time Series in R and Beyond",
+    "group": "New York Open Statistical Programming Meetup",
+    "start": "2019-10-23",
+    "description": "<p>We have more time series, this month from Jeff Ryan, the creator of the xts and quantmod packages.<\/p> <p>Thank you to the Visiting Nurse Service of New York for hosting us at the Daily Planet (<a href=\"https://bit.ly/2IryeJZ\" class=\"linkified\">https://bit.ly/2IryeJZ<\/a>), I mean Daily News, Building<\/p> <p>About the Talk:<br/>Time series are everywhere, and fundamentally different than all other data. To effectively work with these series demands highly specialized tools--as dates, times, notation, calendars, time zones, and more must be carefully managed while doing even basic operations like subsetting, merging, aggregating and dealing with missingness. If not handled properly, all of your analysis could be at risk. Specialized tools for time have been part of R since the beginning, but have seen enormous changes over the last decade. In this talk we’ll explore where we started, what we have now and what might be on the horizon. I'll try to show the whole story in code and tell my unique perspective as someone who’s been lucky enough to be part of its history--and actively working on crafting its future for R, and beyond.<\/p> <p>About Jeff:<br/>Jeff Ryan is a practitioner in the quantitative hedge fund space and a long time contributor to R in both finance and data management. He introduced quantmod and xts in 2007, and co-founded the successful R/Finance conference, held annually since 2009. Over the years he's watched how time series went from an esoteric topic to the hottest thing in databases. He thinks this increased focus is only getting started. He's a bit opinionated, and enjoys building simple but powerful tools that can stand the test of time. Jeff is currently working on what he believes is be the next big step in time series management.<\/p> <p>Pizza (<a href=\"https://bit.ly/pizzapoll\" class=\"linkified\">https://bit.ly/pizzapoll<\/a>) begins at 6:30, the talk starts at 7, then after we head to the local bar.<\/p> ",
+    "url": "https://www.meetup.com/nyhackr/events/265464477/",
     "textColor": "#7171fb"
   },
   {
@@ -846,6 +862,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Stockholm: Basics in R package building: user centered problems and solutions",
+    "group": "R-Ladies Stockholm",
+    "start": "2019-10-23",
+    "description": "<p>Are you curious about how to think and do when creating an R package? At this meetup we will discuss problems and possibilities in package building and provide a framework of how you can transform your R code into a user-friendly R package.<\/p> <p>[masked]: Doors open, mingle time<br/>[masked]: How to go from functions to an R package<\/p> <p>Venue: Antler Office at Venue: Wework Regeringsgatan 29, Room 5c.<\/p> <p>About: Antler is a global startup generator and early-stage VC. In their program, they help determined people become great founders of successful tech startups, with the vision of building the next wave of tech. Antler is the sponsor of this event and will provide us with snacks and drinks during the mingle.<\/p> <p>Presenters:<br/>Nissa Ferm, data scientist and author of the packages \"FastrCAT\", \"rrza\" and \"fishgutr\".<\/p> <p><a href=\"https://www.nissaferm.com/\" class=\"linkified\">https://www.nissaferm.com/<\/a><\/p> <p>Elisabeth Dahlqwist, statistician at Statistics Sweden with a background in biostatistics and author of the packages \"AF\" and \"AFheritability\".<\/p> <p><a href=\"https://staff.ki.se/people/elisda?_ga=2.159565181.1967102025.1568902248-1602500728.1560417051\" class=\"linkified\">https://staff.ki.se/people/elisda?_ga=2.159565181.1967102025.1568902248-1602500728.1560417051<\/a><\/p> <p>All are welcome but please follow our code of conduct <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a> !<\/p> <p>Poster credit to Tyra Lagerberg.<\/p> ",
+    "url": "https://www.meetup.com/rladies-stockholm/events/264989042/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Kyiv: Data Science Study Group",
     "group": "R-Ladies Kyiv",
     "start": "2019-09-25",
@@ -1001,14 +1025,6 @@
     "start": "2019-09-30",
     "description": "<p>• What we'll do<br/>This meetup we will go through some data tidying with the {dplyr} and {tidyr} packages from the {tidyverse}. Athanasia (Mo) works a lot with data in various formats, and data cleaning has become a large part of her everyday work. She'll take you though some basic principles, and also highlight the functions that might seem a little hidden, but are truly life savers!<\/p> <p>There will be some simple food and drink served, and time to mingle.<\/p> <p>• What to bring<br/>No equipment necessary. If you want to give the process a try with your own stuff and get aid from the speaker, bring a laptop/MacBook with R and RStudio installed. She will be switching between talking and live coding, so you can code along.<\/p> <p>• Important to know<br/>Everyone who accepts our code of conduct (<a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english<\/a>) is welcome to attend, regardless of gender.<\/p> ",
     "url": "https://www.meetup.com/rladies-oslo/events/264422950/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies East Lansing: Introduction to R/RStudio",
-    "group": "R-Ladies East Lansing",
-    "start": "2019-09-23",
-    "description": "<p>WHO is this for?<br/>- If you are new to R &amp; are short-budgeted on time!<br/>- If you'd like to start working with data in R w/o learning all the programming details first!!<br/>- If you have a neat data set you'd like to explore w/ basic statistics!<br/>- If you are getting started with base R and want to learn more!<\/p> <p>* If any of this is true, this workshop might be for you!<\/p> <p>AGENDA<br/>6:00–6:15 Meet &amp; Greet | 🍕| Set-up<br/>6:15–7:25 Workshop: Intro to R/RStudio<br/>7:25–7:30 Q&amp;A| How to reach us to continue this conversation!<\/p> <p>SETUP INSTRUCTIONS<br/>*This is a hands-on workshop. Please bring your laptop<br/>* Before the Workshop: install R &amp; RStudio OR use RStudio Cloud. See full installation instructions: <a href=\"https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing<\/a><\/p> <p>Having trouble with installation &amp; set-up? Ping us on Slack! Or come 15min early.<\/p> <p>USEFUL RESOURCES<br/>Software Carpentry's Video Tutorial for installing R and R Studio:<br/>* For Windows Users: <a href=\"https://www.youtube.com/watch?v=q0PjTAylwoU\" class=\"embedded\">https://www.youtube.com/watch?v=q0PjTAylwoU<\/a><br/>* For Mac Users: <a href=\"https://www.youtube.com/watch?v=5-ly3kyxwEg\" class=\"embedded\">https://www.youtube.com/watch?v=5-ly3kyxwEg<\/a><\/p> <p>** Questions? Find us on slack: rladies-eastlansing.slack.com OR<br/>** Email us: [masked]<\/p> ",
-    "url": "https://www.meetup.com/rladies-eastlansing/events/264340414/",
     "textColor": "#7171fb"
   },
   {
@@ -1403,14 +1419,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday｜Make your own Kriging interpolation algorithm with python ",
-    "group": "Taiwan R User Group / MLDM Monday",
-    "start": "2019-09-23",
-    "description": "<p>主題：<br/>Make your own Kriging interpolation algorithm with python<br/>用 python 寫出自己的 Kriging<\/p> <p>講者：<br/>蔡瑞發 Data Scientist @Gogoro<\/p> <p>大綱：<br/>Kriging 是地理統計中常用的 interpolation 演算法，利用空間中量測點間的變異量與距離的關係來預測相近位置的觀測值。在資源有限的的情況下，常幫助地質學來了解未知地域的地質特性。除了在地質學上，這樣的空間預測演算法也能有其他應用。在大數據時代，現有的工具（例如 ArcGIS, QGIS）能處理的資料類型受限。這次的演講來分享如何利用台灣地震開放資料與 python 的套件（numpy geopandas scipy rasterio）來設計自己的 Kriging interpolation algorithm。內容包含數學推導與程式範本。<\/p> ",
-    "url": "https://www.meetup.com/Taiwan-R/events/264959486/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Taiwan R User Group / MLDM Monday: MLDM Monday X R-Ladies Taipei ｜ 讓 R 使用者又愛又恨的因素向量（factor）",
     "group": "Taiwan R User Group / MLDM Monday",
     "start": "2019-10-07",
@@ -1669,7 +1677,7 @@
     "title": "LA R users group: LA West R Users: October Meeting",
     "group": "LA R users group",
     "start": "2019-10-24",
-    "description": "<p>LA West R Users Group will have our October meeting at Boelter Hall 5249 on UCLA campus.<\/p> <p>**Talk1** (30min talk, 5min Q&amp;A)<br/>Title: \"To Stick or To Switch: Student Major Changes at UCLA\"<br/>Presented by: The Stack (<a href=\"https://stack.dailybruin.com\" class=\"linkified\">https://stack.dailybruin.com<\/a>), the data-journalism focused section at the Daily Bruin<\/p> <p>Analysis on the rate at which students switch from one major to another. Through the process of data cleaning, exploratory analysis, and data transformations in R, they drew insightful findings from raw data and created visualizations to represent the trends. With the inclusion of student and staff interviews, their goal was to combine quantitative and qualitative data to write a holistic story that provides perspective for the campus community.<\/p> <p>** About Talk1 Speakers * 2 **<br/>Jeanette Lin is a fourth-year Statistics major at UCLA. From classifying the results of different genetic editing tools to analyzing the stock prices of mergers and acquisitions, she has developed a passion for data science. She looks forward to continuing to use data to find efficient solutions, tell inspiring stories, and create impactful changes.<\/p> <p>Keith Atienza is a fourth-year Applied Math and Statistics major at UCLA. With a passion for quantitative story-telling and predictive modeling, he is an aspiring data scientist and an active member of the math and stats communities on campus.<\/p> <p>**Talk2** (30min talk, 5min Q&amp;A)<br/>Title: Analyzing Denzel Curry’s Lyrics Through Text Mining<br/>Presented by: DataRes @ UCLA (<a href=\"https://datares.github.io\" class=\"linkified\">https://datares.github.io<\/a>), founded by data enthusiasts who love solving problems and crafting stories with data.<\/p> <p>Sentiment analysis on the lyrics of Denzel Curry, a rapper from Florida who has been making some of the most head-banging yet simultaneously nuanced hip-hop out there for a better part of the last decade. Through text mining and data wrangling in R, this project analyses the sentiments behind Denzel’s various albums. Through different visualisations and wordclouds, the article shows the trends in his emotions over time, as well as within the same album. The goal of the project was to understand the concept of Denzel’s music and how he works with and incorporates certain emotions in his music.<\/p> <p>** About Talk2 Speakers * 2 **<br/>Nikhil Sharma, a fourth-year Statistics major from Cherry Hill, New Jersey. Interested in practical applications of statistics and machine learning, particularly in sports. Currently President of Bruin Sports Analytics, an on-campus platform for sports research, data journalism, and machine learning applications.<\/p> <p>Raghava Govil, a 3rd year Statistics and Economics major at UCLA. Has passion for telling stories with data and quantifying own opinions. Currently serve as the Co-Founder and President at DataRes.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>7:00-7:10 open door<br/>7:10-7:20 R Users Group Intro<br/>7:20-7:55 talk1<br/>7:55-8:30 talk2<br/>8:30-9:00 socialize<\/p> <p>**Venue**<br/>Boelter Hall 5249 on UCLA Campus. If you are driving, please park at Parking Structure 9. Let parking staff know that you are with UCLA Student Media Training. Show the staff the attached parking permit photo if you have trouble getting in. See <a href=\"https://tinyurl.com/y6b6pgne\" class=\"linkified\">https://tinyurl.com/y6b6pgne<\/a> for detailed directions.<\/p> <p>** FREE Ticket to Data Science Salon LA **<br/>We will give away one ticket ($350 worth) to Data Science Salon Los Angeles (<a href=\"https://www.datascience.salon/la/\" class=\"linkified\">https://www.datascience.salon/la/<\/a>) during the meetup.<\/p> <p>**LA (West) R Users Group**<br/>Email: [masked]<br/>Invite yourself to our Slack group: <a href=\"http://bit.ly/laerug\" class=\"linkified\">http://bit.ly/laerug<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: laocr.org/<\/p> <p>******* CALL FOR SPEAKERS *********<br/>Reach out to [masked] or [masked] if you want to be a speaker. First-time speakers are welcome<br/>******* DON'T BE SHY *********<\/p> <p>We are working on building a network for all useRs in SoCal. Come be our guest! Come be our speaker!<\/p> ",
+    "description": "<p>LA West R Users Group will have our October meeting at Boelter Hall 5249 on UCLA campus.<\/p> <p>**Talk1** (30min talk, 5min Q&amp;A)<br/>Title: \"To Stick or To Switch: Student Major Changes at UCLA\"<br/>Presented by: The Stack (<a href=\"https://stack.dailybruin.com\" class=\"linkified\">https://stack.dailybruin.com<\/a>), the data-journalism focused section at the Daily Bruin<\/p> <p>Analysis on the rate at which students switch from one major to another. Through the process of data cleaning, exploratory analysis, and data transformations in R, they drew insightful findings from raw data and created visualizations to represent the trends. With the inclusion of student and staff interviews, their goal was to combine quantitative and qualitative data to write a holistic story that provides perspective for the campus community.<\/p> <p>** About Talk1 Speakers * 2 **<br/>Jeanette Lin is a fourth-year Statistics major at UCLA. From classifying the results of different genetic editing tools to analyzing the stock prices of mergers and acquisitions, she has developed a passion for data science. She looks forward to continuing to use data to find efficient solutions, tell inspiring stories, and create impactful changes.<\/p> <p>Keith Atienza is a fourth-year Applied Math and Statistics major at UCLA. With a passion for quantitative story-telling and predictive modeling, he is an aspiring data scientist and an active member of the math and stats communities on campus.<\/p> <p>**Talk2** (30min talk, 5min Q&amp;A)<br/>Title: Analyzing Denzel Curry’s Lyrics Through Text Mining<br/>Presented by: DataRes @ UCLA (<a href=\"https://datares.github.io\" class=\"linkified\">https://datares.github.io<\/a>), founded by data enthusiasts who love solving problems and crafting stories with data.<\/p> <p>Sentiment analysis on the lyrics of Denzel Curry, a rapper from Florida who has been making some of the most head-banging yet simultaneously nuanced hip-hop out there for a better part of the last decade. Through text mining and data wrangling in R, this project analyses the sentiments behind Denzel’s various albums. Through different visualisations and wordclouds, the article shows the trends in his emotions over time, as well as within the same album. The goal of the project was to understand the concept of Denzel’s music and how he works with and incorporates certain emotions in his music.<\/p> <p>** About Talk2 Speakers * 2 **<br/>Nikhil Sharma, a fourth-year Statistics major from Cherry Hill, New Jersey. Interested in practical applications of statistics and machine learning, particularly in sports. Currently President of Bruin Sports Analytics, an on-campus platform for sports research, data journalism, and machine learning applications.<\/p> <p>Raghava Govil, a 3rd year Statistics and Economics major at UCLA. Has passion for telling stories with data and quantifying own opinions. Currently serve as the Co-Founder and President at DataRes.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>7:00-7:10 open door<br/>7:10-7:20 R Users Group Intro<br/>7:20-7:55 talk1<br/>7:55-8:30 talk2<br/>8:30-9:00 socialize<\/p> <p>**Venue**<br/>Boelter Hall 5249 on UCLA Campus. If you are driving, please park at Parking Structure 9. Let parking staff know that you are with UCLA Student Media Training. Show the staff the attached parking permit photo if you have trouble getting in. See <a href=\"https://tinyurl.com/y6b6pgne\" class=\"linkified\">https://tinyurl.com/y6b6pgne<\/a> for detailed directions.<\/p> <p>** FREE Ticket to Data Science Salon LA **<br/>We will give away one ticket ($160 worth) to IDEAS Conference (<a href=\"https://www.ideassn.org/socal-2019/\" class=\"linkified\">https://www.ideassn.org/socal-2019/<\/a>) during the meetup.<\/p> <p>**LA (West) R Users Group**<br/>Email: [masked]<br/>Invite yourself to our Slack group: <a href=\"http://bit.ly/laerug\" class=\"linkified\">http://bit.ly/laerug<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: laocr.org/<\/p> <p>******* CALL FOR SPEAKERS *********<br/>Reach out to [masked] or [masked] if you want to be a speaker. First-time speakers are welcome<br/>******* DON'T BE SHY *********<\/p> <p>We are working on building a network for all useRs in SoCal. Come be our guest! Come be our speaker!<\/p> ",
     "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/265398918/",
     "textColor": "blue"
   },
@@ -1882,6 +1890,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Budapest Users of R Network: Budapest BI Forum night: R and security",
+    "group": "Budapest Users of R Network",
+    "start": "2019-11-13",
+    "description": "<p>This is a free and English-speaking event kindly hosted by the Budapest BI Forum. The main focus of the topics discussed will be using R in production and security-related questions in the R ecosystem.<\/p> <p>The main talk will be delivered by Colin Gillespie on \"R and security\", other talks to be announced later.<\/p> <p>&gt; Colin is a Senior Statistics lecturer at Newcastle University and is a co-founder of Jumping Rivers. He has used R for over twenty years and has been teaching R for the past fifteen years. He recently co-authored the O’Reilly book on Efficient R Programming.<\/p> ",
+    "url": "https://www.meetup.com/Budapest-Users-of-R-Network/events/265922638/",
+    "textColor": "blue"
+  },
+  {
     "title": "Meetup R Nantes: Deep leaRning, il n'y a pas que le python dans la vie",
     "group": "Meetup R Nantes",
     "start": "2019-11-18",
@@ -1970,11 +1986,11 @@
     "textColor": "blue"
   },
   {
-    "title": "Greater Cleveland R Group: Teaching Lab R&D Chemists using RMD and Shiny with Mukul Mehta",
-    "group": "Greater Cleveland R Group",
-    "start": "2019-10-23",
-    "description": "<p>Lab R&amp;D Chemists in Chemical, Food, Plastic, Polymer and Pharma industries are very creative and constantly develop new products over time. Their R&amp;D Managers worry, that R&amp;D is very slow and struggle to speed up NPD. Many big companies like DuPont, Dow, BF Goodrich Chemical and others have tried to bring new statistical and mathematical methods in-house, but without much success.<\/p> <p>Mukul Mehta will examine several problems he has identified and an R/Shiny based solution that he is developing to address these problems. Mukul hopes to train 10,000 Lab R&amp;D chemists over three years.<\/p> ",
-    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/263391285/",
+    "title": "Winnipeg R User Group: Winnipeg R User Group - Meeting #5",
+    "group": "Winnipeg R User Group",
+    "start": "2019-11-02",
+    "description": "<p>Winnipeg R User Group Meeting #5 - Text Mining with R (con't)<\/p> <p>Reference Material: <a href=\"https://www.tidytextmining.com\" class=\"linkified\">https://www.tidytextmining.com<\/a><\/p> <p>Continuation of working through the reference material for 2 hours.<\/p> <p>* Chapter 4 - Relationships between words: n-grams and correlations<br/>* Chapter 5 - Converting to and from non-tidy formats<\/p> <p>Attendees can stay around for another half-hour to chat or ask fellow R Users questions about the presented material or chat about all subjects R-related.<\/p> <p>Please bring a laptop computer if you wish to do hands-on exercises at the meeting.<\/p> ",
+    "url": "https://www.meetup.com/Winnipeg-R-User-Group/events/265907105/",
     "textColor": "blue"
   },
   {
@@ -2021,6 +2037,13 @@
     "group": "IndyUseR Group",
     "start": "2019-12-17",
     "url": "https://www.meetup.com/Indy-useR-Group/events/sjmfklyzqbwb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "IndyUseR Group: Monthly Meetup - Topic TBD",
+    "group": "IndyUseR Group",
+    "start": "2020-01-21",
+    "url": "https://www.meetup.com/Indy-useR-Group/events/sjmfklybccbcc/",
     "textColor": "blue"
   },
   {
@@ -2240,11 +2263,11 @@
     "textColor": "blue"
   },
   {
-    "title": "New York Open Statistical Programming Meetup: A Matter of Time: A Brief History of Time Series in R and Beyond",
-    "group": "New York Open Statistical Programming Meetup",
-    "start": "2019-10-23",
-    "description": "<p>We have more time series, this month from Jeff Ryan, the creator of the xts and quantmod packages.<\/p> <p>Thank you to the Visiting Nurse Service of New York for hosting us at the Daily Planet (<a href=\"https://bit.ly/2IryeJZ\" class=\"linkified\">https://bit.ly/2IryeJZ<\/a>), I mean Daily News, Building<\/p> <p>About the Talk:<br/>Time series are everywhere, and fundamentally different than all other data. To effectively work with these series demands highly specialized tools--as dates, times, notation, calendars, time zones, and more must be carefully managed while doing even basic operations like subsetting, merging, aggregating and dealing with missingness. If not handled properly, all of your analysis could be at risk. Specialized tools for time have been part of R since the beginning, but have seen enormous changes over the last decade. In this talk we’ll explore where we started, what we have now and what might be on the horizon. I'll try to show the whole story in code and tell my unique perspective as someone who’s been lucky enough to be part of its history--and actively working on crafting its future for R, and beyond.<\/p> <p>About Jeff:<br/>Jeff Ryan is a practitioner in the quantitative hedge fund space and a long time contributor to R in both finance and data management. He introduced quantmod and xts in 2007, and co-founded the successful R/Finance conference, held annually since 2009. Over the years he's watched how time series went from an esoteric topic to the hottest thing in databases. He thinks this increased focus is only getting started. He's a bit opinionated, and enjoys building simple but powerful tools that can stand the test of time. Jeff is currently working on what he believes is be the next big step in time series management.<\/p> <p>Pizza (<a href=\"https://bit.ly/pizzapoll\" class=\"linkified\">https://bit.ly/pizzapoll<\/a>) begins at 6:30, the talk starts at 7, then after we head to the local bar.<\/p> ",
-    "url": "https://www.meetup.com/nyhackr/events/265464477/",
+    "title": "R-Ladies La Paz: Mis primeros pasos en R. Aprendiendo tidyverse con datos de Game of Thrones.",
+    "group": "R-Ladies La Paz",
+    "start": "2019-10-30",
+    "description": "<p>Bienvenidxs!<\/p> <p>En este taller daremos nuestros primeros pasos en R utilizando el lenguaje tidyverse. Cubriremos las funciones necesarias que te ayudarán a limpiar y transformar datos crudos de forma intuitiva y funciones que te permitirán comunicar tus resultados con gráficos y tablas hermosas. Y por qué no hacerlo jugando con datos de game of thrones?<\/p> <p>No importa si eres principiante o si eres un expertx en R, este taller es para todxs!<\/p> <p>Como siempre nuestras actividades son gratuitas.<br/>¡No te lo pierdas! ¡Te esperamos!<\/p> <p>==================================================================<br/>Para este taller trae tu computadora portátil con R y Rstudio instalado con la última versión. Acá te recomendamos un link esto: <a href=\"https://bookdown.org/gboccardo/manual-ED-UCH/instalacion-de-los-softwares-a-utilizar-en-este-manual.html\" class=\"linkified\">https://bookdown.org/gboccardo/manual-ED-UCH/instalacion-de-los-softwares-a-utilizar-en-este-manual.html<\/a><\/p> <p>Es muy importante que des RSVP únicamente si puedes asistir porque los lugares son limitados. Si confirmás asistencia pero luego no puedes asistir, te pedimos por favor que dejes tu lugar disponible para otra persona.<\/p> ",
+    "url": "https://www.meetup.com/rladies-la-paz/events/265920208/",
     "textColor": "blue"
   },
   {
@@ -2301,6 +2324,14 @@
     "start": "2019-11-13",
     "description": "<p>In our November meeting, we will get practical again and have our second hands-on session!<\/p> <p>We will work on an actual competition that is free for everyone to participate in: <a href=\"https://sites.google.com/view/dataminingcompetition2019/home\" class=\"linkified\">https://sites.google.com/view/dataminingcompetition2019/home<\/a>. Fabian (thank you!) will provide us with some information on the general setup, and together we will then tackle the challenge. No preparation by attendees is needed, just show up with a box that runs R. If you do, however, want to peek into the challenge already, below are some more links that Fabian prepared for us.<\/p> <p>The Call: <a href=\"https://docs.google.com/document/d/1DebkORXm0HsSrNcNh2HZ7Rh3DtfsqUM2aNewUm5ctQ4/\" class=\"linkified\">https://docs.google.com/document/d/1DebkORXm0HsSrNcNh2HZ7Rh3DtfsqUM2aNewUm5ctQ4/<\/a><\/p> <p>Some Sample Questions from the National NAEP (the competition is about Math in Grade 8): <a href=\"https://nces.ed.gov/nationsreportcard/about/booklets.aspx\" class=\"linkified\">https://nces.ed.gov/nationsreportcard/about/booklets.aspx<\/a><\/p> <p>This document also informs about the assessment, item types, and potential events being logged: <a href=\"https://nces.ed.gov/nationsreportcard/subject/field_pubs/sqb/pdf/2019_sqb_g8_mrs.pdf\" class=\"linkified\">https://nces.ed.gov/nationsreportcard/subject/field_pubs/sqb/pdf/2019_sqb_g8_mrs.pdf<\/a><\/p> <p>Here you can take a sample test: <a href=\"https://www.nationsreportcard.gov/math_2017/sample-questions?grade=8\" class=\"linkified\">https://www.nationsreportcard.gov/math_2017/sample-questions?grade=8<\/a><\/p> <p>If you want to download the data, you can sign up here: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeTj8GlbqWoJ87ArSimiowWMQNL_8kcS5Xv307zhCeyjaMEng/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSeTj8GlbqWoJ87ArSimiowWMQNL_8kcS5Xv307zhCeyjaMEng/viewform<\/a><br/>You will then automatically receive a link to the data via email. (That’s the official way the organizers would welcome.)<br/>Alternatively, you can download an R workspace with the data here: <a href=\"https://ssl.tba-hosting.de/cloud2/index.php/s/peAOV5ShCZeeoWR\" class=\"linkified\">https://ssl.tba-hosting.de/cloud2/index.php/s/peAOV5ShCZeeoWR<\/a> (cred: useRcampus)<\/p> ",
     "url": "https://www.meetup.com/r-frankfurt/events/265741423/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Buffalo R: R-Ladies Buffalo and BuffaloR Combo Meeting",
+    "group": "Buffalo R",
+    "start": "2019-11-21",
+    "description": "<p>This is the second combo meetup between BuffaloR and RLadies!<\/p> <p>Current agenda:<\/p> <p>6:00-6:30 - Networking, introductions<br/>6:30-7:30 - Tentative: \"Using R and Python Together Effectively\", Scott Jackson<br/>7:30-8:00 - Feedback, Q&amp;A<\/p> ",
+    "url": "https://www.meetup.com/Buffalo-R/events/265898631/",
     "textColor": "blue"
   },
   {
@@ -2388,14 +2419,6 @@
     "start": "2019-10-30",
     "description": "<p>At this workshop you will learn 2 things:<\/p> <p>• What is Markdown and how to get directly from R into Word documents, PDF reports, websites, or presentations<br/>• How to work with R Notebooks (twin sister of R Markdown) – an interactive alternative to R scripts<\/p> <p>Suitable for R newbies: working examples will be provided, no on-the-spot R code writing needed.<\/p> <p>Experienced users will also benefit as we'll point out the most up to date functionality within R Markdown and RStudio.<\/p> <p>This workshop's speaker, Riinu, is a data scientist with an interdisciplinary background. She works at the Centre for Medical Informatics.<br/>www.riinu.me<\/p> ",
     "url": "https://www.meetup.com/rladies-edinburgh/events/265708048/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Stockholm: Basics in R package building: user centered problems and solutions",
-    "group": "R-Ladies Stockholm",
-    "start": "2019-10-23",
-    "description": "<p>Are you curious about how to think and do when creating an R package? At this meetup we will discuss problems and possibilities in package building and provide a framework of how you can transform your R code into a user-friendly R package.<\/p> <p>[masked]: Doors open, mingle time<br/>[masked]: How to go from functions to an R package<\/p> <p>Venue: Antler Office at Venue: Wework Regeringsgatan 29, Room 5c.<\/p> <p>About: Antler is a global startup generator and early-stage VC. In their program, they help determined people become great founders of successful tech startups, with the vision of building the next wave of tech. Antler is the sponsor of this event and will provide us with snacks and drinks during the mingle.<\/p> <p>Presenters:<br/>Nissa Ferm, data scientist and author of the packages \"FastrCAT\", \"rrza\" and \"fishgutr\".<\/p> <p><a href=\"https://www.nissaferm.com/\" class=\"linkified\">https://www.nissaferm.com/<\/a><\/p> <p>Elisabeth Dahlqwist, statistician at Statistics Sweden with a background in biostatistics and author of the packages \"AF\" and \"AFheritability\".<\/p> <p><a href=\"https://staff.ki.se/people/elisda?_ga=2.159565181.1967102025.1568902248-1602500728.1560417051\" class=\"linkified\">https://staff.ki.se/people/elisda?_ga=2.159565181.1967102025.1568902248-1602500728.1560417051<\/a><\/p> <p>All are welcome but please follow our code of conduct <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a> !<\/p> <p>Poster credit to Tyra Lagerberg.<\/p> ",
-    "url": "https://www.meetup.com/rladies-stockholm/events/264989042/",
     "textColor": "blue"
   },
   {
@@ -2558,7 +2581,7 @@
     "title": "R-Ladies Oslo: Lightning talks with RLadies Oslo - inspire and be inspired!",
     "group": "R-Ladies Oslo",
     "start": "2019-10-28",
-    "description": "<p>• What we'll do<br/>This meetup will be jam packed with shorter talks highlighting what people use R for, either at work or just for fun. R has become so versatile and is used in so many different settings<\/p> <p>• List of speakers<br/>We don't have the speaker list ready, so please get in touch if you want to show us something you are working on! It's all low-key and fun, join in!<\/p> <p>For lightning talk sessions, we also have spots for majority gender (male) speakers! Get in touch, we'd love to include you.<\/p> <p>• What to bring<br/>No equipment necessary.<\/p> <p>There will be some simple food and drink served, and time to mingle.<\/p> <p>• Important to know<br/>Everyone who accepts our code of conduct (<a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english<\/a>) is welcome to attend, regardless of gender.<\/p> ",
+    "description": "<p>• What we'll do<br/>This meetup will be jam packed with shorter talks highlighting what people use R for, either at work or just for fun. R has become so versatile and is used in so many different settings<\/p> <p>• List of speakers<\/p> <p>-- Aurora Voje: The Shiny DiveR Interactive<br/>-- Chi Zhang (Andrea): Learning from heterogeneous Electronic Health Records using R<br/>-- Bethan Cropp : Local model interpretation with LIME<br/>-- Nina Elisabeth Larsgård : How R saves me a month of work a year - using R when working with data quality management<br/>-- Lene Norderhaug Drøsdal: surpise talk subject!<\/p> <p>• What to bring<br/>No equipment necessary.<\/p> <p>There will be some simple food and drink served, and time to mingle.<\/p> <p>• Important to know<br/>Everyone who accepts our code of conduct (<a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english<\/a>) is welcome to attend, regardless of gender.<\/p> ",
     "url": "https://www.meetup.com/rladies-oslo/events/264432409/",
     "textColor": "blue"
   },
@@ -2598,7 +2621,7 @@
     "title": "R-Ladies Manchester: R-Ladies Manchester Christmas Social",
     "group": "R-Ladies Manchester",
     "start": "2019-12-03",
-    "description": "<p>Placeholder for the R-Ladies Manchester December event.<\/p> <p>Follow us on twitter @rladiesmcr and check back here for updates nearer the time!<\/p> <p>Fun, games, quiz and prizes. Christmas jumpers, Santa hats and reindeer antlers actively encouraged.<\/p> <p>Venue TBC<\/p> ",
+    "description": "<p>Placeholder for the R-Ladies Manchester December event.<\/p> <p>Follow us on twitter @rladiesmcr and check back here for updates nearer the time!<\/p> <p>Fun, games, quiz and prizes. Christmas jumpers, Santa hats and reindeer antlers actively encouraged.<\/p> <p>Join us at Code Computerlove for our Christmas Social!<\/p> ",
     "url": "https://www.meetup.com/rladies-manchester/events/265373203/",
     "textColor": "blue"
   },
@@ -2801,6 +2824,13 @@
     "textColor": "blue"
   },
   {
+    "title": "Lads and Lasses Who R: Collaborative Learning of R",
+    "group": "Lads and Lasses Who R",
+    "start": "2020-01-21",
+    "url": "https://www.meetup.com/Lads-and-Lasses-Who-R/events/xklqfqybccbcc/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Seattle: Spooky data stories",
     "group": "R-Ladies Seattle",
     "start": "2019-10-29",
@@ -2937,6 +2967,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Helsinki: Building Dasboards with R Shiny",
+    "group": "R-Ladies Helsinki",
+    "start": "2019-11-19",
+    "description": "<p>During this workshop you will learn how to create interactive dashboards with Shiny. Dashboards are great to communicate and present your analysis and results.<\/p> <p>We will go through following subjects:<br/>- Overview and structure of a Shiny Dashboard<br/>- Adding dynamic content for your dashboard<br/>- Customize your dashboard with skin<\/p> <p>Prerequisites if you want to code by yourself:<br/>- R and RStudio installed on your machine<br/>- Packages shiny, shinydashboard, ggplot and tidyverse installed<\/p> <p>If you want to get familiar with the subject beforehand, check this tutorial:<br/><a href=\"https://rstudio.github.io/shinydashboard/index.html\" class=\"linkified\">https://rstudio.github.io/shinydashboard/index.html<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-helsinki/events/264986424/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies London, Ontario: Data Visualization",
     "group": "R-Ladies London, Ontario",
     "start": "2019-11-12",
@@ -2950,14 +2988,6 @@
     "start": "2019-10-29",
     "description": "<p>** NOTE NEW DATE, 10/29 **<\/p> <p>This is a co-hosted event, so PLEASE ONLY RSVP TO ONE OF THE GROUPS (R-Ladies or userR)<\/p> <p>Never before, at the same place, at the same time...<br/>The entire Tidyverse team will present a series of lightning talks live here in Boston.<\/p> <p>Lightning talks from:<br/>* Mara Averick<br/>* Jenny Bryan<br/>* Gabor Csardi<br/>* Romain Francois (remote)<br/>* Jim Hester<br/>* Lionel Henry<br/>* Max Kuhn<br/>* Thomas Lin Pedersen<br/>* Davis Vaughan<br/>* Hadley Wickham<\/p> <p>Agenda:<br/>* 6:00 - 6:30 Networking (light food &amp; drinks)<br/>* 6:30 - 7:30 Lightning Talks<br/>* 7:30 - 8:00 Questions with Tidyverse Panel<\/p> <p>For those not familiar with the Tidyverse: The tidyverse is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures. (tidyverse.org)<\/p> <p>Thank you to Bristol-Myers Squibb for the event space and to RStudio for sponsoring the food and drinks.<\/p> <p>Co-hosted by Boston useR Group &amp; R-Ladies Boston<br/>* www.meetup.com/Boston-useR/<br/>*www.meetup.com/rladies-boston/<\/p> ",
     "url": "https://www.meetup.com/rladies-boston/events/265179803/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Boston: Tidyverse Team in Boston",
-    "group": "R-Ladies Boston",
-    "start": "2019-10-29",
-    "description": "<p>THIS IS JUST AN ANNOUNCEMENT, RSVP AT THE EXISTING EVENT: <a href=\"https://www.meetup.com/rladies-boston/events/265179803/\" class=\"linkified\">https://www.meetup.com/rladies-boston/events/265179803/<\/a><\/p> <p>Lightning talks from:<br/>* Mara Averick<br/>* Jenny Bryan<br/>* Gabor Csardi<br/>* Jim Hester<br/>* Lionel Henry<br/>* Max Kuhn<br/>* Thomas Lin Pedersen<br/>* Davis Vaughn<br/>* Hadley Wickham<\/p> <p>Sorry to make this confusing but I cannot re-announce the existing event<\/p> ",
-    "url": "https://www.meetup.com/rladies-boston/events/265563175/",
     "textColor": "blue"
   },
   {
@@ -2988,16 +3018,8 @@
     "title": "R-Ladies Floripa: 5º Meetup R-Ladies Floripa | Minicurso de R",
     "group": "R-Ladies Floripa",
     "start": "2019-10-29",
-    "description": "<p>Olá, Ladies!<\/p> <p>Vamos ao 5º encontro da comunidade R-Ladies em Floripa e teremos Minicurso de R! \\o/ uhuuul<\/p> <p>Quando e onde vai ser?<br/>29 de outubro (terça-feira) | UFSC - CSE - LABMEC<br/>(data e local real e oficial)<br/>Com o apoio do DOT digital group que vai nos proporcionar um coffee break!!!<\/p> <p>Qual o Conteúdo do Minicurso?<br/>Fizemos um formulário e a maioria das respondentes não conheciam a linguagem R e queriam um conteúdo bem introdutório . Então, vamos iniciar nosso Minicurso com um conteúdo para quem está começando no mundo da Programação.<br/>Nesse encontro, vamos começar com INTRODUÇÃO À PROGRAMAÇÃO para quem nunca programou. Em seguida, teremos INTRODUÇÃO AO R, onde continuaremos com uma abordagem introdutória, porém voltada para o R em específico.<br/>Se você já programou e já conhece o R não esquenta que o Minicurso será progressivo, em breve termos mais aulas e você poderá participar dos próximos :)<\/p> <p>SPOILER ALERT: Você vai aprender usando dados reais da renda per capita dos estados brasileiros. Além de ver as desigualdades entre os estados, veremos as diferenças por gênero e cor em nossa análise.<\/p> <p>Qual é a programação do evento?<br/>18:00 Conhecendo a R-Ladies Floripa e o nosso Minicurso | Glenda Mello<br/>18:20 Introdução a Programação | Thailana Oliveira e Amanda Oliveira<br/>20:00 Coffee Break<br/>20:20 Introdução a Linguagem R | Glenda Mello e Camila Weber<\/p> <p>-&gt; Leve seu próprio copo para o evento!<\/p> <p>O que precisa para participar?<br/>Nossa comunidade é feita especialmente para mulheres e minorias de gênero, se você se identifica com essa definição então esse encontro é pra você! O evento é totalmente gratuito, basta confirmar a presença aqui no Meetup para garantir sua vaga!<br/>No local teremos um laboratório com computadores à nossa disposição, então não precisa ter notebook para poder participar. Mas se preferir você pode levar o seu :)<\/p> <p>Temos grupo do WhatsApp para falar especificamente só sobre o minicurso e ajudar vocês nesse percurso! Segue link do grupo:<br/><a href=\"https://chat.whatsapp.com/EWSzZmZXAgu13Lh6YRgy8J\" class=\"linkified\">https://chat.whatsapp.com/EWSzZmZXAgu13Lh6YRgy8J<\/a><br/>Participe para receber dicas de materiais, pedir conteúdos, tirar dúvidas ou qualquer coisa que possa ajudar na sua experiência com o nosso curso :)<\/p> <p>[IMPORTANTE!] Devido a capacidade do laboratório temos limitação de vagas abertas! Se não for conseguir ir , seja gentil e desocupe sua vaga para não tirar a oportunidade de outra pessoa aprender, ok?<\/p> <p>Vem de carro?<br/>Ofereça carona no evento e já chegue acompanhada.<\/p> <p>Se quiser colaborar com a organização dos próximos eventos, oferecendo palestra, lugar para receber o evento, Coffee break, sugerir temas ou qualquer coisa, entre em contato com a gente!<br/>Você também pode ajudar divulgando o evento e convidando mais mulheres a se juntarem à nossa comunidade.<\/p> <p>Siga nossas redes para ficar por dentro de todos os eventos:<br/>Instagram: @rladies.floripa<br/>Grupo no Whatsapp: <a href=\"https://chat.whatsapp.com/H55dIWRkxcTA3SCGy5z8q6\" class=\"linkified\">https://chat.whatsapp.com/H55dIWRkxcTA3SCGy5z8q6<\/a><br/>Linkedin: linkedin.com/company/rladiesfloripa<br/>Site do Meetup: <a href=\"https://www.meetup.com/pt-BR/rladies-florianopolis/\" class=\"linkified\">https://www.meetup.com/pt-BR/rladies-florianopolis/<\/a><\/p> <p>E-mail: [masked]<\/p> ",
+    "description": "<p>Olá, Ladies!<\/p> <p>Vamos ao 5º encontro da comunidade R-Ladies em Floripa e teremos Minicurso de R! \\o/ uhuuul<\/p> <p>Quando e onde vai ser?<br/>29 de outubro (terça-feira) | UFSC - CSE - LABMEC<br/>(data e local real e oficial)<\/p> <p>Qual o Conteúdo do Minicurso?<br/>Fizemos um formulário e a maioria das respondentes não conheciam a linguagem R e queriam um conteúdo bem introdutório . Então, vamos iniciar nosso Minicurso com um conteúdo para quem está começando no mundo da Programação.<br/>Nesse encontro, vamos começar com INTRODUÇÃO À PROGRAMAÇÃO para quem nunca programou. Em seguida, teremos INTRODUÇÃO AO R, onde continuaremos com uma abordagem introdutória, porém voltada para o R em específico.<br/>Se você já programou e já conhece o R não esquenta que o Minicurso será progressivo, em breve termos mais aulas e você poderá participar dos próximos :)<\/p> <p>SPOILER ALERT: Você vai aprender usando dados reais da renda per capita dos estados brasileiros. Além de ver as desigualdades entre os estados, veremos as diferenças por gênero e cor em nossa análise.<\/p> <p>Qual é a programação do evento?<br/>18:00 Conhecendo a R-Ladies Floripa e o nosso Minicurso | Glenda Mello<br/>18:20 Introdução a Programação | Thailana Oliveira e Amanda Oliveira<br/>20:00 Coffee Break<br/>20:20 Introdução a Linguagem R | Glenda Mello e Camila Weber<\/p> <p>-&gt; Leve seu próprio copo para o evento!<\/p> <p>O que precisa para participar?<br/>Nossa comunidade é feita especialmente para mulheres e minorias de gênero, se você se identifica com essa definição então esse encontro é pra você! O evento é totalmente gratuito, basta confirmar a presença aqui no Meetup para garantir sua vaga!<br/>No local teremos um laboratório com computadores à nossa disposição, então não precisa ter notebook para poder participar. Mas se preferir você pode levar o seu :)<\/p> <p>Temos grupo do WhatsApp para falar especificamente só sobre o minicurso e ajudar vocês nesse percurso! Segue link do grupo:<br/><a href=\"https://chat.whatsapp.com/EWSzZmZXAgu13Lh6YRgy8J\" class=\"linkified\">https://chat.whatsapp.com/EWSzZmZXAgu13Lh6YRgy8J<\/a><br/>Participe para receber dicas de materiais, pedir conteúdos, tirar dúvidas ou qualquer coisa que possa ajudar na sua experiência com o nosso curso :)<\/p> <p>[IMPORTANTE!] Devido a capacidade do laboratório temos limitação de vagas abertas! Se não for conseguir ir , seja gentil e desocupe sua vaga para não tirar a oportunidade de outra pessoa aprender, ok?<\/p> <p>Vem de carro?<br/>Ofereça carona no evento e já chegue acompanhada.<\/p> <p>Se quiser colaborar com a organização dos próximos eventos, oferecendo palestra, lugar para receber o evento, Coffee break, sugerir temas ou qualquer coisa, entre em contato com a gente!<br/>Você também pode ajudar divulgando o evento e convidando mais mulheres a se juntarem à nossa comunidade.<\/p> <p>Siga nossas redes para ficar por dentro de todos os eventos:<br/>Instagram: @rladies.floripa<br/>Grupo no Whatsapp: <a href=\"https://chat.whatsapp.com/H55dIWRkxcTA3SCGy5z8q6\" class=\"linkified\">https://chat.whatsapp.com/H55dIWRkxcTA3SCGy5z8q6<\/a><br/>Linkedin: linkedin.com/company/rladiesfloripa<br/>Site do Meetup: <a href=\"https://www.meetup.com/pt-BR/rladies-florianopolis/\" class=\"linkified\">https://www.meetup.com/pt-BR/rladies-florianopolis/<\/a><\/p> <p>E-mail: [masked]<\/p> ",
     "url": "https://www.meetup.com/rladies-florianopolis/events/265394213/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Concepción: Minería de Textos",
-    "group": "R-Ladies Concepción",
-    "start": "2019-10-24",
-    "description": "<p>En nuestro Meetup contaremos con la presencia de María Constanza López, quién nos enseñará \"Minería de textos\".<\/p> <p>Te esperamos el próximo jueves 24 de Octubre a las 18:00 hrs. en la Sala Seminario de la Facultad de Ciencias, Universidad del Bío-Bío.<\/p> <p>Para el taller, es importante que tengan sus propios computadores, y que descarguen R project desde este link -&gt;: <a href=\"https://dirichlet.mat.puc.cl/\" class=\"linkified\">https://dirichlet.mat.puc.cl/<\/a> y descargar la versión gratuita de R Studio -&gt;: <a href=\"https://www.rstudio.com/products/rstudio/download/\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/<\/a><\/p> <p>Si es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡No dudes en consultarnos cualquier duda, te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-concepcion/events/265380118/",
     "textColor": "blue"
   },
   {
@@ -3038,6 +3060,14 @@
     "start": "2019-11-26",
     "description": "<p>Schedule:<\/p> <p>18:00 - Food and drinks<br/>18:30 - Matt Edwards: An Introduction to Interpreting Machine Learning Models<br/>19:15 - Jack Walton: Bayesian statistics in astrophysics.<\/p> <p>An Introduction to Interpreting Machine Learning Models<\/p> <p>Abstract: The most accurate predictive models in Machine Learning are often the least interpretable (e.g. random forest) and the most interpretable models are often the least accurate (e.g. linear regression). Hence, there is often a conflict between accuracy and interpretability. We want the most accurate models but don’t want to sacrifice interpretability. In this talk, I discuss this conflict and some new methods in Machine Learning for interpreting ANY predictive model so you do not have to sacrifice predictive accuracy. A package (<a href=\"https://github.com/mt-edwards/xrayspecs\" class=\"linkified\">https://github.com/mt-edwards/xrayspecs<\/a>) is also introduced that provides these new methods for R programmers.<\/p> <p>Bayesian statistics in astrophysics.<\/p> <p>I introduce Bayesian statistics and compare with the frequentist approach. I motivate a Bayesian framework. I introduce sunspots and why we care about them. I perform a case study fitting an AR(1) (first a normal and then a negative binomial) model to data of occurrences of sunspots.<\/p> ",
     "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/257156431/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Newcastle Upon Tyne Data Science Meetup: Data Science North East: January Meeting",
+    "group": "Newcastle Upon Tyne Data Science Meetup",
+    "start": "2020-01-21",
+    "description": "<p>Details<br/>Schedule:<\/p> <p>6:00 - Food and drinks<br/>6:30 - Matthew Forshaw (NCL Uni): Best practice in reproducible data science in R<br/>7:15 - TBC<\/p> ",
+    "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/265714398/",
     "textColor": "blue"
   }
 ]
