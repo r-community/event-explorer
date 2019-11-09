@@ -368,14 +368,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Sydney Users of  R Forum (SURF): Oct 2019 - Video Analysis with Tensor Decomposition using R (Rene Essomba)",
-    "group": "Sydney Users of  R Forum (SURF)",
-    "start": "2019-10-09",
-    "description": "<p>We look forward to seeing you at our next R meetup, on 9th of October.<br/>Arrive from 5:45 pm for a 6 pm talk.<\/p> <p>Synopsis:<\/p> <p>Deep learning algorithms have proven to be quite useful in various applications of machine learning, notably in image and video processing.<br/>However, these methods present some limitations. For instance, one of the main challenges in computer vision is the amount of data being processed: one image is represented as matrix with millions of entries, and a video is just multiple images stacked together. Another challenge with video processing is the presence of noise<br/>While ongoing research addresses these drawbacks, alternative methods can be explored. One of them is the concept of tensor decomposition which is particularly powerful in a high dimensional data context and can provide useful pre-processing stage before applying any deep learning model.<\/p> <p>Speaker Bio:<\/p> <p>Rene Essomba is an Analytics manager at TAL Australia, one of the largest life insurance in Australia. As a member of the Member Analytics and Research team, his role is to help with the implementation of advanced analytics solutions to support the members of TAL's Group insurance partners. He is also a part-time student with Georgia Institute of Technology doing the online masters in computational data analytics.<\/p> ",
-    "url": "https://www.meetup.com/R-Users-Sydney/events/265296356/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Florianópolis R-NNQ R users group: Encontro R",
     "group": "Florianópolis R-NNQ R users group",
     "start": "2019-10-24",
@@ -429,6 +421,14 @@
     "start": "2019-10-29",
     "description": "<p>Aprenderemos a utilizar uno de los graficadores más potentes y versátiles de R, ggplot2, a partir de comprender su sintaxis y manipular los argumentos.<\/p> <p>Como siempre, les pedimos que antes de anotarse primero lean y acepten el código de conducta<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>Trabajaremos en forma individual, así que ¡No te olvides de traer tú notebook! Además recordá que es FUNDAMENTAL tener R y Rstudio instalados ¡¡Y ACTUALIZADOS!! y descargar los paquetes con los que trabajaremos, no contamos con internet para descargar los paquetes en la sala. a partir del viernes 25 les enviaremos via mail el script con el cual trabajaremos así también lo traen descargado, y cualquier otro dato extra que sea preciso.<br/>Paquetes a descargar previo al meetup:<br/>tidyverse<br/>ggplot2<br/>nlme<br/>ggpubr<br/>maptools<br/>gganimate<br/>plotly<br/>gridExtra<br/>RColorBrewer<br/>tidyr<br/>dplyr<br/>plotly<br/>gapminder<br/>viridis<br/>Hmisc<br/>gifski<br/>rgeos<\/p> <p>**OJO, ACTUALICÉ LA LISTA HOY 28/10 CON UN PAR DE PAQUETES QUE FALTABAN**<\/p> <p>Como es habitual, para el intervalo necesitamos de su aporte, quienes quieran colaborar pueden escribirnos. Además de aportes nutritivos (fruta, frutos secos, alimentos engordantes del tipo que sean, apto celíaquía, etc. ) Necesitaríamos los siguientes aportes:<br/>-caja de té (común, hierbas, todo es bienvenido),<br/>-caja de mate cocido<br/>-leche en polvo (no hace falta una caja, puede ser un frasquito),<br/>- paquete de azúcar<br/>-yerba para el mate<br/>La idea es que estos elementos queden en una caja que armamos ad hoc para las meriendas. Ya contamos con una caja de café en saquitos que aportaron el meetup pasado (pero se acepta más, instantáneo o en saquitos), más algunas infusiones que pusimos nosotras, pero sería bueno que nos apropiemos del espacio de los meetups y colaboremos!<\/p> <p>¡¡Y por favor, recordá traer tu taza, ayudemos a reducir el uso de plásticos de un solo uso!!<\/p> ",
     "url": "https://www.meetup.com/rladies-bariloche/events/265776348/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "EswatiniUseR Group: Introduction to R for Data Mgt/Analysis using R",
+    "group": "EswatiniUseR Group",
+    "start": "2019-11-08",
+    "description": "<p>Please join us for an insightful session on Introduction to Data Management/Analysis using R.<\/p> <p>Mbongeni Dube from FEI, Mbabane will give us an overview of R and how he's using R in his data analytics. Dr Chemhaka from the Department of Statistics and Demography at UNESWA will also give an overview of how he's using R in Demographic analysis and research.<\/p> <p>Emmanuel Olamijuwon from the Department of Statistics and Demography will lead the practical session on how use R for data management and analysis.<\/p> <p>It will be an interactive session so please bring your laptop.<br/>Also, install R software (<a href=\"https://cloud.r-project.org/\" class=\"linkified\">https://cloud.r-project.org/<\/a>) and R studio (<a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a>) prior to the date.<\/p> <p>If you experience any difficulty with installing any of the two, please arrive at the venue on time so that one of the organizers can assist you before we start.<\/p> <p>We look forward to seeing you there!<\/p> ",
+    "url": "https://www.meetup.com/EswatiniUseR/events/266157834/",
     "textColor": "#7171fb"
   },
   {
@@ -633,14 +633,6 @@
   {
     "title": "R-Ladies Kyiv: Data Science Study Group",
     "group": "R-Ladies Kyiv",
-    "start": "2019-10-09",
-    "description": "<p>Facebook Developer Circle Kyiv, технічна спільнота для розробників від компанії Facebook, розпочинає програму підготовки за напрямом Data Science в партнерстві з Udacity.<\/p> <p>Як будуть проходити заняття ?<br/>В форматі навчальних груп та онлайн курсів, без вчителя.<\/p> <p>Хто може приєднатись?<br/>Будь хто, в кого є бажання вивчати Data Science<br/>Який рівень необхідний?<br/>Базові знання програмування<\/p> <p>Що дасть мені цей курс?<br/>Можливість продовження вивчення Data Science та отримання Data Science Nanodegree сертифікації - яка на даний момент вважається однією з найкращих в галузі<\/p> <p>Який саме курс?<br/>\"Introduction to Data Science\" розрахований на два місяці<\/p> <p>Скільки коштує? Безкоштовно!<\/p> <p>Як зареєструватись?<\/p> <p>Треба бути учасником групи Facebook Developer Circle Kyiv <a href=\"http://bit.ly/2lMS4a7\" class=\"linkified\">http://bit.ly/2lMS4a7<\/a> та зареєструватись за посиланням — <a href=\"http://bit.ly/2kjVSPG\" class=\"linkified\">http://bit.ly/2kjVSPG<\/a><\/p> <p>Куратори груп - Ліліана Філіпчук та Ярослава Сердюк<\/p> <p>Початок 18 вересня о 19-00 в офісі компанії Innovecs<\/p> <p>Перевірте обовязково що ви є учасником групи та маєте доступ до матеріалів!<\/p> ",
-    "url": "https://www.meetup.com/rladies-kyiv/events/hmjzhryznbmb/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Kyiv: Data Science Study Group",
-    "group": "R-Ladies Kyiv",
     "start": "2019-10-16",
     "description": "<p>Facebook Developer Circle Kyiv, технічна спільнота для розробників від компанії Facebook, розпочинає програму підготовки за напрямом Data Science в партнерстві з Udacity.<\/p> <p>Як будуть проходити заняття ?<br/>В форматі навчальних груп та онлайн курсів, без вчителя.<\/p> <p>Хто може приєднатись?<br/>Будь хто, в кого є бажання вивчати Data Science<br/>Який рівень необхідний?<br/>Базові знання програмування<\/p> <p>Що дасть мені цей курс?<br/>Можливість продовження вивчення Data Science та отримання Data Science Nanodegree сертифікації - яка на даний момент вважається однією з найкращих в галузі<\/p> <p>Який саме курс?<br/>\"Introduction to Data Science\" розрахований на два місяці<\/p> <p>Скільки коштує? Безкоштовно!<\/p> <p>Як зареєструватись?<\/p> <p>Треба бути учасником групи Facebook Developer Circle Kyiv <a href=\"http://bit.ly/2lMS4a7\" class=\"linkified\">http://bit.ly/2lMS4a7<\/a> та зареєструватись за посиланням — <a href=\"http://bit.ly/2kjVSPG\" class=\"linkified\">http://bit.ly/2kjVSPG<\/a><\/p> <p>Куратори груп - Ліліана Філіпчук та Ярослава Сердюк<\/p> <p>Початок 18 вересня о 19-00 в офісі компанії Innovecs<\/p> <p>Перевірте обовязково що ви є учасником групи та маєте доступ до матеріалів!<\/p> ",
     "url": "https://www.meetup.com/rladies-kyiv/events/hmjzhryznbvb/",
@@ -652,13 +644,6 @@
     "start": "2019-10-26",
     "description": "<p>!!! Event is free to attend, registration is required prior to the event.<br/>Before submitting you're going, make sure you have filled this form: <a href=\"https://forms.gle/tKM8gFPy5wmidfXy7\" class=\"linkified\">https://forms.gle/tKM8gFPy5wmidfXy7<\/a><\/p> <p>Wow, it's third meetup of R-Ladies Kyiv!<\/p> <p>Wonderful Galina Dychko (<a href=\"https://www.linkedin.com/in/galina-dychko/\" class=\"linkified\">https://www.linkedin.com/in/galina-dychko/<\/a>) will share her knowledge of basic concepts and methods of cluster analysis in R.<\/p> <p>The lecture is aimed to provide a beginner-friendly overview of the basic cluster analysis techniques. The focus is on the key mathematical concepts of the main clustering algorithms and how multidimensional visualization helps us to identify groups of similar objects.<br/>We will briefly cover how to use PCA, CCA and multidimensional scaling for data visualization, how to choose clustering distance measure and run k-means, hierarchical and spectral clustering algorithms with R. Half of lecture will focus on the theoretical concepts and a half on the practical examples.<\/p> <p>Good to have:<br/>- basic understanding of data analysis concepts<br/>- basic understanding of PCA and CCA algorithms<br/>- no previous strong knowledge of R programming<\/p> <p>Come join us, and have a chance to network with other R-users from across the city on Saturday, October 26th, 2019 at Mechnikova 2; Business Center Parus; 1991 Civic Tech Center; 18th floor.<\/p> ",
     "url": "https://www.meetup.com/rladies-kyiv/events/265368186/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "BaselR: BaselR handson",
-    "group": "BaselR",
-    "start": "2019-10-09",
-    "url": "https://www.meetup.com/BaselR/events/265280405/",
     "textColor": "#7171fb"
   },
   {
@@ -1116,14 +1101,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Fayetteville: First R-Ladies Event",
-    "group": "R-Ladies Fayetteville",
-    "start": "2019-10-09",
-    "description": "<p>A first meeting for the Fayetteville Arkansas R Ladies.<\/p> <p>Hopefully a time to meet, greet, and talk about some R basics.<\/p> <p>The meeting location is in Memorial Hall of the UARK campus. The meeting will be in room 242<\/p> ",
-    "url": "https://www.meetup.com/rladies-fayetteville/events/264931680/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Fayetteville: R Ladies Meeting # 2 ",
     "group": "R-Ladies Fayetteville",
     "start": "2019-11-06",
@@ -1145,6 +1122,14 @@
     "start": "2019-11-04",
     "description": "<p>摘要:<br/>深度學習在數據擬合是很有力的工具, 盡管有需要大量訓練資料以及缺乏解釋性等問題, 還是被用在許多領域。 而在工程科學領域, 經常將問題用微分方程表示, 並且在許多現實問題都有成熟的應用, 通常具有可解釋性與只需要少量資料就能建模等優點，但是當問題變複雜, 數學推導起來就頗吃力。因此用深度學習協助微分方程來對工程科學問題建模, 能結合兩邊優點, 並且能用上工程科學領域多年累積的知識。<\/p> <p>這次分享會概略介紹如何將深度學習的向前推論看成是解微分方程問題，而反向傳播則看成是最佳控制問題, 離散時間與連續時間版本都會介紹一下, 然後用平衡車與登月太空船等例子, 解釋如何將深度神經網路混合微分方程來建模, 有時間會再與增強學習的控制模型做個比較。<\/p> <p>講者:<br/>Jiawei<\/p> ",
     "url": "https://www.meetup.com/Taiwan-R/events/266043537/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Strasbourg: Modélisation statistique : exemple pratique avec R et RShiny",
+    "group": "R-Ladies Strasbourg",
+    "start": "2019-11-08",
+    "description": "<p>L'objectif de cet exposé est de présenter à travers des exemples concrets des méthodes d'analyses exploratoires et de modélisations. De votre menu fast-food à la répartition des tâches domestiques, venez découvrir les secrets cachés des données !<\/p> ",
+    "url": "https://www.meetup.com/rladies-strasbourg/events/265746741/",
     "textColor": "#7171fb"
   },
   {
@@ -1193,6 +1178,14 @@
     "start": "2019-11-01",
     "description": "<p>Come get your R questions answered, or just simply us for some coding camaraderie.<\/p> <p>Location: Building 25, room 107 (conference room at the end of the hall)<\/p> ",
     "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/rbpbhryzpbcb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "useR Group in San Luis Obispo County: office houRs",
+    "group": "useR Group in San Luis Obispo County",
+    "start": "2019-11-08",
+    "description": "<p>Come get your R questions answered, or just simply us for some coding camaraderie.<\/p> <p>Location: Building 25, room 107 (conference room at the end of the hall)<\/p> ",
+    "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/rbpbhryzpblb/",
     "textColor": "#7171fb"
   },
   {
@@ -1321,6 +1314,14 @@
     "start": "2019-10-12",
     "description": "<p>Hello again!!<\/p> <p>The next Bogor R-Ladies meetup is coming soon!<\/p> <p>For our sixth meetup, let's dive into linear regression! We'll discuss including related assumptions of linear regression and how to conduct analysis using this approach in R.<\/p> <p>Our mini-workshop will be held on Saturday, September 12, 2019 at[masked] at WCS's office (Jalan Malabar 1 No. 11, Kota Bogor, see the map).<\/p> <p>Our current space can have maximum 25 persons, so hurry up reserve your spot!<\/p> <p>E-mail us at [masked] for any inquiries regarding this event! If you're very new to R, please let us know in advance. Don't forget to have RStudio readily installed in your computer as well :)<\/p> ",
     "url": "https://www.meetup.com/rladies-bogor/events/265495694/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Medellín: Primer encuentro R-Ladies Medellín",
+    "group": "R-Ladies Medellín",
+    "start": "2019-11-08",
+    "description": "<p>Si crees en la revolución de las pequeñas cosas,<br/>si estás dispuesto a formar parte de un equipo de trabajo,<br/>si el mundo de la programación te genera interés<br/>y si crees en la importancia de que las minorías maximicen su potencial,<br/>entonces R-Ladies está pensado para ti…<br/>¡Ven y conócenos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-medellin/events/265984018/",
     "textColor": "#7171fb"
   },
   {
@@ -1612,6 +1613,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Greater Boston useR Group (R Programming Language): December Boston useR Event",
+    "group": "Greater Boston useR Group (R Programming Language)",
+    "start": "2019-12-10",
+    "description": "<p>December Boston useR Event<\/p> <p>Topic: Interpretable Machine Learning: Several Popular Model-agnostic Methods with Examples (Presented by Eden Huang)<\/p> <p>Abstract:<\/p> <p>This talk will introduce the concepts and implementation of model interpretation tools with iml and shapper in R. The methods covered include feature importance, partial dependence &amp; feature interaction, Shapley values (and SHAP) and LIME. This talk will start with an overview of these methods on both structured data and images. Then he'll introduce two use cases at Liberty Mutual: causal modeling of legal claims and vehicle damage prediction, respectively.<\/p> <p>Bio:<\/p> <p>Eden Huang is a Data Scientist working at the Legal Data Science Team at Liberty Mutual. The team research and apply machine learning models to automate legal auditing process, classify millions of text-based legal records, predict outcome of cases, estimate causal effect of legal decisions and evaluate the quality of legal handling. He graduated with a M.S. in Statistics from Duke University and a B.S. in Economics from University of Minnesota.<\/p> ",
+    "url": "https://www.meetup.com/Boston-useR/events/266320956/",
+    "textColor": "blue"
+  },
+  {
     "title": "Boston R/Bioconductor for Genomics: TBC",
     "group": "Boston R/Bioconductor for Genomics",
     "start": "2019-12-11",
@@ -1696,23 +1705,23 @@
     "group": "Ann Arbor R User Group",
     "start": "2019-11-14",
     "description": "<p>The topic will be text mining in R.<\/p> ",
-    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/rccssqyzpbsb/",
+    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/bzrzkryzpbsb/",
     "textColor": "blue"
   },
   {
-    "title": "Ann Arbor R User Group: Monthly A2RUG Meetup",
+    "title": "Ann Arbor R User Group: Monthly A2RUG Meetup - Text Mining",
     "group": "Ann Arbor R User Group",
     "start": "2019-12-12",
     "description": "<p>Speakers &amp; Topics TBD!<\/p> ",
-    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/rccssqyzqbqb/",
+    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/bzrzkryzqbqb/",
     "textColor": "blue"
   },
   {
-    "title": "Ann Arbor R User Group: Monthly A2RUG Meetup",
+    "title": "Ann Arbor R User Group: Monthly A2RUG Meetup - Text Mining",
     "group": "Ann Arbor R User Group",
     "start": "2020-01-09",
     "description": "<p>Speakers &amp; Topics TBD!<\/p> ",
-    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/rccssqybccbmb/",
+    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/bzrzkrybccbmb/",
     "textColor": "blue"
   },
   {
@@ -1927,19 +1936,27 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Bari: Rladies Bari - Nuovo evento: Buone abitudini per programmatori",
+    "group": "R-Ladies Bari",
+    "start": "2019-12-02",
+    "description": "<p>REGISTRATI SU : <a href=\"https://www.eventbrite.ie/e/biglietti-rladies-bari-nuovo-evento-buone-abitudini-per-programmatori-80696396093\" class=\"linkified\">https://www.eventbrite.ie/e/biglietti-rladies-bari-nuovo-evento-buone-abitudini-per-programmatori-80696396093<\/a><\/p> <p>Arriva l’autunno e ritornano i nostri eventi di RLadies Bari. Siamo piene di nuove idee!<\/p> <p>Chi siamo e a chi sono rivolti i nostri eventi?<br/>RLadies Bari è un gruppo locale che si rifà a RLadies Global (<a href=\"https://rladies.org/about-us/\" class=\"linkified\">https://rladies.org/about-us/<\/a>), un’organizzazione internazionale non-profit con circa[masked] membri in 46 diversi paesi del mondo. Lo scopo dell’organizzazione è di promuovere diversità ed equità di genere nella comunità di utenti di R.<\/p> <p>Se utilizzi, o vorresti imparare ad utilizzare R, questo è il gruppo giusto! Tutti sono benvenuti gratuitamente, previa registrazione a , ed hanno la possibilità di imparare in un contesto amicale e di supporto. Ci sono anche occasioni di mentorship per condividere le proprie conoscenze come speakers. Queste opportunità sono preferenzialmente rivolte a donne e minoranze.<\/p> <p>Il prossimo evento<br/>Cosa imparerai?<br/>Attraverso una breve introduzione ai sistemi di version control, come Git e GitHub, imparerai come utilizzare questi strumenti per rendere il tuo lavoro più efficiente ed evitare errori che potrebbero costarti giornate intere di programmazione. NB: questi sistemi non si limitano al mondo di R ma sono diffusissimi tra programmatori e data scientists che utilizzano i più svariati linguaggi di programmazione.<\/p> <p>A seguire, parleremo di RMarkdown, un formato di file che permette di creare reports in Word|PDF|HTML contenente sia testo scritto (i.e., plain text) che codice di programmazione. Questo è estremamente utile quando devi condividere il tuo lavoro con altri colleghi o supervisori. Imparerai a utilizzare RMarkdown attraverso una session pratica per capire le potenzialità di questo formato e vedere come creare reports personalizzati per le tue esigenze.<\/p> <p>Negli ultimi 30 minuti faremo networking per conoscerci meglio. IC406 ha gentilmente deciso di offrire ai partecipanti snacks e bibite per rendere questo momento sociale più piacevole (se avete allergie importanti, scriveteci a [masked]).<\/p> <p>Cosa devi portare con te?<br/>• Volontà e curiosità per imparare!<br/>• Rispetto e pazienza verso gli altri partecipanti secondo il codice di comportamento di RLadies (<a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a>)<br/>• Un laptop con installata una versione recente di RStudio Desktop (qui trovate l’ultima versione: <a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a>)<\/p> <p>Contatti:<br/>Sara Iacozza [masked]<br/>Giovanna de Vincenzo [masked]<br/>Francesca Lamontanara [masked]<\/p> <p>Ringraziamo IC406 per supportarci e sponsorizzarci per l'evento!<\/p> ",
+    "url": "https://www.meetup.com/rladies-bari/events/266313984/",
+    "textColor": "blue"
+  },
+  {
+    "title": "LondonR: External registration req: LondonR User Group Meeting -16 December 2019",
+    "group": "LondonR",
+    "start": "2019-12-16",
+    "description": "<p>This event requires registration via an external ticketing system...<\/p> <p>To see the agenda for this meeting and to register please click here: <a href=\"https://ti.to/londonr/londonr-16-December-2019\" class=\"linkified\">https://ti.to/londonr/londonr-16-December-2019<\/a><\/p> <p>You don't need to join the waiting list on meetup for a place, just on the above link.<\/p> ",
+    "url": "https://www.meetup.com/LondonR/events/266313810/",
+    "textColor": "blue"
+  },
+  {
     "title": "CalgaryR: Rig State Detection; Model Agnostic Approach; Asset Failure Susceptibility",
     "group": "CalgaryR",
     "start": "2019-11-20",
     "description": "<p>Three speakers are contributing to our meetup in November. Doors will open at 5:30PM where members can enjoy pizza, soda, and networking. The first talk will begin at 6:00PM.<\/p> <p>Talk 1: Rig State Detection by David Shakleton -- Over the past two or three years Independent Data Services (IDS) have shifted from ‘proof of concept’ projects to global live rollouts of their in-time (near real-time) lean automated reporting (LAR) and drilling performance monitoring (DPM) services. Some of our projects begin their lives in R, as RStudio and Shiny apps lend themselves beautifully to the rapid prototyping of ideas - by being able to ingest large amounts of data, and perform analytics accessed through an easily-adjustable user interface. The first step to realizing these automated reporting &amp; analytics services in the upstream oil &amp; gas industry is 'rig state detection' - a process where data is taken from key sensors on the rig and run through logic-based and/or machine learning algorithms to determine what the rig, drill string, etc., are doing. Rig states are then used to build activity descriptions for daily reporting, and generate charts and dashboards for key drilling parameters, with web-based charts and dashboards available from anywhere, any device within moments of the event. IDS have made further strides to automate daily operational reporting by automatically ingesting pdf/Excel/WITSML/etc. data to auto-populate much of the daily report.<\/p> <p>Talk 2: Model Agnostic Approach by Alastair Muir -- The real value of Machine Learning to businesses is when it is used to create a deep understanding of the problem. The predictive power of modern machine learning algorithms comes at the cost of decreased transparency. This is why Black Box solutions, however accurate, are not immediately accepted by themselves. You should come away from this session with a toolkit you can use to probe and understand your models. This could be for regulatory requirements, change management resistance, or just general acceptance. We will be using a typical example of a non-linear process modeled using different traditional statistical and deep learning models. So, we are going with the “model agnostic” approach.<\/p> <p>Talk 3: Asset Failure Susceptibility Ranking, using LambdaMART, by Busayo Akinloye -- The electric distribution system is one of the most diverse systems in the electrical grid. It consists of both overhead and underground assets. Growing power quality and reliability expectations from regulatory authorities and customers demand minimal downtime of equipment. Metrics such as System Average Interruption Frequency Index, and System Average Interruption Duration Index are closely being monitored by electric utilities and form a major part of the business’ performance indices. These growing expectations, coupled with aging assets and budget constraints require innovative and cost-effective ways to realize actionable intelligence in order to optimize spending, while improving or maintaining the quality and reliability of the electric grid. Data analysis offers a unique solution that is reproducible across all asset infrastructure of an electric grid. It employs complex machine learning and statistical algorithms to extract actionable insights and learnings from historical data. These insights will help utilities better allocate both financial and human resources to the most failure susceptible assets, truly making data-driven decisions. I will discuss the development of an asset failure susceptibility ranking system on the Calgary area Underground Residential Distribution System. This system employs the supervised ranking system used by information retrieval systems. The framework of this ranking system can be applied to all distribution system assets, due to the reproducible nature of the statistical algorithms it employs.<\/p> <p>This event is supported by the Pacific Institutes of the Mathematical Sciences and the Cenovus Energy.<\/p> ",
     "url": "https://www.meetup.com/calgaryr/events/265798874/",
-    "textColor": "blue"
-  },
-  {
-    "title": "EswatiniUseR Group: Introduction to R for Data Mgt/Analysis using R",
-    "group": "EswatiniUseR Group",
-    "start": "2019-11-08",
-    "description": "<p>Please join us for an insightful session on Introduction to Data Management/Analysis using R.<\/p> <p>Mbongeni Dube from FEI, Mbabane will give us an overview of R and how he's using R in his data analytics. Dr Chemhaka from the Department of Statistics and Demography at UNESWA will also give an overview of how he's using R in Demographic analysis and research.<\/p> <p>Emmanuel Olamijuwon from the Department of Statistics and Demography will lead the practical session on how use R for data management and analysis.<\/p> <p>It will be an interactive session so please bring your laptop.<br/>Also, install R software (<a href=\"https://cloud.r-project.org/\" class=\"linkified\">https://cloud.r-project.org/<\/a>) and R studio (<a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a>) prior to the date.<\/p> <p>If you experience any difficulty with installing any of the two, please arrive at the venue on time so that one of the organizers can assist you before we start.<\/p> <p>We look forward to seeing you there!<\/p> ",
-    "url": "https://www.meetup.com/EswatiniUseR/events/266157834/",
     "textColor": "blue"
   },
   {
@@ -2275,6 +2292,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Amsterdam: How to create tangible business value with AI",
+    "group": "R-Ladies Amsterdam",
+    "start": "2019-11-21",
+    "description": "<p>The amount of data in the world is growing exponentially and the opportunities of Artificial Intelligence (AI) are endless. But to create AI breakthroughs you need more than only complex algorithms. During this evening at MIcompany we will talk about the components of successful AI use cases that create tangible business value. We will give examples of successful real life AI use cases across different industries. And you will practice with a hands-on case that involves modelling but also all the other steps in the AI use case process. Do you want to find out if you have the skills to change organizations with AI?<\/p> <p>PROGRAM<br/>------------------<br/>17:30-18:00 Welcome &amp; food<br/>18:00-18:15 Introduction Rladies &amp; MIcompany<br/>18:15-18:45 Introduction to AI driven use cases<br/>18:45-20:15 Workshop<br/>20:15 Drinks<\/p> <p>ABOUT LAURA &amp; MIcompany<br/>----------------------<br/>Laura is a Principal Data Analytics in MIcompany. MIcompany is an Artificial Intelligence (AI) company with offices in Tel Aviv and Amsterdam. From these offices, they drive AI transformations by building AI solutions and skills. The team of more than 70 data scientists, AI engineers &amp; software engineers serves industry-leading companies such as Nike, eBay, Booking.com, Heineken, KPN, Lease Plan, Aegon and Shufersal. In more than 25 countries.<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.<\/p> ",
+    "url": "https://www.meetup.com/rladies-amsterdam/events/266327348/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Newcastle: November meetup: THE PURDUR EDIT",
     "group": "R-Ladies Newcastle",
     "start": "2019-11-12",
@@ -2395,6 +2420,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Göttingen R User Group: 2nd UserR meeting: Brand Choice Models in R",
+    "group": "Göttingen R User Group",
+    "start": "2019-12-04",
+    "description": "<p>Ossama Elshiewy will present: Brand Choice Models in R: Data Management, Parameter Estimation, Follow-Up Analysis.<\/p> <p>Where: 1.162 Oeconomicum (<a href=\"https://www.geodata.uni-goettingen.de/lageplan/?ident=5256_1_1.OG_1.162\" class=\"linkified\">https://www.geodata.uni-goettingen.de/lageplan/?ident=5256_1_1.OG_1.162<\/a>)<\/p> ",
+    "url": "https://www.meetup.com/Gottingen-Software-Development-Meetup/events/266313928/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies El Paso: R startup & data-wrangling tutorial",
     "group": "R-Ladies El Paso",
     "start": "2019-11-20",
@@ -2448,14 +2481,6 @@
     "start": "2019-12-12",
     "description": "<p>We are in for a real treat tonight with two great talks on Data viz in R. We have Bethany Yollin talking about leveraging {shiny} to make interactive data viz tools and Howard Baek presenting on how to use {gganimate} to make animations in R.<\/p> <p>A massive thank you to the both of you for taking the time to create these great presentations!<\/p> <p>Animating Expected Possession Value in the NBA with gganimate, A Grammar of Animated Graphics - Howard Baek<\/p> <p>In this talk, I will talk about the steps I took to generate the graphics and the actionable insights gained. The first part of this talk will cover the process I took to create the animations in R, mainly focusing on the gganimate R package but covering other supplementary tidyverse functions. The second part of this talk will be on the knowledge gained from these animations, most of which confirm our intuition about basketball. Hopefully, after this talk, I inspire the audience to go out and look for interesting data to work on.<\/p> <p>Enhance your Shiny applications with interactive charts, tables, maps and more! - Bethany Yollin:<\/p> <p>This presentation will highlight several R libraries that enable Shiny developers to leverage the power of Javascript--no web development experience required.<br/>The presentation will be accompanied by live demos and fully-reproducible code that can be repurposed for your data visualization needs. Concepts from this presentation will come together to create a Seattle collisions dashboard to monitor pedestrian safety.<\/p> ",
     "url": "https://www.meetup.com/Seattle-useR/events/266214956/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Houston R Users Group: National Health Equity Hackathon 2019",
-    "group": "Houston R Users Group",
-    "start": "2019-11-08",
-    "description": "<p>Please note that this is an un-hosted meetup.<br/>Visit the links below for more details:<br/><a href=\"https://www.eventbrite.com/e/national-health-equity-hackathon-2019-tickets-64425515451\" class=\"linkified\">https://www.eventbrite.com/e/national-health-equity-hackathon-2019-tickets-64425515451<\/a><br/><a href=\"https://www.hacking.healthcare\" class=\"linkified\">https://www.hacking.healthcare<\/a><\/p> <p>The second annual National Health Equity Hackathon will focus on creating data-driven solutions for the underserved healthcare population through the use of 211 data provided by United Way. The hackathon will be November 8-10 at the United Way of Greater Houston and includes sponsorship support from the American Hospital Association, January Advisors and CareSet Systems, with additional support from Health Tech 4 Medicaid.<\/p> ",
-    "url": "https://www.meetup.com/houstonr/events/265661496/",
     "textColor": "blue"
   },
   {
@@ -2533,22 +2558,6 @@
     "start": "2019-12-09",
     "description": "<p>Title:<\/p> <p>kaggle CV 2019暑期激鬥戰事報導<\/p> <p>Abstract:<\/p> <p>在國內被BERT轟炸了一年之後, 做computer vision的你會不會覺得很悶呢? kaggle告訴你還不用懷疑人生. 今年暑期開始kaggle一連舉辦了12個跟CV有關的比賽,佔所有比賽的80%. 其中有四個生醫相關的,4個是Google自家辦的數據量TB級的OpenImage大賽,也有加入LIDAR的自動車應用.一個裝可愛的狗狗影像生成. 題目類型從classification, semantic segmentation, instance segmentation, object detection, GAN都有.<\/p> <p>所以我想要分享我們能從這些比賽中學到什麼, 現在kaggle的比賽生態變成什麼樣, 以及kaggle的state of art algorithm整理.<br/>從細節來說我會探討技術例題如: 1. resnet還是稱霸CNN的比賽嗎, EfficientNet呢?, 2. 現在不用metric learning來做多分類的題目就落伍了嗎? 3. segmentation還是UNet一招走天下? 4. object detection用yolo有任何競爭力嗎? 5. 要怎麼結合youtube video影像(3+1D)跟聲音(1+1D)的數據來做classification? 6. 怎麼結合LIDAR的數據來做object detection?<\/p> <p>跟一些其他八卦如: 1. 去年要贏已經用到512顆GPU了, 今年要幾顆? 2. 來戰是tensorflow還是pytorch比較紅吧? 3. 有沒有比較好用的高端整合工具fastai, catalyst+mlcomp? 4. 一起來笑在討論區高調的人最後排名會掉多少? 5. 有多少新手拿獎金? 6. kaggle kernel不錯用但果然被操爆的過程.<\/p> <p>總之一起來感受無止無盡的kaggle人生吧<\/p> <p>Speaker:<\/p> <p>馬成軍<\/p> <p>做了20年的天文物理研究 (對 可以跟幫甜甜圈照相拉上點關係),轉行做data science. 在被找去做Pinkoi做data scientist之前就立志拿到kaggle competition master. 在做公司的商品排序跟推薦的時候, 看著跟外面DNN技術脫節, 失心瘋的離職專職在kaggle打怪, 重持拿master的人生目標.<\/p> ",
     "url": "https://www.meetup.com/Taiwan-R/events/266283921/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Strasbourg: Modélisation statistique : exemple pratique avec R et RShiny",
-    "group": "R-Ladies Strasbourg",
-    "start": "2019-11-08",
-    "description": "<p>L'objectif de cet exposé est de présenter à travers des exemples concrets des méthodes d'analyses exploratoires et de modélisations. De votre menu fast-food à la répartition des tâches domestiques, venez découvrir les secrets cachés des données !<\/p> ",
-    "url": "https://www.meetup.com/rladies-strasbourg/events/265746741/",
-    "textColor": "blue"
-  },
-  {
-    "title": "useR Group in San Luis Obispo County: office houRs",
-    "group": "useR Group in San Luis Obispo County",
-    "start": "2019-11-08",
-    "description": "<p>Come get your R questions answered, or just simply us for some coding camaraderie.<\/p> <p>Location: Building 25, room 107 (conference room at the end of the hall)<\/p> ",
-    "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/rbpbhryzpblb/",
     "textColor": "blue"
   },
   {
@@ -2709,14 +2718,6 @@
     "start": "2019-11-30",
     "description": "<p>İkinci etkinliğimizle R eğitimi vermeye başlıyoruz ! Etkinliğimizi 30 Kasım 2019 Saat: 13.30'da Ankara Üniversitesi Siyasal Bilgiler Fakültesi'nde yapıyoruz.<br/>KATILIM ÜCRETSİZDİR.<br/>*Bu etkinliğimizde herhangi bir R bilgisi şartı aramıyoruz. Başlangıç eğitimidir.<\/p> <p>*Katılımcıların kişisel bilgisayarlarını yanlarında getirmesi gerekmektedir.(Bilgisayarı olmayanlar olan biriyle ortak kullanabilir.)<\/p> <p>*Katılımda kontenjan sınırı yoktur. Etkinlik için kayıtlar mail yoluyla ileri bir tarihte alınacaktır. Mail atmayanlar için kampüse giriş izni alınamayacağı için etkinliğe katılımları mümkün olmayacaktır. Lütfen kayıt için yapılan duyuruları Twitter hesabımızdan takip edin.<\/p> <p>*Etkinlikle ilgili diğer ayrıntılar da daha sonra duyurulacaktır..<br/>&gt;&gt; Hepinizi R öğrenmeye davet ediyoruz !! :)<\/p> ",
     "url": "https://www.meetup.com/rladies-ankara/events/266079417/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Medellín: Primer encuentro R-Ladies Medellín",
-    "group": "R-Ladies Medellín",
-    "start": "2019-11-08",
-    "description": "<p>Si crees en la revolución de las pequeñas cosas,<br/>si estás dispuesto a formar parte de un equipo de trabajo,<br/>si el mundo de la programación te genera interés<br/>y si crees en la importancia de que las minorías maximicen su potencial,<br/>entonces R-Ladies está pensado para ti…<br/>¡Ven y conócenos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-medellin/events/265984018/",
     "textColor": "blue"
   },
   {
