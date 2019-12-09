@@ -8,6 +8,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R User Group Eindhoven: Grammar of Data manipulation - using \"dplyr\" library in R ",
+    "group": "R User Group Eindhoven",
+    "start": "2019-12-08",
+    "description": "<p>'dplyr' is a grammar of data manipulation, providing a consistent set of verbs that help you solve data manipulation challenges.<\/p> <p>Will focus on using following verbs that are sufficient for most of the data manipulation needs:<br/>1) mutate()<br/>2) select()<br/>3) filter()<br/>4) summarise()<br/>5) arrange()<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Eindhoven/events/266705664/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Colchester R Meetup: R is weird: A comparison with Python and Matlab & Parallel Programming in R",
     "group": "Colchester R Meetup",
     "start": "2019-11-21",
@@ -21,6 +29,14 @@
     "start": "2019-12-02",
     "description": "<p>Agenda:<\/p> <p>6:00 pm: Karina Marks -- Putting the R in JupyteR notebooks<\/p> <p>6:40 pm: Pizza!<\/p> <p>###<\/p> <p>Title: Putting the R in JupyteR notebooks<\/p> <p>This talk will give an overview of what Jupyter notebooks are, run through the installation and set-up of using Jupyter notebooks with R, and then give a live demo of how to get started working with Jupyter notebooks for some simple exploratory data analysis.<\/p> <p>###<\/p> <p>Oxford RUG is thrilled to be sponsored by Mango Solutions. Thanks to their generosity, there will be pizza from Franco Manca after the meeting. When RSVPing, please let us know whether you will be staying for pizza (so we get a sense how much pizza to order).<\/p> ",
     "url": "https://www.meetup.com/Oxford-R-User-Group/events/266780123/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Chico R Users Group: Data Carpentry with R Workshop",
+    "group": "Chico R Users Group",
+    "start": "2019-12-07",
+    "description": "<p>CROSS POSTING FOR THE DAVIS R USERS GROUP<\/p> <p>[UC Davis D-RUG] will be hosting a Data Carpentry R workshop using the Ecology curriculum. If you're interested in taking it, please submit an application at the link below! We aim to meet the needs of a broad group of people across campus and in the community, so we implemented an application that asks for department/lab affiliation.<\/p> <p>Please apply here, details also below! <a href=\"https://registration.genomecenter.ucdavis.edu/events/datalab-data-carpentry-workshop-2019/\" class=\"linkified\">https://registration.genomecenter.ucdavis.edu/events/datalab-data-carpentry-workshop-2019/<\/a><\/p> <p>Data Carpentry Workshop with R<br/>Dec. 7, 2019, 10 a.m. - Dec. 8, 2019, 6 p.m.<br/>Contact - Please email [masked] or [masked] if you have any questions.<\/p> <p>Location - DataLab Classroom (Shields Library room 360). Directions<br/>Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research. Its target audience is researchers who have little to no prior computational experience, and its lessons are domain specific, building on learners' existing knowledge to enable them to quickly apply skills learned to their own research. Participants will be encouraged to help one another and to apply what they have learned to their own research problems. We will be covering the Data Carpentry Ecology lessons because they are generally applicable to researchers who aim to do data analysis in R. We will cover data management and organization, manipulating, summarizing, and plotting data in R. For more information, please visit our workshop website.<\/p> <p>Who: The course is aimed at graduate students and other academic researchers.<br/>You don't need to have any previous knowledge of the tools that will be presented at the workshop.<\/p> <p>Learners must attend both workshop days (Dec 7-8, 2019 from 10am - 6pm each day).<\/p> <p>Cost: $10. If the registration fee is a hardship please contact [masked] or [masked] as limited financial aid is available.<\/p> <p>Application deadline is 22 November 2019 at 5pm. Acceptance notices will be sent on 26 November 2019. Accepted individuals have until 2 December 2019 to register, after which their spot will be given to individuals on the waitlist and they will no longer be able to register.<br/>Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below).<\/p> <p>Code of Conduct: Everyone who participates in Carpentries activities is required to conform to the Code of Conduct. This document also outlines how to report an incident if needed<\/p> <p>Accessibility: We are committed to making this workshop accessible to everybody. The workshop organizers have checked that:<\/p> <p>The room is wheelchair / scooter accessible.<br/>Accessible restrooms are available.<\/p> <p>Materials will be provided in advance of the workshop and large-print handouts are available if needed by notifying the organizers in advance. If we can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch(using contact details below) and we will attempt to provide them.<\/p> <p>Registration closes on: Nov. 22, 2019<\/p> ",
+    "url": "https://www.meetup.com/Chico-R-Users-Group/events/266566118/",
     "textColor": "#7171fb"
   },
   {
@@ -542,14 +558,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "EswatiniUseR Group: Introduction to R for Data Mgt/Analysis using R",
-    "group": "EswatiniUseR Group",
-    "start": "2019-11-08",
-    "description": "<p>Please join us for an insightful session on Introduction to Data Management/Analysis using R.<\/p> <p>Mbongeni Dube from FEI, Mbabane will give us an overview of R and how he's using R in his data analytics. Dr Chemhaka from the Department of Statistics and Demography at UNESWA will also give an overview of how he's using R in Demographic analysis and research.<\/p> <p>Emmanuel Olamijuwon from the Department of Statistics and Demography will lead the practical session on how use R for data management and analysis.<\/p> <p>It will be an interactive session so please bring your laptop.<br/>Also, install R software (<a href=\"https://cloud.r-project.org/\" class=\"linkified\">https://cloud.r-project.org/<\/a>) and R studio (<a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a>) prior to the date.<\/p> <p>If you experience any difficulty with installing any of the two, please arrive at the venue on time so that one of the organizers can assist you before we start.<\/p> <p>We look forward to seeing you there!<\/p> ",
-    "url": "https://www.meetup.com/EswatiniUseR/events/266157834/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "New York Open Statistical Programming Meetup: Simulating A Universe in Tidyverse: Using R to Generate Statistical Simulations",
     "group": "New York Open Statistical Programming Meetup",
     "start": "2019-11-25",
@@ -759,6 +767,14 @@
     "start": "2019-11-28",
     "description": "<p>!!! Захід є безкоштовним за умови попередньої реєстрації: <a href=\"https://forms.gle/uzbJqMkt6e2okFvu8\" class=\"linkified\">https://forms.gle/uzbJqMkt6e2okFvu8<\/a><\/p> <p>На цьому воркшопі Дарія Михайлишина, економістка з ЦЕС, розповість про те, що таке регресійний аналіз, коли він застосовується, які проблеми можуть виникнути при його застосуванні, а також як застосовувати здобуті навики в R.<br/>Зокрема, серед іншого дізнаєтеся про таке:<br/>- [ ] Відмінність кореляції та причинно-наслідкового зв‘язку: чи дійсно від морозива стаються утоплення?<br/>- [ ] Різні типи даних: чому одне слово в коді може повністю змінити результати дослідження?<br/>- [ ] Мультиколінеарність: чи завжди більше означає краще?<br/>- [ ] Ендогенність та інструментальні змінні: чому, щоб дізнатись про вплив сучаних інституцій потрібно дивитись на смертність сотні років тому назад?<br/>- [ ] А також багато іншого<\/p> <p>Вимоги:<br/>- бажано базове знання статистики (що таке похибка, нормальний розподіл, чим відрізняється середнє від медіани і т.д.)<br/>- бажано базові навички роботи в R<br/>- мати з собою ноутбук з встановленими R та R studio, а також високим рівнем зарядки<\/p> ",
     "url": "https://www.meetup.com/rladies-kyiv/events/266463876/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Kyiv: Build Day - create your startup with Facebook Open Source!",
+    "group": "R-Ladies Kyiv",
+    "start": "2019-12-08",
+    "description": "<p>Якщо цікавитесь PyTorch, React, Chat bots, Spark AR запрошуємо на Build Day, від Facebook Developer Circle: Kyiv !<\/p> <p>Формат - міні хакатон, але без пресингу конкуренції, з призами, піцою і афтепаті🍕🍻🥂<\/p> <p>Участь у Build Day - ваша можливість отримати запрошення на F8 конференцію у Каліфорнії🚀<\/p> <p>Реєстрація і список менторів -<br/><a href=\"https://ctobuildday.splashthat.com/\" class=\"linkified\">https://ctobuildday.splashthat.com/<\/a><\/p> <p>Build Day event, the final phase of the Facebook Developer Circles, Tech Leadership Training Kyiv Course: an online program promoted by Facebook Developer Circle: Kyiv in partnership with Lift99 Kyiv Hub and designed to help developers in their journey to become Chief Technical Officers by combining strong interpersonal, influential and technical skills. After online course and training part, we decided to organize practical day - to build your startup!<\/p> <p>The BuildDay is open only for DevC Kyiv members - please check that you're a member of the group : <a href=\"https://www.facebook.com/groups/devCKyiv/\" class=\"linkified\">https://www.facebook.com/groups/devCKyiv/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-kyiv/events/266895607/",
     "textColor": "#7171fb"
   },
   {
@@ -1192,14 +1208,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Houston R Users Group: National Health Equity Hackathon 2019",
-    "group": "Houston R Users Group",
-    "start": "2019-11-08",
-    "description": "<p>Please note that this is an un-hosted meetup.<br/>Visit the links below for more details:<br/><a href=\"https://www.eventbrite.com/e/national-health-equity-hackathon-2019-tickets-64425515451\" class=\"linkified\">https://www.eventbrite.com/e/national-health-equity-hackathon-2019-tickets-64425515451<\/a><br/><a href=\"https://www.hacking.healthcare\" class=\"linkified\">https://www.hacking.healthcare<\/a><\/p> <p>The second annual National Health Equity Hackathon will focus on creating data-driven solutions for the underserved healthcare population through the use of 211 data provided by United Way. The hackathon will be November 8-10 at the United Way of Greater Houston and includes sponsorship support from the American Hospital Association, January Advisors and CareSet Systems, with additional support from Health Tech 4 Medicaid.<\/p> ",
-    "url": "https://www.meetup.com/houstonr/events/265661496/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Houston R Users Group: [EXTERNAL Event] Rice University Event - Meet Hadley Wickham",
     "group": "Houston R Users Group",
     "start": "2019-11-22",
@@ -1300,22 +1308,6 @@
     "start": "2019-11-25",
     "description": "<p>主題：PAC-Bayesian Bound for Deep Learning<\/p> <p>摘要：<br/>或許你在做 Deep Learning 的研究或開發時，曾經遇過這樣的情形：用了 Weight Decay 或其他 Regularization 的方式，明明已經把模型複雜度降低了，但 testing error 只改善一點點，或根本沒改變。於是你就懷疑，你在學校學到的那些機器學習理論，實務上好像沒什麼用處？<\/p> <p>其實，你在學校學到的，是傳統的機器學習理論，主要是 VC-Bound 的理論。從這個理論得出，模型複雜度過高會導致 Over-fitting，所以要用 Weight Decay 之類的方式來降低模型複雜度。但近年來有許多 Deep Learning 的相關研究結果顯示，當模型複雜度過高時，實際上並不一定會發生如 VC-Bound 的所預測發生 Over-fitting，甚至還得出相反的實驗結果。那這到底是怎麼一回事呢？還有，既然模型複雜度過高，並不是導致 Over-fitting 的主因，那到底是什麼原因導致 Over-fitting 呢？<\/p> <p>目前學界已經提出許多種 Deep Learning 的理論，雖然這些理論各有優缺點，離真相還有一段距離，但至少比 VC-Bound 更能解釋實驗所得出的結果。本次主題先從 PAC-Bayesian Bound 理論講起，之後有機會我再介紹其他數學理論。<\/p> <p>延伸閱讀：<\/p> <p>PAC-Bayesian Model Averaging<br/><a href=\"http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6957&amp;rep=rep1&amp;type=pdf\" class=\"linkified\">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6957&amp;rep=rep1&amp;type=pdf<\/a><\/p> <p>Exploring Generalization in Deep Learning<br/><a href=\"https://papers.nips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf\" class=\"linkified\">https://papers.nips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf<\/a><\/p> <p>Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data<br/><a href=\"https://arxiv.org/pdf/1703.11008.pdf\" class=\"linkified\">https://arxiv.org/pdf/1703.11008.pdf<\/a><\/p> <p>講者介紹：<br/>Mark Chang<br/>數學愛好者，興趣是研究各種 Deep Learning 的數學理論。<\/p> ",
     "url": "https://www.meetup.com/Taiwan-R/events/266634451/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Strasbourg: Modélisation statistique : exemple pratique avec R et RShiny",
-    "group": "R-Ladies Strasbourg",
-    "start": "2019-11-08",
-    "description": "<p>L'objectif de cet exposé est de présenter à travers des exemples concrets des méthodes d'analyses exploratoires et de modélisations. De votre menu fast-food à la répartition des tâches domestiques, venez découvrir les secrets cachés des données !<\/p> ",
-    "url": "https://www.meetup.com/rladies-strasbourg/events/265746741/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "useR Group in San Luis Obispo County: office houRs",
-    "group": "useR Group in San Luis Obispo County",
-    "start": "2019-11-08",
-    "description": "<p>Come get your R questions answered, or just simply us for some coding camaraderie.<\/p> <p>Location: Building 25, room 107 (conference room at the end of the hall)<\/p> ",
-    "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/rbpbhryzpblb/",
     "textColor": "#7171fb"
   },
   {
@@ -1543,14 +1535,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Medellín: Primer encuentro R-Ladies Medellín",
-    "group": "R-Ladies Medellín",
-    "start": "2019-11-08",
-    "description": "<p>Si crees en la revolución de las pequeñas cosas,<br/>si estás dispuesto a formar parte de un equipo de trabajo,<br/>si el mundo de la programación te genera interés<br/>y si crees en la importancia de que las minorías maximicen su potencial,<br/>entonces R-Ladies está pensado para ti…<br/>¡Ven y conócenos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-medellin/events/265984018/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Floripa: 6º Meetup R-Ladies Floripa | Minicurso de R",
     "group": "R-Ladies Floripa",
     "start": "2019-11-09",
@@ -1612,14 +1596,6 @@
     "start": "2019-12-09",
     "description": "<p>Talk 1:<br/>Speaker: Nellie Ponarul, Senior Associate at Ankura<br/>Title: Web Applications: From HTML/JavaScript/CSS to Shiny<\/p> <p>Abstract:<br/>How do you build a website from scratch? In this talk I will discuss the fundamentals of building a web application using HTML/JavaScript/CSS, and how those fundamentals are used to build web applications in Shiny using R, using examples I have created in both environments. For anyone who wants to understand website structure or get the most out of their Shiny app, I hope this talk will shed some light!<\/p> <p>Talk 2:<br/>Speaker: Amy Tzu-Yu Chen (@amy17519), Data Scientist at System1<br/>Title: Data Science Reporting: Tips and Tricks for useRs<\/p> <p>Abstract:<br/>We (data practitioners) spend most of time working on data analysis and model development but we often forget that it is as important to advocate and maintain model health, especially in a production environment. Building data science reports ahead of time can help. In this talk, let's talk about how to make useful data science reports for data scientists and business stakeholders. In this talk, we will first walk through what data science reporting means and how it is different from BI and general-purpose dashboards. Next, we explore different options for producing data science reports in a \"loud\" and clear way for data scientists and other technical and non-technical business stakeholders. Throughout the talk, I will introduce some useful R packages and tricks for building your own reports.<\/p> <p>Code of Conduct: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>Timeline:<br/>6:30: Socializing<br/>7:00-8:00: Talks<br/>8:00: Socializing<\/p> <p>Address:<br/>Room 115/116<br/>USC<br/>2001 N. Soto St.<br/>Los Angeles, CA 90032<\/p> <p>Parking: Parking is free in the metered spots on the east side of the parking lot after 5 PM<\/p> <p>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://laocr.org/\" class=\"linkified\">https://laocr.org/<\/a><\/p> ",
     "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/266700059/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R User Group Eindhoven: Grammar of Data manipulation - using \"dplyr\" library in R ",
-    "group": "R User Group Eindhoven",
-    "start": "2019-12-08",
-    "description": "<p>'dplyr' is a grammar of data manipulation, providing a consistent set of verbs that help you solve data manipulation challenges.<\/p> <p>Will focus on using following verbs that are sufficient for most of the data manipulation needs:<br/>1) mutate()<br/>2) select()<br/>3) filter()<br/>4) summarise()<br/>5) arrange()<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Eindhoven/events/266705664/",
     "textColor": "blue"
   },
   {
@@ -1767,10 +1743,18 @@
     "textColor": "blue"
   },
   {
-    "title": "STWUR - Wroclaw R Users Group Meetup: WAMPIR#2: Stochastic Variational Inference (SVI) and missing data in R",
+    "title": "Central Iowa R User Group: R and Python study group",
+    "group": "Central Iowa R User Group",
+    "start": "2020-03-07",
+    "description": "<p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/chzdspybcfbkb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "STWUR - Wroclaw R Users Group Meetup: WAMPIR#2: Stochastic Variational Inference (SVI) and missing values tour in R",
     "group": "STWUR - Wroclaw R Users Group Meetup",
     "start": "2019-12-18",
-    "description": "<p>Na naszym drugim już spotkaniu w ramach WAMPIRa (Wrocławski Alians Miłośników Pythona i R) możecie dowiedzieć się co to jest SVI oraz jak radzić sobie z brakującymi danymi w R.<\/p> <p>Spotkania z cyklu WAMPIR przeznaczone są dla bardziej zaawansowanych miłośników data science, którzy chcą pogłębić swoją wiedzę z zakresu szybko rozwijających się technologii. Będzie technicznie, będzie dogłębnie, ale zawsze w przyjaznej STWURowej atmosferze.<\/p> <p>--------------------------------------------------------------------------------<\/p> <p>Wprowadzenie do Stochastic Variational Inference (SVI):<br/>Modele Bayesowskie są bardzo interesującą propozycją, m.in. dlatego, że rezultatem ich działania<br/>jest rozkład prawdpodobnieństwa, a nie punktowa estymacja.<br/>Niestety bardzo często uczenie i wnioskowanie w tych modelach jest bardzo kosztowne obliczeniowo.<br/>Problem nasila się wraz ze złożonością modelu i ilością danych.<br/>W prezentacji zaczniemy od szybkiego wprowadzenia do probabilistycznych modeli graficznych.<br/>Następnie pokazana zostanie trudność infernecji i sposoby aproksymacji.<br/>Praktyczne przykłady regresji i clusteringu zostaną pokazne przy użyciu biblioteki pyro.ai, która bazuje na popularnym PyTorchu.<\/p> <p>Missing data in R:<br/>...<\/p> <p>--------------------------------------------------------------------------------<br/>Bio naszych prelengentów:<\/p> <p>Michał Kurtys jest Data Scientistem pracującym w firmie Infermedica. Ukończył kierunek lekarski na Warszawskim Uniwersytecie Medycznym.<\/p> <p>Wei Jiang is currently pursuing PhD degree in Statistics at Ecole Polytechnique, France. Her research mainly focuses on statistical inference with missing values and applications on medical datasets. Fan of R, eager to learn more about data science and mathematics.<\/p> ",
+    "description": "<p>Na naszym drugim już spotkaniu w ramach WAMPIRa (Wrocławski Alians Miłośników Pythona i R) możecie dowiedzieć się co to jest SVI oraz jak radzić sobie z brakującymi danymi w R.<\/p> <p>Spotkania z cyklu WAMPIR przeznaczone są dla bardziej zaawansowanych miłośników data science, którzy chcą pogłębić swoją wiedzę z zakresu szybko rozwijających się technologii. Będzie technicznie, będzie dogłębnie, ale zawsze w przyjaznej STWURowej atmosferze.<\/p> <p>--------------------------------------------------------------------------------<\/p> <p>Wprowadzenie do Stochastic Variational Inference (SVI):<\/p> <p>Modele Bayesowskie są bardzo interesującą propozycją, m.in. dlatego, że rezultatem ich działania<br/>jest rozkład prawdpodobnieństwa, a nie punktowa estymacja.<br/>Niestety bardzo często uczenie i wnioskowanie w tych modelach jest bardzo kosztowne obliczeniowo.<br/>Problem nasila się wraz ze złożonością modelu i ilością danych.<br/>W prezentacji zaczniemy od szybkiego wprowadzenia do probabilistycznych modeli graficznych.<br/>Następnie pokazana zostanie trudność infernecji i sposoby aproksymacji.<br/>Praktyczne przykłady regresji i clusteringu zostaną pokazne przy użyciu biblioteki pyro.ai, która bazuje na popularnym PyTorchu.<\/p> <p>A missing values tour in R -- with a special focus on parameter estimation:<\/p> <p>Imagine you are solving a linear regression but there are a lot of missing values in your design matrix, how can you deal with so many \"NA\"? The trouble may be caused by survey non-responses, lost records or machine failures.<br/>Classical packages performing estimation would let you ignore all the lines with missingness, as a result, much information would be lost. A more reasonable method to handle this problem, is modifying an estimation process so that the method can be applied to incomplete data. For example, one can use the Expectation-Maximization (EM) algorithm to obtain the maximum likelihood estimate despite missing values.<br/>Another popular choice is imputation, followed by classical regression procedure on imputed dataset. In this presentation, I will talk about different types of missing data, review several imputation methods and demonstrate how to estimate parameters based on EM algorithm with R.<\/p> <p>--------------------------------------------------------------------------------<br/>Bio naszych prelengentów:<\/p> <p>Michał Kurtys jest Data Scientistem pracującym w firmie Infermedica. Ukończył kierunek lekarski na Warszawskim Uniwersytecie Medycznym.<\/p> <p>Wei Jiang is currently pursuing PhD degree in Statistics at Ecole Polytechnique, France. Her research mainly focuses on statistical inference with missing values and applications on medical datasets. Fan of R, eager to learn more about data science and mathematics.<\/p> ",
     "url": "https://www.meetup.com/Wroclaw-R-Users-Group/events/266916352/",
     "textColor": "blue"
   },
@@ -2119,7 +2103,7 @@
     "title": "R-Ladies Porto Alegre: 6º Meetup R-Ladies Porto Alegre",
     "group": "R-Ladies Porto Alegre",
     "start": "2019-12-16",
-    "description": "<p>ATENÇÃO! A data do evento é 16/12 - 19h30<\/p> <p>Olá, Ladies!<\/p> <p>Vamos nos encontrar antes do final do ano?<\/p> <p>Gostaríamos de ver como vocês, ladies, têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup, através de nosso e-mail [masked] ou de nosso Twitter @RLadiesPOA.<\/p> <p>Todas são muito bem vindas. Não esqueça de convidar outras ladies a participar! (:<\/p> <p>Programação em breve!<\/p> <p>Lembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese<\/a><\/p> ",
+    "description": "<p>ATENÇÃO! A data do evento é 16/12 - 19h30<\/p> <p>Olá, Ladies!<\/p> <p>Vamos nos encontrar antes do final do ano?<\/p> <p>Gostaríamos de ver como vocês, ladies, têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup, através de nosso e-mail [masked] ou de nosso Twitter @RLadiesPOA.<\/p> <p>Todas são muito bem vindas. Não esqueça de convidar outras ladies a participar! (:<\/p> <p>***************<br/>PROGRAMAÇÃO:<br/>***************<br/>Machine Learning em modelos de Credit Scoring: um estudo de caso.<\/p> <p>Resumo: Cansada de sempre desenvolver modelos com Regressão Logística quando se trata de crédito? A fim de contornar (ou justificar seu uso), fiz um estudo de caso comparando esta técnica padrão com alguns modelos de Machine Learning: Árvore de Decisão, Random Forest, Bagging, Support Vector Machine e Adaboost. Até que ponto vale o investimento nestas novas tecnologias quando o cenário envolve concessão de crédito?<\/p> <p>Cinthia Becker - Formada em Estatística pela UFRGS, atualmente está cursando pós-graduação em Data Science e Big Data na Uniritter, além de trabalhar com modelagem de crédito na Realize CFI/Lojas Renner. Apaixonada pelo R desde a graduação, nos últimos anos tem-se aventurado em Python também.<\/p> <p>***************<br/>Mais em breve!<br/>***************<\/p> <p>Lembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-porto-alegre/events/266643948/",
     "textColor": "blue"
   },
@@ -2153,14 +2137,6 @@
     "start": "2019-12-17",
     "description": "<p>***SAVE THE DATE***<\/p> <p>Come help us celebrate one year of R-Ladies Perth workshops and networking events!!<\/p> <p>We will discuss what has and hasn't worked, enable networking over some food and drinks (since a lot of you attended different R-Ladies events), and plan for the first half of 2020. There will also be a brief seminar on how to search, clone and work-through available workshop materials on the R-Ladies Global and associated chapter GitHub's (NOTE: this can be a useful resource between events or for learning more about specific packages/topics).<\/p> <p>We can't wait to meet you all again!!<\/p> <p>Remember to spread the word -- invite your colleagues and work/study friends.<\/p> <p>All skill levels are encouraged to attend our events!!!!<\/p> <p>P.S. everyone is welcome at all R-Ladies events but in general we encourage men to bring at least one potential member that meets the R-Ladies Global mission of supporting minority gender R enthusiasts (<a href=\"https://rladies.org/about-us/\" class=\"linkified\">https://rladies.org/about-us/<\/a>).<\/p> <p>We would also like to thank our sponsors for this event: Murdoch University, the Curtin Institute for Computation, and Flux powered by Spacecubed.<\/p> ",
     "url": "https://www.meetup.com/rladies-perth/events/266548167/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Kyiv: Build Day - create your startup with Facebook Open Source!",
-    "group": "R-Ladies Kyiv",
-    "start": "2019-12-08",
-    "description": "<p>Якщо цікавитесь PyTorch, React, Chat bots, Spark AR запрошуємо на Build Day, від Facebook Developer Circle: Kyiv !<\/p> <p>Формат - міні хакатон, але без пресингу конкуренції, з призами, піцою і афтепаті🍕🍻🥂<\/p> <p>Участь у Build Day - ваша можливість отримати запрошення на F8 конференцію у Каліфорнії🚀<\/p> <p>Реєстрація і список менторів -<br/><a href=\"https://ctobuildday.splashthat.com/\" class=\"linkified\">https://ctobuildday.splashthat.com/<\/a><\/p> <p>Build Day event, the final phase of the Facebook Developer Circles, Tech Leadership Training Kyiv Course: an online program promoted by Facebook Developer Circle: Kyiv in partnership with Lift99 Kyiv Hub and designed to help developers in their journey to become Chief Technical Officers by combining strong interpersonal, influential and technical skills. After online course and training part, we decided to organize practical day - to build your startup!<\/p> <p>The BuildDay is open only for DevC Kyiv members - please check that you're a member of the group : <a href=\"https://www.facebook.com/groups/devCKyiv/\" class=\"linkified\">https://www.facebook.com/groups/devCKyiv/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-kyiv/events/266895607/",
     "textColor": "blue"
   },
   {
@@ -2232,6 +2208,14 @@
     "start": "2019-12-10",
     "description": "<p>For more details and to RSVP please visit EventBrite:<\/p> <p><a href=\"https://octugwinter.eventbrite.com/\" class=\"linkified\">https://octugwinter.eventbrite.com/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-irvine/events/266170963/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Melbourne: We all count: Strengthening stats and math through diversity",
+    "group": "R-Ladies Melbourne",
+    "start": "2019-12-10",
+    "description": "<p>Hi everyone,<\/p> <p>We invite everyone to take part at the next meeting of the Statistical Society of Australia (SSA) focused on initiatives to increase diversity in math and stats! There will be loads of interesting discussions, a panel discussions starring one of our organisers, Anna Quaglieri, short talks and drinks to follow!<\/p> <p>REGISTRATION AND INFOS HERE<\/p> <p>Register on the SSA event page <a href=\"https://www.meetup.com/en-AU/Statistical-Society-of-Australia-Victorian-Branch/events/266370269/\" class=\"linkified\">https://www.meetup.com/en-AU/Statistical-Society-of-Australia-Victorian-Branch/events/266370269/<\/a> .<\/p> <p>Looking forward to seeing loads of you there!<\/p> <p>R-Ladies Melbourne<\/p> ",
+    "url": "https://www.meetup.com/rladies-melbourne/events/267050107/",
     "textColor": "blue"
   },
   {
@@ -2501,6 +2485,14 @@
     "start": "2019-12-19",
     "description": "<p>RLadies Delhi in collaboration with M&amp;S Research Hub is organizing a 2 day workshop on Wavelet Applications in Economics &amp; Finance.<\/p> <p>Workshop Timings would be 1 PM - 5 PM on 19th and 20th Dec.<\/p> <p>Content of the workshop<br/>DAY-1<br/>1. Introduction to R-Programming Language and R-studio Interface<br/>2. The basic concept of Wavelet and its applications<br/>3. Decomposition and plotting of the series using the MODWT method.<br/>4. Wavelet Correlation<br/>5. Wavelet Covariance<br/>6. Cross-Wavelet Correlation<\/p> <p>DAY-2<br/>1. Continuous Wavelet Transform<br/>2. Cross Wavelet Transform<br/>3. Wavelet Coherence<br/>4. Partial Wavelet Coherence<br/>5. Introduction of MATLAB<br/>6. Application of Continuous Wavelet Transform, Wavelet Coherence, Partial and Multiple Wavelet Coherence (Using MATLAB)<\/p> <p>Each Participate will get certificate of enrollment.<br/>Registration fees include the workshop material and data files.<\/p> <p>If registered through RLadies you will get 30% off on registration fees.<br/>If more than 10 RLadies would register, discount would be 50%, please do RSVP first to avail the discount.<\/p> <p>For more details - <a href=\"https://ms-researchhub.com/home/conferences/wavelet-workshop.html\" class=\"linkified\">https://ms-researchhub.com/home/conferences/wavelet-workshop.html<\/a><\/p> <p>Last date of registration is 25th November 2019.<\/p> ",
     "url": "https://www.meetup.com/rladies-new-delhi/events/266265135/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Addis Ababa: Monthly R-Ladies Addis Ababa Meeting",
+    "group": "R-Ladies Addis Ababa",
+    "start": "2019-12-10",
+    "description": "<p>This is the 24th monthly meeting of the R-Ladies Addis Ababa group. The agenda will be provided on request.<\/p> ",
+    "url": "https://www.meetup.com/rladies-addis-ababa/events/267048207/",
     "textColor": "blue"
   },
   {
