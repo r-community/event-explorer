@@ -128,22 +128,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "PhillyR: [Online] 3D Mapping & Visualization in R",
-    "group": "PhillyR",
-    "start": "2019-11-15",
-    "description": "<p>A bit last minute event about R geospatial event that I just found out about this morning.<br/>I am creating Meetup event so PhillyR members get notified.<br/>Online weblink available.<\/p> <p>Event description<br/>The #MusaMasterClass is a community event hosted by the Master of Urban Spatial Analytics program (MUSA) and Penn IUR at the University of Pennsylvania. The event is hosted on-campus and via live webcast. Led by Tyler Morgan-Wall, author of the Rayshader package, this year's workshop will teach participants how to create beautiful 3-D maps and visualizations in R. Tyler will cover both urban and environmental use cases covering the fundamentals 3-D mapping in Rayshader, hillshade generation, and the rendering of movies and flybys. Once the workshop is complete, students will replicate what they've learned on additional datasets and share with the community using hashtag #MusaMasterClass.<br/>Register to participate on-campus or online. Follow @PennMusa on twitter for updates. The day of the event, we'll post a custom R Markdown and webcast info.<br/>Time:<br/>Workshop: 1:15 – 5 PM<\/p> <p>On-site<br/><a href=\"https://www.eventbrite.com/e/musamasterclass-featuring-tyler-morgan-wall-3d-mapping-and-dataviz-in-r-tickets-74481308599\" class=\"linkified\">https://www.eventbrite.com/e/musamasterclass-featuring-tyler-morgan-wall-3d-mapping-and-dataviz-in-r-tickets-74481308599<\/a><\/p> <p>On-line:<br/><a href=\"https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae6642b2-c2be-4ad0-846c-aafb00e00129\" class=\"linkified\">https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae6642b2-c2be-4ad0-846c-aafb00e00129<\/a><\/p> ",
-    "url": "https://www.meetup.com/PhillyR/events/266490147/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "CaRdiff - the Cardiff R User Group: Transgender Day of Remembrance Hackathon",
-    "group": "CaRdiff - the Cardiff R User Group",
-    "start": "2019-11-15",
-    "description": "<p>[Trigger warning: this event relates to violence against transgender people and participants may be exposed to detailed reports which contain graphic imagery. Please consider this before attending.]<\/p> <p>The Transgender Day of Remembrance (TDoR), observed annually on 20 November, memorializes those who were killed or lost to suicide as a result of anti-transgender hatred or prejudice in the past year.<\/p> <p>This non-competitive hackathon will be centred on the data collected by monitoring bodies and trans activists about relevant deaths, as collated for recent years on <a href=\"https://tdor.translivesmatter.info/\" class=\"linkified\">https://tdor.translivesmatter.info/<\/a>. We are pleased to have the maintainer of this website as an invited participant.<\/p> <p>We invite anyone interested in working on this data to participate. Tasks will be identified to match the interests and skills of participants, but may include:<\/p> <p>- creating visualizations/infographics for TDoR 2019<br/>- creating a dashboard to explore the data<br/>- researching reports to add photos for memorial cards or missing details<br/>- contributing to the tdor R package (<a href=\"https://github.com/CaRdiffR/tdor\" class=\"linkified\">https://github.com/CaRdiffR/tdor<\/a> ), e.g.<br/>- updating the vignette<br/>- updating documentation<br/>- fixing issues with the static 2019 data set<br/>- adding functionality to retrieve data using the new API<\/p> <p>Tasks will typically be worked on in pairs/small groups so that participants can learn from each other.<\/p> <p>This hackathon is hosted by the Cardiff R User Group, Forwards (<a href=\"https://forwards.github.io/\" class=\"linkified\">https://forwards.github.io/<\/a>) and Rainbow R (<a href=\"https://twitter.com/r_lgbtq\" class=\"linkified\">https://twitter.com/r_lgbtq<\/a>) as a pre-conference event for Cardiff satRday (<a href=\"https://cardiff2019.satrdays.org/\" class=\"linkified\">https://cardiff2019.satrdays.org/<\/a>). Although this is an initiative of the R community, we welcome users of any programming language or none!<\/p> <p>There is no cost for this event. Refreshments will be provided.<\/p> <p>Participants are welcome to join the Cardiff satRday dinner/social in the evening, details to be announced.<\/p> ",
-    "url": "https://www.meetup.com/Cardiff-R-User-Group/events/265508847/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "CaRdiff - the Cardiff R User Group: satRdays Cardiff 2019",
     "group": "CaRdiff - the Cardiff R User Group",
     "start": "2019-11-16",
@@ -1346,14 +1330,6 @@
   {
     "title": "useR Group in San Luis Obispo County: office houRs",
     "group": "useR Group in San Luis Obispo County",
-    "start": "2019-11-15",
-    "description": "<p>Come get your R questions answered, or just simply us for some coding camaraderie.<\/p> <p>Location: Building 25, room 107 (conference room at the end of the hall)<\/p> ",
-    "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/rbpbhryzpbtb/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "useR Group in San Luis Obispo County: office houRs",
-    "group": "useR Group in San Luis Obispo County",
     "start": "2019-11-22",
     "description": "<p>Come get your R questions answered, or just simply us for some coding camaraderie.<\/p> <p>Location: Building 25, room 107 (conference room at the end of the hall)<\/p> ",
     "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/rbpbhryzpbdc/",
@@ -1421,14 +1397,6 @@
     "start": "2019-12-03",
     "description": "<p>Our December meeting will be extra special! Join us for this introductory workshop lead by Brittany A. Bankovich, from the Center for Spatial Analysis at FWC. After the workshop we will head downtown for an end of the year social! (At Big Top - walking distance from the library)<\/p> <p>During the workshop, Brittany will cover importing spatial data, projections and transformations, basic geometric operations (buffering, intersections, clipping, erasing, distance calculations), useful raster operations (reading them in, reclassifying, summarizing raster data using vector data), basic mapping using ggplot and ggmaps, and a brief demonstration of mapping using leaflet (can implement coarse-scale real-time data like weather).<\/p> <p>Make sure you have installed this packages before the meeting:<br/>## Geoprocessing tools<br/>library(sp)<br/>library(rgdal)<br/>library(rgeos)<br/>library(raster)<br/>library(dismo)<\/p> <p># Mapping tools<br/>library(maptools)<br/>library(plyr)<br/>library(ggplot2)<br/>library(ggmap)<br/>library(broom)<br/>library(maps)<br/>library(ggsn)<br/>library(sf)<br/>library(rasterVis)<\/p> <p>We will meet at the Foundation Room at the library, which means we need you to RSVP. The space is limited in this room. Thanks!<\/p> ",
     "url": "https://www.meetup.com/rladies-gainesville/events/266726720/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Atlanta: Sports Analytics and R Shiny",
-    "group": "R-Ladies Atlanta",
-    "start": "2019-11-15",
-    "description": "<p>If you missed our Hawks meeting last time, and want to know more about sports Analytic. Sara Khan will be speaking at Emory this afternoon, Friday November 15<\/p> <p>Sara Khan will be giving a talk on Sports Analytics and R Shiny. She will lead an overview of how to integrate R with sports analytics. The talk will focus on integrating R Shiny to create an interactive dashboard on viewing Player Efficiency Ratings. A brief tutorial on R Shiny will also be included.<\/p> <p>Please RSVP here: <a href=\"https://emory.campuslabs.com/engage/event/5142090\" class=\"linkified\">https://emory.campuslabs.com/engage/event/5142090<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-atlanta/events/266492000/",
     "textColor": "#7171fb"
   },
   {
@@ -1672,6 +1640,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group",
+    "group": "Central Iowa R User Group",
+    "start": "2020-03-14",
+    "description": "<p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/chzdspybcfbsb/",
+    "textColor": "blue"
+  },
+  {
     "title": "STWUR - Wroclaw R Users Group Meetup: WAMPIR#2: Stochastic Variational Inference (SVI) and missing values tour in R",
     "group": "STWUR - Wroclaw R Users Group Meetup",
     "start": "2019-12-18",
@@ -1683,7 +1659,7 @@
     "title": "Budapest Users of R Network: Data Christmas 2019",
     "group": "Budapest Users of R Network",
     "start": "2019-12-18",
-    "description": "<p>Join us for the last meetup of the year, where we look back at key events of 2019, listen the fun quick talks and have a drink together with fellow members of the Budapest data community.<\/p> <p>Program and speakers:<\/p> <p>1) Welcome Notes - Békés Gábor, CEU<\/p> <p>2) Community announcements<\/p> <p>3) Opening talk<br/>Best of 2019 - a look back to an \"average\" year in data and BI<br/>Arató Bence, BI Consulting<\/p> <p>4) Data Meetup Showcase<br/>Very quick intros to the participating meetups, possibly in a fun, data-driven way. Let us know if you would like your meetup included!<\/p> <p>5) Talk Jam with fun talks from the community members:<\/p> <p>The Data Scientist's Christmas Dinner<br/>Windhager-Pokol Eszter, Starschema<\/p> <p>\"Baby Yoda\": Sith or Jedi?<br/>Milan Janosov, Central European University<\/p> <p>It's the most wonderful time to tweet<br/>Kapronczay Mór &amp; Tóth Benedek, Starschema<\/p> <p>More speakers coming soon. Drop us a line if you'd like to give a talk!<\/p> <p>Schedule:<br/>18:00 Doors open, refreshments<br/>18:30 Talks begin<br/>20:00 Afterparty in the atrium of CEU<\/p> <p>This is shared community event, jointly organized by the data meetups in Budapest.<br/>- Budapest Artificial Intelligence Meetup <a href=\"https://bit.ly/36vVtvN\" class=\"linkified\">https://bit.ly/36vVtvN<\/a><br/>- Budapest BI Meetup <a href=\"http://bit.ly/2XSQQc6\" class=\"linkified\">http://bit.ly/2XSQQc6<\/a><br/>- Budapest Big Data Meetup <a href=\"http://bit.ly/34u0ODq\" class=\"linkified\">http://bit.ly/34u0ODq<\/a><br/>- Budapest Data Science meetup <a href=\"http://bit.ly/2r0zsXb\" class=\"linkified\">http://bit.ly/2r0zsXb<\/a><br/>- Budapest Deep Learning Reading Seminar <a href=\"http://bit.ly/346rklc\" class=\"linkified\">http://bit.ly/346rklc<\/a><br/>- Budapest Users of R Network <a href=\"http://bit.ly/2Oq2rMG\" class=\"linkified\">http://bit.ly/2Oq2rMG<\/a><br/>- PyData Budapest Meetup <a href=\"http://bit.ly/2DpoVHt\" class=\"linkified\">http://bit.ly/2DpoVHt<\/a><br/>- R-Ladies Budapest <a href=\"http://bit.ly/2DnG0RU\" class=\"linkified\">http://bit.ly/2DnG0RU<\/a><\/p> <p>Due to the parallelly organized, distributed nature of the meetup, RSVPs will be closed when the combined number of RSVPs from all participating meetups hits the limit.<\/p> <p>This is an English speaking event. Venue and catering will be provided by CEU.<\/p> ",
+    "description": "<p>Join us for the last meetup of the year, where we look back at key events of 2019, listen the fun quick talks and have a drink together with fellow members of the Budapest data community.<\/p> <p>Program and speakers:<\/p> <p>1) Welcome Notes - Békés Gábor, CEU<\/p> <p>2) Community announcements<\/p> <p>3) Opening talk<br/>Best of 2019 - a look back to an \"average\" year in data and BI<br/>Arató Bence, BI Consulting<\/p> <p>4) Data Meetup Showcase<br/>Very quick intros to the participating meetups, possibly in a fun, data-driven way. Let us know if you would like your meetup included!<\/p> <p>5) Talk Jam with fun talks from the community members:<\/p> <p>The Data Scientist's Christmas Dinner<br/>Windhager-Pokol Eszter, Starschema<\/p> <p>\"Baby Yoda\": Sith or Jedi?<br/>Milan Janosov, Central European University<\/p> <p>It's the most wonderful time to tweet<br/>Kapronczay Mór &amp; Tóth Benedek, Starschema<\/p> <p>More speakers coming soon. Drop us a line if you'd like to give a talk!<\/p> <p>Schedule:<br/>18:00 Doors open, refreshments<br/>18:30 Talks begin<br/>20:00 Afterparty in the atrium of CEU<\/p> <p>This is shared community event, jointly organized by the data meetups in Budapest.<br/>- Budapest Artificial Intelligence Meetup <a href=\"https://bit.ly/36vVtvN\" class=\"linkified\">https://bit.ly/36vVtvN<\/a><br/>- Budapest BI Meetup <a href=\"http://bit.ly/2XSQQc6\" class=\"linkified\">http://bit.ly/2XSQQc6<\/a><br/>- Budapest Big Data Meetup <a href=\"http://bit.ly/34u0ODq\" class=\"linkified\">http://bit.ly/34u0ODq<\/a><br/>- Budapest Data Science meetup <a href=\"http://bit.ly/2r0zsXb\" class=\"linkified\">http://bit.ly/2r0zsXb<\/a><br/>- Budapest Deep Learning Reading Seminar <a href=\"http://bit.ly/346rklc\" class=\"linkified\">http://bit.ly/346rklc<\/a><br/>- Budapest.py meetup <a href=\"http://bit.ly/34sEHMZ\" class=\"linkified\">http://bit.ly/34sEHMZ<\/a><br/>- Budapest Users of R Network <a href=\"http://bit.ly/2Oq2rMG\" class=\"linkified\">http://bit.ly/2Oq2rMG<\/a><br/>- PyData Budapest Meetup <a href=\"http://bit.ly/2DpoVHt\" class=\"linkified\">http://bit.ly/2DpoVHt<\/a><br/>- R-Ladies Budapest <a href=\"http://bit.ly/2DnG0RU\" class=\"linkified\">http://bit.ly/2DnG0RU<\/a><\/p> <p>Due to the parallelly organized, distributed nature of the meetup, RSVPs will be closed when the combined number of RSVPs from all participating meetups hits the limit.<\/p> <p>This is an English speaking event. Venue and catering will be provided by CEU.<\/p> ",
     "url": "https://www.meetup.com/Budapest-Users-of-R-Network/events/266552582/",
     "textColor": "blue"
   },
@@ -1793,7 +1769,7 @@
     "title": "R User Group - Philippines: #71 Holiday meetup!",
     "group": "R User Group - Philippines",
     "start": "2019-12-18",
-    "description": "<p>Please bring a valid ID.<\/p> ",
+    "description": "<p>Our last meetup for the year, and per tradition we will spend this meetup with a light topic, parlor games and exchange gift!<\/p> <p>For those who want to join our exchange gift, please bring any item that starts with the letter \"R\" that's worth at least 300 pesos. The mechanics of the gift exchange game will be similar to the \"SWITCH STEAL UNWRAP DICE GAME\", where:<br/>1. You roll the die and the die determines if you switch, steal or unwrap the gift in your hand.<br/>2. Game ends when all gifts have been unwrapped.<\/p> <p>========================<\/p> <p>Please bring a valid ID.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/npdrgpyzqbxb/",
     "textColor": "blue"
   },
@@ -1929,7 +1905,7 @@
     "title": "R-Ladies Porto Alegre: 6º Meetup R-Ladies Porto Alegre",
     "group": "R-Ladies Porto Alegre",
     "start": "2019-12-16",
-    "description": "<p>ATENÇÃO! A data do evento é 16/12 - 19h30<\/p> <p>Olá, Ladies!<\/p> <p>Vamos nos encontrar antes do final do ano?<\/p> <p>Gostaríamos de ver como vocês, ladies, têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup, através de nosso e-mail [masked] ou de nosso Twitter @RLadiesPOA.<\/p> <p>Todas são muito bem vindas. Não esqueça de convidar outras ladies a participar! (:<\/p> <p>***************<br/>PROGRAMAÇÃO:<br/>***************<br/>Machine Learning em modelos de Credit Scoring: um estudo de caso.<\/p> <p>Resumo: Cansada de sempre desenvolver modelos com Regressão Logística quando se trata de crédito? A fim de contornar (ou justificar seu uso), fiz um estudo de caso comparando esta técnica padrão com alguns modelos de Machine Learning: Árvore de Decisão, Random Forest, Bagging, Support Vector Machine e Adaboost. Até que ponto vale o investimento nestas novas tecnologias quando o cenário envolve concessão de crédito?<\/p> <p>Cinthia Becker - Formada em Estatística pela UFRGS, atualmente está cursando pós-graduação em Data Science e Big Data na Uniritter, além de trabalhar com modelagem de crédito na Realize CFI/Lojas Renner. Apaixonada pelo R desde a graduação, nos últimos anos tem-se aventurado em Python também.<\/p> <p>***************<br/>Mais em breve!<br/>***************<\/p> <p>Lembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese<\/a><\/p> ",
+    "description": "<p>ATENÇÃO! A data do evento é 16/12 - 19h30<\/p> <p>Olá, Ladies!<\/p> <p>Vamos nos encontrar antes do final do ano?<\/p> <p>Gostaríamos de ver como vocês, ladies, têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup, através de nosso e-mail [masked] ou de nosso Twitter @RLadiesPOA.<\/p> <p>Todas são muito bem vindas. Não esqueça de convidar outras ladies a participar! (:<\/p> <p>***************<br/>PROGRAMAÇÃO:<br/>***************<br/>Machine Learning em modelos de Credit Scoring: um estudo de caso.<\/p> <p>Resumo: Cansada de sempre desenvolver modelos com Regressão Logística quando se trata de crédito? A fim de contornar (ou justificar seu uso), fiz um estudo de caso comparando esta técnica padrão com alguns modelos de Machine Learning: Árvore de Decisão, Random Forest, Bagging, Support Vector Machine e Adaboost. Até que ponto vale o investimento nestas novas tecnologias quando o cenário envolve concessão de crédito?<\/p> <p>Cinthia Becker - Formada em Estatística pela UFRGS, atualmente está cursando pós-graduação em Data Science e Big Data na Uniritter, além de trabalhar com modelagem de crédito na Realize CFI/Lojas Renner. Apaixonada pelo R desde a graduação, nos últimos anos tem-se aventurado em Python também.<\/p> <p>***************<br/>Análise da evasão no grupo escoteiro Chama Farroupilha usando R.<\/p> <p>Resumo: A fim de entender os motivos da evasão do grupo escoteiro Chama Faroupilha, foi feito trabalho de investigação através de análise dos resultados de pesquisa. No Meetup será apresentado todo o processo: desde a coleta da amostra, análise descritiva das variáveis, até a análise da importância usando Random Forest. Tudo isso usando a linguagem R (:<\/p> <p>Rafaela Galetto - Cursa Bacharelado em Estatística na UFRGS, é Estagiária na Realize CFI, instituição financeira das Lojas Renner e trabalha voluntaramente como Coordenadora Regional de Estatística dos Escoteiros do RS.<br/>***************<\/p> <p>Lembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-porto-alegre/events/266643948/",
     "textColor": "blue"
   },
@@ -1976,7 +1952,7 @@
     "title": "R-Ladies Budapest: Data Christmas 2019",
     "group": "R-Ladies Budapest",
     "start": "2019-12-18",
-    "description": "<p>Join us for the last meetup of the year, where we look back at key events of 2019, listen the fun quick talks and have a drink together with fellow members of the Budapest data community.<\/p> <p>Program and speakers:<\/p> <p>1) Welcome Notes - Békés Gábor, CEU<\/p> <p>2) Community announcements<\/p> <p>3) Opening talk<br/>Best of 2019 - a look back to an \"average\" year in data and BI<br/>Arató Bence, BI Consulting<\/p> <p>4) Data Meetup Showcase<br/>Very quick intros to the participating meetups, possibly in a fun, data-driven way. Let us know if you would like your meetup included!<\/p> <p>5) Talk Jam with fun talks from the community members:<\/p> <p>The Data Scientist's Christmas Dinner<br/>Windhager-Pokol Eszter, Starschema<\/p> <p>\"Baby Yoda\": Sith or Jedi?<br/>Milan Janosov, Central European University<\/p> <p>It's the most wonderful time to tweet<br/>Kapronczay Mór &amp; Tóth Benedek, Starschema<\/p> <p>More speakers coming soon. Drop us a line if you'd like to give a talk!<\/p> <p>Schedule:<br/>18:00 Doors open, refreshments<br/>18:30 Talks begin<br/>20:00 Afterparty in the atrium of CEU<\/p> <p>This is shared community event, jointly organized by the data meetups in Budapest.<br/>- Budapest Artificial Intelligence Meetup <a href=\"https://bit.ly/36vVtvN\" class=\"linkified\">https://bit.ly/36vVtvN<\/a><br/>- Budapest BI Meetup <a href=\"http://bit.ly/2XSQQc6\" class=\"linkified\">http://bit.ly/2XSQQc6<\/a><br/>- Budapest Big Data Meetup <a href=\"http://bit.ly/34u0ODq\" class=\"linkified\">http://bit.ly/34u0ODq<\/a><br/>- Budapest Data Science meetup <a href=\"http://bit.ly/2r0zsXb\" class=\"linkified\">http://bit.ly/2r0zsXb<\/a><br/>- Budapest Deep Learning Reading Seminar <a href=\"http://bit.ly/346rklc\" class=\"linkified\">http://bit.ly/346rklc<\/a><br/>- Budapest Users of R Network <a href=\"http://bit.ly/2Oq2rMG\" class=\"linkified\">http://bit.ly/2Oq2rMG<\/a><br/>- PyData Budapest Meetup <a href=\"http://bit.ly/2DpoVHt\" class=\"linkified\">http://bit.ly/2DpoVHt<\/a><br/>- R-Ladies Budapest <a href=\"http://bit.ly/2DnG0RU\" class=\"linkified\">http://bit.ly/2DnG0RU<\/a><\/p> <p>Due to the parallelly organized, distributed nature of the meetup, RSVPs will be closed when the combined number of RSVPs from all participating meetups hits the limit.<\/p> <p>This is an English speaking event. Venue and catering will be provided by CEU.<\/p> ",
+    "description": "<p>Join us for the last meetup of the year, where we look back at key events of 2019, listen the fun quick talks and have a drink together with fellow members of the Budapest data community.<\/p> <p>Program and speakers:<\/p> <p>1) Welcome Notes - Békés Gábor, CEU<\/p> <p>2) Community announcements<\/p> <p>3) Opening talk<br/>Best of 2019 - a look back to an \"average\" year in data and BI<br/>Arató Bence, BI Consulting<\/p> <p>4) Data Meetup Showcase<br/>Very quick intros to the participating meetups, possibly in a fun, data-driven way. Let us know if you would like your meetup included!<\/p> <p>5) Talk Jam with fun talks from the community members:<\/p> <p>The Data Scientist's Christmas Dinner<br/>Windhager-Pokol Eszter, Starschema<\/p> <p>\"Baby Yoda\": Sith or Jedi?<br/>Milan Janosov, Central European University<\/p> <p>It's the most wonderful time to tweet<br/>Kapronczay Mór &amp; Tóth Benedek, Starschema<\/p> <p>More speakers coming soon. Drop us a line if you'd like to give a talk!<\/p> <p>Schedule:<br/>18:00 Doors open, refreshments<br/>18:30 Talks begin<br/>20:00 Afterparty in the atrium of CEU<\/p> <p>This is shared community event, jointly organized by the data meetups in Budapest.<br/>- Budapest Artificial Intelligence Meetup <a href=\"https://bit.ly/36vVtvN\" class=\"linkified\">https://bit.ly/36vVtvN<\/a><br/>- Budapest BI Meetup <a href=\"http://bit.ly/2XSQQc6\" class=\"linkified\">http://bit.ly/2XSQQc6<\/a><br/>- Budapest Big Data Meetup <a href=\"http://bit.ly/34u0ODq\" class=\"linkified\">http://bit.ly/34u0ODq<\/a><br/>- Budapest Data Science meetup <a href=\"http://bit.ly/2r0zsXb\" class=\"linkified\">http://bit.ly/2r0zsXb<\/a><br/>- Budapest Deep Learning Reading Seminar <a href=\"http://bit.ly/346rklc\" class=\"linkified\">http://bit.ly/346rklc<\/a><br/>- Budapest.py meetup <a href=\"http://bit.ly/34sEHMZ\" class=\"linkified\">http://bit.ly/34sEHMZ<\/a><br/>- Budapest Users of R Network <a href=\"http://bit.ly/2Oq2rMG\" class=\"linkified\">http://bit.ly/2Oq2rMG<\/a><br/>- PyData Budapest Meetup <a href=\"http://bit.ly/2DpoVHt\" class=\"linkified\">http://bit.ly/2DpoVHt<\/a><br/>- R-Ladies Budapest <a href=\"http://bit.ly/2DnG0RU\" class=\"linkified\">http://bit.ly/2DnG0RU<\/a><\/p> <p>Due to the parallelly organized, distributed nature of the meetup, RSVPs will be closed when the combined number of RSVPs from all participating meetups hits the limit.<\/p> <p>This is an English speaking event. Venue and catering will be provided by CEU.<\/p> ",
     "url": "https://www.meetup.com/rladies-budapest/events/266801353/",
     "textColor": "blue"
   },
@@ -2069,6 +2045,30 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Tampa: Tidyverse Skills: GGplot I - Data Visualization",
+    "group": "R-Ladies Tampa",
+    "start": "2020-01-11",
+    "description": "<p>Please remember to park in the lot across Palm. Thanks!<\/p> ",
+    "url": "https://www.meetup.com/rladies-tampa/events/267215823/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Tampa: Tidyverse Skills: GGplot II - Data Visualization",
+    "group": "R-Ladies Tampa",
+    "start": "2020-02-08",
+    "description": "<p>Please remember to park in the lot across Palm. Thanks!<\/p> ",
+    "url": "https://www.meetup.com/rladies-tampa/events/267215845/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Tampa: Tidyverse Skills: Data Transformation",
+    "group": "R-Ladies Tampa",
+    "start": "2020-03-14",
+    "description": "<p>Please remember to park in the lot across Palm. Thanks!<\/p> ",
+    "url": "https://www.meetup.com/rladies-tampa/events/267215888/",
+    "textColor": "blue"
+  },
+  {
     "title": "BernR: BernR Meetup:",
     "group": "BernR",
     "start": "2020-01-13",
@@ -2096,7 +2096,7 @@
     "title": "R-Ladies Taipei: [Birthday Series] R-Ladies Taipei 五歲拉～",
     "group": "R-Ladies Taipei",
     "start": "2020-01-06",
-    "description": "<p>R-Ladies 五歲生日吃吃喝喝聚會吧～<br/>#當天備有簡單的輕食<br/>#把沒參加過 R-Ladies 的女性朋友都帶來就對了<\/p> <p>[Agenda]<br/>• 19:15 ~ 19:35 (20 mins) R-Ladies Taipei 簡簡單單年度回顧<br/>• 19:35 ~ 20:15 (40 mins) R-Ladies Taipei 講者們回娘家分享大會<br/>• 20:15 ~ 20:45 (30 mins) R-Ladies Taipei 你一定也可以的閃電秀<br/>• 20:45 ~ 21:15 (30 mins) 自由交流時間<\/p> <p>[Talk Information]<br/>• R-Ladies Taipei 簡簡單單年度回顧<br/>我們會利用極短的時間，跟大家一起回憶今年我們做過哪些好玩的事<br/>也會快速預告明年的活動<\/p> <p>• R-Ladies Taipei 講者們回娘家分享大會<br/>今年特別找回眾多講者回來跟大家分享，其中很多從海外回來的講者喔<br/>想聽聽他們在海外的任何經驗，就一定要來參加<\/p> <p>• R-Ladies Taipei 你一定也可以的閃電秀<br/>趕快報名跟我們一起玩 R 的交換禮物吧。<br/>12/31 23:59 截止報名唷<br/><a href=\"https://forms.gle/eD1ussGrXAsRQuJg9\" class=\"linkified\">https://forms.gle/eD1ussGrXAsRQuJg9<\/a><\/p> <p>[Speaker Information]<br/>• 來自德國的Y大大<br/>• 來自德國的M大大<br/>• 來自美國的C大大<br/>• 首次登場的 satRdays LA 負責人<br/>• 網紅敏大大<\/p> <p>[Location] -- 待確認<br/>digiBlock C<br/>地址：103台北市大同區承德路三段287號<br/>捷運：圓山站<\/p> <p>[Code of Conduct]<br/>基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：<br/>• 發言的機會請優先留給女生<br/>• 座位請優先保留給女生<br/>• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀<\/p> <p>[Event Tags]<br/>#RladiesTaipei<br/>#R<br/>#我們只能透露這麼多，不知道他們是誰嗎來就對了<br/>#一年一度你一定也可以的閃電秀議程<\/p> ",
+    "description": "<p>R-Ladies 五歲生日吃吃喝喝聚會吧～<br/>#當天備有簡單的輕食<br/>#把沒參加過 R-Ladies 的女性朋友都帶來就對了<\/p> <p>[Agenda]<br/>• 19:15 ~ 19:35 (20 mins) R-Ladies Taipei 簡簡單單年度回顧<br/>• 19:35 ~ 20:15 (40 mins) R-Ladies Taipei 講者們回娘家分享大會<br/>• 20:15 ~ 20:45 (30 mins) R-Ladies Taipei 你一定也可以的閃電秀<br/>• 20:45 ~ 21:15 (30 mins) 自由交流時間<\/p> <p>[Talk Information]<br/>• R-Ladies Taipei 簡簡單單年度回顧<br/>我們會利用極短的時間，跟大家一起回憶今年我們做過哪些好玩的事<br/>也會快速預告明年的活動<\/p> <p>• R-Ladies Taipei 講者們回娘家分享大會<br/>今年特別找回眾多講者回來跟大家分享，其中很多從海外回來的講者喔<br/>想聽聽他們在海外的任何經驗，就一定要來參加<\/p> <p>• R-Ladies Taipei 你一定也可以的閃電秀<br/>趕快報名跟我們一起玩 R 的交換禮物吧。<br/>12/31 23:59 截止報名唷<br/><a href=\"https://forms.gle/eD1ussGrXAsRQuJg9\" class=\"linkified\">https://forms.gle/eD1ussGrXAsRQuJg9<\/a><\/p> <p>[Speaker Information]<br/>• 來自德國的Y大大<br/>• 來自德國的M大大<br/>• 來自美國的C大大<br/>• 首次登場的 satRdays LA 負責人<br/>• 網紅敏大大<\/p> <p>[Location]<br/>digiBlock C<br/>地址：103台北市大同區承德路三段287號<br/>捷運：圓山站<\/p> <p>[Code of Conduct]<br/>基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：<br/>• 發言的機會請優先留給女生<br/>• 座位請優先保留給女生<br/>• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀<\/p> <p>[Event Tags]<br/>#RladiesTaipei<br/>#R<br/>#我們只能透露這麼多，不知道他們是誰嗎來就對了<br/>#一年一度你一定也可以的閃電秀議程<\/p> ",
     "url": "https://www.meetup.com/rladies-taipei/events/266131216/",
     "textColor": "blue"
   },
@@ -2130,6 +2130,14 @@
     "start": "2019-12-19",
     "description": "<p>Brett Kobold (www.brettkobold.com) will be giving a talk on how he used Plumber (www.rplumber.io) to interface with Google Analytics API, create his own REST API, and make sparkline plots for his blog.<\/p> ",
     "url": "https://www.meetup.com/MadR-Madison-R-Programming-UseRs-Group/events/266985220/",
+    "textColor": "blue"
+  },
+  {
+    "title": "MadR - Madison R Programming UseRs Group: Hacking Your Environment: Tips and Tricks for Efficient Workflow. ",
+    "group": "MadR - Madison R Programming UseRs Group",
+    "start": "2020-01-23",
+    "description": "<p>Start 2020 off right by developing good workflow habits. How much time do you take to set up your environment before you begin working? In this talk I'll argue that some quality attention to your set up and teardown practice goes a long way to convert your messy r-studio garage lab into a refined space station. We'll cover basics like working directory and .RProject files and more nuanced tricks like loading works in progess and preprocessed output files, setting global themes to streamline your reports' graphical styles and other things. It's time to Marie-Kondo your code.<\/p> ",
+    "url": "https://www.meetup.com/MadR-Madison-R-Programming-UseRs-Group/events/267218336/",
     "textColor": "blue"
   },
   {
@@ -2189,7 +2197,7 @@
     "title": "Taiwan R User Group / MLDM Monday: MLDM Monday｜How do economists do causal inference",
     "group": "Taiwan R User Group / MLDM Monday",
     "start": "2019-12-16",
-    "description": "<p>Abstract:<br/>People use various statistical models to predict the real world. However, it is usually hard to find the causal relation laying behind the reality. I will talk about:<br/>(1) why we should distinguish between causality and correlation<br/>(2) how economists identify causality and<br/>(3) how economists find causality.<\/p> <p>講者簡介：<br/>RedHerrings/ 經濟學科普網站 白經濟 TalkEcon 作者之一，目前是在 UCSB 念書的亂世中一個迷途小書僮。<\/p> ",
+    "description": "<p>Abstract:<br/>People use various statistical models to predict the real world. However, it is usually hard to find the causal relation laying behind the reality. I will talk about:<br/>(1) why we should distinguish between causality and correlation<br/>(2) how economists identify causality and<br/>(3) how economists find causality.<\/p> <p>講者簡介：<br/>RedHerrings/ 經濟學科普網站 白經濟 TalkEcon 作者之一，目前是在 UCSB 念書的亂世中一個迷途小書僮。<\/p> <p>另外這次也有安排一個短講：<\/p> <p>講者介紹：<br/>紀力榮，Canner 易開科技共同創辦人暨執行長。過去創立與貢獻於許多知名開源專案像是 ReactD3, CannerCMS, Victory chart, 在數據分析、數據視覺化、數據工程有許多相關經驗。<\/p> <p>將分享自身在過去多年的數據開發以及各種專案經驗中所遇到的數據分析的相關困難以及挑戰。<\/p> <p>到後來為了解決這個問題所研發的 CannerFlow 最易用的 cloud-native 數據管理平台，用以管理、分析、審查數據從任何資料庫以及各式資料源。讓跨資料源的數據分析更快更簡單！了解更多 <a href=\"https://canner.ai\" class=\"linkified\">https://canner.ai<\/a><\/p> ",
     "url": "https://www.meetup.com/Taiwan-R/events/266428404/",
     "textColor": "blue"
   },
@@ -2253,7 +2261,7 @@
     "title": "R-Ladies Ankara: Temel R Eğitimi 2",
     "group": "R-Ladies Ankara",
     "start": "2019-12-21",
-    "description": "<p>Herkese merhaba,<br/>R Ladies Ankara 3. etkinliğini Bilkent Üniversitesi'nde gerçekleştirecektir. Etkinlik 2 grup şeklinde olacaktır. Kontenjan 100 kişi ile sınırlıdır.<\/p> <p>1.Grup 50 kişi saat: 12.00 - 14.30<br/>2.Grup 50 kişi saat: 15.00 - 17.30<br/>Kaydınızı hangi grubu istiyorsanız ona göre yapınız.<\/p> <p>KAYITLAR YALNIZCA MAİL ATILARAK GERÇEKLEŞECEKTİR. MEETUP ÜZERİNDEN VERDİĞİNİZ KATILIM CEVAPLARI KAYDINIZI GERÇEKLEŞTİRMEK İÇİN YETERLİ DEĞİLDİR.<\/p> <p>Kayıt yapmak için Ad-Soyad-Grup bilginizi [masked] hesabına mail atınız.<br/># Erkek katılımcılar için kontenjan dolmuştur. #<br/>*Katılım ücretsizdir.<br/>*Bilkent Üniversitesi'ne ulaşımların servisler aracılığıyla yapılması planlanmaktadır. Servis bilgileri kayıtlar dolduktan sonra bildirilecektir.<br/>*Gelirken bilgisayarlarınızı getirmeniz tavsiye edilir.<br/>*Bir önceki etkinliğimizin devamı niteliğinde olacaktır. Ancak katılımcı olmak için bir önceki etkinliğe katılma şartı aranmamaktadır.<br/>*Etkinliğe gelirken R'ı kurup gelmeniz gerekmektedir. Kurulumu nasıl yapacağınıza dair dosya gönderilecektir. Kuramayanlar etkinlik başlamadan en az yarım saat önce orada olmalıdır.<br/>*BAŞKALARININ KATILIMINI ENGELLEMEMEK ADINA KATILIM SAĞLAYAMAYACAKSANIZ LÜTFEN KAYIT YAPTIRMAYINIZ.<\/p> ",
+    "description": "<p>#KAYITLARIMIZ DOLMUŞTUR.#<br/>Herkese merhaba,<br/>R Ladies Ankara 3. etkinliğini Bilkent Üniversitesi'nde gerçekleştirecektir. Etkinlik 2 grup şeklinde olacaktır. Kontenjan 100 kişi ile sınırlıdır.<\/p> <p>1.Grup 50 kişi saat: 12.00 - 14.30<br/>2.Grup 50 kişi saat: 15.00 - 17.30<br/>Kaydınızı hangi grubu istiyorsanız ona göre yapınız.<\/p> <p>KAYITLAR YALNIZCA MAİL ATILARAK GERÇEKLEŞECEKTİR. MEETUP ÜZERİNDEN VERDİĞİNİZ KATILIM CEVAPLARI KAYDINIZI GERÇEKLEŞTİRMEK İÇİN YETERLİ DEĞİLDİR.<\/p> <p>Kayıt yapmak için Ad-Soyad-Grup bilginizi [masked] hesabına mail atınız.<br/># Erkek katılımcılar için kontenjan dolmuştur. #<br/>*Katılım ücretsizdir.<br/>*Bilkent Üniversitesi'ne ulaşımların servisler aracılığıyla yapılması planlanmaktadır. Servis bilgileri kayıtlar dolduktan sonra bildirilecektir.<br/>*Gelirken bilgisayarlarınızı getirmeniz tavsiye edilir.<br/>*Bir önceki etkinliğimizin devamı niteliğinde olacaktır. Ancak katılımcı olmak için bir önceki etkinliğe katılma şartı aranmamaktadır.<br/>*Etkinliğe gelirken R'ı kurup gelmeniz gerekmektedir. Kurulumu nasıl yapacağınıza dair dosya gönderilecektir. Kuramayanlar etkinlik başlamadan en az yarım saat önce orada olmalıdır.<br/>*BAŞKALARININ KATILIMINI ENGELLEMEMEK ADINA KATILIM SAĞLAYAMAYACAKSANIZ LÜTFEN KAYIT YAPTIRMAYINIZ.<\/p> ",
     "url": "https://www.meetup.com/rladies-ankara/events/267184624/",
     "textColor": "blue"
   },
@@ -2263,14 +2271,6 @@
     "start": "2020-02-01",
     "description": "<p>Welcome to R-Ladies Calgary!<\/p> <p>This is our first meeting and we would love to meet as many of you as possible! Come along and meet fellow R enthusiasts, have some snacks, and help us decide the direction for the Calgary Chapter.<\/p> <p>For those of you who aren't sure what R-Ladies is about, it is a worldwide organisation that aims to achieve proportionate representation of minority genders in the R community (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).<\/p> <p>Please fill out the following questionnaire before attending: <a href=\"https://forms.gle/g9w6BZQ83V28BQ8a8\" class=\"linkified\">https://forms.gle/g9w6BZQ83V28BQ8a8<\/a><\/p> <p>We are looking forward to meeting you!<\/p> ",
     "url": "https://www.meetup.com/rladies-calgary/events/266880423/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Concepción: SatRday Concepción, Chile",
-    "group": "R-Ladies Concepción",
-    "start": "2020-01-10",
-    "description": "<p>SatRday es una conferencia de bajo costo que se enfoca en R y el evento principal se lleva a cabo un sábado. La naturaleza de bajo costo y de fin de semana del evento significa que es accesible para una amplia gama de personas que de otra manera no podrían asistir.<br/>La idea es que el aprendizaje sobre R sea accesible y local, nuestro enfoque está en llevar R a las personas en lugar de hacer que las personas vayan a R. Esto ayuda a construir una comunidad local diversa y creciente de usuarios de R.<\/p> ",
-    "url": "https://www.meetup.com/rladies-concepcion/events/265420573/",
     "textColor": "blue"
   },
   {
