@@ -272,22 +272,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Utah County R User Group: Bayesian Inference Case Studies in R",
-    "group": "Utah County R User Group",
-    "start": "2019-11-20",
-    "description": "<p>BYU students will share their Bayesian inference course projects in a lightning-round format. This won't be a tutorial on Bayesian inference. Rather, each presentation will serve as a case study for the use of Bayesian inference in practice.<\/p> ",
-    "url": "https://www.meetup.com/utah-county-rug/events/266300035/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R User Group - Philippines: #70 Forex scraping + ingest + viz in R/ Recommender systems",
-    "group": "R User Group - Philippines",
-    "start": "2019-11-20",
-    "description": "<p>A handy technique for those who still manually copy-paste or encode forex data, code-along or take notes as Rowen shows us how to do this using R. Joshua will then show us how to process these data and turn them into usable insights, also using R of course!<\/p> <p>For our second topic, Dylan will be showing how to do recommender systems using R.<\/p> <p>======================<\/p> <p>Please bring a valid ID.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Philippines/events/npdrgpyzpbbc/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R User Group - Philippines: #71 Holiday meetup!",
     "group": "R User Group - Philippines",
     "start": "2019-12-18",
@@ -446,14 +430,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "CalgaryR: Rig State Detection; Model Agnostic Approach; Asset Failure Susceptibility",
-    "group": "CalgaryR",
-    "start": "2019-11-20",
-    "description": "<p>Three speakers are contributing to our meetup in November. Doors will open at 5:30PM where members can enjoy pizza, soda, and networking. The first talk will begin at 6:00PM.<\/p> <p>Talk 1: Rig State Detection by David Shakleton -- Over the past two or three years Independent Data Services (IDS) have shifted from ‘proof of concept’ projects to global live rollouts of their in-time (near real-time) lean automated reporting (LAR) and drilling performance monitoring (DPM) services. Some of our projects begin their lives in R, as RStudio and Shiny apps lend themselves beautifully to the rapid prototyping of ideas - by being able to ingest large amounts of data, and perform analytics accessed through an easily-adjustable user interface. The first step to realizing these automated reporting &amp; analytics services in the upstream oil &amp; gas industry is 'rig state detection' - a process where data is taken from key sensors on the rig and run through logic-based and/or machine learning algorithms to determine what the rig, drill string, etc., are doing. Rig states are then used to build activity descriptions for daily reporting, and generate charts and dashboards for key drilling parameters, with web-based charts and dashboards available from anywhere, any device within moments of the event. IDS have made further strides to automate daily operational reporting by automatically ingesting pdf/Excel/WITSML/etc. data to auto-populate much of the daily report.<\/p> <p>Talk 2: Model Agnostic Approach by Alastair Muir -- The real value of Machine Learning to businesses is when it is used to create a deep understanding of the problem. The predictive power of modern machine learning algorithms comes at the cost of decreased transparency. This is why Black Box solutions, however accurate, are not immediately accepted by themselves. You should come away from this session with a toolkit you can use to probe and understand your models. This could be for regulatory requirements, change management resistance, or just general acceptance. We will be using a typical example of a non-linear process modeled using different traditional statistical and deep learning models. So, we are going with the “model agnostic” approach.<\/p> <p>Talk 3: Asset Failure Susceptibility Ranking, using LambdaMART, by Busayo Akinloye -- The electric distribution system is one of the most diverse systems in the electrical grid. It consists of both overhead and underground assets. Growing power quality and reliability expectations from regulatory authorities and customers demand minimal downtime of equipment. Metrics such as System Average Interruption Frequency Index, and System Average Interruption Duration Index are closely being monitored by electric utilities and form a major part of the business’ performance indices. These growing expectations, coupled with aging assets and budget constraints require innovative and cost-effective ways to realize actionable intelligence in order to optimize spending, while improving or maintaining the quality and reliability of the electric grid. Data analysis offers a unique solution that is reproducible across all asset infrastructure of an electric grid. It employs complex machine learning and statistical algorithms to extract actionable insights and learnings from historical data. These insights will help utilities better allocate both financial and human resources to the most failure susceptible assets, truly making data-driven decisions. I will discuss the development of an asset failure susceptibility ranking system on the Calgary area Underground Residential Distribution System. This system employs the supervised ranking system used by information retrieval systems. The framework of this ranking system can be applied to all distribution system assets, due to the reproducible nature of the statistical algorithms it employs.<\/p> <p>This event is supported by the Pacific Institutes of the Mathematical Sciences and the Cenovus Energy.<\/p> ",
-    "url": "https://www.meetup.com/calgaryr/events/265798874/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Bariloche: R como lenguaje de programación TURNO MAÑANA",
     "group": "R-Ladies Bariloche",
     "start": "2019-12-02",
@@ -603,13 +579,6 @@
     "start": "2019-12-11",
     "description": "<p>The end of the year is fast approaching! Lets sneak in a quick celebration before everyone heads away for the break. We will be at The Taphouse in Darlinghurst from 6:30pm next Wednesday. Come say hi!<\/p> ",
     "url": "https://www.meetup.com/rladies-sydney/events/266911975/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Xalapa: Mesa de Trabajo 1. Agenda legislativa en favor de las niñas",
-    "group": "R-Ladies Xalapa",
-    "start": "2019-11-20",
-    "url": "https://www.meetup.com/rladies-xalapa/events/266491786/",
     "textColor": "#7171fb"
   },
   {
@@ -802,26 +771,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies London: Max Kuhn presents \"Totally Tidy Tuning Tools\"",
-    "group": "R-Ladies London",
-    "start": "2019-11-20",
-    "description": "<p>RLadies London is excited to present Max Kuhn on November 20th.<\/p> <p>Please get yourself a ticket on Eventbrite: <a href=\"https://www.eventbrite.co.uk/e/max-kuhn-presents-totally-tidy-tuning-tools-tickets-79118372181\" class=\"linkified\">https://www.eventbrite.co.uk/e/max-kuhn-presents-totally-tidy-tuning-tools-tickets-79118372181<\/a><\/p> <p>Totally Tidy Tuning Tools:<br/>Many machine learning models have hyperparameters whose values cannot be analytically estimated from the data. For example, the number of neighbors in a nearest-neighbor classification model. The tidymodels collection or R packages are a tidyverse interface to modeling. In this talk, the new tune package will be introduced. Examples of the tidy interface to model tuning will be demonstrated.<\/p> <p>Max Kuhn is a software engineer with RStudio and formerly of Pfizer. Max is a leader in the R community on predictive modelling. He is the author of the caret package and the book Applied Predictive Modelling. (<a href=\"https://resources.rstudio.com/authors/max-kuhn\" class=\"linkified\">https://resources.rstudio.com/authors/max-kuhn<\/a>)<\/p> ",
-    "url": "https://www.meetup.com/rladies-london/events/266041371/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies London: 2019 Wrap-up Social ",
     "group": "R-Ladies London",
     "start": "2019-12-03",
     "description": "<p>The final meetup of the year will be a social where we will wrap up the successes of 2019.<\/p> <p>Please drop in to say hi, what you liked over the year and to discuss your work, career, R life, life outside of R (it exists!) and what we should do next year.<\/p> <p>Feel welcome even if you didn't come to any meetups through the year!<\/p> <p>We have a table at Ask For Janice which is a lovely venue which serves great beverages (both alc and non), snacks and meals.<\/p> ",
     "url": "https://www.meetup.com/rladies-london/events/266285115/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "We R: Introduction to R: Basics [Workshop]",
-    "group": "We R",
-    "start": "2019-11-20",
-    "url": "https://www.meetup.com/WeR-stats/events/265208557/",
     "textColor": "#7171fb"
   },
   {
@@ -845,14 +799,6 @@
     "start": "2019-12-18",
     "description": "<p>Join us for the last meetup of the year, where we look back at key events of 2019, listen the fun quick talks and have a drink together with fellow members of the Budapest data community.<\/p> <p>Program and speakers:<\/p> <p>1) Welcome Notes - Békés Gábor, CEU<\/p> <p>2) Community announcements<\/p> <p>3) Opening talk<br/>Best of 2019 - a look back to an \"average\" year in data and BI<br/>Arató Bence, BI Consulting<\/p> <p>4) Data Meetup Showcase<br/>Very quick intros to the participating meetups, possibly in a fun, data-driven way. Let us know if you would like your meetup included!<\/p> <p>5) Talk Jam with fun talks from the community members:<\/p> <p>The Data Scientist's Christmas Dinner<br/>Windhager-Pokol Eszter, Starschema<\/p> <p>\"Baby Yoda\": Sith or Jedi?<br/>Milan Janosov, Central European University<\/p> <p>It's the most wonderful time to tweet<br/>Kapronczay Mór &amp; Tóth Benedek, Starschema<\/p> <p>More speakers coming soon. Drop us a line if you'd like to give a talk!<\/p> <p>Schedule:<br/>18:00 Doors open, refreshments<br/>18:30 Talks begin<br/>20:00 Afterparty in the atrium of CEU<\/p> <p>This is shared community event, jointly organized by the data meetups in Budapest.<br/>- Budapest Artificial Intelligence Meetup <a href=\"https://bit.ly/36vVtvN\" class=\"linkified\">https://bit.ly/36vVtvN<\/a><br/>- Budapest BI Meetup <a href=\"http://bit.ly/2XSQQc6\" class=\"linkified\">http://bit.ly/2XSQQc6<\/a><br/>- Budapest Big Data Meetup <a href=\"http://bit.ly/34u0ODq\" class=\"linkified\">http://bit.ly/34u0ODq<\/a><br/>- Budapest Data Science meetup <a href=\"http://bit.ly/2r0zsXb\" class=\"linkified\">http://bit.ly/2r0zsXb<\/a><br/>- Budapest Deep Learning Reading Seminar <a href=\"http://bit.ly/346rklc\" class=\"linkified\">http://bit.ly/346rklc<\/a><br/>- Budapest.py meetup <a href=\"http://bit.ly/34sEHMZ\" class=\"linkified\">http://bit.ly/34sEHMZ<\/a><br/>- Budapest Users of R Network <a href=\"http://bit.ly/2Oq2rMG\" class=\"linkified\">http://bit.ly/2Oq2rMG<\/a><br/>- PyData Budapest Meetup <a href=\"http://bit.ly/2DpoVHt\" class=\"linkified\">http://bit.ly/2DpoVHt<\/a><br/>- R-Ladies Budapest <a href=\"http://bit.ly/2DnG0RU\" class=\"linkified\">http://bit.ly/2DnG0RU<\/a><\/p> <p>Due to the parallelly organized, distributed nature of the meetup, RSVPs will be closed when the combined number of RSVPs from all participating meetups hits the limit.<\/p> <p>This is an English speaking event. Venue and catering will be provided by CEU.<\/p> ",
     "url": "https://www.meetup.com/rladies-budapest/events/266801353/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Riverside: Come plot with us!",
-    "group": "R-Ladies Riverside",
-    "start": "2019-11-20",
-    "description": "<p>Hello RiveRside community ;-)<\/p> <p>Come join us for another afternoon of networking and sharing (and pizza!), on Wednesday, November 20th at 5pm, at Rivera Library 140. Whether you are new to R or a data scientist, come talk about the basics of R and work through a ggplot tutorial together. This time we have a bigger room, so bring *all* your friends (and please don't forget to register).<\/p> <p>As per usual, we will start by learning from two of our fellow R enthusiasts and their 5-min lightning talks. Email us if you are interested in being one of them ([masked]). We will then work through a tutorial on the basics of R and ggplot, so please bring your laptop with R and RStudio already installed. In the end, we will have time for folks to ask for feedback on plots and figures, so bring your data/plots/figures/ideas so we can all brainstorm together =)<\/p> <p>Once again, big thanks to UCR Library and UCR GradQuant for supporting us!<\/p> <p>See you soon,<\/p> <p>Teresa, Marilia &amp; Daniela<\/p> <p>ps: are you already following us at @RLadiesRiversd twitter?<br/>pps: check this out if you don't know how to install and set up R and RStudio: <a href=\"https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/\" class=\"linkified\">https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-riverside/events/266251963/",
     "textColor": "#7171fb"
   },
   {
@@ -1152,22 +1098,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies El Paso: R startup & data-wrangling tutorial",
-    "group": "R-Ladies El Paso",
-    "start": "2019-11-20",
-    "description": "<p>We'll be working with the same csv file as at our last meeting, but we'll be digging into text analysis more, and we'll practice using regular expressions.<\/p> ",
-    "url": "https://www.meetup.com/rladies-el-paso/events/265781970/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "EdinbR: The Edinburgh R Usergroup: From RStudio to Word/PDF/website via R Markdown & R quiz",
-    "group": "EdinbR: The Edinburgh R Usergroup",
-    "start": "2019-11-20",
-    "description": "<p>Hi everyone,<\/p> <p>We are getting together for another evening of R on 20 November (which is the last one this year!). So join us from 6.00pm in Old College, Usha Kasera Lecture Theatre. As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome. After the talks we’ll be heading off to a pub nearby, so do come along!<\/p> <p>Our speaker is Riinu Ots, a data scientist with an interdisciplinary background, who works as Senior Data Manager at the Centre for Medical Informatics, within The University of Edinburgh. She will be discussing:<\/p> <p># R Markdown – from RStudio to Word/PDF/website with a single push of a button<\/p> <p>In this talk, I will demonstrate 2 things:<br/>* What is Markdown and how to get directly from R into Word documents, PDF reports, websites, or presentations<br/>* How to work with R Notebooks (twin sister of R Markdown) – an interactive alternative to R scripts<br/>This talk is suitable for R newbies: working examples will be provided. Experienced users will also benefit as I’ll point out the most up to date functionality within R Markdown and RStudio.<\/p> <p>In the second part of the meeting, we’ll try something new. Since this is the final EdinbR meeting in 2019, we thought we’d close things off with a fun R quiz. There will be a prize for the winner at the end (the second edition of Hadley Wickham’s Advanced R book), so be sure to come along!<\/p> <p>If you’d like to lend a hand with creating some interesting R quiz questions, you can share your details and ideas here: <a href=\"https://forms.gle/8W8CPybWoVaAmLmJ9\" class=\"linkified\">https://forms.gle/8W8CPybWoVaAmLmJ9<\/a> or let us know at [masked].<\/p> ",
-    "url": "https://www.meetup.com/EdinbR/events/266446127/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R en Buenos Aires: Ciencias Sociales y Ciencias de Datos",
     "group": "R en Buenos Aires",
     "start": "2019-11-22",
@@ -1311,14 +1241,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Fayetteville: R Ladies Meet and Greet",
-    "group": "R-Ladies Fayetteville",
-    "start": "2019-11-20",
-    "description": "<p>Hello R enthusiasts! We are hosting a meet and greet for those interested at Puritan! Come whenever you want, leave whenever you want. Bring a project, a question, a friend! We can't wait to meet everyone.<\/p> ",
-    "url": "https://www.meetup.com/rladies-fayetteville/events/266497795/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Taiwan R User Group / MLDM Monday: MLDM Monday｜PAC-Bayesian Bound for Deep Learning",
     "group": "Taiwan R User Group / MLDM Monday",
     "start": "2019-11-25",
@@ -1388,6 +1310,14 @@
     "start": "2019-11-23",
     "description": "<p>Hola a tod@s! L@s invitamos a nuestra tercer reunión de R-Ladies Puebla. En esta ocasión nos acompañará Elizabeth Valles, estudiante del doctorado en Ciencias Biomédicas del Instituto de Neurobiología de la UNAM. Eli impartirá un taller de introducción a los paquetes ggplot y tidyverse y nos platicará de su experiencia con R y la utilidad del programa en su campo de estudio. Nuestra reunión se llevará a cabo el sábado 23 de noviembre en horario de las 12:30 a 2:30 horas en la Workósfera Coworking - La Paz<\/p> <p>Recuerda traer tu laptop y aunque no es necesario saber R es conveniente instalar R (<a href=\"https://cran.r-project.org\" class=\"linkified\">https://cran.r-project.org<\/a>), RStudio (<a href=\"https://www.rstudio.com/products/rstudio/download/\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/<\/a>).<\/p> <p>Agradeceremos confirmen su asistencia lo más pronto posible.<\/p> <p>L@s esperamos!<\/p> ",
     "url": "https://www.meetup.com/rladies-puebla/events/266387592/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies New Delhi: Wavelet Applications in Economics & Finance by M&S Research Hub",
+    "group": "R-Ladies New Delhi",
+    "start": "2019-12-19",
+    "description": "<p>RLadies Delhi in collaboration with M&amp;S Research Hub is organizing a 2 day workshop on Wavelet Applications in Economics &amp; Finance.<\/p> <p>Workshop Timings would be 1 PM - 5 PM on 19th and 20th Dec.<\/p> <p>Content of the workshop<br/>DAY-1<br/>1. Introduction to R-Programming Language and R-studio Interface<br/>2. The basic concept of Wavelet and its applications<br/>3. Decomposition and plotting of the series using the MODWT method.<br/>4. Wavelet Correlation<br/>5. Wavelet Covariance<br/>6. Cross-Wavelet Correlation<\/p> <p>DAY-2<br/>1. Continuous Wavelet Transform<br/>2. Cross Wavelet Transform<br/>3. Wavelet Coherence<br/>4. Partial Wavelet Coherence<br/>5. Introduction of MATLAB<br/>6. Application of Continuous Wavelet Transform, Wavelet Coherence, Partial and Multiple Wavelet Coherence (Using MATLAB)<\/p> <p>Each Participate will get certificate of enrollment.<br/>Registration fees include the workshop material and data files.<\/p> <p>If registered through RLadies you will get 30% off on registration fees.<br/>If more than 10 RLadies would register, discount would be 50%, please do RSVP first to avail the discount.<\/p> <p>For more details - <a href=\"https://ms-researchhub.com/home/conferences/wavelet-workshop.html\" class=\"linkified\">https://ms-researchhub.com/home/conferences/wavelet-workshop.html<\/a><\/p> <p>Last date of registration is 25th November 2019.<\/p> ",
+    "url": "https://www.meetup.com/rladies-new-delhi/events/266265135/",
     "textColor": "#7171fb"
   },
   {
@@ -1524,6 +1454,14 @@
     "start": "2020-02-20",
     "description": "<p>2019<\/p> <p>Session One: To be announced...please suggest a speaker/topic<\/p> <p>Session Two: To be announced...please suggest a speaker/topic<\/p> ",
     "url": "https://www.meetup.com/Colchester-R-Meetup/events/cwlsjrybcdbbc/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Colchester R Meetup: Colchester R Users Group",
+    "group": "Colchester R Meetup",
+    "start": "2020-03-19",
+    "description": "<p>2019<\/p> <p>Session One: To be announced...please suggest a speaker/topic<\/p> <p>Session Two: To be announced...please suggest a speaker/topic<\/p> ",
+    "url": "https://www.meetup.com/Colchester-R-Meetup/events/cwlsjrybcfbzb/",
     "textColor": "blue"
   },
   {
@@ -1871,8 +1809,24 @@
     "title": "R-Ladies Philly: Resolutions 2020!",
     "group": "R-Ladies Philly",
     "start": "2020-01-16",
-    "description": "<p>Save the date for our first meetup in 2020!<\/p> ",
+    "description": "<p>For our January meetup we'll go over what we have achieved in the last year and where we are hoping to go in 2020. After the presentation, we will have some time to network and chat about all the exciting things to come.<\/p> <p>Whether you have attended one of our previous meetups or not, anyone who supports our mission and has an interest in R is welcome. You can be an R expert or complete beginner!<\/p> <p>In the first part of this meetup, we will (re-)introduce you to R-Ladies Philadelphia, which is celebrating a successful 2019. We will recap our programming and initiatives, how we have grown, and what we have learned. Looking ahead, we will discuss our plans for 2020 and how you can get involved. We would love to receive your input on what you’d like to see from R-Ladies Philly in the new year. Our annual member survey can be accessed from <a href=\"http://bit.ly/2019rladies\" class=\"linkified\">http://bit.ly/2019rladies<\/a>. We would like to hear from you! It only takes 1~2 minutes.<\/p> <p>The second part of the meetup will be geared towards networking with other attendees. The theme will be R-related new year’s resolutions. We will facilitate this networking session to help you meet attendees with similar resolutions or an expert who can recommend resources or strategies that can help you achieve your goals.<\/p> <p>-----<br/>**Getting there**<\/p> <p>- The Roberts Center room 120A-B (2716 South Street) is walking distance from the University City Regional Rail Station, and 40, 7, and 12 Septa bus lines.<br/>- Outdoor bike parking is available along Schulykill Avenue.<br/>- Paid guest parking is available in the Roberts Center’s surface parking lot which is accessible via Schulykill Avenue. Parking tickets are dispensed at the point of entry and must be validated at the front desk in the 1st floor lobby. Payment for parking tickets must be made at the parking kiosk located on level B of the Roberts Center.<\/p> <p>-----<br/>**Event Sponsor**<\/p> <p>Location space and refreshments are generously provided by the Children's Hospital of Philadelphia's iSTEM Employee Resource Group: \"iSTEM engages employees and serves our patient population by addressing disparities in the biomedical science, technology, engineering, and math workforce. We seek to promote breakthroughs in child health by improving the cultural competency of the STEM professional community at CHOP and providing educational and employment opportunities to under-represented youth in CHOP's catchment area. Our four-part mission is to develop programs that support our STEM workforce, their workplace, create STEM education opportunities for our patient community, and sustain our work through volunteerism and external grant funding.”<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/266230696/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Philly: 2020 Data Hack Kickoff: Data Science for a Healthier Community",
+    "group": "R-Ladies Philly",
+    "start": "2020-02-07",
+    "description": "<p>Code for Philly, DataPhilly, R Ladies Philly, and the Philly Data Jawn are partnering with the Health Federation of Philadelphia and Prevention Point to host a data science hackathon to answer pertinent questions around the Opioid Crisis in Philadelphia. The goals of this event are to provide health organizations with insights that may normally be unavailable to them and to create analyses that help inform the public about the opioid epidemic in our city. Anyone who is interested in data science and is willing to dig into the data is welcome to participate. All experience levels are welcome!<\/p> <p>This is a multi-day event that will kick off on Feb 7th and conclude on March 17th (go to <a href=\"https://codeforphilly.org/events/datahack2020\" class=\"linkified\">https://codeforphilly.org/events/datahack2020<\/a> for full timeline and more info).<\/p> <p>To register for the hack, please use this Eventbrite link (registration will open in January 2020): <a href=\"https://www.eventbrite.com/e/2020-data-hack-data-science-for-a-healthier-community-tickets-86813763303\" class=\"linkified\">https://www.eventbrite.com/e/2020-data-hack-data-science-for-a-healthier-community-tickets-86813763303<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-philly/events/267324949/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Philly: 2020 Data Hack Conclusion (Team Presentations)",
+    "group": "R-Ladies Philly",
+    "start": "2020-03-17",
+    "description": "<p>Code for Philly, DataPhilly, R Ladies Philly, and the Philly Data Jawn are partnering with the Health Federation of Philadelphia and Prevention Point to host a data science hackathon to answer pertinent questions around the Opioid Crisis in Philadelphia. The goals of this event are to provide health organizations with insights that may normally be unavailable to them and to create analyses that help inform the public about the opioid epidemic in our city. Anyone who is interested in data science and is willing to dig into the data is welcome to participate. All experience levels are welcome!<\/p> <p>This is a multi-day event that will kick off on Feb 7th and conclude on March 17th (go to <a href=\"https://codeforphilly.org/events/datahack2020\" class=\"linkified\">https://codeforphilly.org/events/datahack2020<\/a> for full timeline and more info).<\/p> <p>To register for the hack, please use this Eventbrite link (registration will open in January 2020): <a href=\"https://www.eventbrite.com/e/2020-data-hack-data-science-for-a-healthier-community-tickets-86813763303\" class=\"linkified\">https://www.eventbrite.com/e/2020-data-hack-data-science-for-a-healthier-community-tickets-86813763303<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-philly/events/267325018/",
     "textColor": "blue"
   },
   {
@@ -1961,6 +1915,22 @@
     "start": "2020-02-20",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
     "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrybcdbbc/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC",
+    "group": "R-Ladies Montreal",
+    "start": "2020-03-19",
+    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
+    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgrybcfbzb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC",
+    "group": "R-Ladies Montreal",
+    "start": "2020-03-19",
+    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
+    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrybcfbzb/",
     "textColor": "blue"
   },
   {
@@ -2190,14 +2160,6 @@
     "start": "2020-03-03",
     "description": "<p>Join us the first Tuesday of every month for Tidy Tuesdays!<\/p> <p>Tidy Tuesdays are a combination of social hour, hackathon, and learning opportunity. All skill levels are welcome.<\/p> <p>Every week, the R4DS learning community releases a fun dataset, for local groups to come together and explore. Check out the #tidytuesday hashtag on twitter for examples, or read more here: <a href=\"https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/\" class=\"linkified\">https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/<\/a><\/p> ",
     "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/mhczlrybcfbfb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Ankara: Temel R Eğitimi 2",
-    "group": "R-Ladies Ankara",
-    "start": "2019-12-21",
-    "description": "<p>#KAYITLARIMIZ DOLMUŞTUR.#<br/>Herkese merhaba,<br/>R Ladies Ankara 3. etkinliğini Bilkent Üniversitesi'nde gerçekleştirecektir. Etkinlik 2 grup şeklinde olacaktır. Kontenjan 100 kişi ile sınırlıdır.<\/p> <p>1.Grup 50 kişi saat: 12.00 - 14.30<br/>2.Grup 50 kişi saat: 15.00 - 17.30<br/>Kaydınızı hangi grubu istiyorsanız ona göre yapınız.<\/p> <p>KAYITLAR YALNIZCA MAİL ATILARAK GERÇEKLEŞECEKTİR. MEETUP ÜZERİNDEN VERDİĞİNİZ KATILIM CEVAPLARI KAYDINIZI GERÇEKLEŞTİRMEK İÇİN YETERLİ DEĞİLDİR.<\/p> <p>Kayıt yapmak için Ad-Soyad-Grup bilginizi [masked] hesabına mail atınız.<br/># Erkek katılımcılar için kontenjan dolmuştur. #<br/>*Katılım ücretsizdir.<br/>*Bilkent Üniversitesi'ne ulaşımların servisler aracılığıyla yapılması planlanmaktadır. Servis bilgileri kayıtlar dolduktan sonra bildirilecektir.<br/>*Gelirken bilgisayarlarınızı getirmeniz tavsiye edilir.<br/>*Bir önceki etkinliğimizin devamı niteliğinde olacaktır. Ancak katılımcı olmak için bir önceki etkinliğe katılma şartı aranmamaktadır.<br/>*Etkinliğe gelirken R'ı kurup gelmeniz gerekmektedir. Kurulumu nasıl yapacağınıza dair dosya gönderilecektir. Kuramayanlar etkinlik başlamadan en az yarım saat önce orada olmalıdır.<br/>*BAŞKALARININ KATILIMINI ENGELLEMEMEK ADINA KATILIM SAĞLAYAMAYACAKSANIZ LÜTFEN KAYIT YAPTIRMAYINIZ.<\/p> ",
-    "url": "https://www.meetup.com/rladies-ankara/events/267184624/",
     "textColor": "blue"
   },
   {
