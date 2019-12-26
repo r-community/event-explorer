@@ -343,14 +343,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Melbourne Users of R Network (MelbURN): Writing better code and getting your colleagues started with R",
-    "group": "Melbourne Users of R Network (MelbURN)",
-    "start": "2019-11-25",
-    "description": "<p>For this meetup we have two separate presentations, the first on writing better R code, and the second on getting your colleagues started with R.<\/p> <p>We have a new host for this one - Betfair, who will also provide catering, many thanks!<\/p> <p>Rough agenda:<br/>5:45: Networking, food &amp; drinks<br/>6:15 First presentation<br/>7:00 Second presentation<br/>7:45 More networking<br/>8:30 Close<\/p> <p>First presentation: betteR - Learnings from an everyday pursuit of wanting to write better R code<\/p> <p>At any point in time, when I look back at my code from 6 months ago, I generally hate it and am able to say to myself that I'm glad I do this in a better manner. This is roughly my motto of continuous improvement and I'd like to share with the MelbURN community, a collection of learnings that I have acquired over the past few years. Whether it is following the DRY principle, or vowing to never write a for loop again, or learning to prepare recipes and bake them in R, a lot of things I have learnt have made me feel a lot better about how problems are tackled. Unlike other talks where you might learn about a particular package or technique, this talk will introduce you to some of the ways in which you can think about and be better at writing R code.<\/p> <p>Kaushik Lakshman is a data scientist and a massive fan of R. He works at Betfair where he uses R to analyse the incredibly rich and extensive betting exchange data, to create data products and create business value using data science. Outside of work he loves to have a go at building sports prediction models with the hope that one day it will help him retire at the beach (but has so far been very unsuccessful)!<\/p> <p>Second presentation: Getting your colleagues started with R<\/p> <p>R is fantastic piece of software which is widely used in academia and commercial sector – if you are coming to this talk then you are likely already a fan. In this presentation Lyndon will draw on his experience of teaching R to hundreds of academics and business professionals (and thousands of students) to discuss tips, tricks, and things to consider when introducing and teaching your colleagues how to use R. This will include different approaches to teaching and supporting colleagues, some useful tools and resources, and the different needs and support that your colleagues may require.<\/p> <p>Dr Lyndon Walker is a former statistics lecturer who is now a part-time statistician for SACS Consulting - a psychometrics and organisational psychology company, founder of Veritate Data Science - an education and statistics training consultancy, and investor/advisor to Preventure - a workplace safety wearable tech startup. He has used R for 22 years.<\/p> ",
-    "url": "https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/264301141/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Lagos R User Group: Seamless Dashboard with Shiny (Live Webinar)",
     "group": "Lagos R User Group",
     "start": "2019-12-01",
@@ -404,14 +396,6 @@
     "start": "2019-12-02",
     "description": "<p>En este taller aprenderemos desde cero, como hacer loops que automatizan acciones para no tener que hacerlas una por una. O a como programar nuestras propias funciones que no están en ningún paquete de R. De la mano de nuestra colega Karina Laneri<\/p> <p>Como siempre, les pedimos que antes de anotarse primero lean y acepten el código de conducta<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>Trabajaremos en forma individual, así que ¡No te olvides de traer tú notebook! Además recordá que es FUNDAMENTAL tener R y Rstudio instalados ¡¡Y ACTUALIZADOS!!<\/p> <p>Como es habitual, para el intervalo necesitamos de su aporte, quienes quieran colaborar pueden escribirnos. Además de aportes nutritivos (fruta, frutos secos, alimentos engordantes del tipo que sean, apto celíaquía, etc. )<br/>¡¡Y por favor, recordá traer tu taza, ayudemos a reducir el uso de plásticos de un solo uso!!<\/p> ",
     "url": "https://www.meetup.com/rladies-bariloche/events/266727886/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "New York Open Statistical Programming Meetup: Simulating A Universe in Tidyverse: Using R to Generate Statistical Simulations",
-    "group": "New York Open Statistical Programming Meetup",
-    "start": "2019-11-25",
-    "description": "<p>Tidyverse meets simulations during this talk from Sebastian Teran Hidalgo.<\/p> <p>Thank you to Rise NY for hosting us.<\/p> <p>About the Talk:<br/>This talk will cover different tidyverse packages (dplyr, tidyr, purrr, ggplot2) and how to use them to create and work with statistical simulations. We will look at how to use simulations for statistical insights, power analyses with A/B testing, and to create aRt. The target audience is R users that want to start using simulations in their work or those who have experience with simulations but not with the tidyverse.<\/p> <p>About Sebastian:<br/>Sebastian Teran Hidalgo is a data scientist at Vroom, an e-commerce start-up that focuses on selling used cars that are delivered to your door. Previously, Sebastian was doing research on cancer genomics as a postdoc at Yale University. He holds a PhD in Biostatistics from UNC-Chapel Hill.<\/p> <p>Pizza (<a href=\"https://bit.ly/pizzapoll\" class=\"linkified\">https://bit.ly/pizzapoll<\/a>) begins at 6:30, the talk starts at 7, then after we head to the local bar.<\/p> ",
-    "url": "https://www.meetup.com/nyhackr/events/266296549/",
     "textColor": "#7171fb"
   },
   {
@@ -1106,14 +1090,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday｜PAC-Bayesian Bound for Deep Learning",
-    "group": "Taiwan R User Group / MLDM Monday",
-    "start": "2019-11-25",
-    "description": "<p>主題：PAC-Bayesian Bound for Deep Learning<\/p> <p>摘要：<br/>或許你在做 Deep Learning 的研究或開發時，曾經遇過這樣的情形：用了 Weight Decay 或其他 Regularization 的方式，明明已經把模型複雜度降低了，但 testing error 只改善一點點，或根本沒改變。於是你就懷疑，你在學校學到的那些機器學習理論，實務上好像沒什麼用處？<\/p> <p>其實，你在學校學到的，是傳統的機器學習理論，主要是 VC-Bound 的理論。從這個理論得出，模型複雜度過高會導致 Over-fitting，所以要用 Weight Decay 之類的方式來降低模型複雜度。但近年來有許多 Deep Learning 的相關研究結果顯示，當模型複雜度過高時，實際上並不一定會發生如 VC-Bound 的所預測發生 Over-fitting，甚至還得出相反的實驗結果。那這到底是怎麼一回事呢？還有，既然模型複雜度過高，並不是導致 Over-fitting 的主因，那到底是什麼原因導致 Over-fitting 呢？<\/p> <p>目前學界已經提出許多種 Deep Learning 的理論，雖然這些理論各有優缺點，離真相還有一段距離，但至少比 VC-Bound 更能解釋實驗所得出的結果。本次主題先從 PAC-Bayesian Bound 理論講起，之後有機會我再介紹其他數學理論。<\/p> <p>延伸閱讀：<\/p> <p>PAC-Bayesian Model Averaging<br/><a href=\"http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6957&amp;rep=rep1&amp;type=pdf\" class=\"linkified\">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6957&amp;rep=rep1&amp;type=pdf<\/a><\/p> <p>Exploring Generalization in Deep Learning<br/><a href=\"https://papers.nips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf\" class=\"linkified\">https://papers.nips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf<\/a><\/p> <p>Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data<br/><a href=\"https://arxiv.org/pdf/1703.11008.pdf\" class=\"linkified\">https://arxiv.org/pdf/1703.11008.pdf<\/a><\/p> <p>講者介紹：<br/>Mark Chang<br/>數學愛好者，興趣是研究各種 Deep Learning 的數學理論。<\/p> ",
-    "url": "https://www.meetup.com/Taiwan-R/events/266634451/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Taiwan R User Group / MLDM Monday: MLDM Monday x Python Series | Deep Probabilistic Programming with Pyro",
     "group": "Taiwan R User Group / MLDM Monday",
     "start": "2019-12-09",
@@ -1463,6 +1439,22 @@
     "start": "2020-02-28",
     "description": "<p>CelebRation 2020<br/>R conference in Copenhagen, Denmark, February[masked] celebrating the 20th anniversary of R version v1.0.0<\/p> <p>The year 2020 marks the 20th anniversary of the release of R version 1.0.0!<\/p> <p>To celebrate this, we are inviting the community of R users and developers for a two-day celebRation 28-29th February 2020. We kick off on 28th February with hands-on workshops on two hot topics, namely data visualization using the ggplot2 package and making fast extensions of R using the rcpp package. The day of the anniversary – February 29 – presents a line-up of speakers who cover the past, the present, and the future of the R programming language.<\/p> <p>To get more information and register go to <a href=\"http://www.celebration2020.org/\" class=\"linkified\">http://www.celebration2020.org/<\/a><\/p> <p>YOU CANNOT SIGN UP THROUGH MEETUP!<\/p> ",
     "url": "https://www.meetup.com/CopenhagenR-useR-Group/events/266728703/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Greater Cleveland R Group: January Meeting",
+    "group": "Greater Cleveland R Group",
+    "start": "2020-01-22",
+    "description": "<p>Topics TBD<\/p> ",
+    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/267411442/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Greater Cleveland R Group: February Meeting",
+    "group": "Greater Cleveland R Group",
+    "start": "2020-02-26",
+    "description": "<p>Topics TBD<\/p> ",
+    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/267411444/",
     "textColor": "blue"
   },
   {
@@ -1993,6 +1985,14 @@
     "start": "2020-01-21",
     "description": "<p>Details<br/>Schedule:<\/p> <p>6:00 - Food and drinks<br/>6:30 - Matthew Forshaw (NCL Uni): Best practice in reproducible data science in R<br/>7:15 - Matt Edwards: An Introduction to Interpreting Machine Learning Models<\/p> <p>An Introduction to Interpreting Machine Learning Models<\/p> <p>Abstract: The most accurate predictive models in Machine Learning are often the least interpretable (e.g. random forest) and the most interpretable models are often the least accurate (e.g. linear regression). Hence, there is often a conflict between accuracy and interpretability. We want the most accurate models but don’t want to sacrifice interpretability. In this talk, I discuss this conflict and some new methods in Machine Learning for interpreting ANY predictive model so you do not have to sacrifice predictive accuracy. A package (<a href=\"https://github.com/mt-edwards/xrayspecs\" class=\"linkified\">https://github.com/mt-edwards/xrayspecs<\/a>) is also introduced that provides these new methods for R programmers.<\/p> ",
     "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/265714398/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Newcastle Upon Tyne Data Science Meetup: Data Science North East: March Meeting",
+    "group": "Newcastle Upon Tyne Data Science Meetup",
+    "start": "2020-03-24",
+    "description": "<p>Details<br/>Schedule:<\/p> <p>6:00 - Food and drinks<br/>6:30 - Jonny Brooks-Bartlett (Deliveroo): You got served: How Deliveroo improved the ranking of restaurants<\/p> ",
+    "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/265716890/",
     "textColor": "blue"
   }
 ]
