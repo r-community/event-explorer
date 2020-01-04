@@ -224,14 +224,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Saint Louis R User Group: Visualizing Variable Effects in Black Box Models",
-    "group": "Saint Louis R User Group",
-    "start": "2019-12-04",
-    "description": "<p>By: John Snyder<\/p> <p>Interpreting the effects of individual variables from flexible machine learning models such as random forests or neural networks can be a difficult task. Typically, the flexibility of these methods tends to obfuscate these effects in favor of superior predictive performance. This tradeoff can often leave the data scientist wondering how their inputs are working for them to achieve their predictive accuracy.<\/p> <p>Visualization techniques such as Partial Dependence(PD), Individual Conditional Expectation(ICE) and Accumulated Local Effect(ALE) plots exist to recover some of the global interpretability we would get with a parametric model such as regression. These techniques frequently shed valuable insights into how the features relate to the target variable and make explaining results much easier.<\/p> <p>This month, I will first provide a brief background on why these types of procedures are valuable additions to a data scientist's analytical toolkit. Then, I will discuss the practical usage of the Interpretable Machine Learning(iml) R package, which provides a suite of functionality for analyzing any black box machine learning model. Specifically, we will discuss how to create and interpret PD, ICE, and ALE plots.<\/p> <p>The meetup will be in The Showroom in the CIC building at 20 South Sarah Street, St. Louis, MO 63108. The building entrance is at the corner of Forest Park Avenue and Sarah Street. You can find directions at <a href=\"http://stl.cic.us/directions/\" class=\"linkified\">http://stl.cic.us/directions/<\/a> (CIC@CET).<\/p> <p>We will meet for snacks, set-up, and conversation at 6:00PM. The presentation will start at 6:30PM and will be about 60 minutes long.<\/p> ",
-    "url": "https://www.meetup.com/Saint-Louis-RUG/events/265145662/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Bay Area useR Group (R Programming Language): \"Official\" December 2019 Meetup",
     "group": "Bay Area useR Group (R Programming Language)",
     "start": "2019-12-09",
@@ -288,14 +280,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Chicago: Reproducible Workflows for Interactive Visualizations with htmlwidgets and Shiny",
-    "group": "R-Ladies Chicago",
-    "start": "2019-12-04",
-    "description": "<p>Join us in welcoming Martin John Hadley (<a href=\"https://twitter.com/martinjhnhadley\" class=\"linkified\">https://twitter.com/martinjhnhadley<\/a> pronouns they/them) for an interactive workshop on htmlwidgets, Shiny, and reproducibility!<\/p> <p>Data visualisation is an incredible tool for exploring, understanding and communicating the stories behind datasets. You might know about how to create static dataviz with R and ggplot2, but there's a whole zoo of htmlwidgets for creating interactive charts, maps, networks and more without learning any JavaScript. Add Shiny to the mix and you can create interactive web applications completely in R.<\/p> <p>But something we often leave out of this conversation is how to make data truly accessible and reproducibly available for the future. Martin will tie together interactive dataviz, Shiny and their work at our R-Ladies Meetup to support an end-to-end reproducible Open Data workflow.<\/p> <p>• About Martin: Martin started learning R on May 29th 2015 to prepare for their role in IT Services at University of Oxford where they lucked out on internal funding to setup the \"Interactive Data Network\" (idn.it.ox.ac.uk), which supports Oxford researchers in creating interactive dataviz of Open Data using Shiny and htmlwidgets. Since founding the IDN, Martin has created several R training courses for LinkedIn Learning and as of 2019 is a full time freelance R consultant and trainer - they're also a die hard reproducible research evangelist.<\/p> <p>• Installation requirements:<br/>Please have the following installed on your computer before this workshop (or come early and we'll help you with installation):<br/>- R<br/>- RStudio<\/p> <p>Run the following command in the R console to make sure you have the appropriate packages installed:<\/p> <p>install.packages(c(\"tidyverse\", \"leaflet\", \"highcharter\", \"rmarkdown\", \"shiny\", \"fivethirtyeight\", \"sf\", \"rnaturalearthdata\")<\/p> <p>• Schedule<br/>5:45-6 -- Installation help, R Tour (please come early for help getting set up with R if you need it!)<br/>6-6:30 -- Food and drinks, Intros &amp; Announcements<br/>6:30-7:30 -- Workshop by Martin<br/>7:30-8:00-- Socializing/Networking/Hanging out/Chillin'<\/p> <p>Q: Are men welcome to attend this event?<br/>A: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact [masked] if you have questions.***<\/p> <p>Additionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.<\/p> <p>• What to bring<br/>Yourself! And a laptop - this will be an interactive event.<\/p> <p>• Important to know<br/>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>• Thank you to our sponsors!<br/>We are grateful to Groupon for hosting us this month! Thank you to Microsoft Cloud Advocates for sponsoring the food.<\/p> ",
-    "url": "https://www.meetup.com/rladies-chicago/events/266616799/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Campus useR Group Frankfurt: December meeting: chRistmas cRafts",
     "group": "Campus useR Group Frankfurt",
     "start": "2019-12-09",
@@ -333,13 +317,6 @@
     "start": "2019-12-11",
     "description": "<p>The end of the year is fast approaching! Lets sneak in a quick celebration before everyone heads away for the break. We will be at The Taphouse in Darlinghurst from 6:30pm next Wednesday. Come say hi!<\/p> ",
     "url": "https://www.meetup.com/rladies-sydney/events/266911975/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Xalapa: Mesa de Trabajo 2. Agenda legislativa en favor de las niñas",
-    "group": "R-Ladies Xalapa",
-    "start": "2019-12-04",
-    "url": "https://www.meetup.com/rladies-xalapa/events/266742799/",
     "textColor": "#7171fb"
   },
   {
@@ -532,35 +509,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Freiburg: Modeling in R - Part Three",
-    "group": "R-Ladies Freiburg",
-    "start": "2019-12-04",
-    "description": "<p>This workshop will give us an introduction to machine learning! Please carry laptops with R and R-studio installed.<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/266708705/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Remote: December Coffee Chat",
     "group": "R-Ladies Remote",
     "start": "2019-12-17",
     "description": "<p>Come chat with other members of R-Ladies Remote on the group's slack. Stefanie Butland will be leading us!<\/p> <p>Find your local time here: bit.ly/rladies-coffeechat<\/p> ",
     "url": "https://www.meetup.com/rladies-remote/events/267110081/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies San Jose: Introducción a Purrr",
-    "group": "R-Ladies San Jose",
-    "start": "2019-12-04",
-    "description": "<p>Purrr provee herramientas completas y eficientes para manejar funciones y vectores. Permite reemplazar los for-loops para mejor comprensión y eficiencia.<\/p> <p>¡Les esperamos para aprender sobre el paquete purr!<\/p> <p>Más información sobre el curso próximamente en: <a href=\"https://malfaro2.github.io/RladiesSJO/\" class=\"linkified\">https://malfaro2.github.io/RladiesSJO/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-san-jose/events/266575116/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Madrid: PubQuiz 2019! 🎄",
-    "group": "R-Ladies Madrid",
-    "start": "2019-12-04",
-    "description": "<p>¡Hola a todas!<\/p> <p>¡Vamos a celebrar por tercer año consecutivo el PubQuiz de tecnología de 🤶Navidad🤶! Este año participaremos las comunidades R-Ladies, PyLadies, Women in Machine Learning and Data Science y Women in Security.<\/p> <p>Para quien no sepa lo que es y como su propio nombre indica, es un cuestionario en un pub (TLDR?). Constará de preguntas que las organizadoras de las comunidades han ideado 😈malignamente😈 sobre su expertise, así que recuerda, cuanto más te mezcles con las otras comunidades para crear tu equipo ¡más posibilidades de ganar!<\/p> <p>Además este año vamos a hacer el primer AMIGA INVISIBLE 👻 ¿Tienes algún libro por casa que ya no quieras? Ten oportunidad de regalarselo a alguien y recibir otro de otra persona 🎁 No es obligatorio pero qué bonito es recibir un regalo. Intenta que tu libro esté en buen estado (entendemos que esté usado, ¡no compres uno nuevo!) para ser considerados con los demás. Por supuesto solo participarán aquellas personas que traigan un libro para intercambiar.<\/p> <p>Comunidades participantes<\/p> <p>R-Ladies (<a href=\"https://www.meetup.com/es-ES/rladies-madrid/\" class=\"linkified\">https://www.meetup.com/es-ES/rladies-madrid/<\/a>)<\/p> <p>PyLadies (<a href=\"https://www.meetup.com/es-ES/PyLadiesMadrid/\" class=\"linkified\">https://www.meetup.com/es-ES/PyLadiesMadrid/<\/a>)<\/p> <p>WiMLDS (<a href=\"https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/\" class=\"linkified\">https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/<\/a>)<br/>WoSec (<a href=\"https://www.meetup.com/WoSEC-Madrid-Women-of-Security/\" class=\"linkified\">https://www.meetup.com/WoSEC-Madrid-Women-of-Security/<\/a>)<\/p> <p>Funcionamiento<\/p> <p>Equipos<\/p> <p>Cada uno es libre de formar su equipo, nosotras estaremos por allí para intentar que los equipos tengan más o menos las mismas personas y estén equilibrados. Le ponéis un nombre y a participar.<\/p> <p>Preguntas y respuestas<\/p> <p>Las preguntas se dirán por megafonía y se contestarán en un papel. Se preguntarán al menos 5 preguntas de cada tema, si nos da tiempo haremos más. Cada pregunta tendrá una respuesta única. El tema de las preguntas es R, Python, Machine Learning &amp; Data Science y Seguridad. Las respuestas erróneas no restan puntos, solo las respuestas correctas suman.<\/p> <p>Ganador<\/p> <p>El equipo con más respuestas correctas es el ganador.<\/p> <p>Normas<\/p> <p>No se puede consultar la respuesta por internet. Seamos legales, ¡vamos a pasarlo bien!<\/p> <p>Entradas<\/p> <p>Cada comunidad contará con 30 entradas, para que estén equilibrados entre los participantes los conocimientos técnicos. Sabiendo esto si te apuntas a alguno de los meetups por favor no ocupes una plaza en otro.<\/p> <p>Asistencia<\/p> <p>Por favor, si te apuntas y luego ves que no vas a poder venir, ¡libera tu plaza! Por muy poco tiempo que quede para el evento. En este meetup es especialmente importante para que los equipos puedan estar equilibrados.<\/p> <p>** Disclaimer: sintiéndolo mucho, no contamos con ayuda económica así que cada uno se tendrá que pagar las consumiciones que tome. ¡Gracias!<\/p> ",
-    "url": "https://www.meetup.com/rladies-madrid/events/266666875/",
     "textColor": "#7171fb"
   },
   {
@@ -641,14 +594,6 @@
     "start": "2019-12-10",
     "description": "<p>Hi there! We are meeting tomorrow for #TidyTuesday<br/>Join us in Durham 195A on November 12 (12-1pm)<br/>Everyone is welcome!<\/p> ",
     "url": "https://www.meetup.com/rladies-ames/events/267085147/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Göttingen R User Group: 2nd UserR meeting: Brand Choice Models in R",
-    "group": "Göttingen R User Group",
-    "start": "2019-12-04",
-    "description": "<p>Ossama Elshiewy will present: Brand Choice Models in R: Data Management, Parameter Estimation, Follow-Up Analysis.<\/p> <p>Where: 1.162 Oeconomicum (<a href=\"https://www.geodata.uni-goettingen.de/lageplan/?ident=5256_1_1.OG_1.162\" class=\"linkified\">https://www.geodata.uni-goettingen.de/lageplan/?ident=5256_1_1.OG_1.162<\/a>)<\/p> ",
-    "url": "https://www.meetup.com/Gottingen-Software-Development-Meetup/events/266313928/",
     "textColor": "#7171fb"
   },
   {
@@ -1219,7 +1164,7 @@
     "title": "Bay Area useR Group (R Programming Language): \"Official\" January 2020 BARUG Meeting",
     "group": "Bay Area useR Group (R Programming Language)",
     "start": "2020-01-27",
-    "description": "<p>Our January BARUG meetup will be held in the evening after the first day of workshops at rstudio::conf, onsite at the conference venue. The meeting is free for all BARUG members and does not require a conference ticket. The BARUG meeting is not officially part of the conference, but we expect several RStudio team members to drop by.<\/p> <p>Agenda<br/>6:30 - Food and networking<br/>7:00 - Announcements<br/>7:05 - Sydeaka Watson - TBD<br/>7:30 - Bryan Lewis - Survival analysis, Salesforce, Shiny, and Shinyproxy<br/>8:00 - Max Kuhn - TBD<\/p> <p>##########<br/>Bryan Lewis<br/>Survival analysis, Salesforce, Shiny, and Shinyproxy<br/>Part I<br/>A sales and marketing pipeline model tries to predict sales from a time series of observations associated with given accounts. The observations may have many features, importantly including labels of reasonably well-defined *stages* of the sales process. Salesfore conveniently exports such observations in easy to analyze form. Viewed through the right kind of lens, models like this look a bit like classical survival models. A friend of mine and I build some nice<br/>models along these lines. The first part of my talk briefly discusses such models.<\/p> <p>Part II<br/>In order to make the models easy to use, we designed a shiny app. In order to make the app available to our clients, at least in beta form, we deployed it with Shinyproxy (and also Docker and Nginx), a tool that makes deploying Shiny apps pretty easy to do. I'll discuss this delightful deployment process in this 2nd part.<\/p> ",
+    "description": "<p>Our January BARUG meetup will be held in the evening after the first day of workshops at rstudio::conf, onsite at the conference venue. The meeting is free for all BARUG members and does not require a conference ticket. The BARUG meeting is not officially part of the conference, but we expect several RStudio team members to drop by.<\/p> <p>Agenda<br/>6:30 - Food and networking<br/>7:00 - Announcements<br/>7:05 - Sydeaka Watson - Neural Networks for Longitudinal Data Analysis<br/>7:35 - Bryan Lewis - Survival analysis, Salesforce, Shiny, and Shinyproxy<br/>8:05 - Max Kuhn - Creating a modeling package in 9 easy steps<\/p> <p>###########<br/>Sydeaka Watson<br/>Dr Watson will give a preview of her rstudio::conf talk:<br/>Neural Networks for Longitudinal Data Analysis<br/>Longitudinal data (or panel data) arise when observations are recorded on the same individuals at multiple points in time. For example, a longitudinal baseball study might track individual player characteristics (team affiliation, age, height, weight, etc.) and outcomes (batting average, stolen bases, runs, strikeouts, etc.) over multiple seasons, where the number of seasons could vary across players. Neural network frameworks such as Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRUs) can flexibly accommodate this data structure while preserving and exploiting temporal relationships. In this presentation, we highlight the use of neural networks for longitudinal data analysis with tensorflow and keras in R.<\/p> <p>##########<br/>Bryan Lewis<br/>Survival analysis, Salesforce, Shiny, and Shinyproxy<br/>Part I<br/>A sales and marketing pipeline model tries to predict sales from a time series of observations associated with given accounts. The observations may have many features, importantly including labels of reasonably well-defined *stages* of the sales process. Salesfore conveniently exports such observations in easy to analyze form. Viewed through the right kind of lens, models like this look a bit like classical survival models. A friend of mine and I build some nice<br/>models along these lines. The first part of my talk briefly discusses such models.<\/p> <p>Part II<br/>In order to make the models easy to use, we designed a shiny app. In order to make the app available to our clients, at least in beta form, we deployed it with Shinyproxy (and also Docker and Nginx), a tool that makes deploying Shiny apps pretty easy to do. I'll discuss this delightful deployment process in this 2nd part.<\/p> <p>##########<br/>Max Kuhn<br/>I'll create that modeling package in 9 easy steps!<br/>Creating an R package can seem daunting. The {usethis} package has made this process much easier but, for modeling packages, the {hardhat} package can do even more. If you are new to R or experienced, {hardhat} can automatically create the interface code (i.e., formula, non-formula, ...) and populate S3 methods (such as predict) for you. I'll demonstrate this for a truly awful model in a live coding exercise.<\/p> ",
     "url": "https://www.meetup.com/R-Users/events/267236988/",
     "textColor": "blue"
   },
@@ -1293,6 +1238,14 @@
     "start": "2020-03-17",
     "description": "<p>Code for Philly, DataPhilly, R Ladies Philly, and the Philly Data Jawn are partnering with the Health Federation of Philadelphia and Prevention Point to host a data science hackathon to answer pertinent questions around the Opioid Crisis in Philadelphia. The goals of this event are to provide health organizations with insights that may normally be unavailable to them and to create analyses that help inform the public about the opioid epidemic in our city. Anyone who is interested in data science and is willing to dig into the data is welcome to participate. All experience levels are welcome!<\/p> <p>This is a multi-day event that will kick off on Feb 7th and conclude on March 17th (go to <a href=\"https://codeforphilly.org/events/datahack2020\" class=\"linkified\">https://codeforphilly.org/events/datahack2020<\/a> for full timeline and more info).<\/p> <p>To register for the hack, please use this Eventbrite link (registration will open in January 2020): <a href=\"https://www.eventbrite.com/e/2020-data-hack-data-science-for-a-healthier-community-tickets-86813763303\" class=\"linkified\">https://www.eventbrite.com/e/2020-data-hack-data-science-for-a-healthier-community-tickets-86813763303<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/267325018/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Grupo de Usuarios de R en Chile: rstudio::conf 2020 Keynote Watch Party",
+    "group": "Grupo de Usuarios de R en Chile",
+    "start": "2020-01-29",
+    "description": "<p>La idea es reunirnos a almorzar juntos y ver en vivo los keynotes de la rstudio::conf, conferencia para todo lo relacionado con R y RStudio, que tendrá lugar el 29 de enero de 2020 en San Francisco, California. El anfitrión será Hadley Wickham, científico jefe de RStudio, para dar la bienvenida a los keynote speakers:<\/p> <p>- Hilary Parker (Stitch Fix) and Roger Peng (Johns Hopkins)<br/>- Martin Wattenberg and Fernanda Viegas (Research Scientists, Google)<br/>- Jenny Bryan (Engineer, RStudio)<br/>- JJ Allaire (CEO, RStudio)<\/p> <p>Mas info: <a href=\"https://rstudio.com/conference/\" class=\"linkified\">https://rstudio.com/conference/<\/a><br/>Nos vemos el miércoles 29 de Enero a las 13:00 en EY University Chile.<\/p> ",
+    "url": "https://www.meetup.com/useRchile/events/267629807/",
     "textColor": "blue"
   },
   {
@@ -1576,6 +1529,22 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies St. Louis: Making personal websites with blogdown",
+    "group": "R-Ladies St. Louis",
+    "start": "2020-04-02",
+    "description": "<p>Join us in welcoming Dr. Dorris Scott, who will lead a workshop on how to make your own professional or personal website using the blogdown package in R.<\/p> <p>Dr. Scott is new to St. Louis and will be working as a social science data guru at Washington University in St. Louis.<\/p> <p>Check out Dr. Scott's website: <a href=\"https://dscott.netlify.com/\" class=\"linkified\">https://dscott.netlify.com/<\/a><\/p> <p>Space for the Meetup provided by Microsoft (thanks Amy!) and food provided by Net Effects (thanks Stephanie!).<\/p> ",
+    "url": "https://www.meetup.com/rladies-st-louis/events/264264282/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Berlin: rstudio::conf(2020) Watch Party",
+    "group": "R-Ladies Berlin",
+    "start": "2020-01-29",
+    "description": "<p>Rstudio::conf(2020) watch party in cooperation with RStudio, RLadiesBerlin, BerlinR, and the Berlin RUG!<\/p> <p>Let us enjoy the conference without having to trek to San Francisco. We'll watch and discuss live streams together, enjoy RStudio trinkets and have food and drinks as well.<\/p> <p>Schedule<br/>***********************************<br/>5 pm - Just before the first keynote, a live-streamed pre-game event will feature short interviews with folks from RStudio as well as the wider R-Community. During this event, we will have an opportunity to interact with the host and guests in real time.<\/p> <p>6pm - The pre-game event will lead directly into the keynote and session live-streams. We aim to watch the first two keynote talks of the conference together and we can pose questions to the speakers.<\/p> <p>Keynotes:<br/>- Open Source Software for Data Science, J.J. Allaire - Hosts, Founder and CEO RStudio<br/>- Data, visualization, and designing with AI, Fernanda Viegas and Martin Wattenberg, Google<\/p> <p>About rstudio::conf:<br/>***********************************<br/>Featuring two days of content with more than 70 sessions and lightning talks, rstudio::conf will welcome more than 2000 attendees to listen, discuss, and explore what’s possible with R and RStudio.<\/p> <p>Link to Agenda: <a href=\"https://tinyurl.com/yyvyx66c\" class=\"linkified\">https://tinyurl.com/yyvyx66c<\/a><\/p> <p>********************************************************************************<br/>stay tuned for more details!<\/p> ",
+    "url": "https://www.meetup.com/rladies-berlin/events/267231673/",
+    "textColor": "blue"
+  },
+  {
     "title": "Lads and Lasses Who R: Collaborative Learning of R",
     "group": "Lads and Lasses Who R",
     "start": "2020-01-21",
@@ -1642,6 +1611,14 @@
     "start": "2020-03-03",
     "description": "<p>Join us the first Tuesday of every month for Tidy Tuesdays!<\/p> <p>Tidy Tuesdays are a combination of social hour, hackathon, and learning opportunity. All skill levels are welcome.<\/p> <p>Every week, the R4DS learning community releases a fun dataset, for local groups to come together and explore. Check out the #tidytuesday hashtag on twitter for examples, or read more here: <a href=\"https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/\" class=\"linkified\">https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/<\/a><\/p> ",
     "url": "https://www.meetup.com/useR-Group-in-San-Luis-Obispo-County/events/mhczlrybcfbfb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies London, Ontario: RMarkdown and Bookdown for Dissertating",
+    "group": "R-Ladies London, Ontario",
+    "start": "2020-01-14",
+    "description": "<p>This month's meet up, Thea Knowles will return to lead us through an interactive tutorial on preparing to write a dissertation using RMarkdown and Bookdown. This month also marks 3 awesome years of R-Ladies London!<\/p> <p>RMarkdown allows you to seamlessly integrate R code and narrative text as well as specify formatting options across multiple document output types (docx, pdf, html). Bookdown serves as a means to combining multiple RMarkdown files into a final book*.<\/p> <p>This workshop will feature a crash course on RMarkdown and will cover the following: reference management in RMarkdown, tips for a modular workflow, integrating templates (like Western's thesis templates) into RMarkdown/bookdown documents, and more.<\/p> <p>*\"Despite the package name containing the word “book”, bookdown is not only for books. The “book” can be anything that consists of multiple R Markdown documents meant to be read in a linear sequence, such as course handouts, study notes, a software manual, a thesis, or even a diary.\" - Yihui Xie <a href=\"https://bookdown.org/yihui/bookdown/\" class=\"linkified\">https://bookdown.org/yihui/bookdown/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-ldnont/events/267613624/",
     "textColor": "blue"
   },
   {
