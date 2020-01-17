@@ -445,7 +445,7 @@ get_upcoming_events <- function(){
   rugs = read.csv("docs/data/rugs_list.csv", encoding = "UTF-8")
   rugs_urlnames_full = rugs$rugs_urlnames_full
     
-all_upcoming_revents <- lapply(rugs_urlnames_full[c(-388,-41, -193)], 
+all_upcoming_revents <- lapply(rugs_urlnames_full[c(-388,-41, -193, -129)], 
                                  function(x) 
                                  {
                                    y <- get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
