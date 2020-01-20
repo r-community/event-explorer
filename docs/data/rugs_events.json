@@ -448,10 +448,10 @@
     "textColor": "blue"
   },
   {
-    "title": "Colchester R Meetup: Colchester R Users Group",
+    "title": "Colchester R Meetup: 2020 intro to and best of R!",
     "group": "Colchester R Meetup",
     "start": "2020-02-20",
-    "description": "<p>2019<\/p> <p>Session One: To be announced...please suggest a speaker/topic<\/p> <p>Session Two: To be announced...please suggest a speaker/topic<\/p> ",
+    "description": "<p>Welcome to 2020!<\/p> <p>We are going to kick off the New Year with a triple header of great talks. These sessions have been designed to be a gentle but informative introduction to those who are excited to learn about the R programming language.<\/p> <p>Session 1: \"Learning and using R as a beginner\" - Leyla Yaltiligil, Department of Mathematics, University of Essex<\/p> <p>This talk will be about my journey from pure mathematics into the foray of programming and using software within my degree, ‘recreationally’ and also learning new programming languages to practice for roles that interest me. I am a final year Undergraduate Maths student and I’m fairly new to programming but I have really enjoyed my optimisation and data analysis modules and would like to explore R more.<\/p> <p>Session 2: \"Making the switch: One psychologist's journey from SPSS/Excel to R with 'basic stuff' along the way\" - Dr. Vanessa Loaiza, Department of Psychology, University of Essex<\/p> <p>Session 3: \"Best of R\" - Alasdair Clarke, Department of Psychology, University of Essex<\/p> <p>Snacks and beverages provided courtesy of IADS: <a href=\"https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science\" class=\"linkified\">https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science<\/a><\/p> ",
     "url": "https://www.meetup.com/Colchester-R-Meetup/events/cwlsjrybcdbbc/",
     "textColor": "blue"
   },
@@ -496,10 +496,18 @@
     "textColor": "blue"
   },
   {
+    "title": "Poznan R Users Group (PAZUR): PAZUR 35 -- Jak pisać lepsze oprogramowanie w R? (warsztat)",
+    "group": "Poznan R Users Group (PAZUR)",
+    "start": "2020-01-30",
+    "description": "<p>Przewidujemy jeden referat w formie warsztatów (proszę wziąć swoje laptopy). Czas trwania: 18-20. Wymagana znajomość R.<\/p> <p>Prowadzący:<\/p> <p>Piotr Sobczyk (Szychta w Danych; Senior Data Scientist w OLX Berlin; WhyR Fundation; <a href=\"https://github.com/psobczyk\" class=\"linkified\">https://github.com/psobczyk<\/a>)<\/p> <p>Szczegóły:<\/p> <p>Jak pisać lepsze oprogramowanie w R?<\/p> <p>R używany jest często jako statystyczny kalkulator. Osoby korzystające z niego nierzadko nie mają doświadczenia jako programiści. Kiedy kody które piszą stają się coraz bardziej skomplikowane, pojawia się problem zarządzania nimi, a także ich przejrzystości i stabilności. W ciągu 2-3 spotkań chcę opowiedzieć o narzędziach, pakietach i praktykach, które mogą pomóc w tym, aby tworzyć lepsze oprogramowanie. Na pierwszym spotkaniu chcę poruszyć kwestie ,,podstawowe”<\/p> <p>1. Tworzenie pakietów, dokumentacja w roxygen, ,,package check” w pakiecie devtools<br/>2. Automatyczne sprawdzenia i naprawa składni za pomocą pakietów usethis, lintr i styler<br/>3. Testowanie kodu za pomocą pakietów usethis i testthat<br/>4. Kontrola wersji (git, GitHub) (temat opcjonalny jeśli starczy nam czasu)<\/p> <p>Spotkanie będzie miało charakter warsztatowy dlatego jest bardzo ważne, żeby przynieść własne komputery. Polecam mieć zainstalowane RStudio oraz pakiety: install.packages(c(\"devtools\", \"usethis\", \"testthat\", \"lintr\", \"styler\", \"pkgKitten”, \"roxygen2”)).<\/p> <p>A także git-a<br/>- Windows: <a href=\"http://git-scm.com/download/win\" class=\"linkified\">http://git-scm.com/download/win<\/a><br/>- OS X: <a href=\"http://git-scm.com/download/mac\" class=\"linkified\">http://git-scm.com/download/mac<\/a><br/>- Debian/Ubuntu: sudo apt-get install git-core<\/p> ",
+    "url": "https://www.meetup.com/Poznan-R-User-Group-PAZUR/events/268034478/",
+    "textColor": "blue"
+  },
+  {
     "title": "The Chicago R User Group (CRUG): Single Function and Open Mic Lightning Rounds",
     "group": "The Chicago R User Group (CRUG)",
     "start": "2020-01-29",
-    "description": "<p>Happy New YeaR! CRUG opens exciting new decade with an evening of lightning talks on Single R Functions covering everyday to specialized methods.<\/p> <p>We also have an Open Mic and in spirit of Open Source welcome any event attendee(s) to give a talk on any R related subject! Please bring slides or post online for viewing!<\/p> <p>Speakers:<\/p> <p>- Open Mic - Any unscheduled, impromptu 5-10 mins. talk on any R topic!<\/p> <p>Adam Ginesky <a href=\"https://www.linkedin.com/in/ginensky/\" class=\"linkified\">https://www.linkedin.com/in/ginensky/<\/a><br/>- eval()/parse() and haversine()<\/p> <p>Charlotte Frei <a href=\"https://www.linkedin.com/in/charlottefrei/\" class=\"linkified\">https://www.linkedin.com/in/charlottefrei/<\/a><br/>- save()/load()<\/p> <p>Svetlana Levitan <a href=\"https://www.linkedin.com/in/svetlanalevitan/\" class=\"linkified\">https://www.linkedin.com/in/svetlanalevitan/<\/a><br/>- pmml/onnyx<\/p> <p>Justin Shea <a href=\"https://www.linkedin.com/in/justinmshea/\" class=\"linkified\">https://www.linkedin.com/in/justinmshea/<\/a><br/>- data.table::setkey()<\/p> <p>Doors open at 5 pm, and talks begin at 5:30 pm.<\/p> <p>Soda and pizza will be served thanks to IBM!<\/p> <p>Drinks afterward at a nearby bar starting when talks are done for any networking and continued discussions!<\/p> ",
+    "description": "<p>Happy New YeaR! CRUG opens exciting new decade with an evening of lightning talks on Single R Functions covering everyday to specialized methods.<\/p> <p>Doors open at 5:00 talks begin at 5:30.<\/p> <p>We also have an Open Mic and in spirit of Open Source welcome any event attendee(s) to give a talk on any R related subject! Please bring slides or post online for viewing!<\/p> <p>Speakers:<\/p> <p>Open Mic: Any unscheduled, impromptu 5-10 minute talk on any R topic!<\/p> <p>Charlotte Frei: Data compression/loading algorithms in base R<br/><a href=\"https://www.linkedin.com/in/charlottefrei/\" class=\"linkified\">https://www.linkedin.com/in/charlottefrei/<\/a><br/>- save()/load()<\/p> <p>Adam Ginesky: 2 talks- 1) Evaluating expressions/functions in base R do.call and eval/parse and 2) Where am I? Haversine distance.<br/><a href=\"https://www.linkedin.com/in/ginensky/\" class=\"linkified\">https://www.linkedin.com/in/ginensky/<\/a><\/p> <p>Svetlana Levitan: Structural Equation Modeling with PMML/ONYX<br/><a href=\"https://www.linkedin.com/in/svetlanalevitan/\" class=\"linkified\">https://www.linkedin.com/in/svetlanalevitan/<\/a><br/>- onnyxR package &amp; pmml<\/p> <p>Justin M Shea: Blazing fast binary search in parallel with data.table<br/><a href=\"https://www.linkedin.com/in/justinmshea/\" class=\"linkified\">https://www.linkedin.com/in/justinmshea/<\/a><br/>- data.table::setkey()<\/p> <p>Doors open at 5 pm, and talks begin at 5:30 pm.<\/p> <p>Soda and pizza will be served thanks to IBM!<\/p> <p>Drinks afterward at a nearby bar starting when talks are done for any networking and continued discussions!<\/p> ",
     "url": "https://www.meetup.com/Chicago-R-User-Group/events/267963375/",
     "textColor": "blue"
   },
@@ -616,10 +624,18 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group Nepal: Learn How to Open Data",
+    "title": "Central Iowa R User Group: R and Python study group",
+    "group": "Central Iowa R User Group",
+    "start": "2020-04-18",
+    "description": "<p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/chzdspybcgbxb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R User Group Nepal: Open Data Hackathon",
     "group": "R User Group Nepal",
     "start": "2020-03-07",
-    "description": "<p>Our Agenda:<br/>- About Open Source<br/>- Mini-workshop<br/>- Mini-Hackathon<\/p> <p>We'll open registrations forms soon:<\/p> ",
+    "description": "<p>Our Agenda:<br/>- Make use of Open Data<br/>- Mini-workshop (Mapping, Visualization)<br/>- Hackathon<\/p> <p>We'll open registrations forms soon<\/p> ",
     "url": "https://www.meetup.com/rugnepal/events/267982872/",
     "textColor": "blue"
   },
@@ -1165,6 +1181,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Auckland: Tidy Tuesday: Data exploration and visualisation of Australia fires data ",
+    "group": "R-Ladies Auckland",
+    "start": "2020-01-30",
+    "description": "<p>Join us for an informal collaberative meetup to analyse a Tidy Tuesday dataset on Australia fires.<\/p> <p>The venue is TBD, please get in touch if your company would like to host.<\/p> <p>Arrival and networking: 6pm<br/>Commences: 6.30pm<\/p> <p>*Dataset*<\/p> <p>Link to GitHub repo:<\/p> <p><a href=\"https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-07\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-07<\/a><\/p> <p>------------------------------------------<\/p> <p>As with all our meetups, please be aware of and read the Code of Conduct before attending.<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-auckland/events/268047317/",
+    "textColor": "blue"
+  },
+  {
     "title": "Grupo de Usuarios de R en Chile: rstudio::conf 2020 Keynote Watch Party",
     "group": "Grupo de Usuarios de R en Chile",
     "start": "2020-01-29",
@@ -1373,6 +1397,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Lancaster: R Markdown and tips from the RStudio Conference",
+    "group": "R-Ladies Lancaster",
+    "start": "2020-02-05",
+    "description": "<p>For our first meeting of 2020 we have two talks lined up:<\/p> <p>Rebecca Killick (Lancaster University): R Markdown and why I love it (workshop)<\/p> <p>R Markdown is a fantastic tool allowing users to write a huge variety of documents with R code embedded. Rebecca will introduce R Markdown and explain why she loves using it. She'll also teach us how to create a simple R Markdown document. If you want to to participate in the interactive element, please bring a laptop with RStudio and R installed. If you have chance also install the knitr package by running the following command.<\/p> <p>install.packages(\"knitr\")<\/p> <p>---<\/p> <p>Rhian Davies (Jumping Rivers) : What I learnt at RStudio Conference<\/p> <p>I'm lucky to be attending the RStudio Conference this year. I'll give a talk summarising some of the new and exciting things I learnt at the conference to share with you all!<\/p> <p>---<br/>We will be in Lancaster University Library - Room C135. The session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.<\/p> <p>---<\/p> <p>R-Ladies Lancaster is part of a global initiative, R-Ladies Global, designed to improve the gender diversity of R users worldwide and in particular, to improve the participation and experience of women in the R community. As part of the initiative, R-Ladies Lancaster will host a number of talks and workshops about the use of R. It doesn't matter if you never used R or if you are an R expert, R-Ladies Lancaster welcomes anyone with an interest in R.<\/p> <p>Questions? E-mail: [masked]<\/p> ",
+    "url": "https://www.meetup.com/rladies-lancaster/events/267885448/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies San Diego: Using R and RStudio with Amazon Web Services (with Katie Heineman)",
     "group": "R-Ladies San Diego",
     "start": "2020-01-29",
@@ -1540,11 +1572,19 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Rio de Janeiro: Meetup  Janeiro 2020",
+    "title": "R-Ladies Rio de Janeiro: Meetup Janeiro 2020 - Vamos aprender usar Shinydashboard",
     "group": "R-Ladies Rio de Janeiro",
     "start": "2020-01-28",
-    "description": "<p>Primeiro encontro de 2020 do R-Ladies Rio<\/p> ",
+    "description": "<p>Primeiro encontro de 2020 do R-Ladies Rio!<\/p> <p>Terça-feira 28 de Janeiro<\/p> <p>\"Visualização: Shinydashboard aplicado a fundos de investimento\"<\/p> <p>Palestrante: Lívia Rodrigues<br/>- Graduação em estatística pela UERJ<br/>- Mestrado em engenharia elétrica pela PUC-RIO<\/p> <p>18:30 Boas vindas<br/>19:00 Palestra<br/>19:45 Bate-papo e pizza<br/>20:30 Até logo *<\/p> <p>(* dia 29/01 teremos um encontro especial)<\/p> ",
     "url": "https://www.meetup.com/rladies-rio/events/267710109/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Rio de Janeiro: R-Ladies Rio + Niterói  rstudio::conf  'watch party' - conexão ao vivo",
+    "group": "R-Ladies Rio de Janeiro",
+    "start": "2020-01-29",
+    "description": "<p>Uma tarde divertida para assistir as palestras de apertura do rstudio::conf(2020), transmitidas diretamente por webcast desde São Francisco, EUA, com possibilidade de enviar perguntas e interagir com os palestrantes.<\/p> <p>13 h Boas Vindas<\/p> <p>14h Conexão com SF<br/>'Welcome to rstudio::conf 2020'<br/>Palestrante: Hadley Wickham -Chief Scientist RStudio<\/p> <p>14h 05 m - Palestra Keynote #1<br/>'Open Source Software for Data Science'<br/>Palestrante: J.J. Allaire - Fundador e CEO RStudio<\/p> <p>15h - Palestra Keynote #2<br/>'Data, visualization, and designing with AI'<br/>Palestrantes : Fernanda Viegas and Martin Wattenberg -- Google<\/p> <p>16h Bate papo e reações às palestras, perguntas e atividades.<\/p> <p>Graças ao patrocínio do RStudio teremos algumas surpresas.<\/p> <p><a href=\"https://rstudio.com/conference/\" class=\"linkified\">https://rstudio.com/conference/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-rio/events/268051456/",
     "textColor": "blue"
   },
   {
