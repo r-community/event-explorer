@@ -470,6 +470,7 @@ all_past_revents <- lapply(rugs_urlnames_full[c(-388,-41, -193, -129)],
                           }
 )  
 eventdf <- do.call("rbind", lapply(all_upcoming_revents, '[', c("name","group_name","local_date", "description","link")))
+eventdf <- eventdf[!is.na(eventdf$local_date),]
 past_eventdf <- do.call("rbind", lapply(all_past_revents, '[', c("name","group_name","local_date", "description","link")))
 past_eventdf$textColor <- "#7171fb"
 eventdf$textColor <- "blue"
