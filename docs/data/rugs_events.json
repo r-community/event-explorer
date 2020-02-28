@@ -40,14 +40,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Orange County R Users Group (OCRUG): reticulate: R Interface to Python",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2020-01-28",
-    "description": "<p>***Bring your laptop***<\/p> <p># Introduction<\/p> <p>This month this we are going to try something new and break from our traditional two talks. Michael Espero is going to introduce the 'reticulate' package. Reticulate provides a comprehensive set of tools for interoperability between Python and R. The package includes facilities for:<\/p> <p>* Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R session.<\/p> <p>* Translation between R and Python objects (for example, between R and Pandas data frames, or between R matrices and NumPy arrays).<\/p> <p>* Flexible binding to different versions of Python including virtual environments and Conda environments.<\/p> <p>Reticulate embeds a Python session within your R session, enabling seamless, high-performance interoperability. If you are an R developer that uses Python for some of your work or a member of data science team that uses both languages, reticulate can dramatically streamline your workflow!<\/p> <p>Come early, network and enjoy the food. Do not forget your laptop with R and Python installed.<\/p> <p># Schedule<\/p> <p>6:30 - 6:50 Networking<br/>6:50 - 7:00 Welcome &amp; general announcement<br/>7:00 - 8:00 Michael Espero: talk and tutorial<br/>8:00 - 8:30 Networking and Clean-up<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/267122886/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Orange County R Users Group (OCRUG): Book club - Session 4 - R for Data Science",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2020-01-29",
@@ -360,6 +352,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Salt Lake City R Users Group: Efficiency and Parallel Programming in R",
+    "group": "Salt Lake City R Users Group",
+    "start": "2020-02-27",
+    "description": "<p>Our next Meetup will be at the University of Utah in Research Park(295 Chipeta Way).<\/p> <p>This presentation by Andrew Redd will focus on how to write efficient R code using parallel programming. This will be a joint meeting with the Study Design and Biostatistics Center at the U. Andrew is an assistant professor at the University of Utah School of Medicine.<\/p> <p>The meeting will be live streamed on YouTube on the Utah R Users Group channel (<a href=\"https://youtube.com/slc-rug\" class=\"embedded\">https://youtube.com/slc-rug<\/a>).<\/p> <p>Free parking is available on the first floor of the parking garage; just sign the parking book at the reception desk. There is construction for a new building where our visitor lot used to be so our regular drive may be congested. There is a picture attached to this event explaining how to avoid the construction.<\/p> <p>Light refreshments will be provided. The [Williams Building Cafe](<a href=\"https://www.williamsbuildingcafe.com\" class=\"linkified\">https://www.williamsbuildingcafe.com<\/a>) is next to where we will be meeting for those desiring a full lunch.<\/p> ",
+    "url": "https://www.meetup.com/slc-rug/events/268379508/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Oslo useR! Group: Geospatial data science with R: a 10 km perspective",
     "group": "Oslo useR! Group",
     "start": "2020-02-18",
@@ -437,14 +437,6 @@
     "start": "2020-02-18",
     "description": "<p>We look forward to seeing you at our first 2020 R meetup on 18 February with James Blair from RStudio.<\/p> <p>!!!! Note Change of Location - New location is Club York (York St, 99 - halfway walk between Wynyard and Town Hall stations)<\/p> <p>Arrive from 5:45 pm for a 6 pm talk.<\/p> <p>Big Data in R<\/p> <p>Talk description<\/p> <p>Big data takes many forms. Sometimes it’s large CSV files on your computer. Sometimes it’s data in an external database. Sometimes it’s data in a corporate data lake. In this talk, we will look at how to use the power of dplyr and other R packages to work with big data in various formats to arrive at meaningful insight using a familiar and consistent set of tools.<\/p> <p>Bio<\/p> <p>James is a Solutions Engineer at RStudio, where he focusses on helping RStudio commercial customers successfully manage RStudio products. He is passionate about connecting R to other toolchains through tools like ODBC and APIs. He has a background in statistics and data science and finds any excuse he can to write R code.<\/p> ",
     "url": "https://www.meetup.com/R-Users-Sydney/events/268262369/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Melbourne Users of R Network (MelbURN): Practical Guide to Latent Class Models in R",
-    "group": "Melbourne Users of R Network (MelbURN)",
-    "start": "2020-01-28",
-    "description": "<p>Happy new year and welcome back everyone! Hope you've had a good break. Our R series of talks resumes again with our first talk of the year on a great topic about latent class modelling with R. Hope to see you there! As always, big thanks to Servian for hosting us.<\/p> <p>Rough agenda:<br/>5:45: Networking, food &amp; drinks<br/>6:15: Presentation<br/>7:15: More networking<br/>8:00: Close<\/p> <p>Practical Guide to Latent Class Models in R:<br/>How would you like a ML algorithm that can do both clustering and classification? Then Latent Class Models may be what you need.<br/>Latent stands for the idea of being \"hidden\" and Latent Class Models are a ML technique which sits in the family of mixture models. In the last couple of decades it has found it's way in the health, behavioural and the social sciences. It is a robust, data efficient and stable modeling technique which has been a great help in gaining insight to all sorts of science related questions. In the business world it has been used by marketing quants to segmentise customers and predict customer behavior. In this talk, we will do an introduction to latent class models, what they are, where do they sit in the available sets of statistical learning tools and how and what ways they can be used. We will illustrate these ideas using the R package called poLCA and briefly point also to its extended sister package called depmixS4.<\/p> <p>Bio:<br/>Lito Cruz, has both an academic and IT industry background. Many years ago he worked in the field of software engineering, working for companies like IBM GSA, Telstra, HP, Agilent etc. In the last 5 years, aside from working for as an IT Consultant, he has gone back to his love for maths and has part time taught computational and mathematical subjects for Monash University's Faculty of Science, Faculty of IT and Faculty of Business and Economics. His PhD was in the field of Computational Logic. He loves to write and continues to publish conference papers. His latest paper \"AI: Turning Points and the Road Ahead\" will appear as a chapter in a Springer publication. After working for a fintech startup as Chief AI Engineer, he now works as a Data Scientist for ANZ.<\/p> ",
-    "url": "https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/267819256/",
     "textColor": "#7171fb"
   },
   {
@@ -782,6 +774,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies London: Tidy up your data science workflow with the tidyverse",
+    "group": "R-Ladies London",
+    "start": "2020-02-27",
+    "description": "<p>Registration to the event is required on Eventbrite: <a href=\"https://www.eventbrite.co.uk/e/tidy-up-your-data-science-workflow-with-the-tidyverse-tickets-91446038563\" class=\"linkified\">https://www.eventbrite.co.uk/e/tidy-up-your-data-science-workflow-with-the-tidyverse-tickets-91446038563<\/a><\/p> <p>RLadies London is excited to present Mine Çetinkaya-Rundel!<\/p> <p>About the event<br/>The tidyverse is a coherent system of packages for data manipulation, exploration and visualization that share a common design philosophy.<br/>There are core tidyverse packages that you're likely to use in everyday data analyses, and these include:<br/>- ggplot2<br/>- dplyr<br/>- tidyr<br/>- readr<br/>- purrr<br/>- tibble<br/>- stringr<br/>- forecats<br/>We'll be learning a bit about each of these core packages while demonstrating their functionalities!<\/p> <p>About the speaker<br/>Mine is a Senior Lecturer in the School of Mathematics at University of Edinburgh and Data Scientist and Professional Educator at RStudio. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. She is a former R-Ladies RTP and a current R-Ladies Edinburgh organizer.<\/p> <p>Agenda<br/>18:00 Opening doors<br/>18:30 Presentation<br/>19:30 Networking<\/p> ",
+    "url": "https://www.meetup.com/rladies-london/events/268200556/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Budapest: rstudio::conf(2020) Watch Parties Budapest",
     "group": "R-Ladies Budapest",
     "start": "2020-01-29",
@@ -830,6 +830,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Melbourne: TidyTuesday: collaborative data wrangling and visualisation!",
+    "group": "R-Ladies Melbourne",
+    "start": "2020-02-27",
+    "description": "<p>Happy new year everyone!<\/p> <p>Join us on Thursday, 27th of February for our first event of 2020 where we will work together on a Tidy Tuesday dataset.<\/p> <p>Tidy Tuesday (<a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>) is a social weekly event where you can practice you wrangling and visualisation skills using real-world data in a safe and supportive forum! Every Tuesday a new dataset is realised.<\/p> <p>On the night, We will use the dataset released on Tuesday 25th, divide into groups and work and learn together to produce interesting visualisations. This will be an opportunity to work on real-world data in a collaborative environment as well as to practice sharing your code on GitHub and with the online Twitter community.<\/p> <p>**Feel free to download and start working on the dataset prior to the event!**<\/p> <p>The data for each week is available on the Tidy Tuesday website: <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>.<\/p> <p>Looking forward to data wrangling with you,<\/p> <p>R-Ladies Melbourne<\/p> ",
+    "url": "https://www.meetup.com/rladies-melbourne/events/268743650/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R Glasgow: R Glasgow - February meetup",
     "group": "R Glasgow",
     "start": "2020-02-13",
@@ -851,14 +859,6 @@
     "start": "2020-02-25",
     "description": "<p>Have you heard about generalised additive models (GAMs) and would like to know more about how to use them? Come along to this workshop to get an introduction to GAMs: what they are and when and how to use them.<\/p> <p>PROGRAMME<br/>Note the different day (Tuesday) and location (Orikami)!<\/p> <p>The event will start at 18:30.<br/>Data Scientist Inez Wijnands will start us off with an introduction to the work that Orikami does and then Evelien will tell us all about GAMs!<\/p> <p>Inez Wijnands works as a data scientist at Orikami. She studied Artificial Intelligence with a focus on Computational Cognitive Neuroscience at the Radboud University. At Orikami she uses 'AI in healthcare', combining her main interests.<\/p> <p>Dr. Evelien Heyselaar is an Assistant Professor in AI and Communication Science at the Radboud University.<\/p> <p>Drinks and snacks will be provided by Orikami.<\/p> <p>REQUIREMENTS<br/>Don't forget to bring your (fully charged!) laptop with R and R Studio installed.<\/p> <p>You can download the materials from: <a href=\"https://github.com/RLadiesNijmegen/GAMMs\" class=\"linkified\">https://github.com/RLadiesNijmegen/GAMMs<\/a><\/p> <p>CODE OF CONDUCT<br/>Please take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>R-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.<\/p> <p>SPONSORS<br/>We are very grateful to Orikami for sponsoring this event!<\/p> ",
     "url": "https://www.meetup.com/rladies-nijmegen/events/268082196/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Freiburg: Tidy Tuesday - Come and practice your R skills ",
-    "group": "R-Ladies Freiburg",
-    "start": "2020-01-28",
-    "description": "<p>Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?<\/p> <p>Then this event is what you need! We will use the data from Tidy Tuesday as an excuse to work with R. We will meet to work independently using the same data-set. Each one can choose which analysis to perform or which tools to use (you can already think what you want to practice or learn). We will do this together to have the opportunity to ask others and because coding together is fun!<\/p> <p>This activity is for everyone, from beginners to experts. You will set your own goal. We will have a coffee (or what ever you prefer) while working together. This way we can have the opportunity to ask others, to share ideas and code!!<\/p> <p>Tidy Tuesday a weekly data project aimed at the R ecosystem. Every week a new data set is uploaded and analysed by the community, then the plots can be shared! Las week data from the fires in Australia was analysed. Have a look at some of the community plots on Tweeter:<\/p> <p><a href=\"https://twitter.com/hashtag/tidytuesday\" class=\"linkified\">https://twitter.com/hashtag/tidytuesday<\/a><\/p> <p>Bring your own laptop. Hopefully with enough battery.<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/268190037/",
     "textColor": "#7171fb"
   },
   {
@@ -1125,6 +1125,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "MadR - Madison R Programming UseRs Group: Show and tell: topics TBD",
+    "group": "MadR - Madison R Programming UseRs Group",
+    "start": "2020-02-27",
+    "description": "<p>There's no specific speaker for February, but come and share what you're working on (it could just be a package name that we would explore as a group), and hear what the R community is up to -- also a great chance to get different perspetives on a programming challenge!<\/p> <p>Let us know if you want to chat about something in particular, and we can add the topic!<\/p> <p>Current topics:<\/p> <p>- saving data subsets to Excel for coworker consumption<br/>- ...<\/p> ",
+    "url": "https://www.meetup.com/MadR-Madison-R-Programming-UseRs-Group/events/268547549/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Seattle useR Group (R Programming Language): Relational data models with the dm package",
     "group": "Seattle useR Group (R Programming Language)",
     "start": "2020-02-03",
@@ -1165,19 +1173,19 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Los Angeles: RLadies February Study Group",
+    "group": "R-Ladies Los Angeles",
+    "start": "2020-02-27",
+    "description": "<p>Join us at Literati Cafe on Wilshire Blvd. for dedicated time to get help with R or work on a coding project! Katie and Amanda will be there for help and support, so feel free to drop by with a question or stay and work!<\/p> <p>No need to come right at 6:30 or stay until 9:00, we'll be there the whole time.<\/p> ",
+    "url": "https://www.meetup.com/rladies-la/events/268622900/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Madison: Tidy Tuesday Kickoff",
     "group": "R-Ladies Madison",
     "start": "2020-02-17",
     "description": "<p>A weekly data project aimed at the R ecosystem. As this project was borne out of the R4DS Online Learning Community and the R for Data Science textbook, an emphasis was placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem. However, any code-based methodology is welcome - just please remember to share the code used to generate the results.<\/p> <p><a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> ",
     "url": "https://www.meetup.com/R-Ladies-Madison/events/mckqnrybcdbwb/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Rio de Janeiro: Meetup Janeiro 2020 - Vamos aprender usar Shinydashboard",
-    "group": "R-Ladies Rio de Janeiro",
-    "start": "2020-01-28",
-    "description": "<p>Primeiro encontro de 2020 do R-Ladies Rio!<\/p> <p>Terça-feira 28 de Janeiro<\/p> <p>\"Visualização: Shinydashboard aplicado a fundos de investimento\"<\/p> <p>Palestrante: Lívia Rodrigues<br/>- Graduação em estatística pela UERJ<br/>- Mestrado em engenharia elétrica pela PUC-RIO<\/p> <p>18:30 Boas vindas<br/>19:00 Palestra<br/>19:45 Bate-papo e pizza<br/>20:30 Até logo *<\/p> <p>(* dia 29/01 teremos um encontro especial)<\/p> ",
-    "url": "https://www.meetup.com/rladies-rio/events/267710109/",
     "textColor": "#7171fb"
   },
   {
@@ -1293,6 +1301,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Gainesville: RStudio::conf(2020) updates and stickers",
+    "group": "R-Ladies Gainesville",
+    "start": "2020-02-27",
+    "description": "<p>Join us for an update on the RStudio::conf2020<\/p> <p>We will go over some of the new updates from RStudio as a company, and several new packages making their way into our daily lives.<\/p> <p>Also, want to hear about the conference experience or want tips on how to apply for a diversity scholarship? Next year's conference is in Orlando! We will be there to answer any questions and share the love for R.<\/p> <p>We have some stickers from the conference, and our Gator RLadies sticker as well!<\/p> ",
+    "url": "https://www.meetup.com/rladies-gainesville/events/268799682/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Helsinki: Reproducible research and how to do it with RMarkdown",
     "group": "R-Ladies Helsinki",
     "start": "2020-02-17",
@@ -1378,6 +1394,14 @@
     "start": "2020-02-22",
     "description": "<p>Hi there R Users, it is time again for our first physical meetup of the year 2020.<\/p> <p>Agenda<\/p> <p>*2019 in Review<br/>*Homework presentation<br/>*Getting started with data animation in R<br/>*Summer training.<\/p> <p>Come with your computers, extension boxes, and data - maker ideas.<\/p> ",
     "url": "https://www.meetup.com/rladies-lagos/events/267804814/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Queretaro: R-Ladies_Qro<-retos(dataset,by=mujeres)",
+    "group": "R-Ladies Queretaro",
+    "start": "2020-02-27",
+    "description": "<p>Únete a una reunión de retos y trabajo en equipo.<br/>El objetivo de esta sesión es que todas participemos, juntas analizaremos dos bases de datos utilizando RStudio y sus múltiples paquetes.<br/>No te preocupes por tu nivel de experiencia, compartiremos conocimientos entre todas y formaremos equipos equilibrados, sólo recuerda traer tu laptop con R y RStudio previamente instalado.<br/>También puedes traer algo de alimentos o bebidas no alcohólicas para compartir y hacer más amena la reunión<\/p> ",
+    "url": "https://www.meetup.com/rladies-queretaro/events/268828191/",
     "textColor": "#7171fb"
   },
   {
@@ -1837,14 +1861,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Salt Lake City R Users Group: Efficiency and Parallel Programming in R",
-    "group": "Salt Lake City R Users Group",
-    "start": "2020-02-27",
-    "description": "<p>Our next Meetup will be at the University of Utah in Research Park(295 Chipeta Way).<\/p> <p>This presentation by Andrew Redd will focus on how to write efficient R code using parallel programming. This will be a joint meeting with the Study Design and Biostatistics Center at the U. Andrew is an assistant professor at the University of Utah School of Medicine.<\/p> <p>The meeting will be live streamed on YouTube on the Utah R Users Group channel (<a href=\"https://youtube.com/slc-rug\" class=\"embedded\">https://youtube.com/slc-rug<\/a>).<\/p> <p>Free parking is available on the first floor of the parking garage; just sign the parking book at the reception desk. There is construction for a new building where our visitor lot used to be so our regular drive may be congested. There is a picture attached to this event explaining how to avoid the construction.<\/p> <p>Light refreshments will be provided. The [Williams Building Cafe](<a href=\"https://www.williamsbuildingcafe.com\" class=\"linkified\">https://www.williamsbuildingcafe.com<\/a>) is next to where we will be meeting for those desiring a full lunch.<\/p> ",
-    "url": "https://www.meetup.com/slc-rug/events/268379508/",
-    "textColor": "blue"
-  },
-  {
     "title": "Salt Lake City R Users Group: Big Data in R",
     "group": "Salt Lake City R Users Group",
     "start": "2020-03-19",
@@ -1968,7 +1984,7 @@
     "title": "LondonR: External registration req: LondonR User Group Meeting - 31 March 2020",
     "group": "LondonR",
     "start": "2020-03-31",
-    "description": "<p>This event requires registration via an external ticketing system...<\/p> <p>To see the agenda for this meeting and to register please click here: <a href=\"https://ti.to/londonr/londonr-31-march-2020\" class=\"linkified\">https://ti.to/londonr/londonr-31-march-2020<\/a><\/p> <p>You don't need to join the waiting list on meetup for a place, just on the above link.<\/p> ",
+    "description": "<p>This event requires registration via an external ticketing system...<\/p> <p>To see the agenda for this meeting and to register please click here: <a href=\"https://ti.to/londonr/londonr-31-march-2020\" class=\"linkified\">https://ti.to/londonr/londonr-31-march-2020<\/a><\/p> <p>You don't need to join the waiting list on meetup for a place, just on the above link.<br/>Registration: 3pm<br/>Workshop: 3.30pm - 5.30pm Introduction to NLP with R<br/>Registration for Evening: From 5.30pm<br/>Evening Presentations begin at 6.30pm:<br/>• Mitchell Stirling, Heathrow – Understanding Airport Baggage Demand through R modelling<br/>• Markus Gesmann, Insurance Capital Markets Research – Models are about what changes, and what doesn’t<br/>• plus 1 tbc<\/p> ",
     "url": "https://www.meetup.com/LondonR/events/268603537/",
     "textColor": "blue"
   },
@@ -2002,6 +2018,30 @@
     "start": "2020-03-28",
     "description": "<p>SatRdays are happening all around the world! These accessible R conferences are designed to help people learn more about the R language and share what they know.<\/p> <p>If you have something to say about R, submit a talk! Talk submissions are open through February 28.<\/p> <p>RSVP and get more information on the SatRday DC website: <a href=\"http://dc2020.netlify.com/\" class=\"linkified\">http://dc2020.netlify.com/<\/a><\/p> <p>Note: There is a charge for the event; scholarships are available.<\/p> ",
     "url": "https://www.meetup.com/stats-prog-dc/events/268534401/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Birmingham R User Group (R Programming Language): March BirminghamR Meetup",
+    "group": "Birmingham R User Group (R Programming Language)",
+    "start": "2020-03-19",
+    "description": "<p>For the next meetup in Match we're back at the Innovation Campus. We will have a talk by Isobelle Clarke of Lancaster University and another one to be confirmed. Before the talks we will continue with our short introduction to R series followed by food and drinks.<\/p> <p>Agenda:<br/>17:30 Introduction to R<br/>18:00 Food &amp; Drinks<br/>18:15 Talks<\/p> <p>1) Isobelle Clarke, Lancaster University<br/>2) tbd<\/p> <p>The location of the meetup is room 0.17 of the Birmingham Innovation Campus (Holt Street, Birmingham B7 4BB).<\/p> ",
+    "url": "https://www.meetup.com/BirminghamR/events/269045419/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Birmingham R User Group (R Programming Language): April BirminghamR Meetup",
+    "group": "Birmingham R User Group (R Programming Language)",
+    "start": "2020-04-09",
+    "description": "<p>The next meetup in April will be a workshop event about text mining by Chris Mainey. The meetup will be at the Innovation Campus once again. We will also start with a short introduction to R for those new to it followed by some food and drinks.<\/p> <p>More information about the workshop will be provided nearer the time.<\/p> <p>Agenda:<br/>17:30 Introduction to R (tbc)<br/>18:00 Food &amp; Drinks<br/>18:15 Text Mining Patient Safety Data<\/p> <p>The location of the meetup is room 0.17 of the Birmingham Innovation Campus (Holt Street, Birmingham B7 4BB).<\/p> ",
+    "url": "https://www.meetup.com/BirminghamR/events/269045509/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Birmingham R User Group (R Programming Language): May BirminghamR Meetup",
+    "group": "Birmingham R User Group (R Programming Language)",
+    "start": "2020-05-20",
+    "description": "<p>For our May meetup we will have two talks by Maria Witek (University of Birmingham) and Colin Gillespie (Jumping Rivers).<\/p> <p>This time we will be at the University of Birmingham campus (directions below), doors open at 17:30 and presentations will start at 18:15. Food and drinks in between.<\/p> <p>Presentations<\/p> <p>1) Maria Witek - University of Birmigham<br/>2) Colin Gillespie - Jumping Rivers<\/p> <p>The location of the meetup is room MUIR-112, Muirhead Tower, University of Birmingham campus (B15 2TN). The building is just off Pritchatts Road, which is a short walk from the train station (called University) or bus stop (busses X20/21/22, stop University North Gate). If you're coming by car the nearest car park is the UoB North East car park.<\/p> ",
+    "url": "https://www.meetup.com/BirminghamR/events/269045547/",
     "textColor": "blue"
   },
   {
@@ -2132,6 +2172,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Copenhagen: The first of 2020: upskilling and ggplot2",
+    "group": "R-Ladies Copenhagen",
+    "start": "2020-03-18",
+    "description": "<p>Hello RLadiesCPH!<\/p> <p>We are back to bring you the very best for your upskilling/visualization new years' R-esolutions (pun intended).<\/p> <p>Please set aside 18th of March for an evening of upskilling advice &amp; hands on visualization with ggplot2.<\/p> <p>Space is limited to 30 attendees so hurry up &amp; reserve your post!<\/p> <p>**Agenda**<\/p> <p>17:30-17:40 Welcome<\/p> <p>17:40 - 18:20 Sarah Tomori Oyebo, (Consultant, Carve Consulting, <a href=\"https://www.linkedin.com/in/sarahtomorioyebo/\" class=\"linkified\">https://www.linkedin.com/in/sarahtomorioyebo/<\/a>) on her learning experience with professional ML certifications.<\/p> <p>18:20 - 18:40 Sandwiches and networking.<\/p> <p>18:40 - 19:40 Thomas Lin Pedersen (Software Engineer, RStudio, <a href=\"https://twitter.com/thomasp85\" class=\"linkified\">https://twitter.com/thomasp85<\/a>) on an hands-on intro to ggplot2.<\/p> <p>19:40 - 20:00 Discussions &amp; Networking<\/p> <p>Looking forward to seeing you soon!<\/p> <p>RLadiesCPH<\/p> ",
+    "url": "https://www.meetup.com/rladies-copenhagen/events/268986193/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Bucharest: R-Ladies Bucharest Community #7 - International Women Day Celebration",
     "group": "R-Ladies Bucharest",
     "start": "2020-03-10",
@@ -2185,14 +2233,6 @@
     "start": "2020-05-14",
     "description": "<p>Contact Christina Knudson and Lindsey Dietz if you (or you + friends) are interested in giving a talk during this time!<\/p> ",
     "url": "https://www.meetup.com/rladies-tc/events/268384963/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies London: Tidy up your data science workflow with the tidyverse",
-    "group": "R-Ladies London",
-    "start": "2020-02-27",
-    "description": "<p>Registration to the event is required on Eventbrite: <a href=\"https://www.eventbrite.co.uk/e/tidy-up-your-data-science-workflow-with-the-tidyverse-tickets-91446038563\" class=\"linkified\">https://www.eventbrite.co.uk/e/tidy-up-your-data-science-workflow-with-the-tidyverse-tickets-91446038563<\/a><\/p> <p>RLadies London is excited to present Mine Çetinkaya-Rundel!<\/p> <p>About the event<br/>The tidyverse is a coherent system of packages for data manipulation, exploration and visualization that share a common design philosophy.<br/>There are core tidyverse packages that you're likely to use in everyday data analyses, and these include:<br/>- ggplot2<br/>- dplyr<br/>- tidyr<br/>- readr<br/>- purrr<br/>- tibble<br/>- stringr<br/>- forecats<br/>We'll be learning a bit about each of these core packages while demonstrating their functionalities!<\/p> <p>About the speaker<br/>Mine is a Senior Lecturer in the School of Mathematics at University of Edinburgh and Data Scientist and Professional Educator at RStudio. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. She is a former R-Ladies RTP and a current R-Ladies Edinburgh organizer.<\/p> <p>Agenda<br/>18:00 Opening doors<br/>18:30 Presentation<br/>19:30 Networking<\/p> ",
-    "url": "https://www.meetup.com/rladies-london/events/268200556/",
     "textColor": "blue"
   },
   {
@@ -2276,14 +2316,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Ottawa: R-Ladies February Networking Event",
-    "group": "R-Ladies Ottawa",
-    "start": "2020-02-27",
-    "description": "<p>Come join R-Ladies Ottawa for a fun night of networking with other R users from across the city! We hope to be able to share our experiences, as well as get an idea of what sort of content R-Ladies memebers would be interested in seeing at future meetups.<\/p> ",
-    "url": "https://www.meetup.com/rladies-ottawa/events/268654770/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Oslo: Recap from rstudio::conf 2020 in San Francisco",
     "group": "R-Ladies Oslo",
     "start": "2020-03-03",
@@ -2329,6 +2361,14 @@
     "start": "2020-03-03",
     "description": "<p>Seguimos con el universo de tidyverse! En esta sesión aprenderemos a visualizar datos de una manera muy elegante con ggplot.<\/p> <p>Será en el aula 300 de la facultad de Ciencias Económicas en la Universidad de Costa Rica.<\/p> <p>Les esperamos :)<\/p> ",
     "url": "https://www.meetup.com/rladies-san-jose/events/268987672/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Newcastle: Panel session and meetup pre-SatRday",
+    "group": "R-Ladies Newcastle",
+    "start": "2020-04-03",
+    "description": "<p>R-Ladies Newcastle are pleased to announce we will be hosting a panel session with Julia Silge (<a href=\"https://juliasilge.com/about/\" class=\"linkified\">https://juliasilge.com/about/<\/a>), a data scientist and software engineer at R Studio, and  Mine Çetinkaya-Rundel (<a href=\"http://www2.stat.duke.edu/~mc301/\" class=\"linkified\">http://www2.stat.duke.edu/~mc301/<\/a>) a Senior Lecturer in the School of Mathematics at University of Edinburgh and Data Scientist and Professional Educator at RStudio.<br/> <br/>The event will be an opportunity for R-Ladies to meet up prior to the SatRdays event taking place the next day, so if you’re in Newcastle the night before please come along. If you’re worried about attending SatRdays alone, then this will be a great chance to meet a few friendly faces who you’ll recognise the next day. Alternatively, if you’d been on the fence of making the journey to Newcastle hopefully this will act as an extra enticement!<br/> <br/>We're so excited for SatRdays and hope to see as many R-Ladies members as possible. Tickets can be purchased from: <a href=\"https://newcastle2020.satrdays.org/\" class=\"linkified\">https://newcastle2020.satrdays.org/<\/a><\/p> <p>About the session:<br/>6:00-7:00pm Panel session (approx.)<br/>7:00-8pm Networking<br/> <br/>We need your questions!<br/> <br/>The panel session will be a chance to ask Julia and Mine about their career history as R-Ladies and the different focuses their careers have had. Both have had rich and varied careers, so this is a great chance to hear about their experiences. We’ll be taking some questions on the day, but for the best chance of having your questions answered please submit them in the comments below or message one of us organisers.<br/> <br/>Example questions:<br/>What was it like moving away from academia? And what advice would you give to others thinking about making the transition<br/>What do you think is the most valuable skill you use in your roles as data scientists?<br/>What is your favourite trick in R? E.g. nifty shortcuts, handy functions<br/>What do you look for when joining a new team?<br/>Do you have any advice on making sure we’re bringing R-Ladies principles in to our jobs?<br/> <br/>We anticipate this event will be well attended so book your place asap. As usual, this event is open to those who identify as a marginalised gender.<\/p> <p>Acknowledgements<\/p> <p>Thank you to the School of Computing for providing the venue and to Sage for providing pizza.<\/p> ",
+    "url": "https://www.meetup.com/rladies-newcastle/events/269058567/",
     "textColor": "blue"
   },
   {
@@ -2516,22 +2556,6 @@
     "textColor": "blue"
   },
   {
-    "title": "MadR - Madison R Programming UseRs Group: Show and tell: topics TBD",
-    "group": "MadR - Madison R Programming UseRs Group",
-    "start": "2020-02-27",
-    "description": "<p>There's no specific speaker for February, but come and share what you're working on (it could just be a package name that we would explore as a group), and hear what the R community is up to -- also a great chance to get different perspetives on a programming challenge!<\/p> <p>Let us know if you want to chat about something in particular, and we can add the topic!<\/p> <p>Current topics:<\/p> <p>- saving data subsets to Excel for coworker consumption<br/>- ...<\/p> ",
-    "url": "https://www.meetup.com/MadR-Madison-R-Programming-UseRs-Group/events/268547549/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Los Angeles: RLadies February Study Group",
-    "group": "R-Ladies Los Angeles",
-    "start": "2020-02-27",
-    "description": "<p>Join us at Literati Cafe on Wilshire Blvd. for dedicated time to get help with R or work on a coding project! Katie and Amanda will be there for help and support, so feel free to drop by with a question or stay and work!<\/p> <p>No need to come right at 6:30 or stay until 9:00, we'll be there the whole time.<\/p> ",
-    "url": "https://www.meetup.com/rladies-la/events/268622900/",
-    "textColor": "blue"
-  },
-  {
     "title": "Köln R User Group: R Benutzer Treffen Köln / R user meeting in Cologne",
     "group": "Köln R User Group",
     "start": "2020-03-05",
@@ -2601,14 +2625,6 @@
     "start": "2020-03-16",
     "description": "<p>講題：自然語言理解於價值函數的強化學習應用<\/p> <p>講者：JerryWu<br/>現任 Google 機器學習開發專家 (GDE)、APMIC OpenTalk 創辦人兼執行長，專注於自然語言理解 (NLU) 技術與應用。曾任國立台灣科技大學講師、外商數據科學顧問、汽車業資深數據科學顧問、DSP 智庫驅動共同創辦人兼技術長，歷經許多產、官、學、研機器智能專案。<\/p> <p>大綱：<br/>談談 NLU 與 RL 整合的實作<br/>1. 為何要做自然語言理解<br/>2. 什麼是價值函數與BERT<br/>3. 概念展示<\/p> ",
     "url": "https://www.meetup.com/Taiwan-R/events/268595691/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Gainesville: RStudio::conf(2020) updates and stickers",
-    "group": "R-Ladies Gainesville",
-    "start": "2020-02-27",
-    "description": "<p>Join us for an update on the RStudio::conf2020<\/p> <p>We will go over some of the new updates from RStudio as a company, and several new packages making their way into our daily lives.<\/p> <p>Also, want to hear about the conference experience or want tips on how to apply for a diversity scholarship? Next year's conference is in Orlando! We will be there to answer any questions and share the love for R.<\/p> <p>We have some stickers from the conference, and our Gator RLadies sticker as well!<\/p> ",
-    "url": "https://www.meetup.com/rladies-gainesville/events/268799682/",
     "textColor": "blue"
   },
   {
@@ -2697,14 +2713,6 @@
     "start": "2020-03-04",
     "description": "<p>Una de las habilidades más importantes para la ciencia de datos es la creación de gráficos útiles y llamativos que permitan comunicar información significativa contenida en nuestras bases de datos. ggplot 2 es un paquete de visualización de datos del lenguaje de programación R. En este taller usaremos este paquete para analizar una base de datos que corresponde a los resultados de la Encuesta de la Juventud realizada en la Cuidad de Medellín.<\/p> <p>Para este taller es necesario traer tu computador y tener previamente instalado R y RStudio. Para mayor información sobre el proceso de instalación consulta este link: <a href=\"https://www.datacamp.com/community/news/install-r-and-rstudio-a-step-by-step-guide-for-beginners-q498j0akyh\" class=\"linkified\">https://www.datacamp.com/community/news/install-r-and-rstudio-a-step-by-step-guide-for-beginners-q498j0akyh<\/a><\/p> <p>Fecha: Miércoles 4 de marzo<br/>Lugar: Ruta N, sala 3<br/>Hora: 6:30-8:30 p.m.<\/p> <p>¡Anímate a participar en este taller!<\/p> <p>Te esperamos<\/p> <p>Pdta: Si no estas en la ciudad puedes ver el evento en: <a href=\"https://livestream.com/Ingenia-Tic-UdeA/forosconferenciasytalleres\" class=\"linkified\">https://livestream.com/Ingenia-Tic-UdeA/forosconferenciasytalleres<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-medellin/events/268478322/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Queretaro: R-Ladies_Qro<-retos(dataset,by=mujeres)",
-    "group": "R-Ladies Queretaro",
-    "start": "2020-02-27",
-    "description": "<p>Únete a una reunión de retos y trabajo en equipo.<br/>El objetivo de esta sesión es que todas participemos, juntas analizaremos dos bases de datos utilizando RStudio y sus múltiples paquetes.<br/>No te preocupes por tu nivel de experiencia, compartiremos conocimientos entre todas y formaremos equipos equilibrados, sólo recuerda traer tu laptop con R y RStudio previamente instalado.<br/>También puedes traer algo de alimentos o bebidas no alcohólicas para compartir y hacer más amena la reunión<\/p> ",
-    "url": "https://www.meetup.com/rladies-queretaro/events/268828191/",
     "textColor": "blue"
   },
   {
