@@ -40,14 +40,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Oxford R User Group: February OxfordRUG meeting",
-    "group": "Oxford R User Group",
-    "start": "2020-02-03",
-    "description": "<p>Agenda:<\/p> <p>6:00 pm: Milan Wiedemann (<a href=\"https://www.milanwiedemann.com\" class=\"linkified\">https://www.milanwiedemann.com<\/a>)<\/p> <p>Title: My journey from error messages to R Packages - Building tools to improve reproducibility and productivity in clinical psychology<\/p> <p>6:45 pm: Pizza!<\/p> <p>###<\/p> <p>Oxford RUG is thrilled to be sponsored by Mango Solutions. Thanks to their generosity, there will be pizza from Franco Manca after the meeting. When RSVPing, please let us know whether you will be staying for pizza (so we get a sense how much pizza to order).<\/p> ",
-    "url": "https://www.meetup.com/Oxford-R-User-Group/events/268293138/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Orange County R Users Group (OCRUG): Book club - Session 5 - R for Data Science",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2020-02-05",
@@ -85,6 +77,14 @@
     "start": "2020-02-26",
     "description": "<p>After the success of our first book club, we are looking to start a new one. Again this will be headed up by Xi Chen. The idea is to motivate us to read books and discussing them together. This will help all of us to develop our skills.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 and 8:00 PM. The location is the community center at UCI.<\/p> <p>Book: Feature Engineering and Selection<br/><a href=\"http://www.feat.engineering/\" class=\"linkified\">http://www.feat.engineering/<\/a><br/><a href=\"https://www.amazon.com/gp/product/1138079227/\" class=\"linkified\">https://www.amazon.com/gp/product/1138079227/<\/a><\/p> <p>In this event, we will cover chapter 1.<\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
     "url": "https://www.meetup.com/OC-RUG/events/268226879/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Orange County R Users Group (OCRUG): Book club - Session 2 - Feature Engineering and Selection",
+    "group": "Orange County R Users Group (OCRUG)",
+    "start": "2020-03-04",
+    "description": "<p>After the success of our first book club, we are looking to start a new one. Again this will be headed up by Xi Chen. The idea is to motivate us to read books and discussing them together. This will help all of us to develop our skills.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 and 8:00 PM. The location is the community center at UCI.<\/p> <p>Book: Feature Engineering and Selection<br/><a href=\"http://www.feat.engineering/\" class=\"linkified\">http://www.feat.engineering/<\/a><br/><a href=\"https://www.amazon.com/gp/product/1138079227/\" class=\"linkified\">https://www.amazon.com/gp/product/1138079227/<\/a><\/p> <p>In this event, we will cover chapter 2.<\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
+    "url": "https://www.meetup.com/OC-RUG/events/268311383/",
     "textColor": "#7171fb"
   },
   {
@@ -766,6 +766,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Freiburg: R-Ladies for all! Networking event and Anniversary celebration ",
+    "group": "R-Ladies Freiburg",
+    "start": "2020-03-04",
+    "description": "<p>We turn one! Come celebrate with us! :) There will be food, drinks and a whole lot of lovely people!<\/p> <p>If you're new, come say hello, ask us your questions, tell us your ideas. If you're revisiting, tell us what you liked, what you didn't, brainstorm with us for the future and how we can improve our community!<\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/269102167/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Oslo: Recap from rstudio::conf 2020 in San Francisco",
     "group": "R-Ladies Oslo",
     "start": "2020-03-03",
@@ -862,6 +870,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Lancaster: Introduction to Shiny",
+    "group": "R-Ladies Lancaster",
+    "start": "2020-03-04",
+    "description": "<p>Shiny is an R package that makes it easy to build interactive web apps straight from R. In this beginner-friendly session, we'll be working through part one of the RStudio shiny tutorial.<\/p> <p><a href=\"https://shiny.rstudio.com/tutorial/\" class=\"linkified\">https://shiny.rstudio.com/tutorial/<\/a><\/p> <p>This will be an interactive session so please bring your laptop. Ideally, this should have R and RStudio installed. If you have trouble downloading these, you can use <a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>. You will also need the shiny R package. Please, install this before coming along to the session. You can do this by running install.packages(\"shiny\") in R.<\/p> <p>We will be in Lancaster University Library - Room C135. The session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.<\/p> ",
+    "url": "https://www.meetup.com/rladies-lancaster/events/268805873/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies San Diego: Hackathon - finding new insights from publicly available datasets",
     "group": "R-Ladies San Diego",
     "start": "2020-02-28",
@@ -918,6 +934,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Ames: How to visualize your data using ggplot2",
+    "group": "R-Ladies Ames",
+    "start": "2020-03-04",
+    "description": "<p>Join us for learning how to use ggplot2 for creating elegant graphics (time series, bar charts, boxplots and so on!)<br/>We will bring cookies!<\/p> ",
+    "url": "https://www.meetup.com/rladies-ames/events/269014551/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Komunitas R Indonesia: Kopdar useR! Bogor",
     "group": "Komunitas R Indonesia",
     "start": "2020-02-29",
@@ -931,6 +955,14 @@
     "start": "2020-03-02",
     "description": "<p>R en Rosario arranca el 2020 bien arriba!!! Este lunes 2 de marzo a las 18:30 recibimos la visita de Emilia Gibellini, quien brindará un taller sobre Redes Neuronales Artificiales usando R y TensorFlow.<br/>Te esperamos en OZ Digital Consulting (Alvear 1670, 3° piso).<br/>Para más info seguinos en Twitter: @renrosarioarg<\/p> ",
     "url": "https://www.meetup.com/R-en-Rosario/events/269016074/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Santa Barbara: RStudio::conf(2020) highlights",
+    "group": "R-Ladies Santa Barbara",
+    "start": "2020-03-04",
+    "description": "<p>Join us for an evening of highlights from the 2020 RStudio Conference that just happened in San Francisco Jan 29-30.<\/p> <p>Agenda:<\/p> <p>- Share a few highlights (all that attended and watched live are welcome to share!)<br/>- Watch video recordings of several RLadies' talks at RStudio::conf<br/>- Discuss change of RLadiesSB leadership; would you like to participate?<br/>- Meet and hang out with other RLadiesSB<\/p> <p>Don't forget:<\/p> <p>- Space is limited, so please RSVP and if you are no longer able to join please un-RSVP so other RLadies can join<br/>- Please bring snacks or drinks to share, and don't forget your own cup!<br/>- Please bring a name tag if you have one from a previous conference/event!<\/p> ",
+    "url": "https://www.meetup.com/rladies-santa-barbara/events/268532939/",
     "textColor": "#7171fb"
   },
   {
@@ -978,14 +1010,6 @@
     "start": "2020-02-27",
     "description": "<p>There's no specific speaker for February, but come and share what you're working on (it could just be a package name that we would explore as a group), and hear what the R community is up to -- also a great chance to get different perspetives on a programming challenge!<\/p> <p>Let us know if you want to chat about something in particular, and we can add the topic!<\/p> <p>Current topics:<\/p> <p>- saving data subsets to Excel for coworker consumption<br/>- ...<\/p> ",
     "url": "https://www.meetup.com/MadR-Madison-R-Programming-UseRs-Group/events/268547549/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Seattle useR Group (R Programming Language): Relational data models with the dm package",
-    "group": "Seattle useR Group (R Programming Language)",
-    "start": "2020-02-03",
-    "description": "<p>At this meetup we have a great presentation from Kirill Müller of cynkra. Fresh off of RStudio::Conf, lets keep the R enthusiasm going!<\/p> <p>Kirill will present {dm}, a new package that facilitates working with multiple tables. Three principal use cases can be identified: consuming a data model, building in-memory or local data models without relying on relational databases, and preparing consistent relational data models for consumption by others. Based on these use cases, he outlines the features of this package and discusses future development. The presentation will be interactive with live coding and a script that attendants can run during or after the presentation. The package is available on GitHub at <a href=\"https://krlmlr.github.io/dm\" class=\"linkified\">https://krlmlr.github.io/dm<\/a>.<\/p> <p>Kirill works on the boundary between data and computer science with more than 20 years of software engineering experience. He enjoys working with and contributing to the R ecosystem since 2012. In 2018 he joined forces with Christoph Sax to found cynkra, a Zurich-based consultancy that helps businesses and government institutions better understand their valuable data and communicate the insights, with a focus on the R ecosystem. <a href=\"https://cynkra.com\" class=\"linkified\">https://cynkra.com<\/a><\/p> <p>If you are wanting to have your own meetup to discuss the cool ways you are using R, reach out to Ellis Hughes via Meetup.com!<\/p> ",
-    "url": "https://www.meetup.com/Seattle-useR/events/267707286/",
     "textColor": "#7171fb"
   },
   {
@@ -1205,6 +1229,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Medellín: Segundo Encuentro R-Ladies Medellín: Visualización de datos con ggplot2",
+    "group": "R-Ladies Medellín",
+    "start": "2020-03-04",
+    "description": "<p>Una de las habilidades más importantes para la ciencia de datos es la creación de gráficos útiles y llamativos que permitan comunicar información significativa contenida en nuestras bases de datos. ggplot 2 es un paquete de visualización de datos del lenguaje de programación R. En este taller usaremos este paquete para analizar una base de datos que corresponde a los resultados de la Encuesta de la Juventud realizada en la Cuidad de Medellín.<\/p> <p>Para este taller es necesario traer tu computador y tener previamente instalado R y RStudio. Para mayor información sobre el proceso de instalación consulta este link: <a href=\"https://www.datacamp.com/community/news/install-r-and-rstudio-a-step-by-step-guide-for-beginners-q498j0akyh\" class=\"linkified\">https://www.datacamp.com/community/news/install-r-and-rstudio-a-step-by-step-guide-for-beginners-q498j0akyh<\/a><\/p> <p>Fecha: Miércoles 4 de marzo<br/>Lugar: Ruta N, sala 3<br/>Hora: 6:30-8:30 p.m.<\/p> <p>¡Anímate a participar en este taller!<\/p> <p>Te esperamos<\/p> <p>Pdta: Si no estas en la ciudad puedes ver el evento en: <a href=\"https://livestream.com/Ingenia-Tic-UdeA/forosconferenciasytalleres\" class=\"linkified\">https://livestream.com/Ingenia-Tic-UdeA/forosconferenciasytalleres<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-medellin/events/268478322/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Floripa: 7º Meetup R-Ladies Floripa",
     "group": "R-Ladies Floripa",
     "start": "2020-02-19",
@@ -1274,14 +1306,6 @@
     "start": "2020-05-21",
     "description": "<p>2019<\/p> <p>Session One: To be announced...please suggest a speaker/topic<\/p> <p>Session Two: To be announced...please suggest a speaker/topic<\/p> ",
     "url": "https://www.meetup.com/Colchester-R-Meetup/events/cwlsjrybchbcc/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Orange County R Users Group (OCRUG): Book club - Session 2 - Feature Engineering and Selection",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2020-03-04",
-    "description": "<p>After the success of our first book club, we are looking to start a new one. Again this will be headed up by Xi Chen. The idea is to motivate us to read books and discussing them together. This will help all of us to develop our skills.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 and 8:00 PM. The location is the community center at UCI.<\/p> <p>Book: Feature Engineering and Selection<br/><a href=\"http://www.feat.engineering/\" class=\"linkified\">http://www.feat.engineering/<\/a><br/><a href=\"https://www.amazon.com/gp/product/1138079227/\" class=\"linkified\">https://www.amazon.com/gp/product/1138079227/<\/a><\/p> <p>In this event, we will cover chapter 2.<\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/268311383/",
     "textColor": "blue"
   },
   {
@@ -1536,7 +1560,7 @@
     "title": "Zurich R User Group: Spatial Statistics: Lightning Talks",
     "group": "Zurich R User Group",
     "start": "2020-03-19",
-    "description": "<p>*CORONAVIRUS* - please be aware of the following specific provisions and precautionary measures:<\/p> <p>o UZH staff and students as well as external persons (!) returning from China, Italy, South Korea, Singapore or Iran (all regions of China except Hong Kong and Taiwan) are not permitted to attend events at UZH or enter UZH buildings within 14 days of their departure.<\/p> <p>o We will continue to closely follow the situation and cantonal directives. Depending on the developments until March 19, it is still possible that this event will be canceled. Therefore please check this page again shortly before the event.<\/p> <p>o In case the event is going to take place, we will ask every single attendee to sign up with first name, family name, and email address at the event. Thank you very much for your collaboration.<\/p> <p>o If you are experiencing symptoms (coughing, fever, sore throat, shortness of breath, runny nose), you should stay at home and call your GP or the canton’s medical hotline (phone[masked]) to discuss the next steps.<\/p> <p>o PLEASE, if you at a later point in time do not feel comfortable anymore going to an event with 100+ people attending, we completely understand - we only ask you to change your RSVP to the event (RUG members as well as speakers!).<\/p> <p>***<\/p> <p>Schedule:<br/>6.15 pm Doors open<br/>6.30 pm Welcome Zurich RUG<br/>6.40 pm Lightning Talks (see below)<br/>~ 8 pm Are you hiring? Looking for an R related job? ... or organising an interesting event? Take the stage for one minute. (DM us if you need a slot!)<br/>~ 8 - 9 pm Beer<\/p> <p>***<\/p> <p>### Spatial Cross Validation in the Presence of a Class Imbalance<br/>### and Spatial Heterogeneity: an Example from Species<br/>### Distribution Modelling<br/>Ben Fitzpatrick - Swiss Federal Institute for Forest, Snow and Landscape Research WSL, ETH Zürich<\/p> <p>### Space-time scan statistics for social media responses during<br/>### a large scale disaster<br/>Oliver Gruebner - Epidemiology, Biostatistics and Prevention Institute &amp; Department of Geography, UZH<\/p> <p>### SPARQL with R<br/>Katharina Kaelin, Statistisches Amt, Kanton Zürich<\/p> <p>### Spatially Varying Coefficient Models<br/>### With an Application to Real Estate Price Prediction<br/>Jakob Dambon - Institute of Mathematics, UZH, Lucerne University of Applied Sciences and Arts (HSLU)<\/p> <p>### Quantifying Wild Orangutan Ranging Behaviour with R<br/>Alie Ashbury - Department of Anthropology, UZH<\/p> <p>### Spatially consistent postprocessing of probabilistic cloud cover forecasts<br/>Stephan Hemri - MeteoSwiss<\/p> ",
+    "description": "<p>*CORONAVIRUS* - please be aware of the following specific provisions and precautionary measures:<\/p> <p>o UZH staff and students as well as external persons (!) returning from China, Italy, South Korea, Singapore or Iran (all regions of China except Hong Kong and Taiwan) are not permitted to attend events at UZH or enter UZH buildings within 14 days of their departure.<\/p> <p>o We will continue to closely follow the situation and cantonal directives. Depending on the developments until March 19, it is still possible that this event will be canceled. Therefore please check this page again shortly before the event.<\/p> <p>o In case the event is going to take place, we will ask every single attendee to sign up with first name, family name, and email address at the event. Thank you very much for your collaboration.<\/p> <p>o If you are experiencing symptoms (coughing, fever, sore throat, shortness of breath, runny nose), you should stay at home and call your GP or the canton’s medical hotline (phone[masked]) to discuss the next steps.<\/p> <p>o PLEASE, if at a later point in time you do no longer feel comfortable attending an event with 100+ people, we completely understand - we only ask you to change your RSVP to the event (RUG members as well as speakers!).<\/p> <p>***<\/p> <p>Schedule:<br/>6.15 pm Doors open<br/>6.30 pm Welcome Zurich RUG<br/>6.40 pm Lightning Talks (see below)<br/>~ 8 pm Are you hiring? Looking for an R related job? ... or organising an interesting event? Take the stage for one minute. (DM us if you need a slot!)<br/>~ 8 - 9 pm Beer<\/p> <p>***<\/p> <p>### Spatial Cross Validation in the Presence of a Class Imbalance<br/>### and Spatial Heterogeneity: an Example from Species<br/>### Distribution Modelling<br/>Ben Fitzpatrick - Swiss Federal Institute for Forest, Snow and Landscape Research WSL, ETH Zürich<\/p> <p>### Space-time scan statistics for social media responses during<br/>### a large scale disaster<br/>Oliver Gruebner - Epidemiology, Biostatistics and Prevention Institute &amp; Department of Geography, UZH<\/p> <p>### SPARQL with R<br/>Katharina Kaelin, Statistisches Amt, Kanton Zürich<\/p> <p>### Spatially Varying Coefficient Models<br/>### With an Application to Real Estate Price Prediction<br/>Jakob Dambon - Institute of Mathematics, UZH, Lucerne University of Applied Sciences and Arts (HSLU)<\/p> <p>### Quantifying Wild Orangutan Ranging Behaviour with R<br/>Alie Ashbury - Department of Anthropology, UZH<\/p> <p>### Spatially consistent postprocessing of probabilistic cloud cover forecasts<br/>Stephan Hemri - MeteoSwiss<\/p> ",
     "url": "https://www.meetup.com/Zurich-R-User-Group/events/268951996/",
     "textColor": "blue"
   },
@@ -1773,6 +1797,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Wiesbaden R User Group: M versus R versus P: Power BI Transformation im Vergleich zu anderen Sprachen",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-06-02",
+    "description": "<p>Hallo liebe Wiesbaden R Userinos!<br/>Das erste Halbjahr 2020 steht ganz im Zusammenspiel von R und Microsoft.<\/p> <p>Oliver Engels, Leiter der PASS Deutschland e.V. RG Rhein Main, die sich mit interessanten Themen aus dem Bereich Microsoft Data Platform beschäftigt, konnten wir für einen Vergleich von R, Python und Microsoft Power BI gewinnen.<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/267829641/",
+    "textColor": "blue"
+  },
+  {
     "title": "R Users Monterrey: Introducción al Aprendizaje por Refuerzo en R",
     "group": "R Users Monterrey",
     "start": "2020-03-10",
@@ -1842,6 +1874,14 @@
     "start": "2020-05-20",
     "description": "<p>For our May meetup we will have two talks by Maria Witek (University of Birmingham) and Colin Gillespie (Jumping Rivers).<\/p> <p>This time we will be at the University of Birmingham campus (directions below), doors open at 17:30 and presentations will start at 18:15. Food and drinks in between.<\/p> <p>Presentations<\/p> <p>1) Maria Witek - University of Birmigham<br/>2) Colin Gillespie - Jumping Rivers<\/p> <p>The location of the meetup is room MUIR-112, Muirhead Tower, University of Birmingham campus (B15 2TN). The building is just off Pritchatts Road, which is a short walk from the train station (called University) or bus stop (busses X20/21/22, stop University North Gate). If you're coming by car the nearest car park is the UoB North East car park.<\/p> ",
     "url": "https://www.meetup.com/BirminghamR/events/269045547/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Vienna<-R: Vienna<-R 2020 March - Joint Meetup with the Thalesians",
+    "group": "Vienna<-R",
+    "start": "2020-03-24",
+    "description": "<p>Dear ViennaR members,<\/p> <p>our next event is jointly organised with the Thalesians Austria Meetup Group and has thus a stronger focus on quantitative finance topics. R itself has a long history in quant finance and we are happy to bring the two communities together for the first time!<br/>The Meetup is hosted at Talent Garden in the main hall on the 6th floor - refreshments are provided by our host for the networking session.<\/p> <p>TOPICS<\/p> <p>1. Philipp Mayer: Complex analysis in financial markets; How sqrt(-1) can mess up your books<br/>2. Christopher Helf: Developing trading strategies in the browser with Trality (<a href=\"https://www.trality.com\" class=\"linkified\">https://www.trality.com<\/a>)<\/p> <p>DETAILS<\/p> <p>1. On the surface complex analysis (a classical branch of mathematics dealing with complex numbers, or the complex plane, ranging back to the 16th century) and capital markets seem to have not too much in common, except maybe the same starting letter. However, working in the industry I’ve come across very practical problems challenging this believe. Here, I would like to give a peculiar example, that, although already a bit aged (mid 2000s), still shows that sometimes you might consider to think twice when capital markets are projected on the complex plane.<\/p> <p>2. Trality is a new platform for the development, testing and deployment of (crypto-) trading strategies based on Python. The Trality team will present their WebAssembly based technology that allows users to develop, debug, and encrypt trading strategies directly in the browser without setup and will give a short insight and introduction into their API and product as well as an outlook on future development directions in this area.<\/p> <p>See you there!<\/p> <p>Greetings,<br/>ViennaR organizers<\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/269180461/",
     "textColor": "blue"
   },
   {
@@ -2116,14 +2156,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Freiburg: R-Ladies for all! Networking event and Anniversary celebration ",
-    "group": "R-Ladies Freiburg",
-    "start": "2020-03-04",
-    "description": "<p>We turn one! Come celebrate with us! :) There will be food, drinks and a whole lot of lovely people!<\/p> <p>If you're new, come say hello, ask us your questions, tell us your ideas. If you're revisiting, tell us what you liked, what you didn't, brainstorm with us for the future and how we can improve our community!<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/269102167/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Oslo: Statistrikk: Hard facts by soft materials",
     "group": "R-Ladies Oslo",
     "start": "2020-05-11",
@@ -2159,7 +2191,7 @@
     "title": "R-Ladies Newcastle: March meetup - data wrangling using the tidyverse",
     "group": "R-Ladies Newcastle",
     "start": "2020-03-10",
-    "description": "<p>This will be a tutorial session where you can improve your R skills! Please bring a laptop. This meetup will be suitable both for beginners and intermediate R users.<\/p> <p>We will work with tidyverse packages and learn how to do data wrangling in R, for example how to change the format of your data, how to combine different dataframes, summarising your data, and dealing with factor levels.<\/p> <p>We will meet at 6pm, and then everyone can work on the tutorials. Help will be available.<\/p> <p>Please have R and RStudio installed on your laptop.<\/p> <p>Location tbc.<\/p> <p>If you have any questions, comments or suggestions, you can email us at [masked]<\/p> ",
+    "description": "<p>This will be a tutorial session where you can improve your R skills! Please bring a laptop. This meetup will be suitable both for beginners and intermediate R users.<\/p> <p>We will work with tidyverse packages and learn how to do data wrangling in R, for example how to change the format of your data, how to combine different dataframes, summarising your data, and dealing with factor levels.<\/p> <p>We will meet at 6pm, and then everyone can work on the tutorials. Help will be available.<\/p> <p>Please have R and RStudio installed on your laptop.<\/p> <p>Location: The Greenhouse, ground floor of Northumbria University Students’ Union.<\/p> <p>If you have any questions, comments or suggestions, you can email us at [masked]<\/p> ",
     "url": "https://www.meetup.com/rladies-newcastle/events/269128577/",
     "textColor": "blue"
   },
@@ -2188,14 +2220,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Lancaster: Introduction to Shiny",
-    "group": "R-Ladies Lancaster",
-    "start": "2020-03-04",
-    "description": "<p>Shiny is an R package that makes it easy to build interactive web apps straight from R. In this beginner-friendly session, we'll be working through part one of the RStudio shiny tutorial.<\/p> <p><a href=\"https://shiny.rstudio.com/tutorial/\" class=\"linkified\">https://shiny.rstudio.com/tutorial/<\/a><\/p> <p>This will be an interactive session so please bring your laptop. Ideally, this should have R and RStudio installed. If you have trouble downloading these, you can use <a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>. You will also need the shiny R package. Please, install this before coming along to the session. You can do this by running install.packages(\"shiny\") in R.<\/p> <p>We will be in Lancaster University Library - Room C135. The session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.<\/p> ",
-    "url": "https://www.meetup.com/rladies-lancaster/events/268805873/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies San Diego: flexdashboard: Easy interactive dashboards for R",
     "group": "R-Ladies San Diego",
     "start": "2020-03-25",
@@ -2217,14 +2241,6 @@
     "start": "2020-03-14",
     "description": "<p>Please remember to park in the lot across Palm. Thanks!<\/p> ",
     "url": "https://www.meetup.com/rladies-tampa/events/267215888/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Ames: How to visualize your data using ggplot2",
-    "group": "R-Ladies Ames",
-    "start": "2020-03-04",
-    "description": "<p>Join us for learning how to use ggplot2 for creating elegant graphics (time series, bar charts, boxplots and so on!)<br/>We will bring cookies!<\/p> ",
-    "url": "https://www.meetup.com/rladies-ames/events/269014551/",
     "textColor": "blue"
   },
   {
@@ -2297,14 +2313,6 @@
     "start": "2020-03-17",
     "description": "<p>Show others how you tackle your R/data science projects. Which tools do you use to organize workflow. Do you have a specific structure to organize projects, particular packages or other external tools that you use? We hope to have ~ 5 presentations from different people showing their workflow. So far we have three volunteers, please get in touch with me if you would like to contribute as well.<\/p> <p>Location: <a href=\"https://www.geodata.uni-goettingen.de/lageplan/?ident=5361_1_EG_0.110\" class=\"linkified\">https://www.geodata.uni-goettingen.de/lageplan/?ident=5361_1_EG_0.110<\/a><\/p> ",
     "url": "https://www.meetup.com/Gottingen-Software-Development-Meetup/events/269155910/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Santa Barbara: RStudio::conf(2020) highlights",
-    "group": "R-Ladies Santa Barbara",
-    "start": "2020-03-04",
-    "description": "<p>Join us for an evening of highlights from the 2020 RStudio Conference that just happened in San Francisco Jan 29-30.<\/p> <p>Agenda:<\/p> <p>- Share a few highlights (all that attended and watched live are welcome to share!)<br/>- Watch video recordings of several RLadies' talks at RStudio::conf<br/>- Discuss change of RLadiesSB leadership; would you like to participate?<br/>- Meet and hang out with other RLadiesSB<\/p> <p>Don't forget:<\/p> <p>- Space is limited, so please RSVP and if you are no longer able to join please un-RSVP so other RLadies can join<br/>- Please bring snacks or drinks to share, and don't forget your own cup!<br/>- Please bring a name tag if you have one from a previous conference/event!<\/p> ",
-    "url": "https://www.meetup.com/rladies-santa-barbara/events/268532939/",
     "textColor": "blue"
   },
   {
@@ -2396,6 +2404,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Rio de Janeiro: Meetup R Ladies Rio Abril 2020",
+    "group": "R-Ladies Rio de Janeiro",
+    "start": "2020-04-28",
+    "description": "<p>Mais detalhes em breve! 💜<\/p> ",
+    "url": "https://www.meetup.com/rladies-rio/events/269186974/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies St. Louis: Qualitative analysis in R",
     "group": "R-Ladies St. Louis",
     "start": "2020-03-17",
@@ -2414,7 +2430,7 @@
   {
     "title": "R-Ladies Tbilisi: დამწყებთა სემინარი (2)",
     "group": "R-Ladies Tbilisi",
-    "start": "2020-03-15",
+    "start": "2020-03-29",
     "description": "<p>გაცნობითი ხასიათის შესავალი სემინარები თებერვალ-მარტში, შაბათ–კვირას ჩატარდება. ამ შეხვედრებზე გავეცნობით R-ის საფუძვლებს.<\/p> <p>ინფორმაცია და რეგისტრაცია: <a href=\"https://bit.ly/3bpdyiH\" class=\"linkified\">https://bit.ly/3bpdyiH<\/a><\/p> <p>=======================<br/>Introductory workshops for beginners will be organised on two weekends in February and March. These meetups will introduce the basics of R.<br/>Info &amp; registration: <a href=\"https://bit.ly/3bpdyiH\" class=\"linkified\">https://bit.ly/3bpdyiH<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-tbilisi/events/268557597/",
     "textColor": "blue"
@@ -2497,14 +2513,6 @@
     "start": "2020-03-07",
     "description": "<p>Kızılay'da bir cafede buluşup sohbet edip tanışacağız. Amaç 8 Mart ve birbirimizi daha yakından tanıma :) Katılmak isteyenler Ad-Soyad-8 Mart yazıp [masked] hesabına bildirsinler lütfen :)<\/p> ",
     "url": "https://www.meetup.com/rladies-ankara/events/269092053/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Medellín: Segundo Encuentro R-Ladies Medellín: Visualización de datos con ggplot2",
-    "group": "R-Ladies Medellín",
-    "start": "2020-03-04",
-    "description": "<p>Una de las habilidades más importantes para la ciencia de datos es la creación de gráficos útiles y llamativos que permitan comunicar información significativa contenida en nuestras bases de datos. ggplot 2 es un paquete de visualización de datos del lenguaje de programación R. En este taller usaremos este paquete para analizar una base de datos que corresponde a los resultados de la Encuesta de la Juventud realizada en la Cuidad de Medellín.<\/p> <p>Para este taller es necesario traer tu computador y tener previamente instalado R y RStudio. Para mayor información sobre el proceso de instalación consulta este link: <a href=\"https://www.datacamp.com/community/news/install-r-and-rstudio-a-step-by-step-guide-for-beginners-q498j0akyh\" class=\"linkified\">https://www.datacamp.com/community/news/install-r-and-rstudio-a-step-by-step-guide-for-beginners-q498j0akyh<\/a><\/p> <p>Fecha: Miércoles 4 de marzo<br/>Lugar: Ruta N, sala 3<br/>Hora: 6:30-8:30 p.m.<\/p> <p>¡Anímate a participar en este taller!<\/p> <p>Te esperamos<\/p> <p>Pdta: Si no estas en la ciudad puedes ver el evento en: <a href=\"https://livestream.com/Ingenia-Tic-UdeA/forosconferenciasytalleres\" class=\"linkified\">https://livestream.com/Ingenia-Tic-UdeA/forosconferenciasytalleres<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-medellin/events/268478322/",
     "textColor": "blue"
   },
   {
