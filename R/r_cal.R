@@ -445,7 +445,7 @@ get_upcoming_events <- function(){
   rugs = read.csv("docs/data/rugs_list.csv", encoding = "UTF-8")
   rugs_urlnames_full = rugs$rugs_urlnames_full
     
-all_upcoming_revents <- lapply(rugs_urlnames_full[c(-388,-41, -193, -129)], 
+all_upcoming_revents <- lapply(rugs_urlnames_full[c(-2,-143,-153,-154,-164,-187,-188, -193,-194, -237,-239, -220,-234, -240,-256,-246,-262,-268,-270,-288,-320,-326,-339,-359,-366,  -388,-41, -193, -129)], 
                                  function(x) 
                                  {
                                    y <- get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
@@ -461,7 +461,7 @@ all_upcoming_revents <- lapply(rugs_urlnames_full[c(-388,-41, -193, -129)],
 #rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
 #rugs_urlnames <- gsub("/", "", rugs_urlnames) 
 
-all_past_revents <- lapply(rugs_urlnames_full[c(-388,-41, -193, -129)], 
+all_past_revents <- lapply(rugs_urlnames_full[c(-2,-143,-153,-154,-164,-187,-188, -193,-194, -237,-239, -220,-234, -240,-256,-246,-262,-268,-270,-288,-320,-326,-339,-359,-366,  -388,-41, -193, -129)], 
                           function(x) 
                           {
                             y <- get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date())
