@@ -56,14 +56,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Bengaluru R UseR Group (BRUG): Workshop: Building a Simple Dashboard with FlexDashboard using R (Online-only)",
-    "group": "Bengaluru R UseR Group (BRUG)",
-    "start": "2020-03-14",
-    "description": "<p>After careful consideration, Due to concerns about the current outbreak of COVID-19 (Novel Coronavirus), We'll make this month's event Online-only Workshop.<\/p> <p>This Workshop will<br/>+ Introduce you to Flexdashboard<br/>+ Flexdashboard basic syntaxes and layouts<br/>+ Why FlexDashboard<br/>+ Building Simple Dashboard with Real Data (Demo)<\/p> <p>Similar Dashboard: <a href=\"https://www.kaggle.com/nulldata/coronavirus-impact-interacive-dashboard-using-r\" class=\"linkified\">https://www.kaggle.com/nulldata/coronavirus-impact-interacive-dashboard-using-r<\/a><\/p> <p>Meeting Platform: Webex<\/p> <p>You can just click the link and join!<\/p> <p>Meeting link: <a href=\"https://bit.ly/3aTer1D\" class=\"linkified\">https://bit.ly/3aTer1D<\/a><br/>Meeting number:<br/>[masked]<br/>Password:<br/>X4EnDEq34bc<\/p> ",
-    "url": "https://www.meetup.com/BengaluRu-use-R-gRoup/events/269374220/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "CaRdiff - the Cardiff R User Group: Tidy Thursday: Remote Workshop",
     "group": "CaRdiff - the Cardiff R User Group",
     "start": "2020-03-19",
@@ -360,13 +352,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "BaselR: satRday in Neuchatel",
-    "group": "BaselR",
-    "start": "2020-03-14",
-    "url": "https://www.meetup.com/BaselR/events/268781107/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup",
     "group": "R-Ladies Columbus",
     "start": "2020-04-09",
@@ -444,14 +429,6 @@
     "start": "2020-03-25",
     "description": "<p>HEY EVERYONE,<\/p> <p>THIS EVENT HAS BEEN CANCELLED DUE TO THE CURRENT RECOMMENDED PRECAUTIONS TO PREVENT THE SPREAD OF COVID-19.<br/>WE'LL UPDATE YOU AGAIN IN APRIL. HOPEFULLY WE'LL BE BACK TO HOSTING OUR REGULAR MONTHLY MEETUPS BY THEN.<\/p> <p>THANKS.<\/p> <p>Join us on March 25th to learn more about using flexdashboard in R.<\/p> <p>It's an awesome easy way to transform your R markdown documents into great looking interactive dashboards you can share with the world!<\/p> <p>Here are some details on this new package (from RStudio):<\/p> <p>- Use R Markdown to publish a group of related data visualizations as a dashboard.<br/>- Support for a wide variety of components including htmlwidgets; base, lattice, and grid graphics; tabular data; gauges and value boxes; and text annotations.<br/>- Flexible and easy to specify row and column-based layouts. Components are intelligently re-sized to fill the browser and adapted for display on mobile devices.<br/>- Storyboard layouts for presenting sequences of visualizations and related commentary.<br/>- Optionally use Shiny to drive visualizations dynamically.<\/p> <p>We're meeting at 6:30pm at Hera Hub Mission Valley.<\/p> <p>We hope to see you all there!<\/p> <p>Your R-Ladies SD organizers<\/p> ",
     "url": "https://www.meetup.com/rladies-san-diego/events/269151282/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Tampa: CANCELED - Tidyverse Skills: Data Transformation",
-    "group": "R-Ladies Tampa",
-    "start": "2020-03-14",
-    "description": "<p>Dear @RLadiesTampa: With a heavy heart, we're canceling this weekend's meeting. Hopefully, we can meet next month. @TheGinaGi is reading the #ggplot2 book, and will start to post answers after she submits her doctoral #capstone next week. Take care of yourselves, and each other!<\/p> ",
-    "url": "https://www.meetup.com/rladies-tampa/events/267215888/",
     "textColor": "#7171fb"
   },
   {
@@ -914,7 +891,7 @@
     "title": "Trenton R Users (TRU): Meetup for April - 2020",
     "group": "Trenton R Users (TRU)",
     "start": "2020-04-18",
-    "description": "<p>The topic of this month's meetup will be decided as the time approaches near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) Organisers preference (in that order)<\/p> <p>Please contact the organizers, if you would like to present in our meetup on any topic related to data science domain.<\/p> ",
+    "description": "<p>Topic of the Month:<br/>Predicting With Small Data using Bayes - Ritabrata Bhattacharya<\/p> <p>Rapid Fire Round:<br/>Please contact the organizers, if you would like to present. Due Date: 1 day prior to the meetup day.<br/>Note: Each participant will get ~3min to present the idea. If the audience votes to go beyond then the presenter gets up to 10 mins to complete the rest of their presentation.<\/p> ",
     "url": "https://www.meetup.com/TRUgroup/events/268224143/",
     "textColor": "blue"
   },
@@ -1207,10 +1184,10 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Twin Cities: (VIRTUAL) May Meetup Placeholder",
+    "title": "R-Ladies Twin Cities: (VIRTUAL) Multilevel Modeling w/ MN Public Salaries Data",
     "group": "R-Ladies Twin Cities",
     "start": "2020-05-14",
-    "description": "<p>Contact Christina Knudson and Lindsey Dietz if you (or you + friends) are interested in giving a talk during this time!<\/p> ",
+    "description": "<p>It’s easy to get pretty far learning R and basic statistical analysis without really encountering the concept of multilevel modeling. This is unfortunate, because multilevel modeling can be a useful tool when data generating processes are hierarchical in nature--a situation which can be quite common in social, ecological, and political systems.<\/p> <p>Alison Link will explore some of the multilevel modeling techniques and philosophies discussed in the book \"Statistical Rethinking\" by Richard McElreath, and explore how these concepts can be applied to a public salaries dataset on Minnesota state employees. The goal? Learn something new about about multilevel modeling AND generate some interesting findings about Minnesota state employee compensation!<\/p> ",
     "url": "https://www.meetup.com/rladies-tc/events/268384963/",
     "textColor": "blue"
   },
