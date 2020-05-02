@@ -5,6 +5,7 @@ sudo: false
 r_packages:
 - curl
 - jsonlite
+- purrr
 
 r_github_packages: rladies/meetupr
 
