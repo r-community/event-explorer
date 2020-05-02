@@ -442,44 +442,46 @@ options(meetupr.use_oauth = TRUE)
 
 
 get_upcoming_events <- function(){
-  rugs = read.csv("docs/data/rugs_list.csv", encoding = "UTF-8")
+  rugs = read.csv("https://raw.githubusercontent.com/r-community/event-explorer/master/docs/data/rugs_list.csv", encoding = "UTF-8")
   rugs_urlnames_full = rugs$rugs_urlnames_full
-    
-all_upcoming_revents <- lapply(rugs_urlnames_full[c(-2,-143,-153,-154,-164,-187,-188, -193,-194, -237,-239, -220,-234, -240,-256,-246,-262,-268,-270,-288,-320,-326,-339,-359,-366,  -388,-41, -193, -129)], 
+  s_get_events <- purrr::safely(get_events)
+  all_upcoming_revents <- lapply(rugs_urlnames_full, 
                                  function(x) 
                                  {
-                                   y <- get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
-                                   Sys.sleep(0.4)
+                                   y <- s_get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
+                                   Sys.sleep(0.1)
                                    y
                                  }
   )
+  #list of closed groups [c(-2,-143,-153,-154,-164,-187,-188, -193,-194, -237,-239, -220,-234, -240,-256,-246,-262,-268,-270,-288,-320,-326,-339,-359,-366,  -388,-41, -193, -129)]
+  # PAST EVENTS 30 days ago
+  #rugs2 <- rugs[!(rugs$past_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
+  #rugs2 <- rugs2[!grepl("sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software", tolower(rugs2$name)),]
+  #rugs_urlnames <- rugs2$fullurl
+  #rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
+  #rugs_urlnames <- gsub("/", "", rugs_urlnames) 
+ 
+  all_past_revents <- lapply(rugs_urlnames_full, 
+                             function(x) 
+                             {
+                               y <- s_get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date())
+                               Sys.sleep(0.1)
+                               y
+                             }
+  )  
+  all_upcoming_revents <- purrr::compact(purrr::map(all_upcoming_revents, c("result")))
+  all_past_revents <- purrr::compact(purrr::map(all_past_revents, c("result")))
+  eventdf <- do.call("rbind", lapply(all_upcoming_revents, '[', c("name","group_name","local_date", "description","link")))
+  eventdf <- eventdf[!is.na(eventdf$local_date),]
+  past_eventdf <- do.call("rbind", lapply(all_past_revents, '[', c("name","group_name","local_date", "description","link")))
+  past_eventdf$textColor <- "#7171fb"
+  eventdf$textColor <- "blue"
+  eventdf <- rbind(past_eventdf, eventdf)
+  eventdf$name <- paste(eventdf$group_name, eventdf$name, sep = ": ")
+  colnames(eventdf) <- c("title", "group","start", "description", "url", "textColor")
   
-# PAST EVENTS 30 days ago
-#rugs2 <- rugs[!(rugs$past_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
-#rugs2 <- rugs2[!grepl("sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software", tolower(rugs2$name)),]
-#rugs_urlnames <- rugs2$fullurl
-#rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
-#rugs_urlnames <- gsub("/", "", rugs_urlnames) 
-
-all_past_revents <- lapply(rugs_urlnames_full[c(-2,-143,-153,-154,-164,-187,-188, -193,-194, -237,-239, -220,-234, -240,-256,-246,-262,-268,-270,-288,-320,-326,-339,-359,-366,  -388,-41, -193, -129)], 
-                          function(x) 
-                          {
-                            y <- get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date())
-                            Sys.sleep(0.4)
-                            y
-                          }
-)  
-eventdf <- do.call("rbind", lapply(all_upcoming_revents, '[', c("name","group_name","local_date", "description","link")))
-eventdf <- eventdf[!is.na(eventdf$local_date),]
-past_eventdf <- do.call("rbind", lapply(all_past_revents, '[', c("name","group_name","local_date", "description","link")))
-past_eventdf$textColor <- "#7171fb"
-eventdf$textColor <- "blue"
-eventdf <- rbind(past_eventdf, eventdf)
-eventdf$name <- paste(eventdf$group_name, eventdf$name, sep = ": ")
-colnames(eventdf) <- c("title", "group","start", "description", "url", "textColor")
-
-event_json <- jsonlite::toJSON(eventdf, pretty = TRUE )
-writeLines(event_json, "docs/data/rugs_events.json")
+  event_json <- jsonlite::toJSON(eventdf, pretty = TRUE )
+  writeLines(event_json, "docs/data/rugs_events.json")
 }
 
 get_upcoming_events()
