@@ -392,14 +392,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies La Paz: Study Group - R para Ciencia de Datos [Sesión 1]",
-    "group": "R-Ladies La Paz",
-    "start": "2020-04-04",
-    "description": "<p>Empezamos con el Study Group de R en La Paz!!<\/p> <p>En estas sesiones aprenderas el lenguaje R desde 0, nuestro principal objetivo es ayudarte en tu camino de aprendizaje en Ciencia de Datos.<\/p> <p>SESION 1 - ABRIL<br/>1. Instalación de R<br/>2 Introducción a Exploración de Datos<br/>3.Flujo de trabajo: conocimientos básicos con R Studio<\/p> <p>Te enviaremos el link de Zoom este sábado.<br/>Recuerda, empezaremos a las 3 de la tarde :) .<br/>Te esperamos!!<\/p> ",
-    "url": "https://www.meetup.com/rladies-la-paz/events/269801211/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies La Paz: Study Group - R para Ciencia de Datos [Sesión 2]",
     "group": "R-Ladies La Paz",
     "start": "2020-04-11",
@@ -613,6 +605,14 @@
     "start": "2020-04-27",
     "description": "<p>Whether you're an R newbie or experienced Data Scientist, all are welcome at Bristol R. Welcome to our first ever online meetup!<\/p> <p>7:00pm - 8:00pm Talks<\/p> <p>7.00pm Remy Gavard - How not to be a R-ookie: A PhD student story.<\/p> <p>7.30pm Colin Fay - Engineering Shiny Apps using {golem}<\/p> <p>Bristol R User Group is proudly sponsored by Unai, the R Consortium, and Ovo Energy who are our venue sponsor when we're back to running these in person!<\/p> ",
     "url": "https://www.meetup.com/Bristol-R-User-Group/events/270184310/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Writing a federal resume",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-05-04",
+    "description": "<p>Kathryn Troutman is the federal resume writing guru: <a href=\"https://resume-place.com/about/kathryn-troutman/\" class=\"linkified\">https://resume-place.com/about/kathryn-troutman/<\/a>. In this meetup, she will introduce us to the federal resume that she helped design, and lead us through several examples of federal resumes. She has over 30 years experience in this field, and has written over 30 books on this topic. She is currently creating a new course in Udemy about resume writing, federal resume writing and how to apply to all of the new COVID-19 Federal and state jobs. Kathryn is a sage who will gently guide us through this difficult process.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/270278556/",
     "textColor": "#7171fb"
   },
   {
@@ -960,10 +960,10 @@
     "textColor": "blue"
   },
   {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 008 - Erin LeDell",
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Webinar 008 E. LeDell - Scalable Automatic Machine Learning in R with H2O AutoML",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-05-21",
-    "description": "<p>Speaker: Erin LeDell<br/>Title: To be added soon!<br/>Bio + Abstract: To be added soon!<\/p> <p>- donate: <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 8:00 pm GMT+2 (starting April 2nd!)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<\/p> ",
+    "description": "<p>Speaker: Erin LeDell<br/>Title: Scalable Automatic Machine Learning in R with H2O AutoML<br/>Bio + Abstract: To be added soon!<\/p> <p>- donate: <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 8:00 pm GMT+2 (starting April 2nd!)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<\/p> <p>Abstract:<br/>The focus of this presentation is scalable and automatic machine learning in R using the H2O machine learning platform. H2O is an open source, distributed machine learning platform is designed to scale to very large datasets that may not fit into RAM on a single machine. We will provide a brief overview of the field of Automatic Machine Learning, followed by a detailed look inside H2O's AutoML algorithm. H2O AutoML provides an easy-to-use interface which automates data pre-processing, training and tuning a large selection of candidate models (including multiple stacked ensemble models for superior model performance), and due to the distributed nature of the H2O platform, H2O AutoML can scale to very large datasets. The result of the AutoML run is a \"leaderboard\" of H2O models which can be easily exported for use in production.<\/p> <p>Biogram:<br/>Dr. LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. Before joining H2O.ai, she was the Principal Data Scientist at two AI startups (both acquired), the founder of DataScientific, Inc. and a software engineer at a large consulting firm. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She also holds a B.S. and M.A. in Mathematics. Erin has founded Women+ in Machine Learning &amp; Data Science and co-founded R-Ladies Global.<\/p> ",
     "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270193513/",
     "textColor": "blue"
   },
@@ -1306,9 +1306,9 @@
   {
     "title": "R-Ladies Sydney: Show and Tell your R Code",
     "group": "R-Ladies Sydney",
-    "start": "2020-05-05",
-    "description": "<p>Have you been working on code you are particularly proud of? Or do you have some code that is driving you crazy?<\/p> <p>Bring it along to this online event and share your triumph and/or frustration. Indako has some data importing code to share and Jen has been using R for all kinds of non-research-related things recently. They would love to see your code too.<\/p> <p>This event will be via Zoom. Those who RSVP will receive the meeting link via email.<\/p> ",
-    "url": "https://www.meetup.com/rladies-sydney/events/270309479/",
+    "start": "2020-06-02",
+    "description": "<p>Have you been working on code you are particularly proud of? Or do you have some code that is driving you crazy?<\/p> <p>Bring it along to this online event and share your triumph and/or frustration. Last time we learned about some hidden gems of dplyr, the magic of facet_wrap in ggplot and some super cool mapping using leaflet. Who knows what this session will bring!<\/p> <p>This event will be via Zoom. Those who RSVP will receive the meeting link via email.<\/p> ",
+    "url": "https://www.meetup.com/rladies-sydney/events/270459232/",
     "textColor": "blue"
   },
   {
@@ -1480,14 +1480,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Washington D.C.: Writing a federal resume",
-    "group": "R-Ladies Washington D.C.",
-    "start": "2020-05-04",
-    "description": "<p>Kathryn Troutman is the federal resume writing guru: <a href=\"https://resume-place.com/about/kathryn-troutman/\" class=\"linkified\">https://resume-place.com/about/kathryn-troutman/<\/a>. In this meetup, she will introduce us to the federal resume that she helped design, and lead us through several examples of federal resumes. She has over 30 years experience in this field, and has written over 30 books on this topic. She is currently creating a new course in Udemy about resume writing, federal resume writing and how to apply to all of the new COVID-19 Federal and state jobs. Kathryn is a sage who will gently guide us through this difficult process.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dc/events/270278556/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Washington D.C.: Job hunting and salary negotiation",
     "group": "R-Ladies Washington D.C.",
     "start": "2020-05-06",
@@ -1541,6 +1533,14 @@
     "start": "2020-05-07",
     "description": "<p>Reproducible data science encompasses a broad range of practices including, but not limited to, version control (such as git) and literate programming (like R Markdown). One practice that is often overlooked is proper management of packages. Code that works with software or package version you have installed may break when run with different software or package version.<\/p> <p>In this webinar, we will discuss R package management solutions for two scenarios. Isabella will show how to maintain installed packages when upgrading to a new version of R, using the recent release of R 4.0 as an example. Mike will demonstrate how the renv package can be used to maintain packages within individual data science projects.<\/p> ",
     "url": "https://www.meetup.com/Seattle-useR/events/270353523/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Los Angeles: RLadies LA May Virtual Meetup: Writing Functions!",
+    "group": "R-Ladies Los Angeles",
+    "start": "2020-05-16",
+    "description": "<p>Hello RLadies!<\/p> <p>We're back for another virtual meetup! Katie Leap will be giving a workshop about writing functions. We'll discuss when you need to write a function, how they're written, how to find functions that already exist, how to adapt code into functions, and how to use the ideas behind functional programming to make your life easier.<\/p> <p>Have a question about functions that you'd like Katie to cover? Post a comment on the event page!<\/p> <p>The Zoom link is available once you RSVP. All materials from the tutorial will be available on Github afterward.<\/p> <p>As always we welcome people regardless of gender, but our group is intended for those who identify with a gender minority (trans women, cis women, trans men, non-binary, other). We expect all attendees to abide by our Code of Conduct.<\/p> <p>See you there!<br/>Katie Leap<br/>@katie_leap<\/p> <p>PS: We're always looking for presenters! If you're interested, please reach out to Amanda ([masked]) or Katie ([masked]).<\/p> ",
+    "url": "https://www.meetup.com/rladies-la/events/270456032/",
     "textColor": "blue"
   },
   {
@@ -1651,7 +1651,7 @@
     "title": "Newcastle Upon Tyne Data Science Meetup: Virtual Meet-up",
     "group": "Newcastle Upon Tyne Data Science Meetup",
     "start": "2020-05-05",
-    "description": "<p>Speaker: Jarad Lander<\/p> <p>Organisation: <a href=\"https://www.landeranalytics.com/\" class=\"linkified\">https://www.landeranalytics.com/<\/a><\/p> <p>Title: Visualizing Models<\/p> <p>About:<\/p> <p>Jared founded Lander Analytics, which is a full-service consulting firm based in New York City helping clients enhance their analytical capabilities to drive value from data.<\/p> ",
+    "description": "<p>Speaker: Jared Lander<\/p> <p>Organisation: <a href=\"https://www.landeranalytics.com/\" class=\"linkified\">https://www.landeranalytics.com/<\/a><\/p> <p>Title: Visualizing Models<\/p> <p>About:<\/p> <p>Jared founded Lander Analytics, which is a full-service consulting firm based in New York City helping clients enhance their analytical capabilities to drive value from data.<\/p> ",
     "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/270173513/",
     "textColor": "blue"
   }
