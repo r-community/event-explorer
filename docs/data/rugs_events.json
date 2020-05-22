@@ -152,6 +152,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Webinar 008 E. LeDell - Scalable Automatic Machine Learning in R with H2O AutoML",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-05-21",
+    "description": "<p>Speaker: Erin LeDell<br/>Title: Scalable Automatic Machine Learning in R with H2O AutoML<br/>Bio + Abstract: Below!<br/>Stream: <a href=\"https://www.youtube.com/watch?v=DjzKTeIIxOY&amp;feature=youtu.be\" class=\"embedded\">https://www.youtube.com/watch?v=DjzKTeIIxOY&amp;feature=youtu.be<\/a><\/p> <p>- donate: <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 8:00 pm GMT+2 (starting April 2nd!)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<\/p> <p>Abstract:<br/>The focus of this presentation is scalable and automatic machine learning in R using the H2O machine learning platform. H2O is an open source, distributed machine learning platform is designed to scale to very large datasets that may not fit into RAM on a single machine. We will provide a brief overview of the field of Automatic Machine Learning, followed by a detailed look inside H2O's AutoML algorithm. H2O AutoML provides an easy-to-use interface which automates data pre-processing, training and tuning a large selection of candidate models (including multiple stacked ensemble models for superior model performance), and due to the distributed nature of the H2O platform, H2O AutoML can scale to very large datasets. The result of the AutoML run is a \"leaderboard\" of H2O models which can be easily exported for use in production.<\/p> <p>Biogram:<br/>Dr. LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. Before joining H2O.ai, she was the Principal Data Scientist at two AI startups (both acquired), the founder of DataScientific, Inc. and a software engineer at a large consulting firm. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She also holds a B.S. and M.A. in Mathematics. Erin has founded Women+ in Machine Learning &amp; Data Science and co-founded R-Ladies Global.<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270193513/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Abidjan R users Meetup: Abidjan R users meetup",
     "group": "Abidjan R users Meetup",
     "start": "2020-04-25",
@@ -288,14 +296,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "IndyUseR Group: Virtual Meetup - Discussion of Plumber by Bill McLellan",
-    "group": "IndyUseR Group",
-    "start": "2020-04-21",
-    "description": "<p>Join us as we explore the features and packages of the R programming language. All skill levels are welcomed. We are still putting together details for this particular meeting, but if have a topic you would like to talk about, please let us know!<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentations<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>Zoom Meeting Info:<\/p> <p>Topic: IndyUser April 2020 Meeting<br/>Time: Apr 21,[masked]:30 PM Indiana (East)<\/p> <p>Join Zoom Meeting<br/><a href=\"https://zoom.us/j/98767522351\" class=\"linkified\">https://zoom.us/j/98767522351<\/a><\/p> <p>Meeting ID:[masked]<br/>One tap mobile<br/>[masked],,[masked]# US (New York)<br/>[masked],,[masked]# US (Chicago)<\/p> <p>Dial by your location<br/>[masked] US (New York)<br/>[masked] US (Chicago)<br/>[masked] US<br/>[masked] US (Houston)<br/>[masked] US (San Jose)<br/>[masked] US<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://zoom.us/u/aditeoR2xY\" class=\"linkified\">https://zoom.us/u/aditeoR2xY<\/a><\/p> ",
-    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprybcgbcc/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "IndyUseR Group: Lance Upton discusses golem: framework for building production-grade shiny apps",
     "group": "IndyUseR Group",
     "start": "2020-05-19",
@@ -312,27 +312,19 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Charlotte R Users Group: Charlotte R users Group: Brandon Beidel",
-    "group": "Charlotte R Users Group",
-    "start": "2020-04-21",
-    "description": "<p>Creating R projects that are easily shared across teams or even just across machines can be a challenge. Missing dependencies, incorrect package versions, and many other issues can plague you when attempting to share your work. Thankfully, tools like Docker and renv can be used in combination to ensure that every person who has access to your project can focus on the problem your code is trying to solve, not the environment. Brandon will share some lessons learned while addressing reproducibility problems in production machine learning systems at Red Ventures.<\/p> ",
-    "url": "https://www.meetup.com/Charlotte-R-Users-Group/events/268249084/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Salt Lake City R Users Group: [ONLINE] RStudio Tips for More Efficient R Coding",
-    "group": "Salt Lake City R Users Group",
-    "start": "2020-04-21",
-    "description": "<p>Our April Meetup will be our first ever remote gathering. Our Zoom link is visible to those who have RSVP'd!<\/p> <p>In this presentation, Greg Snow, a statistical consultant for research at Intermountain Healthcare and an adjunct professor at BYU, will speak on lesser known tips for using the RStudio IDE.<\/p> <p>RStudio is the most commonly used development environment for coding in R, and over the years RStudio has added many options to make life easier. This presentation will bring together and present many features that have not been widely advertised. Topics will include: rerun previous code block, outline mode and sectioning comments, code folding, jump to section, navigating between panes, pop-out panes, rename in scope, rectangle select/edit, extract variable, extract function, expand/shrink selection (brace, etc. matching), jump to function definition, find in files, and others (depending on time and interest).<\/p> ",
-    "url": "https://www.meetup.com/slc-rug/events/268612147/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Oslo useR! Group: [Online] R data.table := Tidy Data",
     "group": "Oslo useR! Group",
     "start": "2020-04-23",
     "description": "<p>[UPDATE] [A DAY LATER!]<\/p> <p>Unfortunately, our original presenter had to cancel. But fear not! We have recruited our dear friend - and previous useR! Oslo organizer - Dmytro to talk about: data.table!<\/p> <p>The data.table R package is fast and memory efficient. It uses a concise and consistent syntax for data processing. This meetup will take you through doing some data tidying by covering importing, wrangling, reshaping, merging and summarizing data.<\/p> <p>Dmytro Perepolkin started his PhD in September 2019 and is currently enrolled in UnEviL (Uncertainty Evidence Lab) research group, BECC research environment and take part in COMPUTE research school at Lund University, Sweden. He previously worked as Decision Analyst, building probabilistic models, which incorporated historical data and expert judgment as a source of input for uncertainties.<\/p> ",
     "url": "https://www.meetup.com/Oslo-useR-Group/events/269321425/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Twin Cities R User Group (TCRUG): May Monthly Meetup [Virtual]",
+    "group": "Twin Cities R User Group (TCRUG)",
+    "start": "2020-05-21",
+    "description": "<p>This month's event will be virtual. Link below.<\/p> <p>Agenda<\/p> <p>* Frank Corrigan and Luke Pennig: R as a Piece of the Puzzle<br/>* Ralph Asher: The \"Flaw of Averages\" - an Introduction to Monte Carlo Simulation using Shiny<\/p> ",
+    "url": "https://www.meetup.com/twincitiesrug/events/270658773/",
     "textColor": "#7171fb"
   },
   {
@@ -512,14 +504,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Vienna<-R: Vienna<-R 2020 April",
-    "group": "Vienna<-R",
-    "start": "2020-04-21",
-    "description": "<p>Dear ViennaR members,<\/p> <p>Due to COVID-19 we offer our first online Meetup through Zoom and Youtube streaming.<\/p> <p>Youtube streaming: <a href=\"https://www.youtube.com/channel/UCUckQKqk1l24RbemESLJPig\" class=\"embedded\">https://www.youtube.com/channel/UCUckQKqk1l24RbemESLJPig<\/a><\/p> <p>The Meetup is hosted together with Accenture Austria and two exciting speakers and topics.<\/p> <p>TOPICS<\/p> <p>0. Intro (Mario Annau, Albert Moik) 10 min<br/>Slides: <a href=\"https://docs.google.com/presentation/d/1SAKbidLmHLsYxIEX5PkVBtSJ_s6LjkCS2hStUV9IVSg/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/presentation/d/1SAKbidLmHLsYxIEX5PkVBtSJ_s6LjkCS2hStUV9IVSg/edit?usp=sharing<\/a><\/p> <p>1. Dr. Wasif Masood, Magenta Telekom - Data Science Lead: Smart Churn Retention.<br/>LinkedIn: <a href=\"https://www.linkedin.com/in/wasifmasood\" class=\"linkified\">https://www.linkedin.com/in/wasifmasood<\/a><br/>Slides: <a href=\"https://drive.google.com/open?id=1KeQralEYs_BROhkmAw7HcuWxYybbN-cv\" class=\"linkified\">https://drive.google.com/open?id=1KeQralEYs_BROhkmAw7HcuWxYybbN-cv<\/a><\/p> <p>2. Felix Glaser, Accenture - Data Scientist: Anomality Detection – an End To End Process with various R tools and packages (30min+Q/A)<br/>LinkedIn: <a href=\"https://www.linkedin.com/in/felix-glaser-a81325158\" class=\"linkified\">https://www.linkedin.com/in/felix-glaser-a81325158<\/a><br/>Slides: <a href=\"https://drive.google.com/open?id=1FSSIx9ARUFBB5qsYJW0tro35ziZM32Wx\" class=\"linkified\">https://drive.google.com/open?id=1FSSIx9ARUFBB5qsYJW0tro35ziZM32Wx<\/a><\/p> <p>DETAILS<\/p> <p>1. Dr. Masood describes one of Magenta's use cases built to reduce customer churn. He will explain the neural network model developed along with the baysian optimization that runs on top to find the best hyper-parameters. Additionally, the concept of shaply values is explained which was used to identify the reasons for churn.<br/>After finishing his PhD in information technology, Dr. Masood joined Magenta Telekom as a data scientist in 2017 and now heads the team as lead data scientist. His interests includes deep neural networks, ensemble trees and baysian optimization techniques. During his employment, he has worked on several use cases including network quality estimation, customer churn and retention, house hold matching, customer lifetime value, propensity modelling for x/up-selling, price to demand analysis, portfolio optimization and many more.<\/p> <p>2. Data Anomalies are a hot topic for many clients spread over all industries. Detecting them is a hot topic for data scientists. As it often comes to the question “What are we actually looking for?”, a first step is towards unsupervised learning.<br/>With mathematical methods like Robust Principle Component Analysis we managed to distinguish anomalies from “usual” data points. Furthermore the detection tool was integrated in a webservice also built with R packages and was lifted into production.<br/>Felix is working for Accenture since 2018 as a Data Scientist. During his mathematics studies he specialized on forecasting, time series analysis and statistics, which also increased his R-Developer Skills. Knowledge in this topics made Felix participating in several machine learning projects at Accenture in public sector as well as financial sector. R as coding language was a central skill in many of those projects.<\/p> <p>Stay at Home and Healthy!<\/p> <p>Greetings,<br/>ViennaR organizers<\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/269853480/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Chicago: Learning & Community Building in Data Science: Conference Talks!",
     "group": "R-Ladies Chicago",
     "start": "2020-05-05",
@@ -632,14 +616,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Rotterdam: R Ladies Netherlands Book Club - Advanced R Chapter 3",
-    "group": "R-Ladies Rotterdam",
-    "start": "2020-04-21",
-    "description": "<p>The R Ladies chapters of the Netherlands are partnering up!<\/p> <p>Starting in April, we started hosting an online book club. Our first book is Hadley Wickham's Advanced R (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<\/p> <p>In our second meeting, Paloma Rojas-Saunero from R Ladies Rotterdam will present the key points of Chapter 3: \"Vectors\". After that, we'll go through the exercises together and help each other clear up any doubts and get over any hurdles :) Make sure to read the chapter in advance!<\/p> <p>The link to the event meeting will be provided closer to the date.<\/p> <p>Online meetings will take place every two weeks. Check the full schedule, previous slides and sign up to present a chapter at this link!<\/p> <p><a href=\"https://rladiesnl.github.io/book_club/\" class=\"linkified\">https://rladiesnl.github.io/book_club/<\/a><\/p> <p>See you soon and stay safe!<\/p> ",
-    "url": "https://www.meetup.com/rladies-rotterdam/events/270020889/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Twin Cities: (VIRTUAL) Multilevel Modeling w/ MN Public Salaries Data",
     "group": "R-Ladies Twin Cities",
     "start": "2020-05-14",
@@ -741,14 +717,6 @@
     "start": "2020-05-20",
     "description": "<p>El miércoles 20 de mayo continuamos nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller cuatro sesiones (6, 13, 20 y 27 de mayo) y tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.<br/>¿Quieres aprender a utilizar R en un ambiente amable e inclusivo? ¡Te esperamos! No es necesario tener ningún conocimiento previo sobre programación.<\/p> <p>Esta tercera sesión estará a cargo de Gabriela Sandoval (<a href=\"https://twitter.com/gabysandovalm\" class=\"linkified\">https://twitter.com/gabysandovalm<\/a>), estudiante de Doctorado en Estadística, y se enfocará en visualización de datos con el paquete {ggplot2}.<\/p> <p>&gt; No vine a las sesiones anteriores, ¿puedo participar?<br/>Sí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a><\/p> <p>&gt; ¿Qué necesito para participar?<\/p> <p>Lo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es crearte una cuenta en RStudio Cloud (<a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>). Partiremos trabajando en una versión de R en la nube para asegurarnos que todo funciona bien al principio. Más adelante instalaremos R en tu computador.<br/>Lo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).<br/>El taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.<\/p> <p>&gt; ¿Al inscribirme ahora me estoy anotando para las cuatro sesiones?<\/p> <p>No. Agendaremos un nuevo evento acá en Meetup para cada sesión. Lo hacemos así porque nos permite organizarnos mejor.<\/p> <p>¡Te esperamos!<\/p> ",
     "url": "https://www.meetup.com/rladies-valparaiso/events/270661099/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Johannesburg: April meetup: Cluster Analysis - Understanding data behaviour",
-    "group": "R-Ladies Johannesburg",
-    "start": "2020-04-21",
-    "description": "<p>In this talk, we will have the pleasure of learning about clustering. Thato Molawa will be telling us about understanding data behaviour. Please join us for our first online meetup!<\/p> <p>Housekeeping:<br/>Our code of conduct remains in place despite the online nature, and any contravention will be dealt with accordingly (<a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a>).<\/p> <p>I will send details to the online event nearer to the date.<\/p> ",
-    "url": "https://www.meetup.com/rladies-johannesburg/events/269952337/",
     "textColor": "#7171fb"
   },
   {
@@ -880,19 +848,19 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Dublin R: Why R? Webinar -  Scalable Automatic Machine Learning in R with H2O AutoML ",
+    "group": "Dublin R",
+    "start": "2020-05-21",
+    "description": "<p>Speaker: Erin Ledell<br/>Title: Scalable Automatic Machine Learning in R with H2O AutoML<\/p> <p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Abstract:<\/p> <p>The focus of this presentation is scalable and automatic machine learning in R using the H2O machine learning platform. H2O is an open source, distributed machine learning platform is designed to scale to very large datasets that may not fit into RAM on a single machine. We will provide a brief overview of the field of Automatic Machine Learning, followed by a detailed look inside H2O's AutoML algorithm. H2O AutoML provides an easy-to-use interface which automates data pre-processing, training and tuning a large selection of candidate models (including multiple stacked ensemble models for superior model performance), and due to the distributed nature of the H2O platform, H2O AutoML can scale to very large datasets. The result of the AutoML run is a \"leaderboard\" of H2O models which can be easily exported for use in production.<\/p> <p>Biography<br/>Dr. LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. Before joining H2O.ai, she was the Principal Data Scientist at two AI startups (both acquired), the founder of DataScientific, Inc. and a software engineer at a large consulting firm. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She also holds a B.S. and M.A. in Mathematics. Erin has founded Women+ in Machine Learning &amp; Data Science and co-founded R-Ladies Global.<\/p> ",
+    "url": "https://www.meetup.com/DublinR/events/270204274/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Seattle useR Group (R Programming Language): Package Management for Reproducible Data Science in R",
     "group": "Seattle useR Group (R Programming Language)",
     "start": "2020-05-07",
     "description": "<p>Reproducible data science encompasses a broad range of practices including, but not limited to, version control (such as git) and literate programming (like R Markdown). One practice that is often overlooked is proper management of packages. Code that works with software or package version you have installed may break when run with different software or package version.<\/p> <p>In this webinar, we will discuss R package management solutions for two scenarios. Isabella will show how to maintain installed packages when upgrading to a new version of R, using the recent release of R 4.0 as an example. Mike will demonstrate how the renv package can be used to maintain packages within individual data science projects.<\/p> ",
     "url": "https://www.meetup.com/Seattle-useR/events/270353523/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies RTP: [ONLINE] #tidytuesday Work Group",
-    "group": "R-Ladies RTP",
-    "start": "2020-04-21",
-    "description": "<p>Join fellow R-Ladies in exploring a #tidytuesday data set! For those craving human connection and some practice flexing your data science skills, this is the event for you! We will hold our April networking event via Zoom, where you can meet other R-ladies, improve your R skills, and build your data science portfolio.<\/p> <p>Agenda:<br/>7:00 - 7:15 pm Meet &amp; Greet<br/>7:15 - 8:30 pm #tidytuesday<br/>8:30 - 9:00 pm Discussion<\/p> <p>What is #tidytuesday?<br/>#TidyTuesday is a weekly social data project created by the R4DS online learning community that is focused on using tidyverse packages. A new data set and accompanying article featuring an interesting plot is released on Github every Monday. The goal is to generate a copy of the original plot or create your own original approach!<\/p> <p>This month we will be analyzing the Beer Production dataset: <a href=\"https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-03-31/readme.md\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-03-31/readme.md<\/a><\/p> <p>For more information on #tidytuesday, check out this blog post: <a href=\"https://bit.ly/2HqEsdt\" class=\"linkified\">https://bit.ly/2HqEsdt<\/a><\/p> <p>Who is this for?<br/>New and experienced R users alike! Let's learn together!<\/p> <p>What should I bring?<br/>You'll need a computer with videoconferencing capabilities and R. Serve yourself a cozy beverage and a snack to fuel your evening!<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
-    "url": "https://www.meetup.com/rladies-rtp/events/269928857/",
     "textColor": "#7171fb"
   },
   {
@@ -932,14 +900,6 @@
     "start": "2020-05-10",
     "description": "<p>R-Ladies is bringing you another great session on Time Series Analysis.<\/p> <p>You will learn about Statistical as well as Machine learning Models on Time Series Data (or Survival analysis prediction modeling)<\/p> <p>Speaker of the session:- Harika Jayanthi<\/p> <p>The session would be conducted online on WebEx.<br/>For joining the event you need to install Webex-<br/>Meeting number[masked]<br/>Password - RLadies<\/p> <p>RSVP if you would be meeting with us there.<\/p> ",
     "url": "https://www.meetup.com/rladies-new-delhi/events/270421148/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Gainesville: Tidy Tuesday: Practicing Data Science in R",
-    "group": "R-Ladies Gainesville",
-    "start": "2020-04-21",
-    "description": "<p>Practice your data wrangling and visualization R skills with other members of R-Ladies! Tidy Tuesdays are designed by the R for Data Science Online Learning Community to help R users learn in a fun and real-world context.<\/p> <p>Read more about Tidy Tuesdays and get the data here: <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> <p>We will be converting our regular Tidy Tuesdays to an online format. Join us on Zoom at: <a href=\"https://ufl.zoom.us/j/690685801\" class=\"linkified\">https://ufl.zoom.us/j/690685801<\/a><\/p> <p>If you've never used Zoom before, you will be prompted to download something. You will be muted automatically upon entering the meeting - so unmute if you'd like to communicate with us/each other. Depending on how many people join, we might have to turn off webcams at some point. But we'd love to see your faces, so rather not :) Don't worry about pets and family members in frame, we'd love to see them too.<\/p> <p>These events will supplement, not replace, our monthly meetings.<\/p> ",
-    "url": "https://www.meetup.com/rladies-gainesville/events/270068460/",
     "textColor": "#7171fb"
   },
   {
@@ -988,6 +948,14 @@
     "start": "2020-04-28",
     "description": "<p>We're so excited to have Angeline, Anisha, Emily, and Sharla talk about their experience with sharing their work through blog posts and twitter! Please email us at [masked] with your question(s) for our amazing panelists to address, or submit them below in the comments.<\/p> <p>This event will be hosted over Zoom. A link will be sent to all attendees at noon on the day of the event.<\/p> <p>--------- Panelist Bios ---------<\/p> <p>- Emily Robinson is a senior data scientist at Warby Parker, where she works on a centralized team tackling some of the company’s biggest projects. She is the author of the book \"Build a Career in Data Science\" (datascicareer.com), a guide to all the non-technical skills and knowledge you need to get into and succeed in data science, with Jacqueline Nolis (<a href=\"https://jnolis.com/\" class=\"linkified\">https://jnolis.com/<\/a>). She regularly gives talks and writes on her blog, hookedondata.org, about A/B testing, programming in R, career advice, and more.<\/p> <p>Emily's website is <a href=\"https://hookedondata.org\" class=\"linkified\">https://hookedondata.org<\/a>. You can also find her on GitHub @robinsones and Twitter @robinson_es.<\/p> <p>- Anisha BharathSingh is currently an SEO Analyst at Omnicom Media Group, with over 2.5 years in Digital Marketing. Last year, she started learning R in order to improve her data skills and learn about data science. In addition to that, she started a blog to showcase the data + R skills that she has been learning along with writing about data-related Meetups and books.<\/p> <p>Anisha's blog is <a href=\"https://journeytodatascientist.blog/\" class=\"linkified\">https://journeytodatascientist.blog/<\/a>. You can also find her on GitHub @AnishaB95 and Twitter @thesparemoments.<\/p> <p>- Angeline is a data scientist at Protacio Analytics LLC, consulting on projects spanning different disciplines. She is currently growing her data science expertise through the data science bootcamp program at Metis. Her background is in epidemiology and genetics and has experience working with data relating to mental health, breast cancer risk, and environmental risk factors. She spends her free time trying to win at fantasy baseball (with data) and practicing French.<\/p> <p>Angeline's website is <a href=\"https://www.angelineprotacio.com\" class=\"linkified\">https://www.angelineprotacio.com<\/a>. You can also find her on GitHub @angelinepro and Twitter @dataangeline.<\/p> <p>- Sharla Gelfand is a freelance R developer focusing on package development and reproducible reporting workflows. She is a long-time R user and co-organizer of the Toronto R-Ladies chapter and frequently shares old and new favourite #rstats functions via the hashtag #TwoFunctionsMostDays on Twitter.<\/p> <p>Sharla's blog is <a href=\"https://sharla.party\" class=\"linkified\">https://sharla.party<\/a>. You can also find her on GitHub @sharlagelfand and Twitter @sharlagelfand.<\/p> <p>---------------------------------<\/p> <p>R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-newyork/events/270210924/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies New York: [Online event] Mappy Hour with R-Ladies: Spatial Data Analysis in R",
+    "group": "R-Ladies New York",
+    "start": "2020-05-21",
+    "description": "<p>Our very own Ayanthi Gunawardana and R-Ladies Chicago board member Angela Li join us this month to talk spatial statistics in R!<\/p> <p>This event will be hosted over Zoom, and a link will be sent to all attendees at noon on the day of the event. *Note: Please check your spam or \"Promotions\" tab (if a Gmail user) for this Meetup announcement email if it does not appear in your inbox. Email [masked] prior to the event if you do not receive it.*<\/p> <p>Agenda (times approximate):<br/>7-7:05 pm: R-Ladies NYC Announcements<br/>7:05-7:30: \"Uncharted Territory: An Introduction to Making Clear and Accurate Maps\" by Ayanthi Gunawardana<br/>7:30-7:55: \"How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community\" by Angela Li<br/>7:55-8:15: Questions and wrap-up<\/p> <p>--- Talk Abstracts ---<\/p> <p>\"Uncharted Territory: An Introduction to Making Clear and Accurate Maps\"<br/>Speaker: Ayanthi Gunawardana<\/p> <p>Abstract: Over the course of a decade, maps have gone from folded paper booklets inside the glove compartment of a car to having a map of the entire world inside everyone’s smartphone. As more spatial data becomes available, maps are no longer simple representations of places on Earth; maps now include visualizations of a wide range of newly available spatial datasets. We collect more and more data with location information, but does this mean that this information belongs on a map? I will cover some basic principles of good cartography and what to keep in mind when creating a map.<\/p> <p>Bio: Ayanthi is a Data and Research Analyst at the New York City Department of Transportation, where she analyzes car crash data to inform street safety projects and street redesign. Ayanthi has a Masters in City and Regional Planning from Rutgers University, which sparked her interest in maps and data. When she's not looking at maps, you can find Ayanthi at Brazilian Jiu Jitsu class (pre pandemic) or cooking something spicy (all the time).<\/p> <p>\"How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community\"<br/>Speaker: Angela Li<\/p> <p>Abstract: Learning to work with geospatial data in R can be challenging, but the right resources and open-source community can help whether you’re starting out with spatial data or moving your spatial analysis workflow to R. I’ll cover how you can get started with geospatial analysis in R, common questions and challenges I’ve seen, and where you can turn when you get stuck. I’ll draw insights from my experiences working 1-on-1 with researchers, teaching and assisting with spatial R workshops, and fielding questions from the #rspatialchat Twitter hashtag. Finally, I’ll discuss next steps for R-Ladies in the #rspatial community and talk about how we can help each other become better spatial data practitioners together.<\/p> <p>Bio: Angela is a researcher and the R Spatial Advocate at the Center for Spatial Data Science at the University of Chicago. She has a background in spatial analysis, econometrics, and public policy. Prior to her current position, she worked at a startup focused on mobility and conducted research on housing and demolition in Detroit. She is currently researching the opioid epidemic in America, working with public health experts to better understand access to treatment. She is passionate about creating opportunities for underrepresented minorities to advance their data science and spatial thinking skills, starting R-Ladies Chicago and the #rspatialchat hashtag on Twitter, among other projects. She is a huge fan of the New York Times crossword.<\/p> <p>Angela’s website is angela-li.github.io. You can also find her on Github at @angela-li and Twitter @CivicAngela.<\/p> <p>---<\/p> <p>R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-newyork/events/270611485/",
     "textColor": "#7171fb"
   },
   {
@@ -1143,6 +1111,14 @@
     "textColor": "blue"
   },
   {
+    "title": "CaRdiff - the Cardiff R User Group: Tidy Thursday: Remote Workshop",
+    "group": "CaRdiff - the Cardiff R User Group",
+    "start": "2020-05-28",
+    "description": "<p>Come join us for this May Tidy Thursday session.<\/p> <p>Tidy Tuesdays are weekly R projects on 'tidying' data, associated (but not exclusive!) to the 'tidyverse': ggplot2, dplyr, tidyr and friends.<\/p> <p>You can find out more about Tidy Tuesdays here: <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> <p>We will meet (on Thursday!), find the most recent data set and 'tidy' it up together.<\/p> <p>This session will be beginner friendly, hands on, and potentially pair programming driven.<\/p> <p>Learning outcomes: Data Preparation, Data Munging, Tidy Data, Tidyverse<\/p> <p>It would be helpful for attendees to have the following already installed, but if you run into trouble we can help on the day.<\/p> <p>* R: <a href=\"https://www.r-project.org/\" class=\"linkified\">https://www.r-project.org/<\/a><br/>* R Studio desktop: <a href=\"https://rstudio.com/products/rstudio/\" class=\"linkified\">https://rstudio.com/products/rstudio/<\/a><br/>* Tidyverse: <a href=\"https://www.tidyverse.org/\" class=\"linkified\">https://www.tidyverse.org/<\/a><\/p> <p>These are all free tools, and install will take roughly 20-40 min depending on hardware and internet speeds.<\/p> <p>Our previous work is available here:<br/><a href=\"https://github.com/CaRdiffR/tidy_thursdays\" class=\"linkified\">https://github.com/CaRdiffR/tidy_thursdays<\/a><\/p> <p>Zoom Password:[masked]<\/p> ",
+    "url": "https://www.meetup.com/Cardiff-R-User-Group/events/270794033/",
+    "textColor": "blue"
+  },
+  {
     "title": "Central Iowa R User Group: R and Python study group",
     "group": "Central Iowa R User Group",
     "start": "2020-05-23",
@@ -1255,14 +1231,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Webinar 008 E. LeDell - Scalable Automatic Machine Learning in R with H2O AutoML",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-05-21",
-    "description": "<p>Speaker: Erin LeDell<br/>Title: Scalable Automatic Machine Learning in R with H2O AutoML<br/>Bio + Abstract: Below!<br/>Stream: <a href=\"https://www.youtube.com/watch?v=DjzKTeIIxOY&amp;feature=youtu.be\" class=\"embedded\">https://www.youtube.com/watch?v=DjzKTeIIxOY&amp;feature=youtu.be<\/a><\/p> <p>- donate: <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 8:00 pm GMT+2 (starting April 2nd!)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<\/p> <p>Abstract:<br/>The focus of this presentation is scalable and automatic machine learning in R using the H2O machine learning platform. H2O is an open source, distributed machine learning platform is designed to scale to very large datasets that may not fit into RAM on a single machine. We will provide a brief overview of the field of Automatic Machine Learning, followed by a detailed look inside H2O's AutoML algorithm. H2O AutoML provides an easy-to-use interface which automates data pre-processing, training and tuning a large selection of candidate models (including multiple stacked ensemble models for superior model performance), and due to the distributed nature of the H2O platform, H2O AutoML can scale to very large datasets. The result of the AutoML run is a \"leaderboard\" of H2O models which can be easily exported for use in production.<\/p> <p>Biogram:<br/>Dr. LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. Before joining H2O.ai, she was the Principal Data Scientist at two AI startups (both acquired), the founder of DataScientific, Inc. and a software engineer at a large consulting firm. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She also holds a B.S. and M.A. in Mathematics. Erin has founded Women+ in Machine Learning &amp; Data Science and co-founded R-Ladies Global.<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270193513/",
-    "textColor": "blue"
-  },
-  {
     "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? & McKinsey Webinar - Uplift modeling for marketing campaigns",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-05-26",
@@ -1316,6 +1284,14 @@
     "start": "2020-05-28",
     "description": "<p>Register here: <a href=\"https://bit.ly/2Wgs1rG\" class=\"linkified\">https://bit.ly/2Wgs1rG<\/a><\/p> <p>Building machine learning models is a creative process that requires deep thinking and expertise. But there's a lot of drudgery required to find and prep the data to train your ML model, not to mention getting that model into production or re-training it later.<\/p> <p>Whether you're using H2O.ai, Spark MLlib or any other machine learning framework, building your ML model is just one step in the longer process of getting machine learning into production.<\/p> <p>Join Infoworks and Databricks at this live webinar for discussion and demo on how to:<\/p> <p>- Find and prep the data to train your ML model in hours instead of days<br/>- Easily integrate the data with ML environments such as Databricks Notebooks<br/>- Get an ML model into production more quickly<br/>- Re-train the model with a push of the button<\/p> <p>Register here to attend: <a href=\"https://bit.ly/2Wgs1rG\" class=\"linkified\">https://bit.ly/2Wgs1rG<\/a><\/p> ",
     "url": "https://www.meetup.com/Montreal-R-User-Group/events/270530122/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Montreal R User Group: COVID-19 Recovery Planning Using Advanced Analytics",
+    "group": "Montreal R User Group",
+    "start": "2020-06-10",
+    "description": "<p>Register here: <a href=\"https://bit.ly/3eabPyf\" class=\"linkified\">https://bit.ly/3eabPyf<\/a><\/p> <p>Join us on June 10 at 11 AM PST for a virtual event to learn how leading companies leverage data science and advanced analytics to overcome the COVID-19 crisis.<\/p> <p>Key takeaways:<br/>- How advanced analytics helps to stabilize operations<br/>- How to adjust forecasting models using international and macroeconomic data<br/>- How to optimize post-lockdown operations using machine learning<\/p> <p>Schedule:<br/>- 11:00-11:30 am PST - “Demand and Revenue Forecasting for Lockdown and Post-Lockdown: Case Studies and Lessons Learned” by Ilya Katsov, Head of Data Science, Grid Dynamics<br/>- 11:30-12:00 pm PST - Ambrish Verma, Product, Credit Karma<\/p> <p>Register here: <a href=\"https://bit.ly/3eabPyf\" class=\"linkified\">https://bit.ly/3eabPyf<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270786895/",
     "textColor": "blue"
   },
   {
@@ -1415,6 +1391,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R User Group - Philippines: RUG-PH's 7th anniversaRy!",
+    "group": "R User Group - Philippines",
+    "start": "2020-08-19",
+    "description": "<p>Stay tuned for our special anniversary program!<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybclbzb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Salt Lake City R Users Group: [Online] Regression When Your Data Isn't Well Behaved",
     "group": "Salt Lake City R Users Group",
     "start": "2020-05-28",
@@ -1428,14 +1412,6 @@
     "start": "2020-05-28",
     "description": "<p>When working with data, we often want to create models to predict future events, but we also want an even deeper understanding of how our data is causally connected or structured. In this workshop, we will explore the connectedness of data using structural equation modeling (SEM) with the {lavaan} package.<\/p> <p>If you want to actively follow the workshop, please have the R packages {lavaan} and {semPlot} installed. Because of the virtual format of the workshop, we will only have very limited capacities for helping with troubleshooting.<\/p> <p>The speaker, Ronny Scherer, received his PhD from Humboldt-Universität zu Berlin in 2012, and is currently working at the Centre for Educational Measurement, University of Oslo (CEMO). His research and teaching cover structural equation modeling, meta-analysis, computer-based assessments, and multilevel analysis. Ronny is coordinating the Measurement Models course at CEMO.<\/p> <p>We look forward seeing all of you!<\/p> <p>Update: The workshop will use data from the package {MPsychoR}. If you intend to follow actively, we encourage you to have the package ahead of the workshop.<\/p> ",
     "url": "https://www.meetup.com/Oslo-useR-Group/events/265662967/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Twin Cities R User Group (TCRUG): May Monthly Meetup [Virtual]",
-    "group": "Twin Cities R User Group (TCRUG)",
-    "start": "2020-05-21",
-    "description": "<p>This month's event will be virtual. Link below.<\/p> <p>Agenda<\/p> <p>* Frank Corrigan and Luke Pennig: R as a Piece of the Puzzle<br/>* Ralph Asher: The \"Flaw of Averages\" - an Introduction to Monte Carlo Simulation using Shiny<\/p> ",
-    "url": "https://www.meetup.com/twincitiesrug/events/270658773/",
     "textColor": "blue"
   },
   {
@@ -1463,10 +1439,26 @@
     "textColor": "blue"
   },
   {
+    "title": "Saint Louis R User Group: R meetup",
+    "group": "Saint Louis R User Group",
+    "start": "2020-08-19",
+    "description": "<p>By: TBD<\/p> ",
+    "url": "https://www.meetup.com/Saint-Louis-RUG/events/xlrkjrybclbzb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break - C++ und R: Das Rcpp-Paket",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-05-27",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>In diesem Coffee Break werden wir uns das Rcpp-Paket anschauen. Viele User*innen sind sicher schon über das Rcpp-Paket gestolpert, mit dem C++-Code in R nutzbar gemacht werden kann. Hier bekommt ihr einen kurzen Einblick, wie das Rcpp genutzt werden kann.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tba<br/>Passwort: tba<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/270786861/",
+    "textColor": "blue"
+  },
+  {
     "title": "Wiesbaden R User Group: M versus R versus P: Power BI Transformation im Vergleich zu anderen Sprachen",
     "group": "Wiesbaden R User Group",
     "start": "2020-06-02",
-    "description": "<p>Hallo liebe Wiesbaden R Userinos!<br/>Das erste Halbjahr 2020 steht ganz im Zusammenspiel von R und Microsoft.<\/p> <p>Oliver Engels, Leiter der PASS Deutschland e.V. RG Rhein Main, die sich mit interessanten Themen aus dem Bereich Microsoft Data Platform beschäftigt, konnten wir für einen Vergleich von R, Python und Microsoft Power BI gewinnen.<\/p> ",
+    "description": "<p>Hinweis: Aufgrund der CoViD-19-Krise findet die Veranstaltung online statt. Zugangsdaten (Zoom) veröffentlichen wir kurz vor der Veranstaltung!<\/p> <p>Hallo liebe Wiesbaden R Userinos!<br/>Das erste Halbjahr 2020 steht ganz im Zusammenspiel von R und Microsoft.<\/p> <p>Oliver Engels, Leiter der PASS Deutschland e.V. RG Rhein Main, die sich mit interessanten Themen aus dem Bereich Microsoft Data Platform beschäftigt, konnten wir für einen Vergleich von R, Python und Microsoft Power BI gewinnen.<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/267829641/",
     "textColor": "blue"
   },
@@ -1650,7 +1642,7 @@
     "title": "R-Ladies Amsterdam: R Ladies Netherlands Book Club - Advanced R Chapter 5",
     "group": "R-Ladies Amsterdam",
     "start": "2020-05-26",
-    "description": "<p>[ONLINE EVENT]<br/>----------------------<br/>Hi everyone!<br/>The R Ladies chapters of the Netherlands are partnering up! Together, R-Ladies Rotterdam, R-Ladies Den Bosch, R-Ladies Nijmegen, , R-Ladies Utrecht and R-Ladies Amsterdam we are hosting an online book club. Online meetings will take place every two weeks. Our first book is Hadley Wickham's Advanced R (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<\/p> <p>In our fourth meeting, Margaux Sleckman from R Ladies Amsterdam will present the key points of Chapter 5: \"Control Flows\". After that, we'll try an exercise together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>The link to the event meeting will be provided closer to the date. Check the full schedule, previous slides and sign up to present a chapter at this link <a href=\"https://rladiesnl.github.io/book_club/\" class=\"linkified\">https://rladiesnl.github.io/book_club/<\/a> !<\/p> <p>See you soon and stay safe!<\/p> <p>ABOUT MARGAUX<br/>----------------------<br/><a href=\"https://www.linkedin.com/in/margaux-sleckman-88ba02ba/\" class=\"linkified\">https://www.linkedin.com/in/margaux-sleckman-88ba02ba/<\/a><br/>Margaux is a data scientist at Metabolic and a core member of R-Ladies Amsterdam. She's a recent graduate from the Bren School of Environmental Science &amp; Management, driven to advance climate mitigation and adaptation efforts, particularly in urban areas. More broadly, I want to help expand our understanding of the linkages between the social and natural world and integrate systems thinking into environmental problem-solving.<\/p> <p>Career interests: socio-ecology, local government climate action, conservation planning, landscape ecology, natural resource management, climate change, clean and renewable energy, wildlife and ecosystem conservation.<\/p> <p>I particularly enjoy working in the field, abroad, and in teams.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter in advance!<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.<\/p> ",
+    "description": "<p>[ONLINE EVENT]<br/>----------------------<br/>Hi everyone!<br/>The R Ladies chapters of the Netherlands are partnering up! Together, R-Ladies Rotterdam, R-Ladies Den Bosch, R-Ladies Nijmegen, , R-Ladies Utrecht and R-Ladies Amsterdam we are hosting an online book club. Online meetings will take place every two weeks. Our first book is Hadley Wickham's Advanced R (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<\/p> <p>In our fourth meeting, Margaux Sleckman from R Ladies Amsterdam will present the key points of Chapter 5: \"Control Flows\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>The link to the event meeting will be provided via email, closer to the date. Check the full schedule, previous slides at <a href=\"https://rladiesnl.github.io/book_club/\" class=\"linkified\">https://rladiesnl.github.io/book_club/<\/a>. you may volunteer to sign up to present a chapter at this link as well!<\/p> <p>See you soon and stay safe!<\/p> <p>ABOUT MARGAUX<br/>----------------------<br/><a href=\"https://www.linkedin.com/in/margaux-sleckman-88ba02ba/\" class=\"linkified\">https://www.linkedin.com/in/margaux-sleckman-88ba02ba/<\/a><br/>Margaux is a consultant/data scientist at Metabolic, an Amsterdam's based environmental firm. She is also a core member of R-Ladies Amsterdam. She's a recent Master's graduate from the University of California, Santa Barbara working to advance climate mitigation and adaptation efforts in urban areas. More broadly, She is passionate about using data science for more effective problem-solving vis a vis environmental challenges.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter in advance!<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.<\/p> ",
     "url": "https://www.meetup.com/rladies-amsterdam/events/270584806/",
     "textColor": "blue"
   },
@@ -1719,14 +1711,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Dublin R: Why R? Webinar -  Scalable Automatic Machine Learning in R with H2O AutoML ",
-    "group": "Dublin R",
-    "start": "2020-05-21",
-    "description": "<p>Speaker: Erin Ledell<br/>Title: Scalable Automatic Machine Learning in R with H2O AutoML<\/p> <p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Abstract:<\/p> <p>The focus of this presentation is scalable and automatic machine learning in R using the H2O machine learning platform. H2O is an open source, distributed machine learning platform is designed to scale to very large datasets that may not fit into RAM on a single machine. We will provide a brief overview of the field of Automatic Machine Learning, followed by a detailed look inside H2O's AutoML algorithm. H2O AutoML provides an easy-to-use interface which automates data pre-processing, training and tuning a large selection of candidate models (including multiple stacked ensemble models for superior model performance), and due to the distributed nature of the H2O platform, H2O AutoML can scale to very large datasets. The result of the AutoML run is a \"leaderboard\" of H2O models which can be easily exported for use in production.<\/p> <p>Biography<br/>Dr. LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. Before joining H2O.ai, she was the Principal Data Scientist at two AI startups (both acquired), the founder of DataScientific, Inc. and a software engineer at a large consulting firm. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She also holds a B.S. and M.A. in Mathematics. Erin has founded Women+ in Machine Learning &amp; Data Science and co-founded R-Ladies Global.<\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/270204274/",
-    "textColor": "blue"
-  },
-  {
     "title": "Dublin R: Why R? Webinar -  Pipelines and AutoML with mlr3",
     "group": "Dublin R",
     "start": "2020-05-28",
@@ -1767,7 +1751,7 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Rio de Janeiro: Trabalhos reprodutíveis com R",
+    "title": "R-Ladies Rio de Janeiro: Trabalhos reprodutíveis com R e git",
     "group": "R-Ladies Rio de Janeiro",
     "start": "2020-05-27",
     "url": "https://www.meetup.com/rladies-rio/events/270727462/",
@@ -1777,7 +1761,7 @@
     "title": "R-Ladies New Delhi: Application of Survival Analysis ",
     "group": "R-Ladies New Delhi",
     "start": "2020-05-23",
-    "description": "<p>Hi all,<\/p> <p>This is the second version of Survival Analysis.<\/p> <p>Our speaker will take you through a real version example of Survival analysis with live data.<\/p> <p>You will learn about Statistical as well as Machine learning Models on Survival analysis prediction modeling<\/p> <p>Speaker of the session:- Harika Jayanthi<\/p> <p>The session would be conducted online on WebEx.<br/>For joining the event you need to install Webex-<\/p> <p>RSVP if you would be meeting with us there.<\/p> ",
+    "description": "<p>Hi all,<\/p> <p>This is the second version of Survival Analysis.<\/p> <p>Our speaker will take you through a real version example of Survival analysis with live data.<\/p> <p>You will learn about Statistical as well as Machine learning Models on Survival analysis prediction modeling<\/p> <p>Speaker of the session:- Harika Jayanthi<\/p> <p>The session would be conducted online on WebEx.<\/p> <p><a href=\"https://meetingsapac16.webex.com/meetingsapac16/j.php?MTID=mb25a368a85d936d91c67ae00f42f88f4\" class=\"linkified\">https://meetingsapac16.webex.com/meetingsapac16/j.php?MTID=mb25a368a85d936d91c67ae00f42f88f4<\/a><\/p> <p>For joining the event you need to install Webex-<\/p> <p>RSVP if you would be meeting with us there.<\/p> ",
     "url": "https://www.meetup.com/rladies-new-delhi/events/270607379/",
     "textColor": "blue"
   },
@@ -1787,14 +1771,6 @@
     "start": "2020-05-23",
     "description": "<p>Hey people, pensaram que abandonamos vocês? Nãnãninanão!<\/p> <p>Nós, do R-Ladies Belo Horizonte, estávamos preparando um pacotinho de novidades, e agora temos boas notícias!!!<\/p> <p>Nos dias 23, 24 e 30 de maio (essa semana já), nosso curso de R, que já acontece de forma presencial, será feito online!<\/p> <p>Para se inscrever, serão 3 links. Um para o curso Introdutório, um para o curso Intermediário e um para o curso Avançado.<\/p> <p>Não esqueçam de se inscreverem para os três cursos caso queiram fazer os três!<\/p> <p>A plataforma de transmissão online será feita através da sympla!<\/p> <p>⚠️**Atenção: evento gratuito, cadastro obrigatório nos links abaixo**⚠️<\/p> <p>👉👉 Introdução ao R: <a href=\"https://bit.ly/rladiesonlineintro\" class=\"linkified\">https://bit.ly/rladiesonlineintro<\/a><br/>👉👉 R Intermediário: <a href=\"https://bit.ly/rladiesonlineinter\" class=\"linkified\">https://bit.ly/rladiesonlineinter<\/a><br/>👉👉 R Avançado: <a href=\"https://bit.ly/rladiesonlineav\" class=\"linkified\">https://bit.ly/rladiesonlineav<\/a><\/p> <p>Um beijo e um abraço (de longe), e vejo vocês lá!<\/p> ",
     "url": "https://www.meetup.com/rladies-belo-horizonte/events/270724961/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies New York: [Online event] Mappy Hour with R-Ladies: Spatial Data Analysis in R",
-    "group": "R-Ladies New York",
-    "start": "2020-05-21",
-    "description": "<p>Our very own Ayanthi Gunawardana and R-Ladies Chicago board member Angela Li join us this month to talk spatial statistics in R!<\/p> <p>This event will be hosted over Zoom, and a link will be sent to all attendees at noon on the day of the event. *Note: Please check your spam or \"Promotions\" tab (if a Gmail user) for this Meetup announcement email if it does not appear in your inbox. Email [masked] prior to the event if you do not receive it.*<\/p> <p>Agenda (times approximate):<br/>7-7:05 pm: R-Ladies NYC Announcements<br/>7:05-7:30: \"Uncharted Territory: An Introduction to Making Clear and Accurate Maps\" by Ayanthi Gunawardana<br/>7:30-7:55: \"How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community\" by Angela Li<br/>7:55-8:15: Questions and wrap-up<\/p> <p>--- Talk Abstracts ---<\/p> <p>\"Uncharted Territory: An Introduction to Making Clear and Accurate Maps\"<br/>Speaker: Ayanthi Gunawardana<\/p> <p>Abstract: Over the course of a decade, maps have gone from folded paper booklets inside the glove compartment of a car to having a map of the entire world inside everyone’s smartphone. As more spatial data becomes available, maps are no longer simple representations of places on Earth; maps now include visualizations of a wide range of newly available spatial datasets. We collect more and more data with location information, but does this mean that this information belongs on a map? I will cover some basic principles of good cartography and what to keep in mind when creating a map.<\/p> <p>Bio: Ayanthi is a Data and Research Analyst at the New York City Department of Transportation, where she analyzes car crash data to inform street safety projects and street redesign. Ayanthi has a Masters in City and Regional Planning from Rutgers University, which sparked her interest in maps and data. When she's not looking at maps, you can find Ayanthi at Brazilian Jiu Jitsu class (pre pandemic) or cooking something spicy (all the time).<\/p> <p>\"How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community\"<br/>Speaker: Angela Li<\/p> <p>Abstract: Learning to work with geospatial data in R can be challenging, but the right resources and open-source community can help whether you’re starting out with spatial data or moving your spatial analysis workflow to R. I’ll cover how you can get started with geospatial analysis in R, common questions and challenges I’ve seen, and where you can turn when you get stuck. I’ll draw insights from my experiences working 1-on-1 with researchers, teaching and assisting with spatial R workshops, and fielding questions from the #rspatialchat Twitter hashtag. Finally, I’ll discuss next steps for R-Ladies in the #rspatial community and talk about how we can help each other become better spatial data practitioners together.<\/p> <p>Bio: Angela is a researcher and the R Spatial Advocate at the Center for Spatial Data Science at the University of Chicago. She has a background in spatial analysis, econometrics, and public policy. Prior to her current position, she worked at a startup focused on mobility and conducted research on housing and demolition in Detroit. She is currently researching the opioid epidemic in America, working with public health experts to better understand access to treatment. She is passionate about creating opportunities for underrepresented minorities to advance their data science and spatial thinking skills, starting R-Ladies Chicago and the #rspatialchat hashtag on Twitter, among other projects. She is a huge fan of the New York Times crossword.<\/p> <p>Angela’s website is angela-li.github.io. You can also find her on Github at @angela-li and Twitter @CivicAngela.<\/p> <p>---<\/p> <p>R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-newyork/events/270611485/",
     "textColor": "blue"
   },
   {
