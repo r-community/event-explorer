@@ -1,5 +1,13 @@
 [
   {
+    "title": "LA R users group: LA R Users: May Meeting",
+    "group": "LA R users group",
+    "start": "2020-05-27",
+    "description": "<p>LA R Users Group will have our May meeting online at <a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a><\/p> <p>**Talk1** (20min talk, 10min Q&amp;A)<br/>Speaker: Rich Iannone, Software Engineer at RStudio PBC<br/>Title: Making Tables with the gt Package<br/>Abstract: The gt package is great for making beautiful tables using tibble or data frame data. Its interface is designed to be both straightforward yet powerful. There are simple functions for those everyday display table needs but also plenty of options for customizability should you need it.<\/p> <p>There is a defined table model that subdivides a table into its component parts. These include the table header, the stub, the column labels and spanner column labels, the table body, and the table footer. All of these parts (and their component cells) can be targeted for the application of styling or the addition of footnotes. With all of the available options, there are many ways to customize the look of your table.<\/p> <p>The best way to get a feel for what gt can do is to take it for a spin, and so we’ll do that through some live demos. I’ll walk you though some code that progressively adds components to a gt table. Table cells will be formatted and, through styling, their appearance will be radically changed. The result in each case will be an HTML table that can be used in a variety of data products.<\/p> <p>**Talk2** (25min talk, 5min Q&amp;A)<br/>Speaker: Avik Das, Software Engineer at LinkedIn<br/>Title: Dynamic programming for machine learning: Hidden Markov Models<br/>Abstract: A Hidden Markov Model deals with inferring the state of a system given some unreliable or ambiguous observations from that system. One important characteristic of this system is the state of the system evolves over time, producing a sequence of observations along the way. By incorporating some domain-specific knowledge, it’s possible to take the observations and work backwards to a maximally plausible ground truth.<\/p> <p>This talk explores Hidden Markov Models in three steps:<\/p> <p>First, I define Hidden Markov Models and how they apply to machine learning problems.<\/p> <p>Next, I build up an understanding of the Viterbi algorithm, used to infer the state of the system given a sequence of observations. This involves some basic math, but the goal is to form an intuition for the algorithm. Some sample Python code is presented to demonstrate how simple the algorithm is.<\/p> <p>Finally, I introduce several real-world applications of Hidden Markov Models in machine learning. In this section, real-world considerations like feature extraction and training are discussed.<\/p> <p>Basic math knowledge is expected, just the ability to express concepts as equations and an understanding of Big-O notation. Basic Python knowledge is helpful, but not required. The goal is build up intuition.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>6:15 open zoom<br/>6:30-7:00 First talk<br/>7:00-7:30 Second talk<br/>~8:00 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://laocr.org/\" class=\"linkified\">https://laocr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
+    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/270532283/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Chico R Users Group: Community Coding (Zoom edition)",
     "group": "Chico R Users Group",
     "start": "2020-04-28",
@@ -45,6 +53,14 @@
     "start": "2020-05-20",
     "description": "<p>After the success of our first book club, we are looking to start a new one. Again this will be headed up by Xi Chen. The idea is to motivate us to read books and discussing them together. This will help all of us to develop our skills.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:00 and 7:30 PM. The location is Zoom<\/p> <p>Book: Feature Engineering and Selection<br/><a href=\"http://www.feat.engineering/\" class=\"linkified\">http://www.feat.engineering/<\/a><br/><a href=\"https://www.amazon.com/gp/product/1138079227/\" class=\"linkified\">https://www.amazon.com/gp/product/1138079227/<\/a><\/p> <p>In this event, we will cover chapter 12<\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
     "url": "https://www.meetup.com/OC-RUG/events/269960004/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Orange County R Users Group (OCRUG): Book club - Session 01 - Applied Predictive Modeling",
+    "group": "Orange County R Users Group (OCRUG)",
+    "start": "2020-05-27",
+    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 to 8:00 PM. The location is Zoom if we cannot meet in person. If we can meet, it will be at Panara Bread (see below)<\/p> <p>Book: Applied Predictive Modeling<br/><a href=\"http://appliedpredictivemodeling.com/\" class=\"linkified\">http://appliedpredictivemodeling.com/<\/a><br/><a href=\"https://www.amazon.com/dp/B00K15TZU0/\" class=\"linkified\">https://www.amazon.com/dp/B00K15TZU0/<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
+    "url": "https://www.meetup.com/OC-RUG/events/270076542/",
     "textColor": "#7171fb"
   },
   {
@@ -240,6 +256,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Montreal R User Group: Best Practices & Tools for Accurate Document Annotation and Data Abstraction",
+    "group": "Montreal R User Group",
+    "start": "2020-05-27",
+    "description": "<p>Register here: <a href=\"https://hubs.ly/H0qJCdF0\" class=\"linkified\">https://hubs.ly/H0qJCdF0<\/a><\/p> <p>Are you working on machine learning tasks such as sentiment analysis, named entity recognition, text classification, image classification or audio segmentation? If so, you need training data adapted for your particular domain and task.<\/p> <p>This webinar will explain the best practices and strategies for getting the training data you need. We will go over the setup of the annotation team, the workflows that need to be in place for guaranteeing high accuracy and labeler agreement, and the tools that will help you increase productivity and eliminate errors.<\/p> <p>Register here: <a href=\"https://hubs.ly/H0qJCdF0\" class=\"linkified\">https://hubs.ly/H0qJCdF0<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270768396/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Greater Cleveland R Group: Virtual R Café",
     "group": "Greater Cleveland R Group",
     "start": "2020-05-02",
@@ -253,6 +277,14 @@
     "start": "2020-05-16",
     "description": "<p>This is a chance to hang out with other R coders for a bit. It will be informal with no set topic. Bring something to work on and feel free to share or ask questions if want.<\/p> <p>If you want an idea to work on, you could look at the kaggle housing price data from our last meeting (<a href=\"https://www.kaggle.com/c/house-prices-advanced-regression-techniques\" class=\"linkified\">https://www.kaggle.com/c/house-prices-advanced-regression-techniques<\/a>). See some of the groups code for this at <a href=\"https://github.com/ClevelandRUserGroup/RTalksMarch2020\" class=\"linkified\">https://github.com/ClevelandRUserGroup/RTalksMarch2020<\/a>.<\/p> ",
     "url": "https://www.meetup.com/Cleveland-UseR-Group/events/270405436/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Greater Cleveland R Group: Rami Krispin on Covid19 Data Project",
+    "group": "Greater Cleveland R Group",
+    "start": "2020-05-27",
+    "description": "<p>Rami's Abstract: The goal of the Covid19R project is to create a uniform and tidy data format and set standards for Covid19 data in R. This enables the users to load to R seamlessly a clean, ready to use, and up-to-date covid19 dataset. The project currently includes several datasets such as covid19france, covid19nytimes, covid19swiss. In this talk, I will focus on approaches for building supporting tools in R for Covid19 data with the use of APIs, continuous integration with Github Actions, dashboards, visualization. More details about the project are available here: <a href=\"https://github.com/Covid19R\" class=\"linkified\">https://github.com/Covid19R<\/a><\/p> <p>Bio: Rami Krispin is a data scientist who mainly focuses on time series analysis and forecasting applications. He is the author of \"Hands-On Time Series Analysis with R\", and several R packages, including the TSstudio package for time series analysis and forecasting applications. Since the beginning of the covid19 outbreak, he wrote R dataset packages and created dashboards for tracking the outbreak (such as coronavirus, covid19italy, etc.)<\/p> ",
+    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/270204950/",
     "textColor": "#7171fb"
   },
   {
@@ -288,6 +320,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Saint Louis R User Group: Statistics in Sports with R",
+    "group": "Saint Louis R User Group",
+    "start": "2020-05-27",
+    "description": "<p>This meetup will only be available online. The presentation will start shortly after 6pm, not 6:30 like our in-person meetups.<\/p> <p>By: John Snyder<\/p> <p>Big data in sports provide a unique and challenging opportunity for advanced statistical analysis and creative data exploration. Extensive data are being collected on athletes, teams, and their opponents. These data are being used in many ways, from individual player evaluation to assisting in strategy development.<\/p> <p>This month, I will demonstrate two examples on public datasets. First, the MLBs Statcast dataset will be explored and used to model home run probability as a function a baseball's launch angle and velocity off the bat. Additionally, a package for the analysis of basketball data will be briefly mentioned.<\/p> ",
+    "url": "https://www.meetup.com/Saint-Louis-RUG/events/xlrkjrybchbbc/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Wiesbaden R User Group: R Coffee Break - Code-Optimierung mit dem RStudio Profiler",
     "group": "Wiesbaden R User Group",
     "start": "2020-04-29",
@@ -320,19 +360,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Turkish Community of R: R ile Veribilimi - WhyR 2020 ön buluşması | sabah sunumları",
-    "group": "Turkish Community of R",
-    "start": "2020-04-27",
-    "description": "<p>English version follows below ;<\/p> <p>WhyR Polonya ve melda.io ile işbirliği 1 gün sürecek WhyR? 2020 Ön buluşması düzenliyoruz. Katılımın ücretsiz olacağı bu etkinliğin programında Polonya, Türkiye ve Bulgaristan’da veribilimi üzerine çalışan uzmanların yapacağı sabah sunumları ve pratik eğitim içeren akşamüstü seansı olacak.<\/p> <p>Bu etkinlik sabah seansı içindir. Ücretsiz akşamüstü pratik eğitimine katılmak için o eğitime ayrıca kayıt olmanız gerekmektedir.<\/p> <p>In close cooperation with WhyR Poland and melda.io, we are organising a 1-day Why R? 2020 pre-meeting. In this free event we have data science experts actively working in Poland, Turkey as well as a speaker Professor from YTÜ. The program will include a morning session with 3 presentations and an afternoon session for a selected audience hands-on training on Data Science with R.<\/p> <p>This event is the morning talks given by invited speakers. If you want to attend the free afternoon training session you have to separately register for it.<\/p> <p>Program<br/>10.00 Açılış<br/>Gert Kroon - PranaGEO CEO ve kurucu ortağı<\/p> <p>10.10 Açılış Konuşması - R ile Web kazıma teknikleri<br/>Olgun Aydin - PWC Polonya'da kıdemli veribilimci, Why-R Foundation üyesi<\/p> <p>10.45 R ile tekrarlanabilir araştırma ve veribilim<br/>Dr. Ahmet Çizmeli - PranaGEO CSO ve kurucu ortağı<\/p> <p>11.20 R'ın iş dünyasındaki kullanım alanları<br/>Ayşe Elvan Aydemir - Amplify Analytix, R-Ladies Ankara<\/p> <p>11.55 ODTÜ Veri Bilimi (Data Science LAB) projesi ve R<br/>Dr. Fulya Gokalp Yavuz - Assistant Professor at Orta Doğu Teknik Üniversitesi / Middle East Technical University, R-Ladies Ankara<\/p> <p>12.30 Öğle yemeği (katılımcılar yemek masraflarını kendileri karşılayacaklardır)<\/p> <p>Güncelleme; Update;<br/>Yaklaşmakta olan İstanbul ve Ankara etkinliklerimiz için Covid19 güncellemesi<\/p> <p>En son COVID-19'un (koronavirüs hastalığı) güncellemeleri nedeniyle, 24 Nisan'da ve 27'de sanal etkinlikler olarak 2 etkinliğimizi gerçekleştirmeye karar verdik.<\/p> <p>Bu sanal etkinliklere katılabilmek için <a href=\"https://app.melda.io/login\" class=\"linkified\">https://app.melda.io/login<\/a> adresine e-posta adresinizle ya da GitHub veya Patreon hesaplarınızla kayıt olmanız gerekmektedir. Kayıttan sonra bu sanal etkinliğe nasıl katılacağınız hakkında daha fazla bilgi alacaksınız. melda.io, öğleden sonra yapılması planlanan eğitim oturumlarında kullanılacak olan Veri Bilim bulut platformudur.<\/p> <p>24 ve 27 Nisan'da sizi da sanal olarak ağırlamayı dört gözle bekliyoruz. O zamana kadar kendinize çok iyi bakın.<\/p> <p>\"Turkish Community of R\" meetup ve PranaGEO ekibi.<\/p> <p>Covid19-Update for the upcoming Istanbul and Ankara Events<\/p> <p>Due to the latest updates of the COVID-19 (coronavirus disease) we decided to have our 2 events on the 24th of April and on the 27th available as a virtual events.<\/p> <p>To participate to these virtual events, we need you to register at <a href=\"https://app.melda.io/login\" class=\"linkified\">https://app.melda.io/login<\/a> with your email-address or existing GitHub or Patreon account. After registration you will receive more information on how to participate in this virtual event. melda.io is the cloud-based Data Science platform that is going to be used during the education sessions that are planned in the afternoon.<\/p> <p>Looking forward to host you virtually on the 24th and 27th of April and stay safe during the coming period.<\/p> <p>The \"Turkish Community of R\" meetup and PranaGEO team.<\/p> ",
-    "url": "https://www.meetup.com/tcr-users/events/269255329/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Turkish Community of R: R ile Veribilimi - WhyR 2020 ön buluşması | pratik eğitim seansı",
-    "group": "Turkish Community of R",
-    "start": "2020-04-27",
-    "description": "<p>English version follows below<\/p> <p>Bilgisayar başında R pratik eğitimin verileceği akşamüstü seansıdır. Eğer ücretsiz sabah sunumlarına katılmak istiyorsanız o etkinliğe ayrıca kayıt yaptırmanız gerekmektedir.<\/p> <p>This event is the afternoon session with hands-on training in R. If you want to attend the free morning talks, you have to separately register for it.<\/p> <p>Program<br/>13.30 Bilgisayar başında pratik eğitim : R ile veri kazıması (katılımcı sayısı sınırlıdır)<br/>Eğitmenler : Olgun Aydin, Dr. Ahmet Çizmeli<\/p> <p>Güncelleme; Update;<br/>Yaklaşmakta olan İstanbul ve Ankara etkinliklerimiz için Covid19 güncellemesi<\/p> <p>En son COVID-19'un (koronavirüs hastalığı) güncellemeleri nedeniyle, 24 Nisan'da ve 27'de sanal etkinlikler olarak 2 etkinliğimizi gerçekleştirmeye karar verdik.<\/p> <p>Bu sanal etkinliklere katılabilmek için <a href=\"https://app.melda.io/login\" class=\"linkified\">https://app.melda.io/login<\/a> adresine e-posta adresinizle ya da GitHub veya Patreon hesaplarınızla kayıt olmanız gerekmektedir. Kayıttan sonra bu sanal etkinliğe nasıl katılacağınız hakkında daha fazla bilgi alacaksınız. melda.io, öğleden sonra yapılması planlanan eğitim oturumlarında kullanılacak olan Veri Bilim bulut platformudur.<\/p> <p>24 ve 27 Nisan'da sizi sanal olarak ağırlamayı dört gözle bekliyoruz. O zamana kadar kendinize çok iyi bakın.<\/p> <p>\"Turkish Community of R\" meetup ve PranaGEO ekibi.<\/p> <p>Covid19-Update for the upcoming Istanbul and Ankara Events<\/p> <p>Due to the latest updates of the COVID-19 (coronavirus disease) we decided to have our 2 events on the 24th of April and on the 27th available as a virtual events.<\/p> <p>To participate to these virtual events, we need you to register at <a href=\"https://app.melda.io/login\" class=\"linkified\">https://app.melda.io/login<\/a> with your email-address or existing GitHub or Patreon account. After registration you will receive more information on how to participate in this virtual event. melda.io is the cloud-based Data Science platform that is going to be used during the education sessions that are planned in the afternoon.<\/p> <p>Looking forward to host you virtually on the 24th and 27th of April and stay safe during the coming period.<\/p> <p>The \"Turkish Community of R\" meetup and PranaGEO team.<\/p> ",
-    "url": "https://www.meetup.com/tcr-users/events/269255299/",
+    "title": "Wiesbaden R User Group: R Coffee Break - C++ und R: Das Rcpp-Paket",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-05-27",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>In diesem Coffee Break werden wir uns das Rcpp-Paket anschauen. Viele User*innen sind sicher schon über das Rcpp-Paket gestolpert, mit dem C++-Code in R nutzbar gemacht werden kann. Hier bekommt ihr einen kurzen Einblick, wie das Rcpp genutzt werden kann.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Passwort: RU~erM33tu<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/270786861/",
     "textColor": "#7171fb"
   },
   {
@@ -349,14 +381,6 @@
     "start": "2020-05-14",
     "description": "<p>Once again we have a special remote meetup and once again it is about COVID-19.<\/p> <p>Due to COVID-19 there is no in-person component to this meetup but rather it will take place completely online at <a href=\"https://zoom.us/j/93011906605\" class=\"linkified\">https://zoom.us/j/93011906605<\/a>. Thank you to EcoHealth Alliance for providing the Zoom link.<\/p> <p>Even though we will not be in person to have pizza together, that has long been a central part of the meetup. So Scott's Pizza Tours is sponsoring the meetup this month and offering everyone 25% off virtual tours booked by June 1. Use code NerdsLovePizza at <a href=\"https://www.scottspizzatours.com/\" class=\"linkified\">https://www.scottspizzatours.com/<\/a> for the discount.<\/p> <p>About the Talk:<br/>The Covid19R project provides a set of tools and common language for developing covid19 dataset related R packages in a tidy format. The main goal of the project is to create a data structure standard that enables the users to load to R seamlessly a clean, ready to use, and up-to-date covid19 dataset. The project currently includes several dataset packages such as covid19france, covid19nytimes, covid19swiss, and the covid19R package that enable fast access for several data sources in a tidy format. In this talk, I will focus on approaches for creating a covid19 R dataset package and supporting elements such as dashboard, visualization, and automation with continuous integration tools. More details about the project are available here: <a href=\"https://github.com/Covid19R\" class=\"linkified\">https://github.com/Covid19R<\/a><\/p> <p>About Rami:<br/>Rami Krispin is a data scientist who mainly focuses on time series analysis and forecasting applications. He is the author of \"Hands-On Time Series Analysis with R\", and several R packages, including the TSstudio package for time series analysis and forecasting applications. Since the beginning of the covid19 outbreak, he wrote R dataset packages and created dashboards for tracking the outbreak (such as coronavirus, covid19italy, etc.)<\/p> <p>The meetup will start right at 7 and we will start admitting people to the meeting shortly before. Since this is completely remote there will be no pizza but everyone is encouraged to have pizza individually.<\/p> ",
     "url": "https://www.meetup.com/nyhackr/events/270279676/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Buenos Aires: Charlar con R - Toma 3",
-    "group": "R-Ladies Buenos Aires",
-    "start": "2020-04-27",
-    "description": "<p>¡Se viene una nueva reunión virtual: Charlar con R, Toma 3!<\/p> <p>Vamos a dar los primeros pasos en R Markdown. Qué es, para que sirve y algo de lo que se puede hacer.<\/p> <p>¿Te sumás? Será el lunes 27 de Abril a las 18:30PM, por Zoom.<\/p> <p>¡Acordate, tenelo ya instalado!<\/p> <p>***IMPORTANTE***<br/>Para participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (<a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a>).<\/p> <p>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo lunes vamos a mandar un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-buenos-aires/events/270240110/",
     "textColor": "#7171fb"
   },
   {
@@ -485,6 +509,14 @@
     "start": "2020-05-23",
     "description": "<p>En el segundo taller especializado de mayo Javiera Riffo nos mostrará aplicaciones del paquete ggplot2. Luego de hacer una revisión de los conceptos esenciales de visualización con este paquete, nos mostrará cómo generar gráficas para calendarizar nuestros datos.<br/>Javiera Riffo es Ingeniera Matemática y actualmente cursa el Magíster en Ingeniería PUC.<\/p> <p>&gt; ¿Qué necesito para participar?<\/p> <p>Lo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).<br/>El taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.<\/p> <p>¡Te esperamos!<\/p> ",
     "url": "https://www.meetup.com/rladies-scl/events/270385592/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Santiago: Taller introductorio: procesamiento y visualización de datos con R (Sesión 4)",
+    "group": "R-Ladies Santiago",
+    "start": "2020-05-27",
+    "description": "<p>El miércoles 27 de mayo es la última sesión de nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.<\/p> <p>La sesión estará a cargo de Isidora Castillo y Natalia Riquelme. Isidora es Psicóloga Educacional y trabaja como ayudante de investigación en la Universidad del Desarrollo. Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción.<br/>En esta cuarta y última sesión revisaremos aspectos del flujo de trabajo en R y RStudio, y veremos algunos ejemplos para poner en práctica lo visto en sesiones anteriores.<\/p> <p>&gt; No vine a las sesiones anteriores, ¿puedo participar?<\/p> <p>Sí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a><\/p> <p>&gt; ¿Qué necesito para participar?<\/p> <p>Lo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).<br/>Lo tercero, es crearte una cuenta en RStudio Cloud (<a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>). A través de esa vía compartiremos el código que se escriba en la sesión.<\/p> <p>¡Te esperamos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-scl/events/270820688/",
     "textColor": "#7171fb"
   },
   {
@@ -672,6 +704,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Valparaíso: Taller introductorio: procesamiento y visualización de datos con R (Sesión 4)",
+    "group": "R-Ladies Valparaíso",
+    "start": "2020-05-27",
+    "description": "<p>El miércoles 27 de mayo es la última sesión de nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.<\/p> <p>La sesión estará a cargo de Isidora Castillo y Natalia Riquelme. Isidora es Psicóloga Educacional y trabaja como ayudante de investigación en la Universidad del Desarrollo. Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción.<br/>En esta cuarta y última sesión revisaremos aspectos del flujo de trabajo en R y RStudio, y veremos algunos ejemplos para poner en práctica lo visto en sesiones anteriores.<\/p> <p>&gt; No vine a las sesiones anteriores, ¿puedo participar?<\/p> <p>Sí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a><\/p> <p>&gt; ¿Qué necesito para participar?<\/p> <p>Lo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).<br/>Lo tercero, es crearte una cuenta en RStudio Cloud (<a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>). A través de esa vía compartiremos el código que se escriba en la sesión.<\/p> <p>¡Te esperamos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-valparaiso/events/270820676/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Amsterdam: R Ladies Netherlands Book Club - Advanced R Chapter 5",
     "group": "R-Ladies Amsterdam",
     "start": "2020-05-26",
@@ -736,19 +776,19 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Santa Barbara: R Tips and Tricks",
+    "group": "R-Ladies Santa Barbara",
+    "start": "2020-05-27",
+    "description": "<p>Join us virtually for a session all about tips and tricks for improving your R workflow! This session will be perfect for any R users looking for small improvements that can help make their coding practices more efficient. While your co-organizers will help to guide us through the presentation, we hope that other members in our awesome community will be willing to briefly discuss the R tips/tricks that they love and use regularly.<\/p> <p>Speaking of which! We are crowd sourcing these handy coding tips and tricks from our community. If you have something that you want to share please fill out the Google survey (link below). All you have to do is fill out the survey and we will make the slide; there is an example tip slide attached for reference in the survey. We would love for each submitter to give a quick explanation about their tip at next week’s meeting, but we of course are happy to present for those who do not want to or can’t. If you are unable to attend, but would still like to share that awesome shortcut you use each time you open up R, please submit! We’ll share on your behalf, and your fellow R-ladies will be appreciative!<\/p> <p>The meeting Zoom link will become available once you’ve RSVPed.<\/p> <p>Looking forward to learning something new with you all!<\/p> <p>Best,<br/>Juliette, An, &amp; Sam<\/p> <p>Google Survey Link: <a href=\"https://forms.gle/FvwKDJMRvzkL9uVq8\" class=\"linkified\">https://forms.gle/FvwKDJMRvzkL9uVq8<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-santa-barbara/events/270727948/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R en Buenos Aires: Gráficos de contorno en R para los  #30DíasDeGráficos! 📈️",
     "group": "R en Buenos Aires",
     "start": "2020-05-19",
     "description": "<p>El 12 de mayo empezó #30díasdegráficos con R, una iniciativa de la comunidad hispanohablante de R para recordar a Florence Nightingale y aprender sobre visualización de datos. 📊️<\/p> <p>El desafío: crear y compartir un gráfico por día.<\/p> <p>El 19 de mayo es el turno de los gráficos de contornos. ¿Qué son, cómo se usan y con qué se comen? Vení a este encuentro virtual para aprender más sobre esta forma de graficar datos en 3 dimensiones!<\/p> <p>El encuentro va a ser por Zoom y vamos a enviar el link al evento a quienes hayan puesto \"asistiré\" acá en meetup media hora antes de empezar. Es decir, ES MUY IMPORTANTE QUE PONGAN \"ASISTIRÉ\"!<\/p> <p>Como siempre, en este evento ns guiamos por nuestro código de conducta, que pueden leer acá: <a href=\"https://renbaires.github.io/cdc\" class=\"linkified\">https://renbaires.github.io/cdc<\/a><\/p> <p>¿En qué va a consistir este encuentro?<\/p> <p>Luego de unos minutos para que nos presentemos y nos acomodemos en la plataforma, Elio Campitelli va presentar a los gráficos de contornos. Él no sólo usa gráficos de contornos literalmente todos los días en su trabajo, sino que desarrolló geoms de ggplot2 para graficarlos.<\/p> <p>Después, vamos a tener un tiempo para poner manos a la obra. La idea es que te vayas con un gráfico de contornos para poner en el CV y publicar en twitter con el hashtag #30diasdegraficos.<\/p> <p>Finalmente, en los últimos minutos vamos a dejar lugar para que, quienes quieran, puedan compartir y comentar lo que hicieron.<\/p> <p>¿Qué necesito para participar?<\/p> <p>Si querés armar tu gráfico, vas a tener que tener R instalado! Si vas a usar ggplot2, asegurate de tener instalada la última versión de los paquetes ggplot2, metR y contoureR con este comando:<\/p> <p>install.packages(c(\"ggplot2\", \"metR\", \"contoureR\"))<\/p> <p>¡Y nada más!<\/p> <p>¡Les esperamos!<\/p> ",
     "url": "https://www.meetup.com/renbaires/events/270678299/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Bristol R User Group: BristolR Remote April 2020",
-    "group": "Bristol R User Group",
-    "start": "2020-04-27",
-    "description": "<p>Whether you're an R newbie or experienced Data Scientist, all are welcome at Bristol R. Welcome to our first ever online meetup!<\/p> <p>7:00pm - 8:00pm Talks<\/p> <p>7.00pm Remy Gavard - How not to be a R-ookie: A PhD student story.<\/p> <p>7.30pm Colin Fay - Engineering Shiny Apps using {golem}<\/p> <p>Bristol R User Group is proudly sponsored by Unai, the R Consortium, and Ovo Energy who are our venue sponsor when we're back to running these in person!<\/p> ",
-    "url": "https://www.meetup.com/Bristol-R-User-Group/events/270184310/",
     "textColor": "#7171fb"
   },
   {
@@ -852,6 +892,13 @@
     "group": "R-Ladies Rio de Janeiro",
     "start": "2020-04-28",
     "url": "https://www.meetup.com/rladies-rio/events/269186974/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Rio de Janeiro: Trabalhos reprodutíveis com R e git",
+    "group": "R-Ladies Rio de Janeiro",
+    "start": "2020-05-27",
+    "url": "https://www.meetup.com/rladies-rio/events/270727462/",
     "textColor": "#7171fb"
   },
   {
@@ -999,28 +1046,20 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Concepción: Aplicaciones prácticas",
+    "group": "R-Ladies Concepción",
+    "start": "2020-05-27",
+    "description": "<p>El miércoles 27 de mayo es la última sesión de nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.<\/p> <p>La sesión estará a cargo de Isidora Castillo y Natalia Riquelme. Isidora es Psicóloga Educacional y trabaja como ayudante de investigación en la Universidad del Desarrollo. Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción.<br/>En esta cuarta y última sesión revisaremos aspectos del flujo de trabajo en R y RStudio, y veremos algunos ejemplos para poner en práctica lo visto en sesiones anteriores.<\/p> <p>&gt; No vine a las sesiones anteriores, ¿puedo participar?<\/p> <p>Sí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a><\/p> <p>&gt; ¿Qué necesito para participar?<\/p> <p>Lo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).<br/>Lo tercero, es crearte una cuenta en RStudio Cloud (<a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>). A través de esa vía compartiremos el código que se escriba en la sesión.<\/p> <p>¡Te esperamos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-concepcion/events/270822549/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Newcastle Upon Tyne Data Science Meetup: Virtual Meet-up",
     "group": "Newcastle Upon Tyne Data Science Meetup",
     "start": "2020-05-05",
     "description": "<p>Speaker: Jared Lander<\/p> <p>Organisation: <a href=\"https://www.landeranalytics.com/\" class=\"linkified\">https://www.landeranalytics.com/<\/a><\/p> <p>Title: Visualizing Models<\/p> <p>About:<\/p> <p>Jared founded Lander Analytics, which is a full-service consulting firm based in New York City helping clients enhance their analytical capabilities to drive value from data.<\/p> ",
     "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/270173513/",
     "textColor": "#7171fb"
-  },
-  {
-    "title": "LA R users group: LA R Users: May Meeting",
-    "group": "LA R users group",
-    "start": "2020-05-27",
-    "description": "<p>LA R Users Group will have our May meeting online at <a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a><\/p> <p>**Talk1** (20min talk, 10min Q&amp;A)<br/>Speaker: Rich Iannone, Software Engineer at RStudio PBC<br/>Title: Making Tables with the gt Package<br/>Abstract: The gt package is great for making beautiful tables using tibble or data frame data. Its interface is designed to be both straightforward yet powerful. There are simple functions for those everyday display table needs but also plenty of options for customizability should you need it.<\/p> <p>There is a defined table model that subdivides a table into its component parts. These include the table header, the stub, the column labels and spanner column labels, the table body, and the table footer. All of these parts (and their component cells) can be targeted for the application of styling or the addition of footnotes. With all of the available options, there are many ways to customize the look of your table.<\/p> <p>The best way to get a feel for what gt can do is to take it for a spin, and so we’ll do that through some live demos. I’ll walk you though some code that progressively adds components to a gt table. Table cells will be formatted and, through styling, their appearance will be radically changed. The result in each case will be an HTML table that can be used in a variety of data products.<\/p> <p>**Talk2** (25min talk, 5min Q&amp;A)<br/>Speaker: Avik Das, Software Engineer at LinkedIn<br/>Title: Dynamic programming for machine learning: Hidden Markov Models<br/>Abstract: A Hidden Markov Model deals with inferring the state of a system given some unreliable or ambiguous observations from that system. One important characteristic of this system is the state of the system evolves over time, producing a sequence of observations along the way. By incorporating some domain-specific knowledge, it’s possible to take the observations and work backwards to a maximally plausible ground truth.<\/p> <p>This talk explores Hidden Markov Models in three steps:<\/p> <p>First, I define Hidden Markov Models and how they apply to machine learning problems.<\/p> <p>Next, I build up an understanding of the Viterbi algorithm, used to infer the state of the system given a sequence of observations. This involves some basic math, but the goal is to form an intuition for the algorithm. Some sample Python code is presented to demonstrate how simple the algorithm is.<\/p> <p>Finally, I introduce several real-world applications of Hidden Markov Models in machine learning. In this section, real-world considerations like feature extraction and training are discussed.<\/p> <p>Basic math knowledge is expected, just the ability to express concepts as equations and an understanding of Big-O notation. Basic Python knowledge is helpful, but not required. The goal is build up intuition.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>6:15 open zoom<br/>6:30-7:00 First talk<br/>7:00-7:30 Second talk<br/>~8:00 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://laocr.org/\" class=\"linkified\">https://laocr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
-    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/270532283/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Orange County R Users Group (OCRUG): Book club - Session 01 - Applied Predictive Modeling",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2020-05-27",
-    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 to 8:00 PM. The location is Zoom if we cannot meet in person. If we can meet, it will be at Panara Bread (see below)<\/p> <p>Book: Applied Predictive Modeling<br/><a href=\"http://appliedpredictivemodeling.com/\" class=\"linkified\">http://appliedpredictivemodeling.com/<\/a><br/><a href=\"https://www.amazon.com/dp/B00K15TZU0/\" class=\"linkified\">https://www.amazon.com/dp/B00K15TZU0/<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/270076542/",
-    "textColor": "blue"
   },
   {
     "title": "Orange County R Users Group (OCRUG): Book club - Session 02 - Applied Predictive Modeling",
@@ -1247,14 +1286,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Montreal R User Group: Best Practices & Tools for Accurate Document Annotation and Data Abstraction",
-    "group": "Montreal R User Group",
-    "start": "2020-05-27",
-    "description": "<p>Register here: <a href=\"https://hubs.ly/H0qJCdF0\" class=\"linkified\">https://hubs.ly/H0qJCdF0<\/a><\/p> <p>Are you working on machine learning tasks such as sentiment analysis, named entity recognition, text classification, image classification or audio segmentation? If so, you need training data adapted for your particular domain and task.<\/p> <p>This webinar will explain the best practices and strategies for getting the training data you need. We will go over the setup of the annotation team, the workflows that need to be in place for guaranteeing high accuracy and labeler agreement, and the tools that will help you increase productivity and eliminate errors.<\/p> <p>Register here: <a href=\"https://hubs.ly/H0qJCdF0\" class=\"linkified\">https://hubs.ly/H0qJCdF0<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270768396/",
-    "textColor": "blue"
-  },
-  {
     "title": "Montreal R User Group: [Webinar] Rapidly Onboard and Prep Your Data for Machine Learning",
     "group": "Montreal R User Group",
     "start": "2020-05-28",
@@ -1300,14 +1331,6 @@
     "start": "2020-06-18",
     "description": "<p>Data Science Salon wants to encourage, inspire and transcend this current climate of COVID 19!<\/p> <p>About this Event<br/>Data Science Salon Elevate is a unique female focused virtual conference which brings together specialists to educate each other, illuminate best practices and innovate new solutions. Learn as female thought leaders share their wisdom and experience in their chosen field.<\/p> <p>Register here: <a href=\"https://bit.ly/2WGJQjF\" class=\"linkified\">https://bit.ly/2WGJQjF<\/a><\/p> <p>Apply to speak at the next one: <a href=\"https://formulatedby.typeform.com/to/qlr8Va\" class=\"linkified\">https://formulatedby.typeform.com/to/qlr8Va<\/a><\/p> ",
     "url": "https://www.meetup.com/Montreal-R-User-Group/events/270724857/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Greater Cleveland R Group: Rami Krispin on Covid19 Data Project",
-    "group": "Greater Cleveland R Group",
-    "start": "2020-05-27",
-    "description": "<p>Rami's Abstract: The goal of the Covid19R project is to create a uniform and tidy data format and set standards for Covid19 data in R. This enables the users to load to R seamlessly a clean, ready to use, and up-to-date covid19 dataset. The project currently includes several datasets such as covid19france, covid19nytimes, covid19swiss. In this talk, I will focus on approaches for building supporting tools in R for Covid19 data with the use of APIs, continuous integration with Github Actions, dashboards, visualization. More details about the project are available here: <a href=\"https://github.com/Covid19R\" class=\"linkified\">https://github.com/Covid19R<\/a><\/p> <p>Bio: Rami Krispin is a data scientist who mainly focuses on time series analysis and forecasting applications. He is the author of \"Hands-On Time Series Analysis with R\", and several R packages, including the TSstudio package for time series analysis and forecasting applications. Since the beginning of the covid19 outbreak, he wrote R dataset packages and created dashboards for tracking the outbreak (such as coronavirus, covid19italy, etc.)<\/p> ",
-    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/270204950/",
     "textColor": "blue"
   },
   {
@@ -1362,7 +1385,7 @@
     "title": "Trenton R Users (TRU): Meetup for May - 2020",
     "group": "Trenton R Users (TRU)",
     "start": "2020-05-30",
-    "description": "<p>Our May meetup will entirely be made up of Rapid-fire rounds. That means more of you will have the opportunity to present your topic.<\/p> <p>Please contact the organizers, if you would like to present on May 30th meetup. Time allotted will be 10 min per topic and you can choose any topic related to the data science domain.<\/p> ",
+    "description": "<p>Topics for Rapid-fire round:<\/p> <p>1) Box &amp; Whisker diagram - Praveen Sharma<br/>2) Standard Normal Distribution - Ashutosh Prasad<br/>3) Tests for Means (Inference Statistics) - Ashutosh Prasad<br/>4) SQL - Joel U<br/>5) dplyr joins - Joel U<br/>6) Confusion Matrix - Praveen Sharma (If time permits)<\/p> <p>Note: Rapid-fire round is open to the audience. If you would like to make a presentation, please reach out to the organizers.<\/p> ",
     "url": "https://www.meetup.com/TRUgroup/events/268224161/",
     "textColor": "blue"
   },
@@ -1418,7 +1441,7 @@
     "title": "Salt Lake City R Users Group: [Online] Regression When Your Data Isn't Well Behaved",
     "group": "Salt Lake City R Users Group",
     "start": "2020-05-28",
-    "description": "<p>Our May Meetup will be a remote gathering. Look for the Zoom link to be posted the week of the event!<\/p> <p>The most commonly taught types of regression are linear (where the dependent variable can be any real number) and logistic (where the dependent variable is binary). However, many types of data don't fall into either of these two categories. In this session, we will review regression techniques that can handle other kinds of inputs: censored normal, logit-normal, and beta regression (for dependent variables that are bounded above and/or below); ordered logistic regression (for multiple discrete outcomes that are logically ordered, such as Likert ratings); and multinomial logistic regression (for discrete outcomes that aren't ordered). These techniques provide a better representation of the processes they are modeling and allow us to make more realistic predictions.<\/p> <p>Abby Kaplan is a data scientist at Salt Lake Community College. Before joining SLCC, she was an adjunct professor of linguistics at the University of Utah. She received her PhD in linguistics from UC Santa Cruz in 2010.<\/p> ",
+    "description": "<p>Our May Meetup will be a remote gathering. The Zoom link is visible to those who RSVP.<\/p> <p>The most commonly taught types of regression are linear (where the dependent variable can be any real number) and logistic (where the dependent variable is binary). However, many types of data don't fall into either of these two categories. In this session, we will review regression techniques that can handle other kinds of inputs: censored normal, logit-normal, and beta regression (for dependent variables that are bounded above and/or below); ordered logistic regression (for multiple discrete outcomes that are logically ordered, such as Likert ratings); and multinomial logistic regression (for discrete outcomes that aren't ordered). These techniques provide a better representation of the processes they are modeling and allow us to make more realistic predictions.<\/p> <p>Abby Kaplan is a data scientist at Salt Lake Community College. Before joining SLCC, she was an adjunct professor of linguistics at the University of Utah. She received her PhD in linguistics from UC Santa Cruz in 2010.<\/p> ",
     "url": "https://www.meetup.com/slc-rug/events/268174128/",
     "textColor": "blue"
   },
@@ -1436,14 +1459,6 @@
     "start": "2020-06-18",
     "description": "<p>More information forthcoming.<\/p> <p>Silje is currently working as a Data Scientist at Amesto Nextbridge, and has over 15 years of experience in large scale data analysis. She has a background as cancer researcher, where she headed several successful research projects, amongst other focusing on method development and the search for pan cancer similarities in multidimensional data.<\/p> ",
     "url": "https://www.meetup.com/Oslo-useR-Group/events/270883033/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Saint Louis R User Group: Statistics in Sports with R",
-    "group": "Saint Louis R User Group",
-    "start": "2020-05-27",
-    "description": "<p>This meetup will only be available online. The presentation will start shortly after 6pm, not 6:30 like our in-person meetups.<\/p> <p>By: John Snyder<\/p> <p>Big data in sports provide a unique and challenging opportunity for advanced statistical analysis and creative data exploration. Extensive data are being collected on athletes, teams, and their opponents. These data are being used in many ways, from individual player evaluation to assisting in strategy development.<\/p> <p>This month, I will demonstrate two examples on public datasets. First, the MLBs Statcast dataset will be used to explore home run probability as a function a baseball's launch angle and velocity off the bat. Additionally, a basketball dataset will be explored.<\/p> ",
-    "url": "https://www.meetup.com/Saint-Louis-RUG/events/xlrkjrybchbbc/",
     "textColor": "blue"
   },
   {
@@ -1468,14 +1483,6 @@
     "start": "2020-08-19",
     "description": "<p>By: TBD<\/p> ",
     "url": "https://www.meetup.com/Saint-Louis-RUG/events/xlrkjrybclbzb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Wiesbaden R User Group: R Coffee Break - C++ und R: Das Rcpp-Paket",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-05-27",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>In diesem Coffee Break werden wir uns das Rcpp-Paket anschauen. Viele User*innen sind sicher schon über das Rcpp-Paket gestolpert, mit dem C++-Code in R nutzbar gemacht werden kann. Hier bekommt ihr einen kurzen Einblick, wie das Rcpp genutzt werden kann.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Passwort: RU~erM33tu<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/270786861/",
     "textColor": "blue"
   },
   {
@@ -1539,14 +1546,6 @@
     "start": "2020-05-30",
     "description": "<p>R-Ladies Chicago will be hosting a virtual social Meetup following the free virtual SatRday Chicago conference this upcoming Saturday!<\/p> <p>Both events are open to all R-Ladies. You do not have to attend SatRday Chicago to attend this Meetup, but we encourage you to join the conference as it is free and several R-Ladies are speaking!<\/p> <p>You will receive information on accessing this Meetup virtually when you RSVP to this event.<\/p> <p>--------------<\/p> <p>Register for FREE for satRday Chicago: <a href=\"https://chicago2020.satrdays.org\" class=\"linkified\">https://chicago2020.satrdays.org<\/a><\/p> <p>SatRDays are community-led, regional conferences to support collaboration, networking and innovation within the R community. Events are organized by and for the local R community - we have sister events in DC, Los Angeles, Paris, Johannesburg, and more! Check out <a href=\"https://chicago2020.satrdays.org\" class=\"linkified\">https://chicago2020.satrdays.org<\/a> for more information about this specific conference, and see <a href=\"https://chicago2019.satrdays.org\" class=\"linkified\">https://chicago2019.satrdays.org<\/a> for details about last year's conference.<\/p> <p>This year's satRday Chicago will be raising money for the Greater Chicago Food Depository. You can donate here: <a href=\"https://www.myfooddrive.org/drive.php?satrday-chicago-2020\" class=\"linkified\">https://www.myfooddrive.org/drive.php?satrday-chicago-2020<\/a><\/p> <p>Please contact us at [masked] with any questions or concerns.<\/p> <p>--------------<\/p> <p>CODE OF CONDUCT<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>• The mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community.<\/p> <p>• We are emphatically queer and trans-friendly.<\/p> ",
     "url": "https://www.meetup.com/rladies-chicago/events/270835101/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Santiago: Taller introductorio: procesamiento y visualización de datos con R (Sesión 4)",
-    "group": "R-Ladies Santiago",
-    "start": "2020-05-27",
-    "description": "<p>El miércoles 27 de mayo es la última sesión de nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.<\/p> <p>La sesión estará a cargo de Isidora Castillo y Natalia Riquelme. Isidora es Psicóloga Educacional y trabaja como ayudante de investigación en la Universidad del Desarrollo. Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción.<br/>En esta cuarta y última sesión revisaremos aspectos del flujo de trabajo en R y RStudio, y veremos algunos ejemplos para poner en práctica lo visto en sesiones anteriores.<\/p> <p>&gt; No vine a las sesiones anteriores, ¿puedo participar?<\/p> <p>Sí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a><\/p> <p>&gt; ¿Qué necesito para participar?<\/p> <p>Lo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).<br/>Lo tercero, es crearte una cuenta en RStudio Cloud (<a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>). A través de esa vía compartiremos el código que se escriba en la sesión.<\/p> <p>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-scl/events/270820688/",
     "textColor": "blue"
   },
   {
@@ -1686,6 +1685,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Nijmegen: R Ladies Netherlands Book Club - Advanced R Chapter 6",
+    "group": "R-Ladies Nijmegen",
+    "start": "2020-06-09",
+    "description": "<p>Hi everyone,<\/p> <p>The R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<br/>Join us for our next meeting, in which Josephine Daub will present the key points of Chapter 6: \"Functions\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>The link to the meeting will be provided closer to the date.<br/>In the meantime, you can find the full schedule and more information here: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a> Also feel free to sign up to discuss one of the chapters there!<\/p> <p>ABOUT Josephine<br/>----------------------<br/>Josephine is a computational biologist with special interest in evolutionary and cancer genomics. She is currently working as a postdoc at the Princess Máxima Center for Pediatric Oncology where she studies genetic interactions in childhood tumors. Josephine has programmed in many languages but the last years mainly in R. She knows that there is a lot to learn and working through the first chapters of the Advanced R book has already answered many questions she had about R's peculiarities.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter in advance!<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.<\/p> ",
+    "url": "https://www.meetup.com/rladies-nijmegen/events/270925058/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Nijmegen: Make your code more readable through best coding practices",
     "group": "R-Ladies Nijmegen",
     "start": "2020-06-11",
@@ -1707,14 +1714,6 @@
     "start": "2020-08-24",
     "description": "<p>Kathrine Frey Frøslie is an associate professor at NMBU (Norwegian University of Life Sciences) and a knitting blogger! Of course she codes in R, and of course she knits what she codes!<\/p> <p>\"What would a knitted ggplot of the Norwegian Birth Registry's monthly numbers look like?\", you may ask. Come to this talk and find out.<\/p> <p>Check out her blog at <a href=\"https://www.statistrikk.no\" class=\"linkified\">https://www.statistrikk.no<\/a>!<\/p> <p>We have the opportunity to provide child-care during the event. Please contact us if you would like us to arrange this.<\/p> ",
     "url": "https://www.meetup.com/rladies-oslo/events/270489627/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Valparaíso: Taller introductorio: procesamiento y visualización de datos con R (Sesión 4)",
-    "group": "R-Ladies Valparaíso",
-    "start": "2020-05-27",
-    "description": "<p>El miércoles 27 de mayo es la última sesión de nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.<\/p> <p>La sesión estará a cargo de Isidora Castillo y Natalia Riquelme. Isidora es Psicóloga Educacional y trabaja como ayudante de investigación en la Universidad del Desarrollo. Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción.<br/>En esta cuarta y última sesión revisaremos aspectos del flujo de trabajo en R y RStudio, y veremos algunos ejemplos para poner en práctica lo visto en sesiones anteriores.<\/p> <p>&gt; No vine a las sesiones anteriores, ¿puedo participar?<\/p> <p>Sí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a><\/p> <p>&gt; ¿Qué necesito para participar?<\/p> <p>Lo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).<br/>Lo tercero, es crearte una cuenta en RStudio Cloud (<a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>). A través de esa vía compartiremos el código que se escriba en la sesión.<\/p> <p>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-valparaiso/events/270820676/",
     "textColor": "blue"
   },
   {
@@ -1755,14 +1754,6 @@
     "start": "2020-06-06",
     "description": "<p>Join us for this hands-on session, via Zoom. Meeting invitations go out the night before the event.<\/p> ",
     "url": "https://www.meetup.com/rladies-tampa/events/270257259/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Santa Barbara: R Tips and Tricks",
-    "group": "R-Ladies Santa Barbara",
-    "start": "2020-05-27",
-    "description": "<p>Join us virtually for a session all about tips and tricks for improving your R workflow! This session will be perfect for any R users looking for small improvements that can help make their coding practices more efficient. While your co-organizers will help to guide us through the presentation, we hope that other members in our awesome community will be willing to briefly discuss the R tips/tricks that they love and use regularly.<\/p> <p>Speaking of which! We are crowd sourcing these handy coding tips and tricks from our community. If you have something that you want to share please fill out the Google survey (link below). All you have to do is fill out the survey and we will make the slide; there is an example tip slide attached for reference in the survey. We would love for each submitter to give a quick explanation about their tip at next week’s meeting, but we of course are happy to present for those who do not want to or can’t. If you are unable to attend, but would still like to share that awesome shortcut you use each time you open up R, please submit! We’ll share on your behalf, and your fellow R-ladies will be appreciative!<\/p> <p>The meeting Zoom link will become available once you’ve RSVPed.<\/p> <p>Looking forward to learning something new with you all!<\/p> <p>Best,<br/>Juliette, An, &amp; Sam<\/p> <p>Google Survey Link: <a href=\"https://forms.gle/FvwKDJMRvzkL9uVq8\" class=\"linkified\">https://forms.gle/FvwKDJMRvzkL9uVq8<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-santa-barbara/events/270727948/",
     "textColor": "blue"
   },
   {
@@ -1822,10 +1813,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Rio de Janeiro: Trabalhos reprodutíveis com R e git",
-    "group": "R-Ladies Rio de Janeiro",
-    "start": "2020-05-27",
-    "url": "https://www.meetup.com/rladies-rio/events/270727462/",
+    "title": "R-Ladies Belo Horizonte: We R Ladies - Curso Iniciante, Intermediário e Avançado de R",
+    "group": "R-Ladies Belo Horizonte",
+    "start": "2020-05-30",
+    "description": "<p>Hey people, pensaram que abandonamos vocês? Nãnãninanão!<\/p> <p>Nós, do R-Ladies Belo Horizonte, estávamos preparando um pacotinho de novidades, e agora temos boas notícias!!!<\/p> <p>Nos dias 23 e 30 de maio e 06 de maio, nosso curso de R, que já acontece de forma presencial, será feito online!<\/p> <p>Para se inscrever, serão 3 links. Um para o curso Introdutório, um para o curso Intermediário e um para o curso Avançado.<\/p> <p>Não esqueçam de se inscreverem para os três cursos caso queiram fazer os três!<\/p> <p>A plataforma de transmissão online será feita através da sympla!<\/p> <p>⚠️**Atenção: evento gratuito, cadastro obrigatório nos links abaixo**⚠️<\/p> <p>👉👉 Introdução ao R: <a href=\"https://bit.ly/rladiesonlineintro\" class=\"linkified\">https://bit.ly/rladiesonlineintro<\/a><br/>👉👉 R Intermediário: <a href=\"https://bit.ly/rladiesonlineinter\" class=\"linkified\">https://bit.ly/rladiesonlineinter<\/a><br/>👉👉 R Avançado: <a href=\"https://bit.ly/rladiesonlineav\" class=\"linkified\">https://bit.ly/rladiesonlineav<\/a><\/p> <p>Um beijo e um abraço (de longe), e vejo vocês lá!<\/p> ",
+    "url": "https://www.meetup.com/rladies-belo-horizonte/events/270916253/",
     "textColor": "blue"
   },
   {
@@ -1842,14 +1834,6 @@
     "start": "2020-05-29",
     "description": "<p>Herkese Merhaba,<\/p> <p>R-Ladies İstanbul, Ankara ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayız!<\/p> <p>Bu haftaki konuşmacımız Edinburgh &amp; Duke Üniversitesi'nde Profesör ve RStudio'da Profesyonel Eğitmen olan Mine Çetinkaya-Rundel!<\/p> <p>\"Tidyverse ile Verilerinize Çeki DÜzen Verin\" başlıklı konuşmaya davetlisiniz!<\/p> <p>Zoom linki:<br/><a href=\"https://us02web.zoom.us/j/89108800889\" class=\"linkified\">https://us02web.zoom.us/j/89108800889<\/a><\/p> <p>İlgilenen herkesi bekliyoruz!\"\"<\/p> ",
     "url": "https://www.meetup.com/rladies-ankara/events/270830005/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Concepción: Aplicaciones prácticas",
-    "group": "R-Ladies Concepción",
-    "start": "2020-05-27",
-    "description": "<p>El miércoles 27 de mayo es la última sesión de nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.<\/p> <p>La sesión estará a cargo de Isidora Castillo y Natalia Riquelme. Isidora es Psicóloga Educacional y trabaja como ayudante de investigación en la Universidad del Desarrollo. Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción.<br/>En esta cuarta y última sesión revisaremos aspectos del flujo de trabajo en R y RStudio, y veremos algunos ejemplos para poner en práctica lo visto en sesiones anteriores.<\/p> <p>&gt; No vine a las sesiones anteriores, ¿puedo participar?<\/p> <p>Sí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a><\/p> <p>&gt; ¿Qué necesito para participar?<\/p> <p>Lo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).<br/>Lo tercero, es crearte una cuenta en RStudio Cloud (<a href=\"https://rstudio.cloud/\" class=\"linkified\">https://rstudio.cloud/<\/a>). A través de esa vía compartiremos el código que se escriba en la sesión.<\/p> <p>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-concepcion/events/270822549/",
     "textColor": "blue"
   }
 ]
