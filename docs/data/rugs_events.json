@@ -8,22 +8,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Chico R Users Group: Community Coding (Zoom edition)",
-    "group": "Chico R Users Group",
-    "start": "2020-04-29",
-    "description": "<p>Community coding has moved to a virtual setting. Come drop in, say hi, work on your projects independently, or get a breakout room to work with a partner.<\/p> <p>Wednesday's hours are hosted by Robin Donatello.<\/p> <p>Due to Zoom Bombing, waiting rooms are in effect. Please identify yourself as a RUG member when you arrive and sign in to our 'attendance' sheet: bit.ly/community_coding<\/p> ",
-    "url": "https://www.meetup.com/Chico-R-Users-Group/events/270213165/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Orange County R Users Group (OCRUG): Book club - Session 9 - Feature Engineering and Selection",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2020-04-29",
-    "description": "<p>After the success of our first book club, we are looking to start a new one. Again this will be headed up by Xi Chen. The idea is to motivate us to read books and discussing them together. This will help all of us to develop our skills.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:00 and 7:30 PM. The location is Zoom<\/p> <p>Book: Feature Engineering and Selection<br/><a href=\"http://www.feat.engineering/\" class=\"linkified\">http://www.feat.engineering/<\/a><br/><a href=\"https://www.amazon.com/gp/product/1138079227/\" class=\"linkified\">https://www.amazon.com/gp/product/1138079227/<\/a><\/p> <p>In this event, we will cover chapter 9<\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/269959981/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Orange County R Users Group (OCRUG): Book club - Session 10 - Feature Engineering and Selection",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2020-05-06",
@@ -168,11 +152,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Montreal R User Group: Webinar - Automated Mapping of Clinical Entities",
-    "group": "Montreal R User Group",
-    "start": "2020-04-29",
-    "description": "<p>Register here: <a href=\"https://hubs.ly/H0pB1kG0\" class=\"linkified\">https://hubs.ly/H0pB1kG0<\/a><\/p> <p>The immense variety of terms, jargon, and acronyms used in medical documents means that named entity recognition of diseases, drugs, procedures, and other clinical entities isn't enough for most real-world healthcare AI applications. For example, knowing that \"renal insufficiency\", \"decreased renal function\" and \"renal failure\" should be mapped to the same code, before using that code as a feature in a patient risk prediction or clinical guidelines recommendation model, is critical to that's model's accuracy. Without it, the training algorithm will see these three terms as three separate features and will severely under-estimate the relevance of this condition.<\/p> <p>This need for entity resolution, also known as entity normalization, is therefore a key requirement from a healthcare NLP library. This webinar explains how Spark NLP for Healthcare addresses this issue by providing trainable, deep-learning-based, clinical entity resolution, as well as pre-trained models for the most commonly used medical terminologies: SNOMED-CT, RxNorm, ICD-10-CM, ICD-10-PCS, and CPT.<\/p> <p>Register here: <a href=\"https://hubs.ly/H0pB1kG0\" class=\"linkified\">https://hubs.ly/H0pB1kG0<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270085317/",
+    "title": "Greater Boston useR Group (R Programming Language): Python lunch break with Boston useR / Model Management in Python",
+    "group": "Greater Boston useR Group (R Programming Language)",
+    "start": "2020-05-29",
+    "description": "<p>Python lunch break with Boston useR / Model Management in Python<\/p> <p>Whether your primary language is R or Python, one of the biggest frustrations of a data scientist is to have your hard work go underutilized. To combat this, we have seen data scientists create more interactive content (such as applications, APIs, and dashboards) to engage the divided attention of stakeholders. While we may be more familiar with this story for R, how can we also do this with Python? The most common open-source tools for exploring data, building web applications, and building interactive visualizations in Python are Jupyter Notebooks, Flask, and Dash. We'll show you how to build end-to-end workflows for model management using these open-source tools. Additionally, RStudio's enterprise tools can optionally be used when you're ready to host these tools in production and share them within a team.<\/p> <p>Speaker:<br/>Kristopher Overholt is a solutions engineer at RStudio who works with enterprise data science products and operational data science workflows. Kristopher is a proud Texan and fan of R, Python, and DevOps.<\/p> <p>Topics covered:<br/>Python AND R, not Python vs. R<br/>Python in the RStudio IDE<br/>Python+R with reticulate<br/>Jupyter Notebooks in RStudio<br/>Publishing/scheduling Jupyter Notebooks<br/>Publishing Flask/Dash applications<\/p> ",
+    "url": "https://www.meetup.com/Boston-useR/events/270881304/",
     "textColor": "#7171fb"
   },
   {
@@ -352,14 +336,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Wiesbaden R User Group: R Coffee Break - Code-Optimierung mit dem RStudio Profiler",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-04-29",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Corona ist in aller Munde und wahrscheinlich ist fast jede/r von uns irgendwie betroffen. Viele von uns sind im Home-Office und Veranstaltungen wie Vorträge fallen aufgrund der Maßnahmen aus.<\/p> <p>Es wird also Zeit für ein neues Format: Die R Coffee Break, in der wir euch in einem 5-10 minütigem Vortrag ein Thema vorstellen wollen. Das Ganze natürlich online über Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Dieser R Coffee Break beschäftigt sich mit dem RStudio Profiler und zeigt dessen Einsatz zur Code-Optimierung an einem kleinen Beispiel.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Passwort: U~3RG5oup<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/270214742/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Wiesbaden R User Group: R Coffee Break - Interaktive Dokumente mit FlexDashboard",
     "group": "Wiesbaden R User Group",
     "start": "2020-05-06",
@@ -413,14 +389,6 @@
     "start": "2020-05-18",
     "description": "<p>¡Se viene una nueva reunión virtual: Charlar con R, Toma 4!<\/p> <p>Esta vez tenemos el gran placer de organizar un Meetup junto a Rladies Santa Rosa y el nuevo capítulo Rladies General Pico. Un lujo!!!<br/>Daremos los PRIMEROS PASOS EN GIT. Qué es, para que sirve y como lo utilizamos desde RStudio.<\/p> <p>¿Te sumás? Será el lunes 18 de Mayo a las 17:30PM, por Zoom.<\/p> <p>***IMPORTANTE***<br/>Para participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (<a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a>).<\/p> <p>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo lunes vamos a mandar un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
     "url": "https://www.meetup.com/rladies-buenos-aires/events/270660012/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Statistical Programming DC: Remote Meetup: Shiny Deep Dive",
-    "group": "Statistical Programming DC",
-    "start": "2020-04-29",
-    "description": "<p>Join the next SPDC online meetup with two members of the Shiny team at RStudio. Barret Schloerke and Carson Sievert work full time on improving the experience of creating visualizations in R and building Shiny apps. Join them for two talks on new packages that can improve your experience building Shiny apps and data visualizations.<\/p> <p>Schedule:<br/>7 - 7:20pm Reactlog 2.0: Debugging the State of Shiny (Barret)<br/>The revamped reactlog provides an updated visual display to traverse through the reactive behavior within your shiny application. Using live shiny applications, we will use reactlog’s directed dependency graph to find missing reactive dependencies in “working” applications and address suboptimal reactive coding patterns. Correcting these coding patterns will reduce the amount of calculations done by shiny and keep reactive objects from being created unnecessarily.<br/>7:20-7:30 Q+A<br/>7:30-7:50 Plot theming made easieR (Carson)<br/>The new thematic package provides a simplified and uniform approach to theming ggplot2, lattice, and base R graphics based on a few colors and font(s). This package provides the foundation for shiny’s new plot auto-theming feature, which automatically styles plots based on the application’s styling.<br/>7:50-8 Q+A<\/p> <p>Zoom Link: <a href=\"https://zoom.us/j/92586102485?pwd=MFlvTThJMzNLWkgrR2xLcHo1dmVPUT09\" class=\"linkified\">https://zoom.us/j/92586102485?pwd=MFlvTThJMzNLWkgrR2xLcHo1dmVPUT09<\/a><br/>Zoom Password: spdc-shiny<\/p> ",
-    "url": "https://www.meetup.com/stats-prog-dc/events/269909997/",
     "textColor": "#7171fb"
   },
   {
@@ -991,14 +959,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Dallas: Data Analysis with R (Part 1 of 3)",
-    "group": "R-Ladies Dallas",
-    "start": "2020-04-29",
-    "description": "<p>I'm excited about our plan to enhance our programming skills through an online learning experience. As a group, we decided that we will focus on the \"Data Analysis with R\" course taught by Facebook instructors on the Udacity learning platform. This will ensure that we are all on the same page when we're ready to kick off our R-Ladies Dallas group project.<\/p> <p>The course is available for free at the following link: <a href=\"https://www.udacity.com/course/data-analysis-with-r--ud651\" class=\"linkified\">https://www.udacity.com/course/data-analysis-with-r--ud651<\/a><\/p> <p>Please join the #learning channel in our R-Ladies Dallas Slack community so that we can discuss the course and ask/answer questions you may have about the material. Slack sign-up info provided below.<\/p> <p>Agenda<br/>------------------------------<br/>Part 1: Lessons 1 - 4 &lt; -------- this meetup event<br/>Part 2: Lessons 5 - 8<br/>Part 3: Lessons 9 - 10<\/p> <p>To prepare for the event, please take time to watch the videos and work through the exercises. They estimate that it may take you up to 9 hours to complete the videos and exercises in Part 1 (Lessons 1 - 4). Actual completion time could be lower depending on how much experience you have with some of the concepts.<\/p> <p>You are encouraged to click the link below to keep up with the webinar series and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Webinar + Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>About R-Ladies Dallas<\/p> <p>R-Ladies Dallas welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp; expert upskilling. Our non-profit, civil society community is designed to develop our members' R skills &amp; knowledge through social, collaborative learning &amp; sharing. Supporting minority identity access to STEM skills &amp; careers, the Free Software Movement, and contributing to the global R community!<\/p> <p>A local chapter of R-Ladies Global, R-Ladies Dallas exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.<\/p> <p>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dallas/events/270231396/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies São Paulo: [MeetUp Online] Do SQL para o R em minutos",
     "group": "R-Ladies São Paulo",
     "start": "2020-05-16",
@@ -1020,6 +980,14 @@
     "start": "2020-05-20",
     "description": "<p>Herkese Merhaba,<\/p> <p>R-Ladies İstanbul, Ankara ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayıız!<\/p> <p>İlk etkinlik LCW'de İş Analisti olan Zeynep Küçükçavdar'ın Perakende Sektöründe Makine Öğrenmesi sunumu!<\/p> <p>Zoom linki:<br/><a href=\"https://us02web.zoom.us/j/87699885612\" class=\"linkified\">https://us02web.zoom.us/j/87699885612<\/a><\/p> <p>İlgilenen herkesi bekliyoruz!<\/p> ",
     "url": "https://www.meetup.com/rladies-ankara/events/270710864/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Ankara: Webinar Serisi 2.Oturum: Tidyverse ile Verilerinize Çeki Düzen Verin",
+    "group": "R-Ladies Ankara",
+    "start": "2020-05-29",
+    "description": "<p>Herkese Merhaba,<\/p> <p>R-Ladies İstanbul, Ankara ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayız!<\/p> <p>Bu haftaki konuşmacımız Edinburgh &amp; Duke Üniversitesi'nde Profesör ve RStudio'da Profesyonel Eğitmen olan Mine Çetinkaya-Rundel!<\/p> <p>\"Tidyverse ile Verilerinize Çeki DÜzen Verin\" başlıklı konuşmaya davetlisiniz!<\/p> <p>Zoom linki:<br/><a href=\"https://us02web.zoom.us/j/89108800889\" class=\"linkified\">https://us02web.zoom.us/j/89108800889<\/a><\/p> <p>İlgilenen herkesi bekliyoruz!\"\"<\/p> ",
+    "url": "https://www.meetup.com/rladies-ankara/events/270830005/",
     "textColor": "#7171fb"
   },
   {
@@ -1287,11 +1255,11 @@
     "textColor": "blue"
   },
   {
-    "title": "Greater Boston useR Group (R Programming Language): Python lunch break with Boston useR / Model Management in Python",
-    "group": "Greater Boston useR Group (R Programming Language)",
-    "start": "2020-05-29",
-    "description": "<p>Python lunch break with Boston useR / Model Management in Python<\/p> <p>Whether your primary language is R or Python, one of the biggest frustrations of a data scientist is to have your hard work go underutilized. To combat this, we have seen data scientists create more interactive content (such as applications, APIs, and dashboards) to engage the divided attention of stakeholders. While we may be more familiar with this story for R, how can we also do this with Python? The most common open-source tools for exploring data, building web applications, and building interactive visualizations in Python are Jupyter Notebooks, Flask, and Dash. We'll show you how to build end-to-end workflows for model management using these open-source tools. Additionally, RStudio's enterprise tools can optionally be used when you're ready to host these tools in production and share them within a team.<\/p> <p>Speaker:<br/>Kristopher Overholt is a solutions engineer at RStudio who works with enterprise data science products and operational data science workflows. Kristopher is a proud Texan and fan of R, Python, and DevOps.<\/p> <p>Topics covered:<br/>Python AND R, not Python vs. R<br/>Python in the RStudio IDE<br/>Python+R with reticulate<br/>Jupyter Notebooks in RStudio<br/>Publishing/scheduling Jupyter Notebooks<br/>Publishing Flask/Dash applications<\/p> ",
-    "url": "https://www.meetup.com/Boston-useR/events/270881304/",
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? 2020 Conference",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-08-27",
+    "description": "<p>We are pleased to announce that Why R? 2020 Conference will be organized by the Why R? Foundation. The fourth official meeting of Central-Eastern-European R enthusiasts. As the meeting is held in English, we are happy to invite R users from other countries.<\/p> <p>Website - <a href=\"http://whyr.pl/2020/\" class=\"linkified\">http://whyr.pl/2020/<\/a><br/>Registration - <a href=\"http://whyr.pl/2020/register/\" class=\"linkified\">http://whyr.pl/2020/register/<\/a><br/>Call for Papers - <a href=\"http://whyr.pl/2020/submit/\" class=\"linkified\">http://whyr.pl/2020/submit/<\/a><br/>About - <a href=\"http://whyr.pl/2020/about/\" class=\"linkified\">http://whyr.pl/2020/about/<\/a><\/p> <p>TIMELINE OF CALL FOR PAPERS and EARLY BIRD REGISTRATION<br/>[masked] - Call for Papers starts + Early Bird Registration starts<br/>[masked] - Call for Papers ends<br/>[masked] - Decisions of acceptance<br/>[masked] - Early Bird Registration ends.<\/p> <p>Workshop tutors will get the entrance for the lectures and workshops day for free and will get the accommodation compensated. Speakers will get the etrance for 2 days of lectures for free (workshops excluded). Lightning talks speakers will get 50% discount for 2 days of lectures (workshops excluded).<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269134936/",
     "textColor": "blue"
   },
   {
@@ -1526,6 +1494,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Buenos Aires: Visualizando datos: especial #30díasdegráficos",
+    "group": "R-Ladies Buenos Aires",
+    "start": "2020-06-02",
+    "description": "<p>¡Se viene una nueva reunión virtual: Charlar con R, Toma 5!<\/p> <p>En este meetup María McNanton nos va a mostrar como visulializar datos usando ggplot y en particular vamos a trabajar con datos textuales para sumarnos al #30diasdegraficos organizado por la comunidad hispano hablante de R.<\/p> <p>¿Te sumás? Será el martes 2 de junio a las 18:30PM, por Zoom.<\/p> <p>***IMPORTANTE***<br/>Para participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (<a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a>).<\/p> <p>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo lunes vamos a mandar un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-buenos-aires/events/270963134/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies La Paz: Study Group - R para Ciencia de Datos [Sesión 8]",
     "group": "R-Ladies La Paz",
     "start": "2020-05-30",
@@ -1630,6 +1606,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies London: REMOTE: R Lightening Talks by R-Ladies",
+    "group": "R-Ladies London",
+    "start": "2020-06-25",
+    "description": "<p>!! Be mindful that only those participants that registered via Eventbrite will receive the meetup Zoom link and will be able to join the event. Feel free to RVSP in the Meetup event page but also make sure you register on Eventbrite. !!<\/p> <p>Welcome to our first remote R-ladies London Meetup this year! After having to cancel our off-line event, now we're back with the same brilliant speakers and the new energy!<\/p> <p>Join us in our remote meetup to learn tips and new skills in R with these easily digestible 15-minute long lightning talks! Also, we're not going to give up on the tradition of after-talks socialising, which will take place in the breakout Zoom rooms. So make sure you have some snacks, drinks and some cool webcam background on (behind) you!<\/p> <p>Meetup ProgRam<\/p> <p>19:30 - welcome to Rladies remote lightning talks!<\/p> <p>19:40 - Alexandra Hill: \"Running R code in production\"<\/p> <p>20:00 - Rina Lai: \"Dimensionality reduction in R\"<\/p> <p>20:20-21:30 - Remote Socialising!<\/p> <p>ABSTRACTS<\/p> <p>Alexandra Hill, \"Running R code in production\"<\/p> <p>How do you create a web app that can interface with an R based mathematical model in real time?<\/p> <p>RShiny, a package for writing web apps entirely in R, is designed to meet this need, but it comes with some considerable challenges for performance, scaling, code maintainability and testing.<\/p> <p>Which is why my team developed a different approach for our last project - exposing R code via an Http API and leveraging modern web technologies for the front-end. In this talk I'll explain why we made this choice and how it compared to developing an RShiny monolith.<\/p> <p>Rina Lai: \"Dimensionality reduction in R\"<\/p> <p>Large and complex datasets with a lot of variables are inherently difficult for researchers to develop a clear idea regarding their data. Dimensionality reduction is an approach to reduce the number of variables in a complex dataset to extract condensed and highly informative information. In this talk, I will present ways to conduct dimensionality reduction analyses in R.<\/p> ",
+    "url": "https://www.meetup.com/rladies-london/events/270890698/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Riverside: A Random Forests Tutorial with Examples in R",
     "group": "R-Ladies Riverside",
     "start": "2020-06-02",
@@ -1702,10 +1686,18 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Baltimore: R-Ladies Baltimore ice-cream field trip! ",
+    "title": "R-Ladies Baltimore: R-Ladies Baltimore -- Tidying data in R using the tidyr R package (Virtual)",
+    "group": "R-Ladies Baltimore",
+    "start": "2020-06-17",
+    "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>Before proceeding to data analysis and visualization the data must be in a manageable format that permits downstream processing. Datasets are often messy, but R fortunately provides packages and functions that ease up this fundamental tidying process.<\/p> <p>The next event is Wednesday June 17, 2020 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from McKinzie Garrison (<a href=\"https://bcmb.bs.jhmi.edu/people/students/mckinzie-garrison\" class=\"linkified\">https://bcmb.bs.jhmi.edu/people/students/mckinzie-garrison<\/a>) on tidy data and the use of the tidyverse (<a href=\"https://www.tidyverse.org\" class=\"linkified\">https://www.tidyverse.org<\/a>) to reshape datasets for analysis. We will discuss this in the context of the R for Data Science text and the tidyr (<a href=\"https://tidyr.tidyverse.org\" class=\"linkified\">https://tidyr.tidyverse.org<\/a>) package.<\/p> <p>WHO is this for?<br/>- If you are new to R &amp; are short-budgeted on time!<br/>- If you work with data in R that have characters or strings!<br/>- If you want to work with data that have characters or strings, but not sure what to do with it!<\/p> <p>*If any/all of this is true, this event might be for you!*<\/p> <p>AGENDA<br/>3:00–3:15pm Who we are | Announcements | What's next<br/>3:15–4pm Presentation: Tidying messy data in R with the tidyr package<br/>4–4:30pm Networking -- Any more Qs?<\/p> <p>Details on the location:<br/>The Zoom information will be sent to those who RSVP.<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-baltimore/events/270962483/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Baltimore: R-Ladies Baltimore **virtual** ice-cream meetup!",
     "group": "R-Ladies Baltimore",
     "start": "2020-07-10",
-    "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>We will meet up at The Charmery Ice Cream Factory, a local ice-cream shop on Friday July 10, 2020 from 4-5:30pm. There won't be any presentations, only fun networking and discussions and ice cream! Unfortunately, we haven't found a company to sponsor the ice cream. So everyone is own their own for buying their own ice cream. However, it should be a good time nevertheless!<\/p> <p>Details on the location:<br/>The Charmery Ice Cream Factory (<a href=\"http://www.thecharmery.com\" class=\"linkified\">http://www.thecharmery.com<\/a>)<br/>1700 W 41st St #400, Baltimore, MD 21211<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>website: <a href=\"https://rladies-baltimore.github.io\" class=\"linkified\">https://rladies-baltimore.github.io<\/a><br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
+    "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>Due to COVID-19 and social distancing, we will host a virtual meetup on Friday July 10, 2020 from 4-5:30pm where we will eat ice cream together and reflect back on the last year of R-Ladies Baltimore meetup events. There won't be any presentations, only fun networking and discussions and BYO ice cream!<\/p> <p>Details on the location:<br/>Zoom link will be sent to those who RSVP.<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>website: <a href=\"https://rladies-baltimore.github.io\" class=\"linkified\">https://rladies-baltimore.github.io<\/a><br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-baltimore/events/263428298/",
     "textColor": "blue"
   },
@@ -1795,14 +1787,6 @@
     "start": "2020-06-20",
     "description": "<p>We are pleased to reschedule our March Book Club with a virtual discussion of \"You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place\" by Janelle Shane.<\/p> <p>Zoom link will be available to attendees on the Meetup event page as of 9 am on June 20th.<\/p> ",
     "url": "https://www.meetup.com/rladies-newyork/events/270953432/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Ankara: Webinar Serisi 2.Oturum: Tidyverse ile Verilerinize Çeki Düzen Verin",
-    "group": "R-Ladies Ankara",
-    "start": "2020-05-29",
-    "description": "<p>Herkese Merhaba,<\/p> <p>R-Ladies İstanbul, Ankara ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayız!<\/p> <p>Bu haftaki konuşmacımız Edinburgh &amp; Duke Üniversitesi'nde Profesör ve RStudio'da Profesyonel Eğitmen olan Mine Çetinkaya-Rundel!<\/p> <p>\"Tidyverse ile Verilerinize Çeki DÜzen Verin\" başlıklı konuşmaya davetlisiniz!<\/p> <p>Zoom linki:<br/><a href=\"https://us02web.zoom.us/j/89108800889\" class=\"linkified\">https://us02web.zoom.us/j/89108800889<\/a><\/p> <p>İlgilenen herkesi bekliyoruz!\"\"<\/p> ",
-    "url": "https://www.meetup.com/rladies-ankara/events/270830005/",
     "textColor": "blue"
   }
 ]
