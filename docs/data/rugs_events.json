@@ -40,6 +40,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Orange County R Users Group (OCRUG): Book club - Session 02 - Applied Predictive Modeling",
+    "group": "Orange County R Users Group (OCRUG)",
+    "start": "2020-06-03",
+    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 to 8:00 PM. The location is Zoom if we cannot meet in person. If we can meet, it will be at Panara Bread (see below)<\/p> <p>Book: Applied Predictive Modeling<br/><a href=\"http://appliedpredictivemodeling.com/\" class=\"linkified\">http://appliedpredictivemodeling.com/<\/a><br/><a href=\"https://www.amazon.com/dp/B00K15TZU0/\" class=\"linkified\">https://www.amazon.com/dp/B00K15TZU0/<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
+    "url": "https://www.meetup.com/OC-RUG/events/270076598/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "CaRdiff - the Cardiff R User Group: Tidy Thursday: Remote Workshop",
     "group": "CaRdiff - the Cardiff R User Group",
     "start": "2020-05-14",
@@ -229,6 +237,14 @@
     "start": "2020-05-28",
     "description": "<p>Register here: <a href=\"https://bit.ly/2LHzTft\" class=\"linkified\">https://bit.ly/2LHzTft<\/a><\/p> <p>Today, uncertainty has become the new normal. The retail industry faces several short term challenges around cash flow, consumer demands, pricing and driving sales. This calls for retailers to adapt to evolving consumer needs, loaded with challenges and complexities.<\/p> <p>As per Jason Goldberg, Forbes contributor for Retail industry “Consumers will have adopted short-term behaviors during the pandemic that in many cases will become permanent”.<\/p> <p>In order thrive in a post pandemic world, it is critical to prepare for this new economic reality that’s shaping consumer behavior radically.<\/p> <p>Embracing innovation is the best way forward to ensure that your applications, your insights and your data are primed and ready to respond to any situation. Timely insights can make or break your business because the question that you can’t imagine today is the answer that you need for tomorrow.<\/p> <p>It may seem counter-intuitive to think about modernizing your environment while struggling to deal with disruption to your business. However, this is exactly the time to take a close look at what’s not working optimally and address the issues holding your business back from being flexible and adaptable in changing times.<\/p> <p>In this webinar Symphony Retail AI, global Leader in Retail AI talks about how they were able to consolidate their disparate database systems, and improved performance by 5x, and migrated away from their legacy systems quickly and easily to provide value driven and timely insights to retail giants.<\/p> <p>Register here: <a href=\"https://bit.ly/2LHzTft\" class=\"linkified\">https://bit.ly/2LHzTft<\/a><\/p> ",
     "url": "https://www.meetup.com/Montreal-R-User-Group/events/270811668/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Montreal R User Group: [Webinar] Deploying ETL into Cloud",
+    "group": "Montreal R User Group",
+    "start": "2020-06-03",
+    "description": "<p>Register here: <a href=\"https://hubs.ly/H0qKLLq0\" class=\"linkified\">https://hubs.ly/H0qKLLq0<\/a><\/p> <p>The architecture and operation of a data pipeline in cloud is a very different exercise compared to setting up traditional on-prem ETL processes of the past.<\/p> <p>Let’s dive deeper into the architectural patterns (and antipatterns) of cloud when it comes to setting up data processes. We’ll look at the technical considerations and some caveats you might encounter when building in cloud.<\/p> <p>This will be a technically oriented session, basic knowledge of cloud products (VMs, Redshift, S3…) will help you fully benefit from the session.<\/p> <p>Watch and learn about:<\/p> <p>What it takes to set up a production data pipeline starting from zero – the cloud components to use and why (using an example in AWS)<br/>We’ll show and explain an example architecture of a data pipeline in the cloud<br/>Estimating costs and how to avoid overruns<\/p> <p>Register here: <a href=\"https://hubs.ly/H0qKLLq0\" class=\"linkified\">https://hubs.ly/H0qKLLq0<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270885633/",
     "textColor": "#7171fb"
   },
   {
@@ -552,6 +568,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Brisbane: Virtual presentations - Data Manipulation with dplyr",
+    "group": "R-Ladies Brisbane",
+    "start": "2020-06-03",
+    "description": "<p>* What are we going to learn?<br/>\"dplyr\" is a powerful R-package to manipulate, clean and summarise unstructured data. In short, it makes data exploration and data manipulation easy and fast in R. In this talk, you will see basic uses of \"dplyr\" and how you can use it in your data exploratory tasks.<\/p> <p>* Who is going to present?<br/>Let's welcome Ruth Chirinos our guest presenter. She is a System Engineer and Manager of Information Systems with a strong knowledge in software development for the government and telecommunication enterprises. She is an active member of diverse communities: Java Users Group La Paz, Ocean Protocol, City.AI and Google Developer Group (GDG), R-Ladies La Paz and Women in Data Science (WiDS).<\/p> <p>* When are we meeting?<br/>We would like to invite everyone to meet at 8:30 am to share your morning coffee or tea cuppa with us virtually. An opportunity to say hi and chat before starting the presentation at 9:00 am.<\/p> <p>************The presentation will start at 9:00 am.************<\/p> <p>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This is a short presentation, so get your questions ready! we will aim to get those answered during the session.<br/>If you want to use the dplyr package from this presentation you can install it on the R console:<\/p> <p># The easiest way to get dplyr is to install the whole tidyverse:<br/>install.packages(\"tidyverse\")<\/p> <p># Alternatively, install just dplyr:<br/>install.packages(\"dplyr\")<\/p> <p># or install the developer version<br/>install.packages(\"devtools\")<br/>devtools::install_github(\"tidyverse/dplyr\")<\/p> <p>we look forward to seeing you, if you have any questions please get in touch.<br/>R-Ladies Brisbane<\/p> <p>********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
+    "url": "https://www.meetup.com/rladies-brisbane/events/270858958/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Auckland: Conversation Analytics with R",
     "group": "R-Ladies Auckland",
     "start": "2020-05-19",
@@ -824,14 +848,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Washington D.C.: Writing a federal resume",
-    "group": "R-Ladies Washington D.C.",
-    "start": "2020-05-04",
-    "description": "<p>Kathryn Troutman is the federal resume writing guru: <a href=\"https://resume-place.com/about/kathryn-troutman/\" class=\"linkified\">https://resume-place.com/about/kathryn-troutman/<\/a>. In this meetup, she will introduce us to the federal resume that she helped design, and lead us through several examples of federal resumes. She has over 30 years experience in this field, and has written over 30 books on this topic. She is currently creating a new course in Udemy about resume writing, federal resume writing and how to apply to all of the new COVID-19 Federal and state jobs. Kathryn is a sage who will gently guide us through this difficult process.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dc/events/270278556/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Washington D.C.: Job hunting and salary negotiation",
     "group": "R-Ladies Washington D.C.",
     "start": "2020-05-06",
@@ -967,6 +983,22 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Dallas: Data Analysis with R (Part 2 of 3)",
+    "group": "R-Ladies Dallas",
+    "start": "2020-05-13",
+    "description": "<p>I'm excited about our plan to enhance our programming skills through an online learning experience. As a group, we decided that we will focus on the \"Data Analysis with R\" course taught by Facebook instructors on the Udacity learning platform. This will ensure that we are all on the same page when we're ready to kick off our R-Ladies Dallas group project.<\/p> <p>The course is available for free at the following link: <a href=\"https://www.udacity.com/course/data-analysis-with-r--ud651\" class=\"linkified\">https://www.udacity.com/course/data-analysis-with-r--ud651<\/a><\/p> <p>Please join the #learning channel in our R-Ladies Dallas Slack community so that we can discuss the course and ask/answer questions you may have about the material. Slack sign-up info provided below.<\/p> <p>Agenda<br/>------------------------------<br/>Part 1: Lessons 1 - 4<br/>Part 2: Lessons 5 - 8 &lt; -------- this meetup event<br/>Part 3: Lessons 9 - 10<\/p> <p>To prepare for the event, please take time to watch the videos and work through the exercises. They estimate that it may take you up to 12 hours to complete the videos and exercises in Part 2 (Lessons 5 - 8). Actual completion time could be lower depending on how much experience you have with some of the concepts.<\/p> <p>You are encouraged to click the link below to keep up with the webinar series and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Webinar + Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>About R-Ladies Dallas<\/p> <p>R-Ladies Dallas welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp; expert upskilling. Our non-profit, civil society community is designed to develop our members' R skills &amp; knowledge through social, collaborative learning &amp; sharing. Supporting minority identity access to STEM skills &amp; careers, the Free Software Movement, and contributing to the global R community!<\/p> <p>A local chapter of R-Ladies Global, R-Ladies Dallas exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.<\/p> <p>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dallas/events/270399423/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Dallas: Data Analysis with R (Part 3 of 3)",
+    "group": "R-Ladies Dallas",
+    "start": "2020-05-27",
+    "description": "<p>I'm excited about our plan to enhance our programming skills through an online learning experience. As a group, we decided that we will focus on the \"Data Analysis with R\" course taught by Facebook instructors on the Udacity learning platform. This will ensure that we are all on the same page when we're ready to kick off our R-Ladies Dallas group project.<\/p> <p>The course is available for free at the following link: <a href=\"https://www.udacity.com/course/data-analysis-with-r--ud651\" class=\"linkified\">https://www.udacity.com/course/data-analysis-with-r--ud651<\/a><\/p> <p>Please join the #learning channel in our R-Ladies Dallas Slack community so that we can discuss the course and ask/answer questions you may have about the material. Slack sign-up info provided below.<\/p> <p>Agenda<br/>------------------------------<br/>Part 1: Lessons 1 - 4<br/>Part 2: Lessons 5 - 8<br/>Part 3: Lessons 9 - 10 &lt; -------- this meetup event<\/p> <p>To prepare for the event, please take time to watch the videos and work through the exercises. They estimate that it may take you up to 4 hours to complete the videos and exercises in Part 3 (Lessons 9 - 10). Actual completion time could be lower depending on how much experience you have with some of the concepts.<\/p> <p>You are encouraged to click the link below to keep up with the webinar series and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Webinar + Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>About R-Ladies Dallas<\/p> <p>R-Ladies Dallas welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp; expert upskilling. Our non-profit, civil society community is designed to develop our members' R skills &amp; knowledge through social, collaborative learning &amp; sharing. Supporting minority identity access to STEM skills &amp; careers, the Free Software Movement, and contributing to the global R community!<\/p> <p>A local chapter of R-Ladies Global, R-Ladies Dallas exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.<\/p> <p>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dallas/events/270399633/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies São Paulo: [MeetUp Online] Do SQL para o R em minutos",
     "group": "R-Ladies São Paulo",
     "start": "2020-05-16",
@@ -996,6 +1028,14 @@
     "start": "2020-05-29",
     "description": "<p>Herkese Merhaba,<\/p> <p>R-Ladies İstanbul, Ankara ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayız!<\/p> <p>Bu haftaki konuşmacımız Edinburgh &amp; Duke Üniversitesi'nde Profesör ve RStudio'da Profesyonel Eğitmen olan Mine Çetinkaya-Rundel!<\/p> <p>\"Tidyverse ile Verilerinize Çeki DÜzen Verin\" başlıklı konuşmaya davetlisiniz!<\/p> <p>Zoom linki:<br/><a href=\"https://us02web.zoom.us/j/89108800889\" class=\"linkified\">https://us02web.zoom.us/j/89108800889<\/a><\/p> <p>İlgilenen herkesi bekliyoruz!\"\"<\/p> ",
     "url": "https://www.meetup.com/rladies-ankara/events/270830005/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Ankara: Webinar Serisi 3.Oturum: rvest ile Web Scraping",
+    "group": "R-Ladies Ankara",
+    "start": "2020-06-03",
+    "description": "<p>Herkese Merhaba,<\/p> <p>R-Ladies Ankara, İstanbul ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayız!<\/p> <p>Bu haftaki konuşmacımız Ankara Üniversitesi'nde İktisat Bölümü' nde Araştırma Görevlisi Dr.Emrah ER!<\/p> <p>\"rvest ile Web Scraping\" başlıklı konuşmaya davetlisiniz!<\/p> <p>İlgilenen herkesi bekliyoruz!<\/p> ",
+    "url": "https://www.meetup.com/rladies-ankara/events/270990173/",
     "textColor": "#7171fb"
   },
   {
@@ -1069,14 +1109,6 @@
     "description": "<p>Speaker: Jared Lander<\/p> <p>Organisation: <a href=\"https://www.landeranalytics.com/\" class=\"linkified\">https://www.landeranalytics.com/<\/a><\/p> <p>Title: Visualizing Models<\/p> <p>About:<\/p> <p>Jared founded Lander Analytics, which is a full-service consulting firm based in New York City helping clients enhance their analytical capabilities to drive value from data.<\/p> ",
     "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/270173513/",
     "textColor": "#7171fb"
-  },
-  {
-    "title": "Orange County R Users Group (OCRUG): Book club - Session 02 - Applied Predictive Modeling",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2020-06-03",
-    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 to 8:00 PM. The location is Zoom if we cannot meet in person. If we can meet, it will be at Panara Bread (see below)<\/p> <p>Book: Applied Predictive Modeling<br/><a href=\"http://appliedpredictivemodeling.com/\" class=\"linkified\">http://appliedpredictivemodeling.com/<\/a><br/><a href=\"https://www.amazon.com/dp/B00K15TZU0/\" class=\"linkified\">https://www.amazon.com/dp/B00K15TZU0/<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/270076598/",
-    "textColor": "blue"
   },
   {
     "title": "Orange County R Users Group (OCRUG): Book club - Session 03 - Applied Predictive Modeling",
@@ -1263,10 +1295,10 @@
     "textColor": "blue"
   },
   {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 011 - M. Williams - How R is revolutionizing ecological science",
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 011 - Using R with High Performance Tools on a Windows Laptop",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-06-11",
-    "description": "<p>Financed by the 'Perfect Science' program of the Polish Minister of Science and Higher Education<\/p> <p>- stream <a href=\"https://youtu.be/vPDDpwGfvLc\" class=\"embedded\">https://youtu.be/vPDDpwGfvLc<\/a><br/>- Bio + Abstract: To be added soon!<br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<\/p> ",
+    "description": "<p>Financed by the 'Perfect Science' program of the Polish Minister of Science and Higher Education<\/p> <p>- speaker: Erin Hodgess<br/>- topic: Using R with High Performance Tools on a Windows Laptop<br/>- stream <a href=\"https://youtu.be/vPDDpwGfvLc\" class=\"embedded\">https://youtu.be/vPDDpwGfvLc<\/a><br/>- Bio + Abstract: To be added soon!<\/p> <p>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<\/p> ",
     "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270606861/",
     "textColor": "blue"
   },
@@ -1276,14 +1308,6 @@
     "start": "2020-08-27",
     "description": "<p>We are pleased to announce that Why R? 2020 Conference will be organized by the Why R? Foundation. The fourth official meeting of Central-Eastern-European R enthusiasts. As the meeting is held in English, we are happy to invite R users from other countries.<\/p> <p>Website - <a href=\"http://whyr.pl/2020/\" class=\"linkified\">http://whyr.pl/2020/<\/a><br/>Registration - <a href=\"http://whyr.pl/2020/register/\" class=\"linkified\">http://whyr.pl/2020/register/<\/a><br/>Call for Papers - <a href=\"http://whyr.pl/2020/submit/\" class=\"linkified\">http://whyr.pl/2020/submit/<\/a><br/>About - <a href=\"http://whyr.pl/2020/about/\" class=\"linkified\">http://whyr.pl/2020/about/<\/a><\/p> <p>TIMELINE OF CALL FOR PAPERS and EARLY BIRD REGISTRATION<br/>[masked] - Call for Papers starts + Early Bird Registration starts<br/>[masked] - Call for Papers ends<br/>[masked] - Decisions of acceptance<br/>[masked] - Early Bird Registration ends.<\/p> <p>Workshop tutors will get the entrance for the lectures and workshops day for free and will get the accommodation compensated. Speakers will get the etrance for 2 days of lectures for free (workshops excluded). Lightning talks speakers will get 50% discount for 2 days of lectures (workshops excluded).<\/p> ",
     "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269134936/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Montreal R User Group: [Webinar] Deploying ETL into Cloud",
-    "group": "Montreal R User Group",
-    "start": "2020-06-03",
-    "description": "<p>Register here: <a href=\"https://hubs.ly/H0qKLLq0\" class=\"linkified\">https://hubs.ly/H0qKLLq0<\/a><\/p> <p>The architecture and operation of a data pipeline in cloud is a very different exercise compared to setting up traditional on-prem ETL processes of the past.<\/p> <p>Let’s dive deeper into the architectural patterns (and antipatterns) of cloud when it comes to setting up data processes. We’ll look at the technical considerations and some caveats you might encounter when building in cloud.<\/p> <p>This will be a technically oriented session, basic knowledge of cloud products (VMs, Redshift, S3…) will help you fully benefit from the session.<\/p> <p>Watch and learn about:<\/p> <p>What it takes to set up a production data pipeline starting from zero – the cloud components to use and why (using an example in AWS)<br/>We’ll show and explain an example architecture of a data pipeline in the cloud<br/>Estimating costs and how to avoid overruns<\/p> <p>Register here: <a href=\"https://hubs.ly/H0qKLLq0\" class=\"linkified\">https://hubs.ly/H0qKLLq0<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270885633/",
     "textColor": "blue"
   },
   {
@@ -1483,6 +1507,14 @@
     "start": "2020-08-14",
     "description": "<p>Registration is required on the AlphaZetta site - links below.<\/p> <p>The AlphaZetta Global Analytics Summit is a unique conference experience, built around experts sharing their knowledge, use cases, best practice and having time for meaningful interactions. It is not vendor driven - there’s no booths or selling and no big crowds - we expect only ~150 attendees. The summit provides insightful presentations, fantastic networking and discussion time at great value!<\/p> <p>We are delighted that the next GAS will be held in Sydney on Friday 14th August at the Manly Pacific Hotel. Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> ).<\/p> <p>The day starts with presentations on the current state of the analytics market and key trends to look for in the future. The second section is about inspiring attendees with keynotes from Volt Bank on creating a new business based on data and analytics and from Raiffeisen Bank on building an analytics team to provide true value to the whole organisation.<\/p> <p>The afternoon focuses on innovation and implementation. We have presentations from some of Australia’s exciting startups (Volt, Adgile Media, Self Assured Pty Ltd) who are using analytics to disrupt their markets. To close, we will hear a keynote on how to deliver analytics and increase AI adoption.<\/p> <p>The Summit venue is the Novotel Pacific, Manly which is right on the ocean beach, with lunch and dinner included.<\/p> <p>All up, at just $350 for standard tickets, it’s a conference like no other!<\/p> <p>Here’s a video clip to highlight all of the above! (<a href=\"https://youtu.be/YKnFo0thEMM\" class=\"embedded\">https://youtu.be/YKnFo0thEMM<\/a>)<\/p> <p>Presenters Include:<br/>Steve Weston - Co-Founder and CEO, Volt Bank<br/>Stephen Brobst - AlphaZetta Advisory Board; Chief Technology Officer, Teradata; TDWI Fellow<br/>Felipe Flores - Founder, Data Futurology; GM Data Science and Analytics, Liberty Financial<br/>Martin Endrizal, BI Application Operations Manager, Vodafone Czech Republic<br/>Markus Lochner - Head of Group Digital Solutions, Raiffeisen Bank International<br/>Tony Ohlsson - Founder, AlphaZetta; Chief Analytics Officer, Volt Bank<\/p> <p>PLEASE DO NOT RSVP ON MEETUP.COM.<br/>Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> )<br/>Tickets are available here ( <a href=\"https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453\" class=\"linkified\">https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453<\/a> )<\/p> ",
     "url": "https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/267898893/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Barcelona R User Group: Barcelona R User Group meetup (online workshops)",
+    "group": "Barcelona R User Group",
+    "start": "2020-06-11",
+    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce the next meetup event which will be hosted on an online platform (more details and link will be shared to those interested to attend).<\/p> <p>6:15 - 6:30 - Set up (systems check) and virtual hello<br/>6:30 - 7:30 - Workshop: Introduction to Data Manipulation<br/>7:30 - 8:30 - Workshop: Introduction to Machine Learning<br/>both delivered by Nicolas Attalides<\/p> <p>*The workshops are designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!<\/p> <p>\"See you\" soon!<\/p> ",
+    "url": "https://www.meetup.com/BarcelonaR/events/271057957/",
     "textColor": "blue"
   },
   {
@@ -1763,14 +1795,6 @@
     "start": "2020-06-20",
     "description": "<p>We are pleased to reschedule our March Book Club with a virtual discussion of \"You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place\" by Janelle Shane.<\/p> <p>Zoom link will be available to attendees on the Meetup event page as of 9 am on June 20th.<\/p> ",
     "url": "https://www.meetup.com/rladies-newyork/events/270953432/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Ankara: Webinar Serisi 3.Oturum: rvest ile Web Scraping",
-    "group": "R-Ladies Ankara",
-    "start": "2020-06-03",
-    "description": "<p>Herkese Merhaba,<\/p> <p>R-Ladies Ankara, İstanbul ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayız!<\/p> <p>Bu haftaki konuşmacımız Ankara Üniversitesi'nde İktisat Bölümü' nde Araştırma Görevlisi Dr.Emrah ER!<\/p> <p>\"rvest ile Web Scraping\" başlıklı konuşmaya davetlisiniz!<\/p> <p>İlgilenen herkesi bekliyoruz!<\/p> ",
-    "url": "https://www.meetup.com/rladies-ankara/events/270990173/",
     "textColor": "blue"
   }
 ]
