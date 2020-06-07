@@ -88,19 +88,19 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group",
+    "group": "Central Iowa R User Group",
+    "start": "2020-06-06",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcjbjb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Tampa R Users Group: Chris Woodard presents via zoom: Writing Custom Geoms for ggplot2! ",
     "group": "Tampa R Users Group",
     "start": "2020-05-26",
     "description": "<p>• What we'll do<\/p> <p>Writing Custom Geoms for ggplot2 - A Trip Through the Grid Graphics Forest<\/p> <p>ggplot2 is extremely flexible; you can take existing stats and gloms and build a large variety of graphs. However, sometimes you find yourself with an itch you just have to scratch and you wind up wanting to write a custom geom that you can add to ggplot2 and have it fit in with the other geoms and stats. In this talk I will cover the basics of writing two custom geoms - one toy illustration, and one with a real application. Along the way I’ll talk bout grid graphics / ggplot2 object system and spend a little time on aesthetics and settings. This will be fun.<\/p> <p>• Meeting details<br/>If you wish to join please RSVP ~24 hours in advance so we can send you the link and password to join via ZOOM<\/p> ",
     "url": "https://www.meetup.com/Tampa-R-Users-Group/events/270732594/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 006 Advanced Data Preparation for Supervised Machine Learning",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-05-07",
-    "description": "<p>Speakers: Dr. Nina Zumel and Dr. John Mount<br/>Title: Advanced Data Preparation for Supervised Machine Learning<br/>Bios + Abstract: Below<br/>Stream: <a href=\"https://youtu.be/sniHkkrAsOc\" class=\"embedded\">https://youtu.be/sniHkkrAsOc<\/a><br/>40% discount code for Practical Data Science with R book: mtpwhyr20 <a href=\"https://www.manning.com/books/practical-data-science-with-r-second-edition\" class=\"linkified\">https://www.manning.com/books/practical-data-science-with-r-second-edition<\/a><\/p> <p>- dontate: <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 8:00 pm GMT+2 (starting April 2nd!)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<\/p> <p>Brief abstract: Dr. Nina Zumel and Dr. John Mount will present methods for advanced data preparation for supervised machine learning. In particular we will show how to safely pre-process high cardinality categorical variables for later use. We will spend time on the important points of cross or out of sample methods to reduce over-fit. We will work theory and examples, and show how the vtreat package can be used in projects. We wil also preview chapter 8 of Practical Data Science with R, 2nd Edition: Advanced Data Preparation.<\/p> <p>Biograms:<\/p> <p>Nina Zumel is a Principal Consultant with Win-Vector, LLC, a data science consultancy in San Francisco. She has a Ph.D. in robotics from Carnegie Mellon and is one of the authors of Practical Data Science with R, a popular text on data science.<\/p> <p>John Mount is a Principal Consultant with Win-Vector LLC, and co-author of \"Practical Data Science with R, 2nd Edition\", Manning 2019. He has a Ph.D. in computer science from Carnegie Mellon<\/p> <p>Both John and Nina maintain a number of open source R and Python packages for data science<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270193478/",
     "textColor": "#7171fb"
   },
   {
@@ -149,22 +149,6 @@
     "start": "2020-05-29",
     "description": "<p>Python lunch break with Boston useR / Model Management in Python<\/p> <p>Whether your primary language is R or Python, one of the biggest frustrations of a data scientist is to have your hard work go underutilized. To combat this, we have seen data scientists create more interactive content (such as applications, APIs, and dashboards) to engage the divided attention of stakeholders. While we may be more familiar with this story for R, how can we also do this with Python? The most common open-source tools for exploring data, building web applications, and building interactive visualizations in Python are Jupyter Notebooks, Flask, and Dash. We'll show you how to build end-to-end workflows for model management using these open-source tools. Additionally, RStudio's enterprise tools can optionally be used when you're ready to host these tools in production and share them within a team.<\/p> <p>Speaker:<br/>Kristopher Overholt is a solutions engineer at RStudio who works with enterprise data science products and operational data science workflows. Kristopher is a proud Texan and fan of R, Python, and DevOps.<\/p> <p>Topics covered:<br/>Python AND R, not Python vs. R<br/>Python in the RStudio IDE<br/>Python+R with reticulate<br/>Jupyter Notebooks in RStudio<br/>Publishing/scheduling Jupyter Notebooks<br/>Publishing Flask/Dash applications<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/270881304/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Montreal R User Group: DSS Elevate: Free Virtual Conference",
-    "group": "Montreal R User Group",
-    "start": "2020-05-07",
-    "description": "<p>Data Science Salon wants to encourage, inspire and transcend this current climate of COVID 19!<\/p> <p>About this Event<br/>Data Science Salon Elevate is a unique female focused virtual conference which brings together specialists to educate each other, illuminate best practices nd innovate new solutions. Learn as female thought leaders share their wisdom and experience in their chosen field.<\/p> <p>Register here: <a href=\"https://www.datascience.salon/dss-elevate-virtual-conference/\" class=\"linkified\">https://www.datascience.salon/dss-elevate-virtual-conference/<\/a><\/p> <p>Apply to speak at the next one: <a href=\"https://formulatedby.typeform.com/to/qlr8Va\" class=\"linkified\">https://formulatedby.typeform.com/to/qlr8Va<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/269790481/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Montreal R User Group: DSS Elevate | Virtual Happy Hour",
-    "group": "Montreal R User Group",
-    "start": "2020-05-07",
-    "description": "<p>We're thrilled to be hosting our second DSSe happy hour! Relax, unwind, and raise a glass (of whatever) with us on Thursday, May 7th @ 7 PM ET! This is an extension of our DSSe Virtual Salon and an opportunity for some additional networking.<\/p> <p>If you or a woman in Data Science you know is interested in attending, please click through to RSVP here: <a href=\"https://bit.ly/2KD20fl\" class=\"linkified\">https://bit.ly/2KD20fl<\/a><\/p> <p>We hope to see you there!<\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270301463/",
     "textColor": "#7171fb"
   },
   {
@@ -392,14 +376,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies La Paz: Venta de Pasteles con R y las Redes Neuronales Convolucionales",
-    "group": "R-Ladies La Paz",
-    "start": "2020-05-07",
-    "description": "<p>Abigail Gerónimo<br/>Fundadora CEO de Data Market, Ecoss Market y Bicicleta. Master en Negocios Digitales, Vicepresidente de la JCI Tunari y miembro de la AIB Lac.<br/>En su charla nos hablará de R, método de newton, gráficas cómo prácticas de operaciones básicas, funciones, teorema central del límite gauss-seidel, regla de simpson, runge-kutta, estimador de parzen<\/p> <p>Marcelo Condori.<br/>Msc. Space Technology Applications<br/>Nos hablará de la Introducción al Reconocimiento de Imágenes, y nos explicará ¿Cómo Interpreta las Imágenes una Computadora? con TensorFlow.<\/p> <p>Te esperamos !<\/p> ",
-    "url": "https://www.meetup.com/rladies-la-paz/events/270439790/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies La Paz: Study Group - R para Ciencia de Datos [Sesión 6]",
     "group": "R-Ladies La Paz",
     "start": "2020-05-09",
@@ -429,6 +405,14 @@
     "start": "2020-06-04",
     "description": "<p>Ciencia de Datos aplicada al desarrollo de AgTech<\/p> <p>El sector agropecuario y agroindustrial tiene el gran desafío de satisfacer las demandas de un mundo con mayor necesidad de alimentos que se produzcan cuidando la salud, el ambiente y los recursos naturales. Este objetivo de producir más y mejor, con los mismos o menos recursos, se puede abordar desde dos ópticas: por un lado, el desarrollo y masificación de máquinas precisas y por el otro, el aumento en el uso y explotación de datos e información que ya se generan (o generarán en el futuro cercano) para mejorar la toma de decisiones en el manejo agropecuario. Enmarcada en esta segunda línea, la ciencia de datos tiene mucho que aportar y en esta charla se presentarán una serie de aplicaciones que llevo adelante con mi grupo de trabajo y las herramientas que usamos para desarrollarlas.<\/p> <p>Sobre la expositora:<\/p> <p>\"Soy investigadora en INTA (Instituto Nacional de Tecnología Agrícola) y me dedico a aplicar la ciencia de datos al sector agropecuario. Trabajo en una Estación Experimental Agropecuaria, por lo que mis desarrollos y soluciones están relacionados con la realidad productiva de la provincia de La Pampa, donde vivo con mi esposo y mis dos hermosos hijos.<br/>Disfruto mucho enseñando, así que paso parte de mi tiempo impartiendo cursos y escribiendo material de enseñanza sobre mis temas de investigación. Soy cofundadora de MetaDocencia, una organización educativa abierta, gratuita, dirigida por voluntarios y sin fines de lucro. Desde 2019 soy RStudio Certified Trainer.<br/>Además, soy muy activa en la Comunidad R: formo parte del Equipo Global de R-Ladies y soy fundadora y organizadora del Capítulo de R-Ladies Santa Rosa. Soy cofundadora y presidenta de LatinR y formé parte del equipo que tradujo diversos materiales de R al español (ej: R para Ciencia de Datos, RStudio Cheat Sheets).<br/>Relaciono mi trabajo en INTA con mi trabajo en la Comunidad R buscando hacer que mi ciencia sea lo más reproducible y abierta posible utilizando software libre. Soy presidenta, desde 2016, del Congreso Argentino de Agroinformática (CAI) y presidenta general en 2020 de las Jornadas Argentinas de Informática e Investigación Operativa (JAIIO)\"<\/p> <p>No puedes perderte esta charla !<br/>Te esperamos ! :)<\/p> ",
     "url": "https://www.meetup.com/rladies-la-paz/events/271005133/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies La Paz: Study Group - R para Ciencia de Datos [Sesión 9]",
+    "group": "R-Ladies La Paz",
+    "start": "2020-06-06",
+    "description": "<p>Querida comunidad:<br/>Continuamos con el Study Group de R en La Paz!!<\/p> <p>En estas sesiones aprenderas el lenguaje R desde 0, nuestro principal objetivo es ayudarte en tu camino de aprendizaje en Ciencia de Datos. En nuestras reuniones revisamos el libro: <a href=\"https://es.r4ds.hadley.nz/\" class=\"linkified\">https://es.r4ds.hadley.nz/<\/a><\/p> <p>Fecha: 6 De Junio - 15:00PM<\/p> <p>Tema: Modelos (Parte 2)<\/p> <p>El link del evento se los enviaremos minutos antes a las personas registradas.<\/p> <p>Recuerda, empezaremos a las 3 de la tarde :) .<br/>Link de Zoom: <a href=\"https://us02web.zoom.us/j/81182076083\" class=\"linkified\">https://us02web.zoom.us/j/81182076083<\/a><br/>Te esperamos!!<br/>#NuncaParesDeArender !!!<\/p> <p>INSTRUCTORAS:<\/p> <p>Ruth Chirinos:<br/>Ingeniera de Sistemas, Máster en Adm. de Sistemas de Información. Java Programmer Certified, Scrum Master Certified. Líder de equipo de Desarrollo de Softwre en Mojix. Ambassador La Paz AI. Miembro de Women in Data Science La Paz. CEO de la empresa Akath.<\/p> <p>Susana Yana Avila:<br/>Informática , Máster en Business Intelligence, participé en el el curso de Nanodegree en Data Science en Udacity, y soy miembro de Women in Data Science La Paz. También participé en Wids Challenge 2018 y 2020.<\/p> ",
+    "url": "https://www.meetup.com/rladies-la-paz/events/271002777/",
     "textColor": "#7171fb"
   },
   {
@@ -768,6 +752,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Tampa: Exploratory Data Analysis - Pt 3 (And what's the deal with pipes?) - (Bluejeans)",
+    "group": "R-Ladies Tampa",
+    "start": "2020-06-06",
+    "description": "<p>Join us for this hands-on session, via Zoom. Meeting invitations go out the night before the event.<\/p> ",
+    "url": "https://www.meetup.com/rladies-tampa/events/270257259/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Cape Town: Introduction to Machine Learning in R",
     "group": "R-Ladies Cape Town",
     "start": "2020-05-16",
@@ -808,14 +800,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Dublin R: Why R? Webinar -  Advanced Data Preparation for Supervised Machine Learning",
-    "group": "Dublin R",
-    "start": "2020-05-07",
-    "description": "<p>Speaker: Dr. Nina Zumel and Dr. John Mount<br/>Title: Advanced Data Preparation for Supervised Machine Learning<\/p> <p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Title: Advanced Data Preparation for Supervised Machine Learning<\/p> <p>Brief abstract: Dr. Nina Zumel and Dr. John Mount will present methods for advanced data preparation for supervised machine learning. In particular we will show how to safely pre-process high cardinality categorical variables for later use. We will spend time on the important points of cross or out of sample methods to reduce over-fit. We will work theory and examples, and show how the vtreat package can be used in projects. We wil also preview chapter 8 of Practical Data Science with R, 2nd Edition: Advanced Data Preparation.<\/p> <p>Bios:<\/p> <p>Nina Zumel is a Principal Consultant with Win-Vector, LLC, a data science consultancy in San Francisco. She has a Ph.D. in robotics from Carnegie Mellon and is one of the authors of Practical Data Science with R, a popular text on data science.<\/p> <p>John Mount is a Principal Consultant with Win-Vector LLC, and co-author of \"Practical Data Science with R, 2nd Edition\", Manning 2019. He has a Ph.D. in computer science from Carnegie Mellon<\/p> <p>Both John and Nina maintain a number of open source R and Python packages for data science<\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/270204213/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Dublin R: Why R? Webinar -  Humanitarian Data Analysis with R",
     "group": "Dublin R",
     "start": "2020-05-14",
@@ -848,14 +832,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Seattle useR Group (R Programming Language): Package Management for Reproducible Data Science in R",
-    "group": "Seattle useR Group (R Programming Language)",
-    "start": "2020-05-07",
-    "description": "<p>Reproducible data science encompasses a broad range of practices including, but not limited to, version control (such as git) and literate programming (like R Markdown). One practice that is often overlooked is proper management of packages. Code that works with software or package version you have installed may break when run with different software or package version.<\/p> <p>In this webinar, we will discuss R package management solutions for two scenarios. Isabella will show how to maintain installed packages when upgrading to a new version of R, using the recent release of R 4.0 as an example. Mike will demonstrate how the renv package can be used to maintain packages within individual data science projects.<\/p> ",
-    "url": "https://www.meetup.com/Seattle-useR/events/270353523/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Seattle useR Group (R Programming Language): Data Career Panel. Seattle UseR x RLadies Vancouver",
     "group": "Seattle useR Group (R Programming Language)",
     "start": "2020-05-26",
@@ -884,14 +860,6 @@
     "group": "R-Ladies Rio de Janeiro",
     "start": "2020-05-27",
     "url": "https://www.meetup.com/rladies-rio/events/270727462/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Fayetteville: [WEBINAR] Stephanie Long on Animated Graphics in R",
-    "group": "R-Ladies Fayetteville",
-    "start": "2020-05-07",
-    "description": "<p>Join us as Stephanie Long reviews the steps she took to create an animated graphic.<\/p> <p>Access the code for the workshop on our github: <a href=\"https://github.com/R-Ladies-Fayetteville-AR/GGAnimate-Demo\" class=\"linkified\">https://github.com/R-Ladies-Fayetteville-AR/GGAnimate-Demo<\/a><\/p> <p>Meeting number (access code):[masked]<\/p> <p>Meeting password: rladies57<\/p> <p>Host key:[masked]<\/p> ",
-    "url": "https://www.meetup.com/rladies-fayetteville/events/270384353/",
     "textColor": "#7171fb"
   },
   {
@@ -940,6 +908,14 @@
     "start": "2020-05-16",
     "description": "<p>SQL (Structured Query Language) é uma das linguagens mais difundidas quando se trata de bancos de dados. Então, pensamos nesse MeetUp especialmente para você que está começando a mexer com bancos de dados: dobradinha SQL Básico + R.<\/p> <p>Público-alvo: pessoas que se identificam como minoria de gênero (mulher trans ou cis, homem trans, pessoa não-binária, queer).<\/p> <p>Por favor leia todas as informações abaixo!<\/p> <p>• CRONOGRAMA:<br/>14:00 - 14:15: Apresentação do RLadies e explicação de como funcionará o MeetUp<br/>14:15 - 14:45: Apresentação da Adriana Leticia sobre SQL básico<br/>14:45 - 14:55: Esclarecimentos de dúvidas<br/>14:55 - 15:10: intervalo<br/>15:10 - 15:15: Retomada dos combinados<br/>15:15 - 15:45: Apresentação da Maria Marinho sobre SQL → R<br/>15:45 - 15:55: Esclarecimentos de dúvidas<br/>15:55 - 16:00: Feed-back de participantes<\/p> <p>Monitoria: será online via chat<\/p> <p>• LOCAL DO EVENTO:<br/>Será usada a ferramenta Jitsi, link será enviado por email no dia anterior, portanto, preencham o email de vocês na inscrição.<\/p> <p>• O QUE PRECISO FAZER PARA PARTICIPAR?<br/>- Se inscrever pelo site do Meetup gratuitamente, incluindo seu nome completo e email— esses dados não serão divulgados publicamente<br/>- Ler o código de conduta (mais detalhes abaixo)<br/>- Se possível, instalar em seu notebook os programas R e RStudio ANTES do curso: <a href=\"https://www.curso-r.com/material/instalacao/\" class=\"linkified\">https://www.curso-r.com/material/instalacao/<\/a><br/>- Vontade de aprender SQL e R em um ambiente inclusivo, amistoso e seguro :)<\/p> <p>• CÓDIGO DE CONDUTA (disponível aqui: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>)<br/>Qualquer pessoa que violar ou houver previamente violado o código de conduta desta comunidade terá sua entrada proibida, será expulsa/o e/ou estará sujeita/o à ação que a pessoa organizadora achar mais apropriada, independente de inscrição no evento, ser membro do MeetUp ou qualquer outra condição.<\/p> <p>_____________________________________________<br/>• PALESTRANTES<\/p> <p>Adriana Leticia Reis<br/>Bacharel em Sistemas de Informação pelo Mackenzie com MBA em Finanças pela FGV e atualmente está cursando a segunda graduação em Ciência de Dados na Univesp. Trabalha há 15 anos na Vivo, sempre atuando com Business Intelligence em diferentes áreas como Data Warehouse, Controladoria, Estratégia e atualmente em Planejamento de Marketing B2C Móvel. Ama tocar piano, gatos (tem dois) e claro ficar com a família.<\/p> <p>Maria Marinho dos Santos<br/>Formada em Processamento de Dados, bacharela e licenciada em Matemática, pós graduada em Educação Matemática. Atualmente é Cientista de Dados na SulAmérica e faz parte das comunidades R-Ladies e PyLadies São Paulo.<\/p> <p>_____________________________________________<br/>• SOBRE AS R-LADIES<br/>R-Ladies é uma organização que promove a diversidade de gênero na comunidade da linguagem R. Nosso principal objetivo é promover a linguagem computacional estatística R compartilhando conhecimento, assim, quem tiver interesse na linguagem será bem-vinda, independente do nível de conhecimento. Nosso principal público-alvo são as pessoas que se identificam com o gênero feminino, portanto, mulheres cis, mulheres trans, bem como pessoas não-binárias e queer.<\/p> <p>_____________________________________________<br/>O curso é gratuito, mas as vagas são limitadas.<br/>Seja consciente e só se inscreva se puder comparecer ao evento.<\/p> ",
     "url": "https://www.meetup.com/rladies-sao-paulo/events/270562652/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Belo Horizonte: We R Ladies - Curso Iniciante, Intermediário e Avançado de R",
+    "group": "R-Ladies Belo Horizonte",
+    "start": "2020-05-30",
+    "description": "<p>Hey people, pensaram que abandonamos vocês? Nãnãninanão!<\/p> <p>Nós, do R-Ladies Belo Horizonte, estávamos preparando um pacotinho de novidades, e agora temos boas notícias!!!<\/p> <p>Nos dias 23 e 30 de maio e 06 de maio, nosso curso de R, que já acontece de forma presencial, será feito online!<\/p> <p>Para se inscrever, serão 3 links. Um para o curso Introdutório, um para o curso Intermediário e um para o curso Avançado.<\/p> <p>Não esqueçam de se inscreverem para os três cursos caso queiram fazer os três!<\/p> <p>A plataforma de transmissão online será feita através da sympla!<\/p> <p>⚠️**Atenção: evento gratuito, cadastro obrigatório nos links abaixo**⚠️<\/p> <p>👉👉 Introdução ao R: <a href=\"https://bit.ly/rladiesonlineintro\" class=\"linkified\">https://bit.ly/rladiesonlineintro<\/a><br/>👉👉 R Intermediário: <a href=\"https://bit.ly/rladiesonlineinter\" class=\"linkified\">https://bit.ly/rladiesonlineinter<\/a><br/>👉👉 R Avançado: <a href=\"https://bit.ly/rladiesonlineav\" class=\"linkified\">https://bit.ly/rladiesonlineav<\/a><\/p> <p>Um beijo e um abraço (de longe), e vejo vocês lá!<\/p> ",
+    "url": "https://www.meetup.com/rladies-belo-horizonte/events/270916253/",
     "textColor": "#7171fb"
   },
   {
@@ -1092,14 +1068,6 @@
     "start": "2020-06-11",
     "description": "<p>Come join us for this May Tidy Thursday session.<\/p> <p>Tidy Tuesdays are weekly R projects on 'tidying' data, associated (but not exclusive!) to the 'tidyverse': ggplot2, dplyr, tidyr and friends.<\/p> <p>You can find out more about Tidy Tuesdays here: <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> <p>We will meet (on Thursday!), find the most recent data set and 'tidy' it up together.<\/p> <p>This session will be beginner friendly, hands on, and potentially pair programming driven.<\/p> <p>Learning outcomes: Data Preparation, Data Munging, Tidy Data, Tidyverse<\/p> <p>It would be helpful for attendees to have the following already installed, but if you run into trouble we can help on the day.<\/p> <p>* R: <a href=\"https://www.r-project.org/\" class=\"linkified\">https://www.r-project.org/<\/a><br/>* R Studio desktop: <a href=\"https://rstudio.com/products/rstudio/\" class=\"linkified\">https://rstudio.com/products/rstudio/<\/a><br/>* Tidyverse: <a href=\"https://www.tidyverse.org/\" class=\"linkified\">https://www.tidyverse.org/<\/a><\/p> <p>These are all free tools, and install will take roughly 20-40 min depending on hardware and internet speeds.<\/p> <p>Our previous work is available here:<br/><a href=\"https://github.com/CaRdiffR/tidy_thursdays\" class=\"linkified\">https://github.com/CaRdiffR/tidy_thursdays<\/a><\/p> <p>Zoom Password:[masked]<\/p> ",
     "url": "https://www.meetup.com/Cardiff-R-User-Group/events/271032382/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Central Iowa R User Group: R and Python study group",
-    "group": "Central Iowa R User Group",
-    "start": "2020-06-06",
-    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
-    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcjbjb/",
     "textColor": "blue"
   },
   {
@@ -1438,14 +1406,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies La Paz: Study Group - R para Ciencia de Datos [Sesión 9]",
-    "group": "R-Ladies La Paz",
-    "start": "2020-06-06",
-    "description": "<p>Querida comunidad:<br/>Continuamos con el Study Group de R en La Paz!!<\/p> <p>En estas sesiones aprenderas el lenguaje R desde 0, nuestro principal objetivo es ayudarte en tu camino de aprendizaje en Ciencia de Datos. En nuestras reuniones revisamos el libro: <a href=\"https://es.r4ds.hadley.nz/\" class=\"linkified\">https://es.r4ds.hadley.nz/<\/a><\/p> <p>Fecha: 6 De Junio - 15:00PM<\/p> <p>Tema: Modelos (Parte 2)<\/p> <p>El link del evento se los enviaremos minutos antes a las personas registradas.<\/p> <p>Recuerda, empezaremos a las 3 de la tarde :) .<br/>Te esperamos!!<br/>#NuncaParesDeArender !!!<\/p> <p>INSTRUCTORAS:<\/p> <p>Ruth Chirinos:<br/>Ingeniera de Sistemas, Máster en Adm. de Sistemas de Información. Java Programmer Certified, Scrum Master Certified. Líder de equipo de Desarrollo de Softwre en Mojix. Ambassador La Paz AI. Miembro de Women in Data Science La Paz. CEO de la empresa Akath.<\/p> <p>Susana Yana Avila:<br/>Informática , Máster en Business Intelligence, participé en el el curso de Nanodegree en Data Science en Udacity, y soy miembro de Women in Data Science La Paz. También participé en Wids Challenge 2018 y 2020.<\/p> ",
-    "url": "https://www.meetup.com/rladies-la-paz/events/271002777/",
-    "textColor": "blue"
-  },
-  {
     "title": "Birmingham R User Group (R Programming Language): June BirminghamR Meetup (Webinar)",
     "group": "Birmingham R User Group (R Programming Language)",
     "start": "2020-06-18",
@@ -1614,11 +1574,19 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Tampa: Exploratory Data Analysis - Pt 3 (And what's the deal with pipes?) - (Bluejeans)",
+    "title": "R-Ladies Tampa: Tibbles, and Intro to Data Import! (Online)",
     "group": "R-Ladies Tampa",
-    "start": "2020-06-06",
-    "description": "<p>Join us for this hands-on session, via Zoom. Meeting invitations go out the night before the event.<\/p> ",
-    "url": "https://www.meetup.com/rladies-tampa/events/270257259/",
+    "start": "2020-06-20",
+    "description": "<p>Join us online, for more Tidyverse skills!<\/p> ",
+    "url": "https://www.meetup.com/rladies-tampa/events/271124446/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Tampa: Shiny Apps! (Online)",
+    "group": "R-Ladies Tampa",
+    "start": "2020-07-11",
+    "description": "<p>More Tidyverse! Our honorary R-Lady and ally, Dean B., will be sharing his work creating a Shiny app.<\/p> <p>And we're trying a bi-weekly meeting model for now, so that Gina G. can graduate one of these days.<\/p> <p>Hope to see you there!<\/p> ",
+    "url": "https://www.meetup.com/rladies-tampa/events/271124512/",
     "textColor": "blue"
   },
   {
@@ -1667,6 +1635,14 @@
     "start": "2020-08-14",
     "description": "<p>Registration is required on the AlphaZetta site - links below.<\/p> <p>The AlphaZetta Global Analytics Summit is a unique conference experience, built around experts sharing their knowledge, use cases, best practice and having time for meaningful interactions. It is not vendor driven - there’s no booths or selling and no big crowds - we expect only ~150 attendees. The summit provides insightful presentations, fantastic networking and discussion time at great value!<\/p> <p>We are delighted that the next GAS will be held in Sydney on Friday 14th August at the Manly Pacific Hotel. Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> ).<\/p> <p>The day starts with presentations on the current state of the analytics market and key trends to look for in the future. The second section is about inspiring attendees with keynotes from Volt Bank on creating a new business based on data and analytics and from Raiffeisen Bank on building an analytics team to provide true value to the whole organisation.<\/p> <p>The afternoon focuses on innovation and implementation. We have presentations from some of Australia’s exciting startups (Volt, Adgile Media, Self Assured Pty Ltd) who are using analytics to disrupt their markets. To close, we will hear a keynote on how to deliver analytics and increase AI adoption.<\/p> <p>The Summit venue is the Novotel Pacific, Manly which is right on the ocean beach, with lunch and dinner included.<\/p> <p>All up, at just $350 for standard tickets, it’s a conference like no other!<\/p> <p>Here’s a video clip to highlight all of the above! (<a href=\"https://youtu.be/YKnFo0thEMM\" class=\"embedded\">https://youtu.be/YKnFo0thEMM<\/a>)<\/p> <p>Presenters Include:<br/>Steve Weston - Co-Founder and CEO, Volt Bank<br/>Stephen Brobst - AlphaZetta Advisory Board; Chief Technology Officer, Teradata; TDWI Fellow<br/>Felipe Flores - Founder, Data Futurology; GM Data Science and Analytics, Liberty Financial<br/>Martin Endrizal, BI Application Operations Manager, Vodafone Czech Republic<br/>Markus Lochner - Head of Group Digital Solutions, Raiffeisen Bank International<br/>Tony Ohlsson - Founder, AlphaZetta; Chief Analytics Officer, Volt Bank<\/p> <p>PLEASE DO NOT RSVP ON MEETUP.COM.<br/>Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> )<br/>Tickets are available here ( <a href=\"https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453\" class=\"linkified\">https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453<\/a> )<\/p> ",
     "url": "https://www.meetup.com/Canberra-R-Users-Group/events/267894706/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Lavras: [MeetUp Online] Word2vec: um gostinho de um algoritmo para PLN",
+    "group": "R-Ladies Lavras",
+    "start": "2020-06-15",
+    "description": "<p>Palestrante: Larissa Sayuri Futino Castro dos Santos<br/><a href=\"https://www.linkedin.com/in/larissa-sayuri-santos/\" class=\"linkified\">https://www.linkedin.com/in/larissa-sayuri-santos/<\/a><\/p> <p>Mini bio: sou Bacharel em Estatística, mestre e Doutora em Estatística. Já trabalhei com dados de fraudes no SUS e fiz parte de um grupo de estudos de alunos da UFMG com participação voluntária (Stats4Good) em que nos dedicamos a compreender e quantificar a sub-notificação dos crimes de estupro em mulheres no Brasil, chamado GESEM. Hoje eu sou Cientista de Dados na maior plataforma de eventos do Brasil -a Sympla. Desde outubro sou colunista do radar Social Good Brasil. Eu adoro comunicar meus aprendizados (e dores, né?), desmistificando IA e me encantando no meio desse processo.<\/p> <p>A primeira vez que eu ouvi falar de word2vec fiquei encantada! Era uma mistura de Matemática com Linguística que parecia uma forma intuitiva de modelar palavras e os seus significados. A ideia é criar um embedding para uma palavra. Ou seja, representá-la como um vetor cuja dimensão é definida pelo usuário. O algoritmo concebe esse vetor aprendendo com os termos que estão em uma janela K de cada termo em análise para que a representação vetorial traduza essa concepção de contexto. E isso tudo é feito com uma rede neural simples! Os algoritmos word2vec foram um divisor de águas da literatura porque permitiram mapear relações sintáticas e semânticas entre palavras. Além da apresentação teórica, vou falar sobre como avaliar a qualidade das embeddings obtidas além de mostrar como fazê-lo - facilmente- no R. Eu tenho certeza que estudar as word embeddings é um jeito muito legal de começar a estudar Processamento de Linguagem Natural!<\/p> <p>Inscrições e transmissão via Sympla no link<br/><a href=\"https://www.sympla.com.br/3-meetup-r-ladies-lavras__872664\" class=\"linkified\">https://www.sympla.com.br/3-meetup-r-ladies-lavras__872664<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-lavras/events/271127428/",
     "textColor": "blue"
   },
   {
