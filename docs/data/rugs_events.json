@@ -240,6 +240,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "IndyUseR Group: Time Series Forecasting with the Fable Package - Sri Seshadri ",
+    "group": "IndyUseR Group",
+    "start": "2020-06-16",
+    "description": "<p>Join us as we explore the fable package for building time series forecasting models. All skill levels are welcomed.<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentations<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>This meeting will be by video chat only. We'll release the Zoom Meeting chat link as we approach the event date.<\/p> <p>Zoom Meeting Info<\/p> <p>Topic: IndyUser June 2020 Meetup<br/>Time: Jun 16,[masked]:30 PM Indiana (East)<\/p> <p>Join Zoom Meeting<br/><a href=\"https://us02web.zoom.us/j/83621279396\" class=\"linkified\">https://us02web.zoom.us/j/83621279396<\/a><\/p> <p>Meeting ID:[masked]<br/>One tap mobile<br/>[masked],,[masked]# US (Chicago)<br/>[masked],,[masked]# US (New York)<\/p> <p>Dial by your location<br/>[masked] US (Chicago)<br/>[masked] US (New York)<br/>[masked] US (Germantown)<br/>[masked] US (Houston)<br/>[masked] US (San Jose)<br/>[masked] US (Tacoma)<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://us02web.zoom.us/u/ksQRuOpXR\" class=\"linkified\">https://us02web.zoom.us/u/ksQRuOpXR<\/a><\/p> ",
+    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprybcjbvb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Trenton R Users (TRU): Meetup for May - 2020",
     "group": "Trenton R Users (TRU)",
     "start": "2020-05-30",
@@ -480,6 +488,22 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Auckland: Presenting like a Kunoichi with Xaringan",
+    "group": "R-Ladies Auckland",
+    "start": "2020-06-16",
+    "description": "<p>All,<\/p> <p>We are thrilled to have Earo Wang speak in June.<\/p> <p>**Overview**<\/p> <p>Kunoichi is a female ninja, and xaringan is a presentation ninja. In this talk, I'll share some lessons and thoughts on how to give a technical talk like a kunoichi. I'll introduce you to the xaringan package and friends to generate stylish and engaging html slides in R Markdown (i.e. reproducible).<\/p> <p>**Bio**<\/p> <p>Earo Wang is a lecturer in statistics at the University of Auckland. She's interested in statistical computing and graphics, exploratory data analysis, reproducible research, and R. She moved to Auckland this year from Melbourne, where she earned her PhD degree at Monash University. She has been awarded the John M. Chambers Statistical Software Award in 2019 for the R package tsibble.<\/p> <p>**Online event**<\/p> <p>This meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date.<\/p> <p>If you have any questions or problems, don't hesitate to contact Kim Fitter (main host) through meet-up!<\/p> <p>As with all our meetups, please be aware of and read the Code of Conduct before attending.<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-auckland/events/270599878/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Charlottesville: Building dashboards with flexdashboard and Shiny",
+    "group": "R-Ladies Charlottesville",
+    "start": "2020-06-16",
+    "description": "<p>Dashboards are a great, user-friendly way for communicating insights and sharing results. They offer more flexibility than standard reports, and with R and Shiny they can be interactive and deliver complex results.<\/p> <p>But where do you start? For many, grokking a Shiny app is no easy feat. This is where flexdashboard is incredibly valuable - all it needs is a little R code, mixed with some R Markdown, and voila! Flexdashboard also integrates with Shiny, so it's a great on ramp to learning more about reactivity.<\/p> <p>This hands-on virtual workshop will give an overview of building dashboards, starting with RMarkdown and flexdashboard, and will end with some more advanced topics such as Shiny and HTML widgets.<\/p> <p>All are welcome, and no Shiny experience is needed.<\/p> <p>Dashboard: <a href=\"https://connect.rstudioservices.com/penguins/\" class=\"linkified\">https://connect.rstudioservices.com/penguins/<\/a><\/p> <p>Slides: <a href=\"https://docs.google.com/presentation/d/16JtzkVJc2iLoFB_RmtgPhfJwpP0jh0iPOj9Ch4f48vE/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/presentation/d/16JtzkVJc2iLoFB_RmtgPhfJwpP0jh0iPOj9Ch4f48vE/edit?usp=sharing<\/a><\/p> <p>RStudio Cloud Project: <a href=\"https://rstudio.cloud/project/1389836\" class=\"linkified\">https://rstudio.cloud/project/1389836<\/a><\/p> <p>Github repo: <a href=\"https://github.com/SamanthaToet/intro-to-flexdashboard\" class=\"linkified\">https://github.com/SamanthaToet/intro-to-flexdashboard<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-charlottesville/events/270748602/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Santa Rosa: Primeros pasos con GIT",
     "group": "R-Ladies Santa Rosa",
     "start": "2020-05-18",
@@ -493,6 +517,14 @@
     "start": "2020-05-28",
     "description": "<p>¡Contentas de anunciar nuestro primer meetup (virtual) el 28 de mayo a las 18 horas!<br/>Tendremos un taller sobre primeros pasos en el análisis de datos en R a cargo de Daniela Vázquez a través de Zoom.<\/p> <p>Durante el webinar utilizaremos la versión web de RStudio, no es necesario que lo tengan instalado, pero sí será importante seguir estos pasos previo al comienzo de la actividad:<\/p> <p>- Crear una cuenta en RStudio Cloud a través de este link: <a href=\"https://bit.ly/3f5zocT\" class=\"linkified\">https://bit.ly/3f5zocT<\/a> .<br/>- Verificar su cuenta a través del e-mail que recibirán luego de creada (si se loguearon usando gmail o github no hace falta este paso).<\/p> <p>Estaremos siguiendo el primer capítulo del libro “R para Ciencia de Datos”: <a href=\"https://es.r4ds.hadley.nz/\" class=\"linkified\">https://es.r4ds.hadley.nz/<\/a><\/p> <p>RSVP: rladies.uy/meetup #rladies #rladieslatam<\/p> ",
     "url": "https://www.meetup.com/rladies-montevideo/events/270755498/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Belgrade: eRum20202::build a website with blogdown in R",
+    "group": "R-Ladies Belgrade",
+    "start": "2020-06-16",
+    "description": "<p>SisterAnalyst is delivering a test run for eRum's workshop: build a website with blogdown in R.<\/p> <p>When: Tuesday, June 16, 2020<br/>5:30 PM to 8:00 PM<\/p> <p>Where: hopin<\/p> <p>If you are interested in participating in learning how to build a website in R and in providing feedback for the workshop running on Saturday, June 20, 2020 as a part of the official eRum2020 programme, we would love you to come and join us.<\/p> <p>To get your hopin ticket please go to:<\/p> <p><a href=\"https://hopin.to/events/build-a-website-with-blogdown-in-r/tickets\" class=\"linkified\">https://hopin.to/events/build-a-website-with-blogdown-in-r/tickets<\/a><\/p> <p>All welcome!<\/p> <p>We are looking forward to seeing you all…<\/p> ",
+    "url": "https://www.meetup.com/rladies-belgrade/events/271288045/",
     "textColor": "#7171fb"
   },
   {
@@ -565,6 +597,14 @@
     "start": "2020-06-02",
     "description": "<p>This will be a beginner-intermediate level workshop on R-Markdown. We will start from the beginning introducing you to markdown in R, how to integrate code with text, what all you can do with it and make a document and a presentation using automated reports together. Hope to see you there! :)<\/p> ",
     "url": "https://www.meetup.com/rladies-freiburg/events/270879098/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Freiburg: Virtual Tidy Tuesday - Join and practice your R skills",
+    "group": "R-Ladies Freiburg",
+    "start": "2020-06-16",
+    "description": "<p>Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?<\/p> <p>Then this event is what you need! We will meet virtually and work with datasets provided by Tidy Tuesday, an initiative from R for Data Science which posts a new dataset weekly for practicing your R skills (<a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>). Everyone can choose which dataset most interests them (the current one or past ones) and what they want to practice using it. We will do this together to have the opportunity to ask others and because coding together is fun!<\/p> <p>At the end of the meetup, you'll have the chance to share what you've done with the group, post it to Twitter, and/or add it to your data science portfolio. In this way, we can all inspire each other with new methods, graphs, and data concepts, as well as each build our own skillset and data science portfolio.<\/p> <p>R-enthusiasts of all levels are welcome, whether it's your first bar chart or you're basically a ggplot expert. Everyone will have the chance to work at their own level, ask/answer questions, and learn something new!<\/p> <p>Feel free to take a look at the dataset(s) before we meet and bring ideas for yourself and others.<\/p> <p>IMPORTANT:<br/>Given the current situation the meetup will be hold virtually via Zoom, which you can download here: <a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a><br/>You will receive the link shortly before the meeting via e-mail. So check your inbox close to the start time. All meetings are monitored by two co-organizers to ensure a peaceful and secure meeting!<\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/271201750/",
     "textColor": "#7171fb"
   },
   {
@@ -1031,14 +1071,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: e-Rum 2020 Conference - Remote",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-06-17",
-    "description": "<p>The European R Users Meeting<br/>Website - 2020.erum.io<br/>YouTube channel - <a href=\"https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w\" class=\"embedded\">https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w<\/a><\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271209394/",
-    "textColor": "blue"
-  },
-  {
     "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 012",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-06-25",
@@ -1095,14 +1127,6 @@
     "textColor": "blue"
   },
   {
-    "title": "IndyUseR Group: Time Series Forecasting with the Fable Package - Sri Seshadri ",
-    "group": "IndyUseR Group",
-    "start": "2020-06-16",
-    "description": "<p>Join us as we explore the fable package for building time series forecasting models. All skill levels are welcomed.<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentations<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>This meeting will be by video chat only. We'll release the Zoom Meeting chat link as we approach the event date.<\/p> <p>Zoom Meeting Info<\/p> <p>Topic: IndyUser June 2020 Meetup<br/>Time: Jun 16,[masked]:30 PM Indiana (East)<\/p> <p>Join Zoom Meeting<br/><a href=\"https://us02web.zoom.us/j/83621279396\" class=\"linkified\">https://us02web.zoom.us/j/83621279396<\/a><\/p> <p>Meeting ID:[masked]<br/>One tap mobile<br/>[masked],,[masked]# US (Chicago)<br/>[masked],,[masked]# US (New York)<\/p> <p>Dial by your location<br/>[masked] US (Chicago)<br/>[masked] US (New York)<br/>[masked] US (Germantown)<br/>[masked] US (Houston)<br/>[masked] US (San Jose)<br/>[masked] US (Tacoma)<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://us02web.zoom.us/u/ksQRuOpXR\" class=\"linkified\">https://us02web.zoom.us/u/ksQRuOpXR<\/a><\/p> ",
-    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprybcjbvb/",
-    "textColor": "blue"
-  },
-  {
     "title": "IndyUseR Group: Monthly Meetup - Topic TBD",
     "group": "IndyUseR Group",
     "start": "2020-07-21",
@@ -1122,7 +1146,7 @@
     "title": "Trenton R Users (TRU): Meetup for June - 2020",
     "group": "Trenton R Users (TRU)",
     "start": "2020-06-20",
-    "description": "<p>We are now open to receive the titles for \"Topics for the rapid-fire round\" (5-10min long) and a \"Topic of the month\" (approx 25min long).<\/p> <p>If you would like to present in our meetup, please reach out to the organizers by Jun 12.<\/p> <p>The final decision for topics will be made as we approach near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) Organisers preference (in that order). We strive to provide opportunity to as many of you as possible.<\/p> ",
+    "description": "<p>Program Details<br/>================<\/p> <p>1:55-2:00 Lines Open<\/p> <p>Rapid Round<br/>---------------------------<br/>2:00-2:05 Meeting Starts<br/>2:05-2:15 Test for Means - Ashutosh Prasad<br/>2:15-2:25 Confusion Matrix - Praveen Sharma<br/>2:25-2:35 Open slot - Ideas/Presenter welcome<\/p> <p>Topic of the Month:<br/>-----------------------------<br/>2:40-3:00 LSTM and GRU Layers<\/p> ",
     "url": "https://www.meetup.com/TRUgroup/events/268224169/",
     "textColor": "blue"
   },
@@ -1140,14 +1164,6 @@
     "start": "2020-08-22",
     "description": "<p>The topic of this month's meetup will be decided as the time approaches near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) Organisers preference (in that order)<\/p> <p>Please contact the organizers, if you would like to present in our meetup on any data science related topic.<\/p> ",
     "url": "https://www.meetup.com/TRUgroup/events/268224239/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R User Group - Philippines: #77 Using R for Rice Supply Chain Optimization (for the IATF-FVC Committee)",
-    "group": "R User Group - Philippines",
-    "start": "2020-06-17",
-    "description": "<p>Returning RUG old-timer and one of our suki speakers in the past, Prof. Rex Jalao will share with us what he had been busy with during this pandemic (aside from taking care of his newborn baby - yay, congrats to the new Dad!). He will discuss his study on balancing rice demand and supply logistics, working with the UP Diliman Task Force on Supply Chain, under the IATF Sub Committee on Food Value Chain.<\/p> <p>We will also know about the rice supply and demand estimation model, a study made by UP Stat Professor and member of same IATF Sub Committee, Prof. Francisco \"Kikko\" delos Reyes. We'd be honored to have Prof. Kikko join us again, even for \"moral support\" to Rex as he discusses the study :)<\/p> <p>Prof. Rex is currently the Program Director for UP NEC Analytics Training, and still teaches Industrial Engineering in UP Diliman.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybcjbwb/",
     "textColor": "blue"
   },
   {
@@ -1183,11 +1199,11 @@
     "textColor": "blue"
   },
   {
-    "title": "Saint Louis R User Group: R meetup",
-    "group": "Saint Louis R User Group",
-    "start": "2020-06-17",
-    "description": "<p>By: TBD<\/p> ",
-    "url": "https://www.meetup.com/Saint-Louis-RUG/events/xlrkjrybcjbwb/",
+    "title": "Oslo useR! Group: [Online] Item Response Theory in R – Modelling test results",
+    "group": "Oslo useR! Group",
+    "start": "2020-08-27",
+    "description": "<p>[About the event]<br/>In this talk, Henrik will present a statistical paradigm called Item Response Theory (IRT). IRT is the preferred statistical framework for modelling educational and psychological scales. In education, IRT is the statistical method used in international assessment programs like PISA and national assessments such as the national tests in Norway. The talk will focus on applications of IRT, specifically making results on different tests comparable and the fairness of educational tests.<\/p> <p>[About the speaker]<br/>Henrik Galligani Ræder is a doctoral research fellow at the Centre for Educational Measurement at the University in Oslo (CEMO), Norway. His research focuses on the Norwegian national assessments, vertical scaling and the numeracy proficiency of Norwegian students.<\/p> ",
+    "url": "https://www.meetup.com/Oslo-useR-Group/events/271349741/",
     "textColor": "blue"
   },
   {
@@ -1212,14 +1228,6 @@
     "start": "2020-06-25",
     "description": "<p>Please join us for the 31st R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>Details:<\/p> <p>When: Thurs June 25, 6:30 pm - 8:00 pm<\/p> <p>Where: The meeting will take place on Zoom. Zoom link is provided when you RSVP.<\/p> <p>Agenda:<\/p> <p>• The data.table package and why you should use it. Presented by Aaron Makabuya and Ted Laderas. Please register for an account on <a href=\"https://rstudio.cloud\" class=\"linkified\">https://rstudio.cloud<\/a> if you want to follow along.<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct/\" class=\"linkified\">https://pdxrlang.com/code_of_conduct/<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message me (Ted) in the meetup app, or on Twitter at @pdxrlang<\/p> ",
     "url": "https://www.meetup.com/portland-r-user-group/events/271212559/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Wiesbaden R User Group: R Coffee Break - von Excel zu R und wieder zurück",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-06-17",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>In dieser Coffee Break widmen wir uns dem Thema Excel und R. Mit dem Paket openxlsx werden wir nicht nur einen Datensatz nach R importieren. Wir werden aus R eine gestylte Excel-Mappe exportieren.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tba<br/>Passwort: tba<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/271161503/",
     "textColor": "blue"
   },
   {
@@ -1374,27 +1382,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Charlottesville: Building dashboards with flexdashboard and Shiny",
-    "group": "R-Ladies Charlottesville",
-    "start": "2020-06-16",
-    "description": "<p>Dashboards are a great, user-friendly way for communicating insights and sharing results. They offer more flexibility than standard reports, and with R and Shiny they can be interactive and deliver complex results.<\/p> <p>But where do you start? For many, grokking a Shiny app is no easy feat. This is where flexdashboard is incredibly valuable - all it needs is a little R code, mixed with some R Markdown, and voila! Flexdashboard also integrates with Shiny, so it's a great on ramp to learning more about reactivity.<\/p> <p>This hands-on virtual workshop will give an overview of building dashboards, starting with RMarkdown and flexdashboard, and will end with some more advanced topics such as Shiny and HTML widgets.<\/p> <p>All are welcome, and no Shiny experience is needed.<\/p> <p>Sample dashboard screenshot provided by Jennifer Thomas <a href=\"https://jenthompson.me/2018/02/09/flexdashboards-monitoring/\" class=\"linkified\">https://jenthompson.me/2018/02/09/flexdashboards-monitoring/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-charlottesville/events/270748602/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Niterói: R Ladies Niterói: Introdução ao pacote Dplyr",
     "group": "R-Ladies Niterói",
     "start": "2020-06-27",
     "description": "<p>Olá, R Ladies Niterói. Teremos nosso primeiro encontro 100% online.<\/p> <p>** PROGRAMAÇÃO **<\/p> <p>17h - 17h15: Apresentação<br/>17h15 - 17h30: Manipulação de Dados: Dplyr<br/>17h30 - 18h40: Principais funções do pacote: select, filter, arrange, summarise e grupo_by.<br/>18h40 - 19h: Encerramento<\/p> <p>Em breve, vamos enviar o link para acessar a vídeo chamada. Fique ligadas.<\/p> ",
     "url": "https://www.meetup.com/rladies-niteroi/events/271078955/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Belgrade: eRum20202::build a website with blogdown in R",
-    "group": "R-Ladies Belgrade",
-    "start": "2020-06-16",
-    "description": "<p>SisterAnalyst is delivering a test run for eRum's workshop: build a website with blogdown in R.<\/p> <p>When: Tuesday, June 16, 2020<br/>5:30 PM to 8:00 PM<\/p> <p>Where: hopin<\/p> <p>If you are interested in participating in learning how to build a website in R and in providing feedback for the workshop running on Saturday, June 20, 2020 as a part of the official eRum2020 programme, we would love you to come and join us.<\/p> <p>To get your hopin ticket please go to:<\/p> <p><a href=\"https://hopin.to/events/build-a-website-with-blogdown-in-r/tickets\" class=\"linkified\">https://hopin.to/events/build-a-website-with-blogdown-in-r/tickets<\/a><\/p> <p>All welcome!<\/p> <p>We are looking forward to seeing you all…<\/p> ",
-    "url": "https://www.meetup.com/rladies-belgrade/events/271288045/",
     "textColor": "blue"
   },
   {
@@ -1483,14 +1475,6 @@
     "start": "2020-08-20",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
     "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrybclbbc/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Freiburg: Virtual Tidy Tuesday - Join and practice your R skills",
-    "group": "R-Ladies Freiburg",
-    "start": "2020-06-16",
-    "description": "<p>Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?<\/p> <p>Then this event is what you need! We will meet virtually and work with datasets provided by Tidy Tuesday, an initiative from R for Data Science which posts a new dataset weekly for practicing your R skills (<a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>). Everyone can choose which dataset most interests them (the current one or past ones) and what they want to practice using it. We will do this together to have the opportunity to ask others and because coding together is fun!<\/p> <p>At the end of the meetup, you'll have the chance to share what you've done with the group, post it to Twitter, and/or add it to your data science portfolio. In this way, we can all inspire each other with new methods, graphs, and data concepts, as well as each build our own skillset and data science portfolio.<\/p> <p>R-enthusiasts of all levels are welcome, whether it's your first bar chart or you're basically a ggplot expert. Everyone will have the chance to work at their own level, ask/answer questions, and learn something new!<\/p> <p>Feel free to take a look at the dataset(s) before we meet and bring ideas for yourself and others.<\/p> <p>IMPORTANT:<br/>Given the current situation the meetup will be hold virtually via Zoom, which you can download here: <a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a><br/>You will receive the link shortly before the meeting via e-mail. So check your inbox close to the start time. All meetings are monitored by two co-organizers to ensure a peaceful and secure meeting!<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/271201750/",
     "textColor": "blue"
   },
   {
