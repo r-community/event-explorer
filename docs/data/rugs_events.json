@@ -32,14 +32,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "CaRdiff - the Cardiff R User Group: Tidy Thursday: Remote Workshop",
-    "group": "CaRdiff - the Cardiff R User Group",
-    "start": "2020-05-28",
-    "description": "<p>Come join us for this May Tidy Thursday session.<\/p> <p>Tidy Tuesdays are weekly R projects on 'tidying' data, associated (but not exclusive!) to the 'tidyverse': ggplot2, dplyr, tidyr and friends.<\/p> <p>You can find out more about Tidy Tuesdays here: <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> <p>We will meet (on Thursday!), find the most recent data set and 'tidy' it up together.<\/p> <p>This session will be beginner friendly, hands on, and potentially pair programming driven.<\/p> <p>Learning outcomes: Data Preparation, Data Munging, Tidy Data, Tidyverse<\/p> <p>It would be helpful for attendees to have the following already installed, but if you run into trouble we can help on the day.<\/p> <p>* R: <a href=\"https://www.r-project.org/\" class=\"linkified\">https://www.r-project.org/<\/a><br/>* R Studio desktop: <a href=\"https://rstudio.com/products/rstudio/\" class=\"linkified\">https://rstudio.com/products/rstudio/<\/a><br/>* Tidyverse: <a href=\"https://www.tidyverse.org/\" class=\"linkified\">https://www.tidyverse.org/<\/a><\/p> <p>These are all free tools, and install will take roughly 20-40 min depending on hardware and internet speeds.<\/p> <p>Our previous work is available here:<br/><a href=\"https://github.com/CaRdiffR/tidy_thursdays\" class=\"linkified\">https://github.com/CaRdiffR/tidy_thursdays<\/a><\/p> <p>Zoom Password:[masked]<\/p> ",
-    "url": "https://www.meetup.com/Cardiff-R-User-Group/events/270794033/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Central Iowa R User Group: R and Python study group",
     "group": "Central Iowa R User Group",
     "start": "2020-05-30",
@@ -72,11 +64,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 009 B.Bischl+F.Pfisterer+M.Binder: Pipelines and AutoML with mlr3",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-05-28",
-    "description": "<p>Donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><\/p> <p>- stream <a href=\"https://www.youtube.com/watch?v=4r8K3GO5wk4\" class=\"embedded\">https://www.youtube.com/watch?v=4r8K3GO5wk4<\/a><br/>- join Why R? Slack whyr.pl/slack/<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 8:00 pm GMT+2<\/p> <p>mlr3pipelines is an object-oriented dataflow programming toolkit for machine learning in R6. It provides an expressive and intuitive language to define ML workflows as directed acyclic graphs that represent data flows between computational units, e.g., data preprocessing and model fitting. Many complex ML concepts for which special purpose packages are usually provided can now be expressed in few lines of graph definition code, e.g. unions of feature views, bagging, stacking and hurdle models. Resulting pipelines are parameterized, so all components can be jointly tuned to obtain an optimal configuration.<br/>Graphs can contain \"branching\" nodes which allows selective, conditional processing of execution paths. The tuning of such tasks makes complex model selection possible.<br/>The modular, object-oriented concept of mlr3pipelines facilitates convenient extension with custom operations, while the compatibility with mlr3 allows convenient tuning, benchmarking, nested resampling and more.<\/p> <p>This leads to the possibility of specifying custom, minimal automatic machine learning systems by constructing and tuning pipelines that can be adjusted for a respective task.<\/p> <p>Project page: <a href=\"https://github.com/mlr-org/mlr3pipelines\" class=\"linkified\">https://github.com/mlr-org/mlr3pipelines<\/a><\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270316329/",
+    "title": "Central Iowa R User Group: R and Python study group",
+    "group": "Central Iowa R User Group",
+    "start": "2020-06-27",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcjbkc/",
     "textColor": "#7171fb"
   },
   {
@@ -125,22 +117,6 @@
     "start": "2020-06-23",
     "description": "<p>June Boston useR Lunch Break!<\/p> <p>Interrupted Time Series Analysis in Public Health and Health Policy using R: Entry-level Case Reviews.<\/p> <p>Speaker: Hao Deng, MD MPH DRPH(c), Massachusetts General Hospital/Harvard Medical School<\/p> <p>Dr. Deng from MGH will briefly introduce a simple but widely used analytical method of quasi-experimental designs named Interrupted Time Series analysis (ITS). He will also discuss implementation issues when applying this method to public health and policy decision-making using real-world case-examples and R. This talk will focus on interactive case discussions instead of methodological aspects. Attendees from all industry backgrounds are welcome.<\/p> <p>Dr. Deng is a physician-statistician who currently consults for the Anesthesia Research Center (ARC) at MGH. He is a faculty member of Harvard Medical School, obtained his MPH in biostatistics from Brown University, and is currently enrolled as a part-time DRPH student in implementation science track at Johns Hopkins University School of Public Health.<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/271329466/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Montreal R User Group: [Webinar] Rapidly Onboard and Prep Your Data for Machine Learning",
-    "group": "Montreal R User Group",
-    "start": "2020-05-28",
-    "description": "<p>Register here: <a href=\"https://bit.ly/2Wgs1rG\" class=\"linkified\">https://bit.ly/2Wgs1rG<\/a><\/p> <p>Building machine learning models is a creative process that requires deep thinking and expertise. But there's a lot of drudgery required to find and prep the data to train your ML model, not to mention getting that model into production or re-training it later.<\/p> <p>Whether you're using H2O.ai, Spark MLlib or any other machine learning framework, building your ML model is just one step in the longer process of getting machine learning into production.<\/p> <p>Join Infoworks and Databricks at this live webinar for discussion and demo on how to:<\/p> <p>- Find and prep the data to train your ML model in hours instead of days<br/>- Easily integrate the data with ML environments such as Databricks Notebooks<br/>- Get an ML model into production more quickly<br/>- Re-train the model with a push of the button<\/p> <p>Register here to attend: <a href=\"https://bit.ly/2Wgs1rG\" class=\"linkified\">https://bit.ly/2Wgs1rG<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270530122/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Montreal R User Group: [Webinar] Global Leader in Retail AI Achieves 5x Blazing Fast Performance",
-    "group": "Montreal R User Group",
-    "start": "2020-05-28",
-    "description": "<p>Register here: <a href=\"https://bit.ly/2LHzTft\" class=\"linkified\">https://bit.ly/2LHzTft<\/a><\/p> <p>Today, uncertainty has become the new normal. The retail industry faces several short term challenges around cash flow, consumer demands, pricing and driving sales. This calls for retailers to adapt to evolving consumer needs, loaded with challenges and complexities.<\/p> <p>As per Jason Goldberg, Forbes contributor for Retail industry “Consumers will have adopted short-term behaviors during the pandemic that in many cases will become permanent”.<\/p> <p>In order thrive in a post pandemic world, it is critical to prepare for this new economic reality that’s shaping consumer behavior radically.<\/p> <p>Embracing innovation is the best way forward to ensure that your applications, your insights and your data are primed and ready to respond to any situation. Timely insights can make or break your business because the question that you can’t imagine today is the answer that you need for tomorrow.<\/p> <p>It may seem counter-intuitive to think about modernizing your environment while struggling to deal with disruption to your business. However, this is exactly the time to take a close look at what’s not working optimally and address the issues holding your business back from being flexible and adaptable in changing times.<\/p> <p>In this webinar Symphony Retail AI, global Leader in Retail AI talks about how they were able to consolidate their disparate database systems, and improved performance by 5x, and migrated away from their legacy systems quickly and easily to provide value driven and timely insights to retail giants.<\/p> <p>Register here: <a href=\"https://bit.ly/2LHzTft\" class=\"linkified\">https://bit.ly/2LHzTft<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/270811668/",
     "textColor": "#7171fb"
   },
   {
@@ -261,22 +237,6 @@
     "start": "2020-06-17",
     "description": "<p>Returning RUG old-timer and one of our suki speakers in the past, Prof. Rex Jalao will share with us what he had been busy with during this pandemic (aside from taking care of his newborn baby - yay, congrats to the new Dad!). He will discuss his study on balancing rice demand and supply logistics, working with the UP Diliman Task Force on Supply Chain, under the IATF Sub Committee on Food Value Chain.<\/p> <p>We will also know about the rice supply and demand estimation model, a study made by UP Stat Professor and member of same IATF Sub Committee, Prof. Francisco \"Kikko\" delos Reyes. We'd be honored to have Prof. Kikko join us again, even for \"moral support\" to Rex as he discusses the study :)<\/p> <p>Prof. Rex is currently the Program Director for UP NEC Analytics Training, and still teaches Industrial Engineering in UP Diliman.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybcjbwb/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Salt Lake City R Users Group: [Online] Regression When Your Data Isn't Well Behaved",
-    "group": "Salt Lake City R Users Group",
-    "start": "2020-05-28",
-    "description": "<p>Our May Meetup will be a remote gathering. The Zoom link is visible to those who RSVP.<\/p> <p>The most commonly taught types of regression are linear (where the dependent variable can be any real number) and logistic (where the dependent variable is binary). However, many types of data don't fall into either of these two categories. In this session, we will review regression techniques that can handle other kinds of inputs: censored normal, logit-normal, and beta regression (for dependent variables that are bounded above and/or below); ordered logistic regression (for multiple discrete outcomes that are logically ordered, such as Likert ratings); and multinomial logistic regression (for discrete outcomes that aren't ordered). These techniques provide a better representation of the processes they are modeling and allow us to make more realistic predictions.<\/p> <p>Abby Kaplan is a data scientist at Salt Lake Community College. Before joining SLCC, she was an adjunct professor of linguistics at the University of Utah. She received her PhD in linguistics from UC Santa Cruz in 2010.<\/p> ",
-    "url": "https://www.meetup.com/slc-rug/events/268174128/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Oslo useR! Group: [Workshop] Mild introduction to Structural Equation Modeling",
-    "group": "Oslo useR! Group",
-    "start": "2020-05-28",
-    "description": "<p>When working with data, we often want to create models to predict future events, but we also want an even deeper understanding of how our data is causally connected or structured. In this workshop, we will explore the connectedness of data using structural equation modeling (SEM) with the {lavaan} package.<\/p> <p>If you want to actively follow the workshop, please have the R packages {lavaan} and {semPlot} installed. Because of the virtual format of the workshop, we will only have very limited capacities for helping with troubleshooting.<\/p> <p>The speaker, Ronny Scherer, received his PhD from Humboldt-Universität zu Berlin in 2012, and is currently working at the Centre for Educational Measurement, University of Oslo (CEMO). His research and teaching cover structural equation modeling, meta-analysis, computer-based assessments, and multilevel analysis. Ronny is coordinating the Measurement Models course at CEMO.<\/p> <p>We look forward seeing all of you!<\/p> <p>Update:<\/p> <p>The packages used during the workshop is lavaan, semPlot, MPsychoR and corrplot. We recommend that you have these packages installed prior to the start of the workshop. Below is a line of code you can use.<\/p> <p>install.packages(c(\"lavaan\", \"semPlot\", \"MPsychoR\", \"corrplot\"))<\/p> <p>We ask you to please follow Oslo UseR!’s zoom etiquette:<\/p> <p>During the workshop, only the speaker shares video.<\/p> <p>During the workshop, everyone except the presenter and the moderators are muted.<\/p> <p>To communicate, please use the built in chat function in Zoom. Participants will get the chance to ask questions verbally if necessary as a follow-up. If possible, please share video when communicating verbally.<\/p> <p>The event will be moderated by the Oslo UseR! team, and we will do our best to facilitate a good experience for everyone.<\/p> ",
-    "url": "https://www.meetup.com/Oslo-useR-Group/events/265662967/",
     "textColor": "#7171fb"
   },
   {
@@ -416,6 +376,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies La Paz: Study Group - R para Ciencia de Datos [Sesión 11]",
+    "group": "R-Ladies La Paz",
+    "start": "2020-06-27",
+    "description": "<p>Querida comunidad:<br/>Continuamos con el Study Group de R en La Paz!!<\/p> <p>En estas sesiones aprenderas el lenguaje R desde 0, nuestro principal objetivo es ayudarte en tu camino de aprendizaje en Ciencia de Datos. En nuestras reuniones revisamos el libro: <a href=\"https://es.r4ds.hadley.nz/\" class=\"linkified\">https://es.r4ds.hadley.nz/<\/a><\/p> <p>Fecha: Sábado 27 De Junio - 15:00PM<\/p> <p>Tema: Capítulo 5 - Comunicar (Parte 2)<\/p> <p>El link del evento se los enviaremos minutos antes a las personas registradas.<\/p> <p>Recuerda, empezaremos a las 3 de la tarde :) .<br/>Te esperamos!!<br/>#NuncaParesDeArender !!!<\/p> <p>INSTRUCTORAS:<\/p> <p>Ruth Chirinos:<br/>Ingeniera de Sistemas, Máster en Adm. de Sistemas de Información. Java Programmer Certified, Scrum Master Certified. Líder de equipo de Desarrollo de Softwre en Mojix. Ambassador La Paz AI. Miembro de Women in Data Science La Paz. CEO de la empresa Akath.<\/p> <p>Susana Yana Avila:<br/>Informática , Máster en Business Intelligence, participé en el el curso de Nanodegree en Data Science en Udacity, y soy miembro de Women in Data Science La Paz. También participé en Wids Challenge 2018 y 2020.<\/p> ",
+    "url": "https://www.meetup.com/rladies-la-paz/events/271529349/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Chicago: Post-SatRday Chicago R-Ladies Meetup!",
     "group": "R-Ladies Chicago",
     "start": "2020-05-30",
@@ -512,11 +480,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Montevideo: ¡Encuentro (virtual): primeros pasos en el análisis de datos en R!",
-    "group": "R-Ladies Montevideo",
-    "start": "2020-05-28",
-    "description": "<p>¡Contentas de anunciar nuestro primer meetup (virtual) el 28 de mayo a las 18 horas!<br/>Tendremos un taller sobre primeros pasos en el análisis de datos en R a cargo de Daniela Vázquez a través de Zoom.<\/p> <p>Durante el webinar utilizaremos la versión web de RStudio, no es necesario que lo tengan instalado, pero sí será importante seguir estos pasos previo al comienzo de la actividad:<\/p> <p>- Crear una cuenta en RStudio Cloud a través de este link: <a href=\"https://bit.ly/3f5zocT\" class=\"linkified\">https://bit.ly/3f5zocT<\/a> .<br/>- Verificar su cuenta a través del e-mail que recibirán luego de creada (si se loguearon usando gmail o github no hace falta este paso).<\/p> <p>Estaremos siguiendo el primer capítulo del libro “R para Ciencia de Datos”: <a href=\"https://es.r4ds.hadley.nz/\" class=\"linkified\">https://es.r4ds.hadley.nz/<\/a><\/p> <p>RSVP: rladies.uy/meetup #rladies #rladieslatam<\/p> ",
-    "url": "https://www.meetup.com/rladies-montevideo/events/270755498/",
+    "title": "R-Ladies Niterói: R Ladies Niterói: Introdução ao pacote Dplyr",
+    "group": "R-Ladies Niterói",
+    "start": "2020-06-27",
+    "description": "<p>Olá, R Ladies Niterói. Teremos nosso primeiro encontro 100% online.<\/p> <p>** PROGRAMAÇÃO **<\/p> <p>17h - 17h15: Apresentação<br/>17h15 - 17h30: Manipulação de Dados: Dplyr<br/>17h30 - 18h40: Principais funções do pacote: select, filter, arrange, summarise e grupo_by.<br/>18h40 - 19h: Encerramento<\/p> <p>Contamos com a sua presença!<\/p> ",
+    "url": "https://www.meetup.com/rladies-niteroi/events/271078955/",
     "textColor": "#7171fb"
   },
   {
@@ -549,14 +517,6 @@
     "start": "2020-06-02",
     "description": "<p>Unfortunately, due to unforeseen circumstances, we will have to postpone today's session to a later date. Apologies for any inconvenience this may cause, and we hope to see you all soon.<\/p> <p>---------------<br/>Hello RiveRside community ;-)<\/p> <p>Come join us for a virtual evening of networking and learning on Tuesday, June 2nd, 5:15 pm (PST). Don't forget to RSVP to get access to the meeting's ID and password.<\/p> <p>Whether you are new to R or a data scientist, join us for a Random Forest algorithm tutorial and see how you can apply machine learning in your research.<\/p> <p>At the end of the meeting, we will have time to help each other with any R-related questions.<\/p> <p>Please have R and RStudio already installed on your computers. Also please install and verify that the package is loaded and working properly by running the first three lines of code in the tutorial here:<br/><a href=\"https://rladies.github.io/riverside/2020/05/20/packages.html\" class=\"linkified\">https://rladies.github.io/riverside/2020/05/20/packages.html<\/a><\/p> <p>Big thanks to UCR Library and UCR GradQuant for supporting us, and to our guest speaker Rebecca Paulette Kurtz-Garcia from Statistics Department, UCR!<\/p> <p>See you soon!<\/p> <p>ps: are you already following us at @RLadiesRiversd twitter?<\/p> ",
     "url": "https://www.meetup.com/rladies-riverside/events/270746911/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Miami: Investigating COVID-19 with R: data analysis and simulations",
-    "group": "R-Ladies Miami",
-    "start": "2020-05-28",
-    "description": "<p>In this presentation we discuss different aspects of COVID-19 modeling in R.<\/p> <p>The presentation has significant technical elements, but most of the workflows are generalized and presented in ways that are easy to understand and transfer to other fields.<\/p> <p>The presentation has three parts: data analysis, simulations, and framework design.<\/p> <p>1. Data analysis (15-20 min)<\/p> <p>- Data analysis of data from well known repositories.<\/p> <p>- Like, New York Times COVID-19 and Apple COVID-19 Mobility data.<\/p> <p>- Application of different data summarizations, visualizations, and machine learning algorithms.<\/p> <p>- This is the \"warm-up\" part of the talk and a fair amount of didactic explanations are given.<\/p> <p>2. Simulations (25-30 min)<\/p> <p>- Epidemiology models overview.<\/p> <p>- Basic compartmental models: SIR, SEI2R.<\/p> <p>- Advanced single-site models: SEI2HR-Econ.<\/p> <p>- Quarantines modeling.<\/p> <p>- Limited resources modeling.<\/p> <p>- Interactive interfaces.<\/p> <p>- Multi-site modeling and simulations.<\/p> <p>- Typical workflows.<\/p> <p>3. Framework design (10-15 min)<\/p> <p>- This is a more code-technical part that discusses the principles behind the main, novel R packages used in the presentation.<\/p> <p>*The Speaker:*<br/>Anton Antonov<br/>Accendo Data, LLC<br/>Senior Research Scientist<\/p> <p>Anton is an applied mathematician (PhD) with 28+ years of experience in algorithm development, scientific computing, mathematical modeling, operations research, natural language processing, machine learning, data science, and data mining.<\/p> <p>In the last twelve years, he focused on developing machine learning algorithms and workflows for different industries (music, movies, points of interests, recruiting, healthcare.) Currently, he is working on operations research and data science applications to manufacturing and healthcare.<\/p> <p>Anton is a former kernel developer of Mathematica.<\/p> ",
-    "url": "https://www.meetup.com/rladies-miami/events/270611412/",
     "textColor": "#7171fb"
   },
   {
@@ -632,22 +592,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "New York City R/Bioconductor for Genomics: Analyzing cBioPortal in Bioconductor",
-    "group": "New York City R/Bioconductor for Genomics",
-    "start": "2020-05-28",
-    "description": "<p>Learn how to search cBioPortal and to download and analyze cBioPortal data using the Bioconductor MultiAssayExperiment class. cBioPortal developer Ino de Bruijn presents the cBioPortal API &amp; R client in a webinar this Thursday May 28 11am-12pm EDT. Webinar list at <a href=\"https://www.cbioportal.org/tutorials\" class=\"linkified\">https://www.cbioportal.org/tutorials<\/a>, direct registration link <a href=\"https://dfci.zoom.us/webinar/register/7315875611981/WN_An_3l0XYQHCoinWvclUrlw\" class=\"linkified\">https://dfci.zoom.us/webinar/register/7315875611981/WN_An_3l0XYQHCoinWvclUrlw<\/a><\/p> ",
-    "url": "https://www.meetup.com/BiocNYC/events/270877871/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Baltimore: **Postponed**  R-Ladies Baltimore -- Leveraging Python in R using reticulate",
-    "group": "R-Ladies Baltimore",
-    "start": "2020-05-28",
-    "description": "<p>**Update May 26, 2020**: Hi everyone, we are postponing this event about reticulate to Fall 2020. However, we are currently planning a new event in June 2020. We will post more details in the next few days. Thank you for your patience during this time and we hope each of you and your families are doing well.<\/p> <p>Sincerely,<br/>- The R-Ladies Baltimore Org Team<\/p> <p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>We will have an event on Thursday May 28, 2020 from 5:30-7pm at Allovue (<a href=\"https://allovue.com\" class=\"linkified\">https://allovue.com<\/a>). We will have presentations on how to leverage Python in R using the 'reticulate' R package!<\/p> <p>WHO is this for?<br/>- If you are new to R &amp; are short-budgeted on time!<br/>- If you know and love Python, but want to know how to use in R!<br/>- If you just want to see some awesome examples of leveraging Python packages in R!<\/p> <p>*If any/all of this is true, this event might be for you!*<\/p> <p>Reticulate provides a comprehensive set of tools for interoperability between Python and R. The package includes facilities for:<\/p> <p>* Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R session.<\/p> <p>* Translation between R and Python objects (for example, between R and Pandas data frames, or between R matrices and NumPy arrays).<\/p> <p>* Flexible binding to different versions of Python including virtual environments and Conda environments.<\/p> <p>Reticulate embeds a Python session within your R session, enabling seamless, high-performance interoperability. If you are an R developer that uses Python for some of your work or a member of data science team that uses both languages, reticulate can dramatically streamline your workflow!<\/p> <p>AGENDA<br/>5:30–5:45 Meet &amp; Greet | 🍪 | Networking<br/>5:45–5:50 Who we are | Announcements | What's next<br/>5:50–6:30 Presentation: What are Shiny Apps and how can you build one?<br/>6:30-6:45 Discussion with audience on other questions / resources<br/>6:45–7:00 More 🍪 and Networking<\/p> <p>Details on the location:<br/>Allovue (<a href=\"https://allovue.com\" class=\"linkified\">https://allovue.com<\/a>)<br/>301 W 29th St, Baltimore, MD 21211<br/>(Room 2003, on the second floor at the end of the hall)<\/p> <p>Details on parking: Parking is available at R House (<a href=\"https://r.housebaltimore.com\" class=\"linkified\">https://r.housebaltimore.com<\/a>) as well as across the street at the police station or in Remington Row’s Garage (entrance on 28th Street, that is paid parking though).<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>website: <a href=\"https://rladies-baltimore.github.io\" class=\"linkified\">https://rladies-baltimore.github.io<\/a><br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-baltimore/events/263428281/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Baltimore: R-Ladies Baltimore -- Tidying data in R using the tidyr R package (Virtual)",
     "group": "R-Ladies Baltimore",
     "start": "2020-06-17",
@@ -704,14 +648,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Dublin R: Why R? Webinar -  Pipelines and AutoML with mlr3",
-    "group": "Dublin R",
-    "start": "2020-05-28",
-    "description": "<p>Speaker: Bernd Bischl, Florian Pfisterer, Martin Binder<br/>Title: Pipelines and AutoML with mlr3<\/p> <p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/270488090/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Dublin R: Why R? Webinar - Understanding Word Embeddings with Julia Silge ",
     "group": "Dublin R",
     "start": "2020-06-04",
@@ -744,6 +680,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Los Angeles: Data Visualization - A Lesser Known Intro",
+    "group": "R-Ladies Los Angeles",
+    "start": "2020-06-27",
+    "description": "<p>Hello RLadies!<\/p> <p>We're back for our June virtual meetup!<\/p> <p>Our speaker will be Amy Tzu-Yu Chen, Organizer of LA R Users Group.<br/>***<br/>Abstract: This is a practical introduction to data visualization. We will start with a brief history of data visualization. Then, I will share some of my strategy, process, and toolbox for data visualization. I will be using ggplot2, but the visualization skills you learn from this talk will be transferrable to other visualization packages.<br/>***<br/>Have a question about data visualization that you'd like Amy to cover? Post a comment on the event page!<\/p> <p>The Zoom link is available once you RSVP.<\/p> <p>As always we welcome people regardless of gender, but our group is intended for those who identify with a gender minority (trans women, cis women, trans men, non-binary, other). We expect all attendees to abide by our Code of Conduct.<\/p> <p>See you there!<br/>Amanda &amp; Katie<br/>@aktilot, @katie_leap<\/p> <p>PS: We're always looking for presenters! If you're interested, please reach out to Amanda ([masked]) or Katie ([masked]).<\/p> ",
+    "url": "https://www.meetup.com/rladies-la/events/271220855/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Tbilisi: Predicting heart attacks using supervised machine learning",
     "group": "R-Ladies Tbilisi",
     "start": "2020-06-11",
@@ -757,6 +701,14 @@
     "start": "2020-06-20",
     "description": "<p>შეხვედრის თემა იქნება: ტვიტერის ტექსტის ანალიზი R-ის დახმარებით (ირაკლი ქავთარაძე, Z.axis).<\/p> <p>ტვიტერის პოსტები საჯაროა, ამიტომ საკითხის გარშემო დისკუსიები<br/>ხელმისაწვდომი და ანალიზისთვის მოსახერხებელია. R-ის რამდენიმე პაკეტი დაგვეხმარება ტვიტების გადმოწერაში (rtweet), მონაცემების გასუფთავებაში (dplyr), ტექსტის ანალიზსა (tidytext) და ვიზუალიზაციაში (ggplot2). ვნახავთ რომელიმე საკითხის გარშემო რომელი სიტყვები გამოიყენება ყველაზე ხშირად და როგორია მათი ვალენტობა (პოზიტიური/ნეგატიური).<\/p> <p>შენიშვნა: ტვიტების გადმოსაწერად საჭიროა დეველოპერის ანგარიშისა და აპის შექმნა. ამისთვის მიჰყევით ინსტრუქციას:<br/><a href=\"https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html\" class=\"linkified\">https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html<\/a><\/p> <p>სემინარი დაიწყება თბილისის დროით 12.00 საათზე.<\/p> <p>Zoom-ის ლინკის მისაღებად, გთხოვთ, დარეგისტრირდეთ მოცემულ ბმულზე: <a href=\"https://tinyurl.com/yb9ohybn\" class=\"linkified\">https://tinyurl.com/yb9ohybn<\/a> .<\/p> <p>Zoom-ის ლინკს მიიღებთ შეხვედრის დღეს. შეხვედრა ქართულ ენაზე იქნება.<\/p> ",
     "url": "https://www.meetup.com/rladies-tbilisi/events/271250280/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Tbilisi: Webinar: Everyday I’m Playing, Everyday I’m Testing",
+    "group": "R-Ladies Tbilisi",
+    "start": "2020-06-27",
+    "description": "<p>R-Ladies Tbilisi is happy to host Hazel Kavili. Hazel Kavili will talk about AB test case study that they run in games.<br/>Hazel studied statistics, and is currently working as a data analyst at Rovio. She is responsible for finding useful insights from numbers to make their game better. Hazel started R-Ladies Istanbul in 2016 and now she is running the R-Ladies Helsinki chapter.<\/p> <p>Please register here to receive the event link: <a href=\"https://tinyurl.com/tbsreg\" class=\"linkified\">https://tinyurl.com/tbsreg<\/a><\/p> <p>ჰეიზელ კავილი გაგვაცნობს AB ტესტის სიტუაციურ ანალიზს (case study), რომელსაც თამაშებში იყენებენ.<br/>ჰეიზელმა სტატისტიკა ისწავლა და ახლა მონაცემთა ანალიტიკოსად მუშაობს Rovio-ში. მის პასუხისმგებლობაში შედის მონაცემებიდან სასარგებლო ინფორმაციის ამოღება, რათა თამაშები გააუმჯობესონ. ჰეიზელმა 2016 წელს R-ladies Istanbul დაიწყო, ახლა კი R-ladies Helsinki-ის ორგანიზატორია.<\/p> <p>შეხვედრის ლინკის მისაღებად, გთხოვთ დარეგისტრირდეთ აქ: <a href=\"https://tinyurl.com/tbsreg\" class=\"linkified\">https://tinyurl.com/tbsreg<\/a><\/p> <p>შეხვედრა 13:00 საათზე, ინგლისურ ენაზე ჩატარდა.<\/p> ",
+    "url": "https://www.meetup.com/rladies-tbilisi/events/271355582/",
     "textColor": "#7171fb"
   },
   {
@@ -941,14 +893,6 @@
     "start": "2020-07-29",
     "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 to 8:00 PM. The location is Zoom if we cannot meet in person. If we can meet, it will be at Panara Bread (see below)<\/p> <p>Book: Applied Predictive Modeling<br/><a href=\"http://appliedpredictivemodeling.com/\" class=\"linkified\">http://appliedpredictivemodeling.com/<\/a><br/><a href=\"https://www.amazon.com/dp/B00K15TZU0/\" class=\"linkified\">https://www.amazon.com/dp/B00K15TZU0/<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
     "url": "https://www.meetup.com/OC-RUG/events/270076629/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Central Iowa R User Group: R and Python study group",
-    "group": "Central Iowa R User Group",
-    "start": "2020-06-27",
-    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
-    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcjbkc/",
     "textColor": "blue"
   },
   {
@@ -1303,6 +1247,22 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Cordoba: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Cordoba",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
+    "url": "https://www.meetup.com/rladies-cordoba/events/271568343/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Buenos Aires: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Buenos Aires",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>***IMPORTANTE***<br/>Para participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (<a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a>).<\/p> <p>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo miércoles a las 13:30 hs. mandaremos un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-buenos-aires/events/271571920/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Santa Fe: Gráficos on demand con ggplot2.",
     "group": "R-Ladies Santa Fe",
     "start": "2020-06-29",
@@ -1311,11 +1271,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies La Paz: Study Group - R para Ciencia de Datos [Sesión 11]",
-    "group": "R-Ladies La Paz",
-    "start": "2020-06-27",
-    "description": "<p>Querida comunidad:<br/>Continuamos con el Study Group de R en La Paz!!<\/p> <p>En estas sesiones aprenderas el lenguaje R desde 0, nuestro principal objetivo es ayudarte en tu camino de aprendizaje en Ciencia de Datos. En nuestras reuniones revisamos el libro: <a href=\"https://es.r4ds.hadley.nz/\" class=\"linkified\">https://es.r4ds.hadley.nz/<\/a><\/p> <p>Fecha: Sábado 27 De Junio - 15:00PM<\/p> <p>Tema: Capítulo 5 - Comunicar (Parte 2)<\/p> <p>El link del evento se los enviaremos minutos antes a las personas registradas.<\/p> <p>Recuerda, empezaremos a las 3 de la tarde :) .<br/>Te esperamos!!<br/>#NuncaParesDeArender !!!<\/p> <p>INSTRUCTORAS:<\/p> <p>Ruth Chirinos:<br/>Ingeniera de Sistemas, Máster en Adm. de Sistemas de Información. Java Programmer Certified, Scrum Master Certified. Líder de equipo de Desarrollo de Softwre en Mojix. Ambassador La Paz AI. Miembro de Women in Data Science La Paz. CEO de la empresa Akath.<\/p> <p>Susana Yana Avila:<br/>Informática , Máster en Business Intelligence, participé en el el curso de Nanodegree en Data Science en Udacity, y soy miembro de Women in Data Science La Paz. También participé en Wids Challenge 2018 y 2020.<\/p> ",
-    "url": "https://www.meetup.com/rladies-la-paz/events/271529349/",
+    "title": "R-Ladies Santiago: Charla desde RLadies Global: Cómo hacer una reunión virtual inolvidable",
+    "group": "R-Ladies Santiago",
+    "start": "2020-07-01",
+    "description": "<p>Este miércoles a las 13:00 nos sumamos a la transmisión de la charla \"Cómo hacer una reunión virtual inolvidable (sin morir en el intento)\" que organiza RLadies Global.<\/p> <p>Resumen:<br/>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<br/>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>[NOTA: este no es un meetup sobre R, sino sobre cómo organizar eventos en línea]<\/p> ",
+    "url": "https://www.meetup.com/rladies-scl/events/271573073/",
     "textColor": "blue"
   },
   {
@@ -1412,14 +1372,6 @@
     "start": "2020-07-25",
     "description": "<p>O \"Mês do R\" é um mês cheio de programação e diversidade. Em um dos seus dias de evento, Maria Marinho abordará conteúdos sobre como inserir ideias de SQL no R. É uma ótima oportunidade pra quem quer iniciar na carreira de Data Science. Saber SQL é crucial!<\/p> <p>Participe!<br/>Link das inscrições: <a href=\"https://www.sympla.com.br/urlAlias/render?alias=mesdoR\" class=\"linkified\">https://www.sympla.com.br/urlAlias/render?alias=mesdoR<\/a><\/p> <p>Siga-nos para mais informações e ficar ligado em nossa comunidade.<\/p> <p>-Instagram: @rladiesgyn<\/p> ",
     "url": "https://www.meetup.com/rladies-goiania/events/271509284/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Niterói: R Ladies Niterói: Introdução ao pacote Dplyr",
-    "group": "R-Ladies Niterói",
-    "start": "2020-06-27",
-    "description": "<p>Olá, R Ladies Niterói. Teremos nosso primeiro encontro 100% online.<\/p> <p>** PROGRAMAÇÃO **<\/p> <p>17h - 17h15: Apresentação<br/>17h15 - 17h30: Manipulação de Dados: Dplyr<br/>17h30 - 18h40: Principais funções do pacote: select, filter, arrange, summarise e grupo_by.<br/>18h40 - 19h: Encerramento<\/p> <p>Contamos com a sua presença!<\/p> ",
-    "url": "https://www.meetup.com/rladies-niteroi/events/271078955/",
     "textColor": "blue"
   },
   {
@@ -1543,6 +1495,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Valparaíso: Charla desde RLadies Global: Cómo hacer una reunión virtual inolvidable",
+    "group": "R-Ladies Valparaíso",
+    "start": "2020-07-01",
+    "description": "<p>Este miércoles a las 13:00 nos sumamos a la transmisión de la charla \"Cómo hacer una reunión virtual inolvidable (sin morir en el intento)\" que organiza RLadies Global.<\/p> <p>Resumen:<br/>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<br/>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>[NOTA: este no es un meetup sobre R, sino sobre cómo organizar eventos en línea]<\/p> ",
+    "url": "https://www.meetup.com/rladies-valparaiso/events/271573055/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Barcelona: Webinario: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
     "group": "R-Ladies Barcelona",
     "start": "2020-07-01",
@@ -1591,6 +1551,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Salt Lake City R Language Study Group: Re-union introduction of using R for beginner ",
+    "group": "Salt Lake City R Language Study Group",
+    "start": "2020-07-04",
+    "description": "<p>Please join it by this link:<br/><a href=\"https://meet.google.com/acu-fern-shg\" class=\"linkified\">https://meet.google.com/acu-fern-shg<\/a><\/p> <p>This is an introduction level for how to start use R. How to create your first function by using R. How to navigate data by R. Have fun and enjoy :)<\/p> ",
+    "url": "https://www.meetup.com/Salt-Lake-City-R-Language-Study-Group/events/271568792/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Washington D.C.: Writing a federal resume",
     "group": "R-Ladies Washington D.C.",
     "start": "2020-07-20",
@@ -1631,14 +1599,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Los Angeles: Data Visualization - A Lesser Known Intro",
-    "group": "R-Ladies Los Angeles",
-    "start": "2020-06-27",
-    "description": "<p>Hello RLadies!<\/p> <p>We're back for our June virtual meetup!<\/p> <p>Our speaker will be Amy Tzu-Yu Chen, Organizer of LA R Users Group.<br/>***<br/>Abstract: This is a practical introduction to data visualization. We will start with a brief history of data visualization. Then, I will share some of my strategy, process, and toolbox for data visualization. I will be using ggplot2, but the visualization skills you learn from this talk will be transferrable to other visualization packages.<br/>***<br/>Have a question about data visualization that you'd like Amy to cover? Post a comment on the event page!<\/p> <p>The Zoom link is available once you RSVP.<\/p> <p>As always we welcome people regardless of gender, but our group is intended for those who identify with a gender minority (trans women, cis women, trans men, non-binary, other). We expect all attendees to abide by our Code of Conduct.<\/p> <p>See you there!<br/>Amanda &amp; Katie<br/>@aktilot, @katie_leap<\/p> <p>PS: We're always looking for presenters! If you're interested, please reach out to Amanda ([masked]) or Katie ([masked]).<\/p> ",
-    "url": "https://www.meetup.com/rladies-la/events/271220855/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Tbilisi: Webinar: Working with text in R",
     "group": "R-Ladies Tbilisi",
     "start": "2020-07-04",
@@ -1666,7 +1626,7 @@
     "title": "R-Ladies Quito: Tómate un café con nosotras y conoce a las R-Ladies de Ecuador",
     "group": "R-Ladies Quito",
     "start": "2020-06-30",
-    "description": "<p>No olviden su café o té y las ganas de compartir sus dudas, expectativas y ganas de compartir con la comunidad R-Ladies.<\/p> ",
+    "description": "<p>Las R-Ladies de Ecuador: Quito, Guayaquil y Galápagos, unen fuerzas durante la pandemia para organizar una serie de webinars sobre programación en R. Todo mientras disfrutamos de una tacita de nuestro café o té favorito.<\/p> <p>Empezaremos esta serie con una presentación sobre las R-Ladies en Ecuador. Compartiremos nuestras motivaciones para iniciar un capítulo de R-Ladies, así como los retos y éxitos logrados. También daremos oportunidades a los participantes de compartir sus experiencias y expectativas con R.<br/>Únete a nuestro evento, no importa tu nivel de experiencia o conocimiento con R.<\/p> <p>Incentivamos especialmente a mujeres y personas de grupos minoritarios a que se unan a nuestros eventos.<\/p> <p>No olviden su café o té y las ganas de compartir, sus dudas, expectativas y ganas de compartir con la comunidad R-Ladies.<\/p> ",
     "url": "https://www.meetup.com/rladies-quito/events/271447096/",
     "textColor": "blue"
   },
