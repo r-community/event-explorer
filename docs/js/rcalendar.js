@@ -24,7 +24,12 @@ $(document).ready(function() {
       url: 'data/rugs_events.json', // use the `url` property
       color: '#ffffff',
       textColor:'blue'
-    }
+    },
+				{
+					url:'https://raw.githubusercontent.com/benubah/rcentral/master/data/events.json',
+					color:'blue',
+					textColor:'white'
+				}
 
 
   ],
