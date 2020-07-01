@@ -1,5 +1,13 @@
 [
   {
+    "title": "LA R users group: LA R Users: June Meeting",
+    "group": "LA R users group",
+    "start": "2020-06-30",
+    "description": "<p>LA R Users Group will have our June meeting online on Zoom (<a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a>).<\/p> <p>**Talk** (60min talk, 10min Q&amp;A)<\/p> <p>Title: Three reasons to use tidymodels<br/>Abstract: Modeling and machine learning in R involve a bewildering array of heterogeneous packages, and establishing good statistical practice is challenging in any language. The [tidymodels](<a href=\"https://www.tidymodels.org/\" class=\"linkified\">https://www.tidymodels.org/<\/a>) collection of packages offers a consistent, flexible framework for your modeling and machine learning work to address these problems. In this talk, we'll focus on three specific reasons to consider using tidymodels. We will start with model characteristics themselves, move to the wise management of your data budget, and finish with feature engineering.<\/p> <p>**Speaker**: Julia Silge<br/>Julia is a data scientist and software engineer at [RStudio PBC](<a href=\"https://rstudio.com/\" class=\"linkified\">https://rstudio.com/<\/a>) where she works on open source modeling tools. She is both an international keynote speaker and a real-world practitioner focusing on data analysis and machine learning practice, and is the author of [Text Mining with R](<a href=\"https://www.tidytextmining.com/\" class=\"linkified\">https://www.tidytextmining.com/<\/a>) with her coauthor David Robinson. She loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>6:30 open zoom<br/>6:40-7:50 Presentation<br/>~8:15 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://laocr.org/\" class=\"linkified\">https://laocr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
+    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/271228242/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Orange County R Users Group (OCRUG): Book club - Session 02 - Applied Predictive Modeling",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2020-06-03",
@@ -208,6 +216,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Salt Lake City R Users Group: [ONLINE] Big Data in R",
+    "group": "Salt Lake City R Users Group",
+    "start": "2020-06-30",
+    "description": "<p>Our June Meetup will be a remote gathering. The Zoom link will be posted the week of the event.<\/p> <p>Big data takes many forms. Sometimes it’s large CSV files on your computer. Sometimes it’s data in an external database. Sometimes it’s data in a corporate data lake. In this talk, we will look at how to use the power of dplyr and other R packages to work with big data in various formats to arrive at meaningful insight using a familiar and consistent set of tools.<\/p> <p>James Blair is a Solutions Engineer at RStudio, where he focuses on helping RStudio commercial customers successfully manage RStudio products. He is passionate about connecting R to other toolchains through tools like ODBC and APIs. He has a background in statistics and data science and finds any excuse he can to write R code.<\/p> ",
+    "url": "https://www.meetup.com/slc-rug/events/270935803/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Oslo useR! Group: [Online] An introduction to {caret}: A Machine Learning library in R",
     "group": "Oslo useR! Group",
     "start": "2020-06-18",
@@ -253,6 +269,14 @@
     "start": "2020-06-24",
     "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass in dieser R Coffee Break Hans W. Borchers etwas über Subgroup Discovery erzählt.<br/>*Subgroup Discovery* (SD) ist eine Technik des beschreibenden und explorativen Data Minings. Es werden 'interessante' Teilmengen der Daten identifiziert, in Hinblick auf ein für die jeweilige Anwendung wichtiges Merkmal. SD ist von praktischer Relevanz für wissenschaftliche wie geschäftliche Datenanalysen und kann für Analysten wie Kunden überraschende Einblicke in die Daten liefern. Ein R Paket wird vorgestellt, das diese Methode implementiert.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Passwort:[masked]<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/271161448/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Melbourne Users of R Network (MelbURN): A cookbook for web based data visualisations with R + Highcharter",
+    "group": "Melbourne Users of R Network (MelbURN)",
+    "start": "2020-06-30",
+    "description": "<p>Description<br/>A cookbook for web based data visualisations with R + Highcharter<\/p> <p>As all R data science output formats tend towards web / browser based formats (shiny, Rmarkdown html reports etc.) it's valuable to have a javascript based visualisation library in your toolkit to maximise the impact of your analysis in the browser. Highcharter is one of the better options in R: common charts can be made with one liners in ggplot-like syntax and elaborate, interactive, and beautiful charts can be made with 100s of lines to make your analysis even more impactful.<\/p> <p>Bio<br/>Tom Bishop<br/>Data scientist based in melbourne worked in banking, consulting and most recently at Betfair Australia<br/><a href=\"https://www.tmbish.me/\" class=\"linkified\">https://www.tmbish.me/<\/a><\/p> ",
+    "url": "https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/271117859/",
     "textColor": "#7171fb"
   },
   {
@@ -424,6 +448,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Sydney: Beyond Beamer: Modern and Dynamic Presentations with R Markdown",
+    "group": "R-Ladies Sydney",
+    "start": "2020-06-30",
+    "description": "<p>What a treat!<\/p> <p>An event with our beloved xaringan ninja- Dr Emi Tanaka! This event is co-organised with R-Ladies Canberra, SSA Canberra &amp; SSA NSW and promises to be full of tips and tricks for how to make impressive RMarkdown-based presentations using xaringan.<\/p> <p>Abstract: In many fields, scientific communications and publications are unimaginable without LaTeX. LaTeX, built on the TeX typesetting program, allows writing scientific documents with a markup language for structure and styling; capabilities for mathematical typesetting; ability to add cross-references and citations (though BibTeX or otherwise); and customisation through document classes, packages and macros. A particular LaTeX document class widely used for making presentation slides is Beamer. Beamer offers much of the same features as the original LaTeX in addition to special macros handy for presentation purposes and is used often by academics presenting mathematical content. Why then would we want another tool for presentation?<\/p> <p>In this tutorial talk, I will talk about the capabilities and benefits of using R Markdown to make presentation slides based on the `xaringan` R-package. If you have two monitors or an extra laptop/desktop computer, then you are encouraged to try some coding yourself as you follow along with the talk.<\/p> <p>Coding requirements: you will need to be familiar with R, have R and the xaringan &amp; tidyverse R packages installed. It is preferable that you use RStudio IDE although not required.<\/p> <p>Biography: Emi is an applied statistician whose primary interest is to develop impactful methods and tools that can be readily used by practitioners. Her research interests include mixed models and experimental designs, motivated primarily by the problems in bioinformatics and agricultural sciences. She recently joined as a lecturer at the Department of Econometrics and Business Statistics, Monash University. She is currently the Vice President of the Statistical Society of Australia Victoria Branch.<\/p> <p>Register in advance for this meeting:<\/p> <p><a href=\"https://anu.zoom.us/meeting/register/tJYqcu6pqj0vG9I4fvMeFOo0OuA0URBAsSdY\" class=\"linkified\">https://anu.zoom.us/meeting/register/tJYqcu6pqj0vG9I4fvMeFOo0OuA0URBAsSdY<\/a><\/p> <p>After registering, you will receive a confirmation email containing information about joining the meeting.<\/p> <p>Any questions, please feel free to contact [masked] or [masked]<\/p> ",
+    "url": "https://www.meetup.com/rladies-sydney/events/271304248/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Brisbane: Virtual presentations - Data Manipulation with dplyr",
     "group": "R-Ladies Brisbane",
     "start": "2020-06-03",
@@ -437,6 +469,14 @@
     "start": "2020-06-16",
     "description": "<p>All,<\/p> <p>We are thrilled to have Earo Wang speak in June.<\/p> <p>**Overview**<\/p> <p>Kunoichi is a female ninja, and xaringan is a presentation ninja. In this talk, I'll share some lessons and thoughts on how to give a technical talk like a kunoichi. I'll introduce you to the xaringan package and friends to generate stylish and engaging html slides in R Markdown (i.e. reproducible).<\/p> <p>**Bio**<\/p> <p>Earo Wang is a lecturer in statistics at the University of Auckland. She's interested in statistical computing and graphics, exploratory data analysis, reproducible research, and R. She moved to Auckland this year from Melbourne, where she earned her PhD degree at Monash University. She has been awarded the John M. Chambers Statistical Software Award in 2019 for the R package tsibble.<\/p> <p>**Online event**<\/p> <p>This meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date.<\/p> <p>If you have any questions or problems, don't hesitate to contact Kim Fitter (main host) through meet-up!<\/p> <p>As with all our meetups, please be aware of and read the Code of Conduct before attending.<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-auckland/events/270599878/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Grupo de Usuarios de R en Chile: Online: Reunión useRchile Junio 2020 @ZOOM",
+    "group": "Grupo de Usuarios de R en Chile",
+    "start": "2020-06-30",
+    "description": "<p>Seguimos comparitendo, aprendiendo y difundiendo el uso de R con una nueva versión de nuestro meetup useRchile!<br/>Nuevamente realizaremos este evento de manera online vía zoom.<br/>Para acceder a este meeting se entregará el password el mismo día del evento a quienes hayan confirmado asistencia a través de nuestro grupo de meetup.<\/p> <p>Para esta ocasión contaremos con los siguientes expositores:<\/p> <p>Charla 1 - \"Herramientas para visualización y análisis de series de tiempo\"<br/>Bastián Aballay: Senior Data Scientist, EY Chile.<br/>Linkedin: <a href=\"https://www.linkedin.com/in/bastianaballay/\" class=\"linkified\">https://www.linkedin.com/in/bastianaballay/<\/a><\/p> <p>Charla 2 - \"Sistemas recomendadores en R\"<br/>Elías Alegría: Data Scientist, Entel.<br/>Linkedin: <a href=\"https://www.linkedin.com/in/eliasalegria/\" class=\"linkified\">https://www.linkedin.com/in/eliasalegria/<\/a><\/p> <p>Esperamos verlos el Martes 30 de Junio a las 17:00 hrs a través de zoom!<\/p> <p>Link de descarga de la aplicación: <a href=\"https://zoom.us/\" class=\"linkified\">https://zoom.us/<\/a><br/>Session ID:[masked]<\/p> ",
+    "url": "https://www.meetup.com/useRchile/events/271525109/",
     "textColor": "#7171fb"
   },
   {
@@ -461,6 +501,14 @@
     "start": "2020-06-16",
     "description": "<p>SisterAnalyst is delivering a test run for eRum's workshop: build a website with blogdown in R.<\/p> <p>When: Tuesday, June 16, 2020<br/>5:30 PM to 8:00 PM<\/p> <p>Where: hopin<\/p> <p>If you are interested in participating in learning how to build a website in R and in providing feedback for the workshop running on Saturday, June 20, 2020 as a part of the official eRum2020 programme, we would love you to come and join us.<\/p> <p>To get your hopin ticket please go to:<\/p> <p><a href=\"https://hopin.to/events/build-a-website-with-blogdown-in-r/tickets\" class=\"linkified\">https://hopin.to/events/build-a-website-with-blogdown-in-r/tickets<\/a><\/p> <p>All welcome!<\/p> <p>We are looking forward to seeing you all…<\/p> ",
     "url": "https://www.meetup.com/rladies-belgrade/events/271288045/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Bucharest: R-Ladies Bucharest Community #10",
+    "group": "R-Ladies Bucharest",
+    "start": "2020-06-30",
+    "description": "<p>Am citit la un moment dat pe unul din blogurile pe care le citesc că dacă îți dorești să ajungi data scientist, scrie un blog! ( David Robinson) Așa că am început să citesc mai multe bloguri de data scientisti și așa am descoperit blogul lui Rebecca Barter: Data meets Narrative!<\/p> <p>Acum că ajungem la a 10a întâlnire, vă încurajez să continuați călătoria cu R și să începeți să scrieți un blog cu R Blogdown! Și pentru că acest îndemn să nu rămână doar vorbe, am invitat-o pe Rebecca să vină speaker, să ne povestească și să ne inspire și pe noi în această călătorie.<\/p> <p>Rebecca este data scientist și educator de Data Science la UC Berkeley. Cercetarea ei este orientată către sănătate. A scris un pachet R superheat și este instructor certificat RStudio. Și, desigur, scrie un blog grozav despre R și Data Science:Data meets Narrative (www.rebeccabarter.com).<\/p> <p>Vă aștept marți, 30 Iunie la 7PM CET+1 pentru a descoperi mai multe despre R, Blogdown și Rebecca Barter. Înregistrarea este gratuită, dar obligatorie prin meetup.<br/>Evenimentul va fi in limba engleza, vom folosi zoom, link-ul va fi actualizat în ziua evenimentului. Evenimentul va fi înregistrat, prin urmare, prin acceptarea înregistrării la acest eveniment, sunteți de acord și cu acest aspect.<br/>---------------------------------------------------------------------------------------------<br/>One blog I read at some point was saying: If you are an aspiring data scientist, write a blog (David Robinson). Then I started to read more data scientist blogs and discovered Rebecca Barter’s blog:Data meets Narrative!<br/>Now that we are getting to our 10th meetup, I continue to encourage you to discover R and start writing a blog with R Blogdown! For this I invited Rebecca as featured speaker to share her experience and inspire us!<br/>Rebecca is a data scientist and data science educator at UC Berkeley. Her research is focused on data science in healthcare. She wrote the superheat R package and is also an official RStudio instructor. And, of course, she writes a great blog about R and Data science: Data meets Narrative.<\/p> <p>Join our meetup from 30th June, 7PM CET+1 to discover more about R, Blogdown and Rebecca Barter. Registration is free, but mandatory via meetup.<br/>We shall meet on zoom, link will be updated in the day of the event. Your participation in this event, should include your approval for participation in this event that will be recorded.<\/p> <p>---------------------------------------------------------------------------------------------<br/>CODE OF CONDUCT<br/>Te rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><br/>---------------------------------------------------------------------------------------------<br/>Acesta este locul cu entuziaști de R unde trebuie să fii!<\/p> ",
+    "url": "https://www.meetup.com/rladies-bucharest/events/271020664/",
     "textColor": "#7171fb"
   },
   {
@@ -560,6 +608,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Guayaquil: Tomáte un café con nosotras y conoce a las R-Ladies de Ecuador",
+    "group": "R-Ladies Guayaquil",
+    "start": "2020-06-30",
+    "description": "<p>Las R-Ladies de Ecuador: Quito, Guayaquil y Galápagos, unen fuerzas durante la pandemia para organizar una serie de webinars sobre programación en R. Todo mientras disfrutamos de una tacita de nuestro café o té favorito.<br/>Empezaremos esta serie con una presentación sobre las R-Ladies en Ecuador. Compartiremos nuestras motivaciones para iniciar un capítulo de R-Ladies, así como los retos y éxitos logrados. También daremos oportunidades a los participantes de compartir sus experiencias y expectativas con R.<br/>Únete a nuestro evento, no importa tu nivel de experiencia o conocimiento con R.<br/>Incentivamos especialmente a mujeres y personas de grupos minoritarios a que se unan a nuestros eventos.<\/p> ",
+    "url": "https://www.meetup.com/rladies-guayaquil/events/271447005/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Baltimore: R-Ladies Baltimore -- Tidying data in R using the tidyr R package (Virtual)",
     "group": "R-Ladies Baltimore",
     "start": "2020-06-17",
@@ -589,6 +645,14 @@
     "start": "2020-06-20",
     "description": "<p>Join us online, for more Tidyverse skills!<\/p> ",
     "url": "https://www.meetup.com/rladies-tampa/events/271124446/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Canberra: Beyond Beamer: Modern and Dynamic Presentations with R Markdown",
+    "group": "R-Ladies Canberra",
+    "start": "2020-06-30",
+    "description": "<p>Emi Tanaka is an applied statistician whose primary interest is to develop impactful methods and tools that can be readily used by practitioners. Her research interests include mixed models and experimental designs, motivated primarily by the problems in bioinformatics and agricultural sciences. She recently joined as a lecturer at the Department of Econometrics and Business Statistics, Monash University. She is currently the Vice President of the Statistical Society of Australia Victoria Branch.<\/p> <p>In this presentation, Emi takes us \"Beyond Beamer: Modern and Dynamic Presentations with R Markdown\". In many fields, scientific communications and publications are unimaginable without LaTeX. LaTeX, built on the TeX typesetting program, allows writing scientific documents with a markup language for structure and styling; capabilities for mathematical typesetting; ability to add cross-references and citations (though BibTeX or otherwise); and customisation through document classes, packages and macros. A particular LaTeX document class widely used for making presentation slides is Beamer. Beamer offers much of the same features as the original LaTeX in addition to special macros handy for presentation purposes and is used often by academics presenting mathematical content. Why then would we want another tool for presentation?<\/p> <p>In this tutorial talk, Emi will talk about the capabilities and benefits of using R Markdown to make presentation slides based on the `xaringan` R-package. If you have two monitors or an extra laptop/desktop computer, then you are encouraged to try some coding yourself as you follow along with the talk.<\/p> <p>Coding requirements: you will need to be familiar with R, have R and the xaringan &amp; tidyverse R packages installed. It is preferable that you use RStudio IDE although not required.<\/p> ",
+    "url": "https://www.meetup.com/rladies-canberra/events/271304673/",
     "textColor": "#7171fb"
   },
   {
@@ -677,6 +741,14 @@
     "start": "2020-06-27",
     "description": "<p>R-Ladies Tbilisi is happy to host Hazel Kavili. Hazel Kavili will talk about AB test case study that they run in games.<br/>Hazel studied statistics, and is currently working as a data analyst at Rovio. She is responsible for finding useful insights from numbers to make their game better. Hazel started R-Ladies Istanbul in 2016 and now she is running the R-Ladies Helsinki chapter.<\/p> <p>Please register here to receive the event link: <a href=\"https://tinyurl.com/tbsreg\" class=\"linkified\">https://tinyurl.com/tbsreg<\/a><\/p> <p>ჰეიზელ კავილი გაგვაცნობს AB ტესტის სიტუაციურ ანალიზს (case study), რომელსაც თამაშებში იყენებენ.<br/>ჰეიზელმა სტატისტიკა ისწავლა და ახლა მონაცემთა ანალიტიკოსად მუშაობს Rovio-ში. მის პასუხისმგებლობაში შედის მონაცემებიდან სასარგებლო ინფორმაციის ამოღება, რათა თამაშები გააუმჯობესონ. ჰეიზელმა 2016 წელს R-ladies Istanbul დაიწყო, ახლა კი R-ladies Helsinki-ის ორგანიზატორია.<\/p> <p>შეხვედრის ლინკის მისაღებად, გთხოვთ დარეგისტრირდეთ აქ: <a href=\"https://tinyurl.com/tbsreg\" class=\"linkified\">https://tinyurl.com/tbsreg<\/a><\/p> <p>შეხვედრა 13:00 საათზე, ინგლისურ ენაზე ჩატარდა.<\/p> ",
     "url": "https://www.meetup.com/rladies-tbilisi/events/271355582/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Quito: Tómate un café con nosotras y conoce a las R-Ladies de Ecuador",
+    "group": "R-Ladies Quito",
+    "start": "2020-06-30",
+    "description": "<p>Las R-Ladies de Ecuador: Quito, Guayaquil y Galápagos, unen fuerzas durante la pandemia para organizar una serie de webinars sobre programación en R. Todo mientras disfrutamos de una tacita de nuestro café o té favorito.<\/p> <p>Empezaremos esta serie con una presentación sobre las R-Ladies en Ecuador. Compartiremos nuestras motivaciones para iniciar un capítulo de R-Ladies, así como los retos y éxitos logrados. También daremos oportunidades a los participantes de compartir sus experiencias y expectativas con R.<br/>Únete a nuestro evento, no importa tu nivel de experiencia o conocimiento con R.<\/p> <p>Incentivamos especialmente a mujeres y personas de grupos minoritarios a que se unan a nuestros eventos.<\/p> <p>No olviden su café o té y las ganas de compartir, sus dudas, expectativas y ganas de compartir con la comunidad R-Ladies.<\/p> ",
+    "url": "https://www.meetup.com/rladies-quito/events/271447096/",
     "textColor": "#7171fb"
   },
   {
@@ -798,14 +870,6 @@
     "description": "<p>Nous allons poursuivre avec le thème de la semaine dernière. Maintenant que nous avons fait connaissance avec les objets dans R, nous allons apprendre à dialoguer avec eux. C'est à travers ce dialogue, que nous les rendrons vivants et parlants. Cette semaine, nous allons apprendre le language dans lequel se pose ce dialogue. Déclarations, boucles, fonctions...voici quelques termes que nous allons rencontrer.<\/p> <p>Challenge: munissez-vous d'une tasse ou d'un verre avec une boisson originale car nous allons trinquer au moment de snapper lol. Moi j'aurai du quinquéliba. Et vous?<\/p> <p>Cheers,<br/>Fousseynou.<\/p> ",
     "url": "https://www.meetup.com/Bamako-Data-Science/events/271494161/",
     "textColor": "#7171fb"
-  },
-  {
-    "title": "LA R users group: LA R Users: June Meeting",
-    "group": "LA R users group",
-    "start": "2020-06-30",
-    "description": "<p>LA R Users Group will have our June meeting online on Zoom (<a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a>).<\/p> <p>**Talk** (60min talk, 10min Q&amp;A)<\/p> <p>Title: Three reasons to use tidymodels<br/>Abstract: Modeling and machine learning in R involve a bewildering array of heterogeneous packages, and establishing good statistical practice is challenging in any language. The [tidymodels](<a href=\"https://www.tidymodels.org/\" class=\"linkified\">https://www.tidymodels.org/<\/a>) collection of packages offers a consistent, flexible framework for your modeling and machine learning work to address these problems. In this talk, we'll focus on three specific reasons to consider using tidymodels. We will start with model characteristics themselves, move to the wise management of your data budget, and finish with feature engineering.<\/p> <p>**Speaker**: Julia Silge<br/>Julia is a data scientist and software engineer at [RStudio PBC](<a href=\"https://rstudio.com/\" class=\"linkified\">https://rstudio.com/<\/a>) where she works on open source modeling tools. She is both an international keynote speaker and a real-world practitioner focusing on data analysis and machine learning practice, and is the author of [Text Mining with R](<a href=\"https://www.tidytextmining.com/\" class=\"linkified\">https://www.tidytextmining.com/<\/a>) with her coauthor David Robinson. She loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>6:30 open zoom<br/>6:40-7:50 Presentation<br/>~8:15 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://laocr.org/\" class=\"linkified\">https://laocr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
-    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/271228242/",
-    "textColor": "blue"
   },
   {
     "title": "Orange County R Users Group (OCRUG): Book club - Session 06 - Applied Predictive Modeling",
@@ -1112,14 +1176,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Salt Lake City R Users Group: [ONLINE] Big Data in R",
-    "group": "Salt Lake City R Users Group",
-    "start": "2020-06-30",
-    "description": "<p>Our June Meetup will be a remote gathering. The Zoom link will be posted the week of the event.<\/p> <p>Big data takes many forms. Sometimes it’s large CSV files on your computer. Sometimes it’s data in an external database. Sometimes it’s data in a corporate data lake. In this talk, we will look at how to use the power of dplyr and other R packages to work with big data in various formats to arrive at meaningful insight using a familiar and consistent set of tools.<\/p> <p>James Blair is a Solutions Engineer at RStudio, where he focuses on helping RStudio commercial customers successfully manage RStudio products. He is passionate about connecting R to other toolchains through tools like ODBC and APIs. He has a background in statistics and data science and finds any excuse he can to write R code.<\/p> ",
-    "url": "https://www.meetup.com/slc-rug/events/270935803/",
-    "textColor": "blue"
-  },
-  {
     "title": "Oslo useR! Group: [Online] Item Response Theory in R – Modelling test results",
     "group": "Oslo useR! Group",
     "start": "2020-08-27",
@@ -1163,7 +1219,7 @@
     "title": "Wiesbaden R User Group: R Coffee Break - Bloomberg in R mit der Rblpapi",
     "group": "Wiesbaden R User Group",
     "start": "2020-07-01",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass in dieser R Coffee Break Fabian Echterling etwas über das Paket Rblpapi erzählt,. Das Paket ermöglicht den Bezug von Daten aus Bloomberg, einer der Datenquellen für den Finance-Bereich.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Passwort: tbd<\/p> ",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass in dieser R Coffee Break Fabian Echterling etwas über das Paket Rblpapi erzählt,. Das Paket ermöglicht den Bezug von Daten aus Bloomberg, einer der Datenquellen für den Finance-Bereich.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Passwort:[masked]<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/271604430/",
     "textColor": "blue"
   },
@@ -1223,6 +1279,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies La Paz: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies La Paz",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
+    "url": "https://www.meetup.com/rladies-la-paz/events/271627874/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Ushuaia: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
     "group": "R-Ladies Ushuaia",
     "start": "2020-07-01",
@@ -1235,6 +1299,14 @@
     "group": "R-Ladies Resistencia-Corrientes",
     "start": "2020-07-01",
     "url": "https://www.meetup.com/rladies-resistencia-corrientes/events/271608242/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Vancouver: Functions Workshop!",
+    "group": "R-Ladies Vancouver",
+    "start": "2020-07-10",
+    "description": "<p>Hello R-Ladies<\/p> <p>Are you an R beginner wanting to learn more about how to write functions? We got you covered!<\/p> <p>Yuka Takemon will be running an online workshop on how to build functions. The workshop is geared towards beginners and we will try to keep it as interactive as possible.<\/p> <p>Yuka is a PhD student in Genome sciences and technology at UBC and a certified Software Carpentry and RStudio instructor.<\/p> <p>Workshop details:<\/p> <p>Day and time: July 10th, 2020 at 6pm<\/p> <p>Webinar link: RSVP to view<\/p> <p>******<br/>About the workshop &amp; instructions:<\/p> <p>-Please expect a hands-on session in a friendly and laid-back atmosphere where we all encouraged to learn together.<br/>- All levels are welcome, but be prepared that we created this with beginners in mind. You should be familiar with R and RStudio.<br/>- Install R: <a href=\"https://mirror.its.sfu.ca/mirror/CRAN/\" class=\"linkified\">https://mirror.its.sfu.ca/mirror/CRAN/<\/a><br/>- Install RStudio (choose the Desktop version): <a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a><\/p> <p>**********************IMPORTANT************************<\/p> <p>1. Have your computer and a steady internet connection ready<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>3. Who is this allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>See you there!<\/p> <p>Raissa, Lucia, Jasmine, &amp; Lisa<\/p> ",
+    "url": "https://www.meetup.com/rladies-vancouver/events/271619508/",
     "textColor": "blue"
   },
   {
@@ -1302,14 +1374,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Grupo de Usuarios de R en Chile: Online: Reunión useRchile Junio 2020 @ZOOM",
-    "group": "Grupo de Usuarios de R en Chile",
-    "start": "2020-06-30",
-    "description": "<p>Seguimos comparitendo, aprendiendo y difundiendo el uso de R con una nueva versión de nuestro meetup useRchile!<br/>Nuevamente realizaremos este evento de manera online vía zoom.<br/>Para acceder a este meeting se entregará el password el mismo día del evento a quienes hayan confirmado asistencia a través de nuestro grupo de meetup.<\/p> <p>Para esta ocasión contaremos con los siguientes expositores:<\/p> <p>Charla 1 - \"Herramientas para visualización y análisis de series de tiempo\"<br/>Bastián Aballay: Senior Data Scientist, EY Chile.<br/>Linkedin: <a href=\"https://www.linkedin.com/in/bastianaballay/\" class=\"linkified\">https://www.linkedin.com/in/bastianaballay/<\/a><\/p> <p>Charla 2 - \"Sistemas recomendadores en R\"<br/>Elías Alegría: Data Scientist, Entel.<br/>Linkedin: <a href=\"https://www.linkedin.com/in/eliasalegria/\" class=\"linkified\">https://www.linkedin.com/in/eliasalegria/<\/a><\/p> <p>Esperamos verlos el Martes 30 de Junio a las 17:00 hrs a través de zoom!<\/p> <p>Link de descarga de la aplicación: <a href=\"https://zoom.us/\" class=\"linkified\">https://zoom.us/<\/a><br/>Session ID:[masked]<\/p> ",
-    "url": "https://www.meetup.com/useRchile/events/271525109/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Santa Rosa: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
     "group": "R-Ladies Santa Rosa",
     "start": "2020-07-01",
@@ -1339,14 +1403,6 @@
     "start": "2020-07-25",
     "description": "<p>O \"Mês do R\" é um mês cheio de programação e diversidade. Em um dos seus dias de evento, Maria Marinho abordará conteúdos sobre como inserir ideias de SQL no R. É uma ótima oportunidade pra quem quer iniciar na carreira de Data Science. Saber SQL é crucial!<\/p> <p>Participe!<br/>Link das inscrições: <a href=\"https://www.sympla.com.br/urlAlias/render?alias=mesdoR\" class=\"linkified\">https://www.sympla.com.br/urlAlias/render?alias=mesdoR<\/a><\/p> <p>Siga-nos para mais informações e ficar ligado em nossa comunidade.<\/p> <p>-Instagram: @rladiesgyn<\/p> ",
     "url": "https://www.meetup.com/rladies-goiania/events/271509284/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Bucharest: R-Ladies Bucharest Community #10",
-    "group": "R-Ladies Bucharest",
-    "start": "2020-06-30",
-    "description": "<p>Am citit la un moment dat pe unul din blogurile pe care le citesc că dacă îți dorești să ajungi data scientist, scrie un blog! ( David Robinson) Așa că am început să citesc mai multe bloguri de data scientisti și așa am descoperit blogul lui Rebecca Barter: Data meets Narrative!<\/p> <p>Acum că ajungem la a 10a întâlnire, vă încurajez să continuați călătoria cu R și să începeți să scrieți un blog cu R Blogdown! Și pentru că acest îndemn să nu rămână doar vorbe, am invitat-o pe Rebecca să vină speaker, să ne povestească și să ne inspire și pe noi în această călătorie.<\/p> <p>Rebecca este data scientist și educator de Data Science la UC Berkeley. Cercetarea ei este orientată către sănătate. A scris un pachet R superheat și este instructor certificat RStudio. Și, desigur, scrie un blog grozav despre R și Data Science:Data meets Narrative (www.rebeccabarter.com).<\/p> <p>Vă aștept marți, 30 Iunie la 7PM CET+1 pentru a descoperi mai multe despre R, Blogdown și Rebecca Barter. Înregistrarea este gratuită, dar obligatorie prin meetup.<br/>Evenimentul va fi in limba engleza, vom folosi zoom, link-ul va fi actualizat în ziua evenimentului. Evenimentul va fi înregistrat, prin urmare, prin acceptarea înregistrării la acest eveniment, sunteți de acord și cu acest aspect.<br/>---------------------------------------------------------------------------------------------<br/>One blog I read at some point was saying: If you are an aspiring data scientist, write a blog (David Robinson). Then I started to read more data scientist blogs and discovered Rebecca Barter’s blog:Data meets Narrative!<br/>Now that we are getting to our 10th meetup, I continue to encourage you to discover R and start writing a blog with R Blogdown! For this I invited Rebecca as featured speaker to share her experience and inspire us!<br/>Rebecca is a data scientist and data science educator at UC Berkeley. Her research is focused on data science in healthcare. She wrote the superheat R package and is also an official RStudio instructor. And, of course, she writes a great blog about R and Data science: Data meets Narrative.<\/p> <p>Join our meetup from 30th June, 7PM CET+1 to discover more about R, Blogdown and Rebecca Barter. Registration is free, but mandatory via meetup.<br/>We shall meet on zoom, link will be updated in the day of the event. Your participation in this event, should include your approval for participation in this event that will be recorded.<\/p> <p>---------------------------------------------------------------------------------------------<br/>CODE OF CONDUCT<br/>Te rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><br/>---------------------------------------------------------------------------------------------<br/>Acesta este locul cu entuziaști de R unde trebuie să fii!<\/p> ",
-    "url": "https://www.meetup.com/rladies-bucharest/events/271020664/",
     "textColor": "blue"
   },
   {
@@ -1486,6 +1542,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Lima: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Lima",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>***IMPORTANTE***<br/>Para participar, dale \"Asistiré\" en este evento y asegúrate de tener también instalado Zoom.<br/>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo miércoles mandaremos un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-lima/events/271629143/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Barcelona: Webinario: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
     "group": "R-Ladies Barcelona",
     "start": "2020-07-01",
@@ -1494,11 +1558,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Guayaquil: Tomáte un café con nosotras y conoce a las R-Ladies de Ecuador",
+    "title": "R-Ladies Guayaquil: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
     "group": "R-Ladies Guayaquil",
-    "start": "2020-06-30",
-    "description": "<p>Las R-Ladies de Ecuador: Quito, Guayaquil y Galápagos, unen fuerzas durante la pandemia para organizar una serie de webinars sobre programación en R. Todo mientras disfrutamos de una tacita de nuestro café o té favorito.<br/>Empezaremos esta serie con una presentación sobre las R-Ladies en Ecuador. Compartiremos nuestras motivaciones para iniciar un capítulo de R-Ladies, así como los retos y éxitos logrados. También daremos oportunidades a los participantes de compartir sus experiencias y expectativas con R.<br/>Únete a nuestro evento, no importa tu nivel de experiencia o conocimiento con R.<br/>Incentivamos especialmente a mujeres y personas de grupos minoritarios a que se unan a nuestros eventos.<\/p> ",
-    "url": "https://www.meetup.com/rladies-guayaquil/events/271447005/",
+    "start": "2020-07-01",
+    "description": "<p>Evento de R-Ladies Global<\/p> <p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.<\/p> <p>El evento será el 1 de julio a las 12:00 hora Ecuador Continental. Si te encuentras en otra ciudad, igualmente te invitamos a unirte a este evento y puedes revisar la hora local en la que ocurrirá aquí: <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20200612T160000&amp;p1=3917\" class=\"linkified\">https://www.timeanddate.com/worldclock/converter.html?iso=20200612T160000&amp;p1=3917<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-guayaquil/events/271629475/",
     "textColor": "blue"
   },
   {
@@ -1558,6 +1622,78 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode I – The Phantom Menace",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-01",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their old glory.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=bD7bpG-zDJQ\" class=\"embedded\">https://www.youtube.com/watch?v=bD7bpG-zDJQ<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556021/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode II – Attack of the Clones",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-07",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=gYbW1F_c9eM\" class=\"embedded\">https://www.youtube.com/watch?v=gYbW1F_c9eM<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556049/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode III – Revenge of the Sith",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-08",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=5UnjrG_N8hU\" class=\"embedded\">https://www.youtube.com/watch?v=5UnjrG_N8hU<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556069/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode IV – A New Hope",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-14",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=vZ734NWnAHA\" class=\"embedded\">https://www.youtube.com/watch?v=vZ734NWnAHA<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556311/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode V – The Empire Strikes Back",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-15",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=JNwNXF9Y6kY\" class=\"embedded\">https://www.youtube.com/watch?v=JNwNXF9Y6kY<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556606/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode VI – Return of the Jedi",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-21",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=16YLjTkK5jE&amp;list=PL-dmOrS4Bf2Qy2rnCuxSziHsB8svNkIiL\" class=\"embedded\">https://www.youtube.com/watch?v=16YLjTkK5jE&amp;list=PL-dmOrS4Bf2Qy2rnCuxSziHsB8svNkIiL<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556820/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode VII – The Force Awakens",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-22",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=sGbxmsDFVnE\" class=\"embedded\">https://www.youtube.com/watch?v=sGbxmsDFVnE<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556839/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode VIII – The Last Jedi",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-28",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=Q0CbN8sfihY\" class=\"embedded\">https://www.youtube.com/watch?v=Q0CbN8sfihY<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556857/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: Star Wars Episode IX – The Rise of Skywalker",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-08-29",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> <p>The surviving members of the resistance face the First Order once again, and the legendary conflict between the Jedi and the Sith reaches its peak bringing the Skywalker saga to its end.<\/p> <p>The trailer is here: <a href=\"https://www.youtube.com/watch?v=adzYW5DZoWs\" class=\"embedded\">https://www.youtube.com/watch?v=adzYW5DZoWs<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/271556869/",
+    "textColor": "blue"
+  },
+  {
     "title": "Dublin R: Why R? Dublin - Call for Participation & Expressions of Interest",
     "group": "Dublin R",
     "start": "2020-08-29",
@@ -1598,18 +1734,26 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Quito: Tómate un café con nosotras y conoce a las R-Ladies de Ecuador",
-    "group": "R-Ladies Quito",
-    "start": "2020-06-30",
-    "description": "<p>Las R-Ladies de Ecuador: Quito, Guayaquil y Galápagos, unen fuerzas durante la pandemia para organizar una serie de webinars sobre programación en R. Todo mientras disfrutamos de una tacita de nuestro café o té favorito.<\/p> <p>Empezaremos esta serie con una presentación sobre las R-Ladies en Ecuador. Compartiremos nuestras motivaciones para iniciar un capítulo de R-Ladies, así como los retos y éxitos logrados. También daremos oportunidades a los participantes de compartir sus experiencias y expectativas con R.<br/>Únete a nuestro evento, no importa tu nivel de experiencia o conocimiento con R.<\/p> <p>Incentivamos especialmente a mujeres y personas de grupos minoritarios a que se unan a nuestros eventos.<\/p> <p>No olviden su café o té y las ganas de compartir, sus dudas, expectativas y ganas de compartir con la comunidad R-Ladies.<\/p> ",
-    "url": "https://www.meetup.com/rladies-quito/events/271447096/",
+    "title": "R-Ladies Dallas: Data Analysis with R - Class Project Selection",
+    "group": "R-Ladies Dallas",
+    "start": "2020-07-07",
+    "description": "<p>I'm excited about our plan to enhance our programming skills through an online learning experience. As a group, we decided that we will focus on the \"Data Analysis with R\" course taught by Facebook instructors on the Udacity learning platform. This will ensure that we are all on the same page when we're ready to kick off our R-Ladies Dallas group project. The course is available for free at the following link: <a href=\"https://www.udacity.com/course/data-analysis-with-r--ud651\" class=\"linkified\">https://www.udacity.com/course/data-analysis-with-r--ud651<\/a><\/p> <p>In this meetup, we will discuss any remaining questions that you may have about the course material. We will discuss options for our the class project.<\/p> <p>*** CLASS PROJECT ***<\/p> <p>To help us all get a firmer understanding of the concepts learned in the course, we have decided to work on a class project. Members have already started to post suggestions in the Slack channel.<\/p> <p>To prepare for the event, please come with suggestions as to a specific dataset and use case that you think would be a good fit for our meetup project. An ideal project would allow us to grow our skills in most of these areas.<\/p> <p>* Data loading<br/>* Data manipulation<br/>* Data visualization<br/>* Single variable analysis<br/>* Bivariate analysis<\/p> <p>*************************<\/p> <p>Please join the #learning channel in our R-Ladies Dallas Slack community so that we can discuss the course and ask/answer questions you may have about the material. Slack sign-up info provided below.<\/p> <p>Agenda<br/>------------------------------<br/>Part 1: Lessons 1 - 4<br/>Part 2: Lessons 5 - 8<br/>Part 3: Lessons 9 - 10<br/>Class Project &lt; -------- this meetup event<\/p> <p>Also, please take time to watch the videos and work through the exercises.<\/p> <p>You are encouraged to click the link below to keep up with the webinar series and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Webinar + Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>About R-Ladies Dallas<\/p> <p>R-Ladies Dallas welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp; expert upskilling. Our non-profit, civil society community is designed to develop our members' R skills &amp; knowledge through social, collaborative learning &amp; sharing. Supporting minority identity access to STEM skills &amp; careers, the Free Software Movement, and contributing to the global R community!<\/p> <p>A local chapter of R-Ladies Global, R-Ladies Dallas exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.<\/p> <p>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dallas/events/271634230/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Concepción: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Concepción",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup, realizado a las 13:00 hrs Chile, te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.<\/p> ",
+    "url": "https://www.meetup.com/rladies-concepcion/events/271633875/",
     "textColor": "blue"
   },
   {
     "title": "R-Ladies Concepción: Sesión 4 - Club de lectura - Happy Git with R, de Jenny Bryan",
     "group": "R-Ladies Concepción",
     "start": "2020-07-04",
-    "description": "<p>Este sábado nos reuniremos para la cuarta sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: <a href=\"https://happygitwithr.com/\" class=\"linkified\">https://happygitwithr.com/<\/a><br/>- ¿Cómo funciona el club de lectura?<br/>Divideremos la lectura del libro en seis sesiones. Cada sesión la liderará una relatora de nuestra comunidad.<br/>Esta cuarta sesión estará a cargo de Riva Quiroga (<a href=\"https://twitter.com/rivaquiroga\" class=\"linkified\">https://twitter.com/rivaquiroga<\/a>). Abordaremos las secciones IV y V del libro (\"Git Fundamentals\" y \"Remote setups\"). En ellas se abordan algunos conceptos clave (como qué es un commit, una rama y un repositorio remoto) y se explica cómo configurar todo para poder colaborar en repositorios de otras personas sin problemas.<br/>- ¿Qué necesito para participar?<br/>Lo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es haber instalado ya Git en tu computador (<a href=\"https://git-scm.com/\" class=\"linkified\">https://git-scm.com/<\/a>) y tener una cuenta en GitHub (<a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a>). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)<br/>Lo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.<br/>- ¿Qué pasa si no leo en inglés?<br/>¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)<br/>- Estoy recién aprendiendo sobre R, ¿puedo participar?<br/>Sí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a>.<br/>¡Te esperamos!<\/p> ",
+    "description": "<p>Este sábado nos reuniremos para la cuarta sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: <a href=\"https://happygitwithr.com/\" class=\"linkified\">https://happygitwithr.com/<\/a><br/>- ¿Cómo funciona el club de lectura?<br/>Divideremos la lectura del libro en seis sesiones. Cada sesión la liderará una relatora de nuestra comunidad.<br/>Esta cuarta sesión estará a cargo de Riva Quiroga (<a href=\"https://twitter.com/rivaquiroga\" class=\"linkified\">https://twitter.com/rivaquiroga<\/a>). Abordaremos las secciones IV y V del libro (\"Git Fundamentals\" y \"Remote setups\"). En ellas se abordan algunos conceptos clave (como qué es un commit, una rama y un repositorio remoto) y se explica cómo configurar todo para poder colaborar en repositorios de otras personas sin problemas.<br/>- ¿Qué necesito para participar?<br/>Lo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Lo segundo, es haber instalado ya Git en tu computador (<a href=\"https://git-scm.com/\" class=\"linkified\">https://git-scm.com/<\/a>) y tener una cuenta en GitHub (<a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a>). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)<br/>Lo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.<br/>- ¿Qué pasa si no leo en inglés?<br/>¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)<br/>- Estoy recién aprendiendo sobre R, ¿puedo participar?<br/>Sí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a><br/>¡Te esperamos!<\/p> ",
     "url": "https://www.meetup.com/rladies-concepcion/events/271616675/",
     "textColor": "blue"
   },
