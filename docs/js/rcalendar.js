@@ -26,7 +26,7 @@ $(document).ready(function() {
       textColor:'blue'
     },
 				{
-					url:'https://raw.githubusercontent.com/benubah/rcentral/master/data/events.json',
+					url:'https://raw.githubusercontent.com/benubah/rcentral/master/useR/events.json',
 					color:'blue',
 					textColor:'white'
 				}
