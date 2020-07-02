@@ -40,6 +40,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Orange County R Users Group (OCRUG): Book club - Session 06 - Applied Predictive Modeling",
+    "group": "Orange County R Users Group (OCRUG)",
+    "start": "2020-07-01",
+    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 to 8:00 PM. The location is Zoom if we cannot meet in person. If we can meet, it will be at Panara Bread (see below)<\/p> <p>Book: Applied Predictive Modeling<br/><a href=\"http://appliedpredictivemodeling.com/\" class=\"linkified\">http://appliedpredictivemodeling.com/<\/a><br/><a href=\"https://www.amazon.com/dp/B00K15TZU0/\" class=\"linkified\">https://www.amazon.com/dp/B00K15TZU0/<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
+    "url": "https://www.meetup.com/OC-RUG/events/270076610/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Central Iowa R User Group: R and Python study group",
     "group": "Central Iowa R User Group",
     "start": "2020-06-06",
@@ -101,6 +109,14 @@
     "start": "2020-06-25",
     "description": "<p>Financed by the 'Perfect Science' program of the Polish Minister of Science and Higher Education<\/p> <p>- stream: <a href=\"https://youtu.be/ApGL2gBPHY4\" class=\"embedded\">https://youtu.be/ApGL2gBPHY4<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join YouTube <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<\/p> <p>- speaker: Leon Eyrich Jessen<br/>- title: In Silico Immunology: Neural Networks for Modelling Molecular Interactions using Tensorflow via Keras in R<\/p> <p>Biogram<\/p> <p>Leon Eyrich Jessen is an assistant professor of bioinformatics at department of Health Technology at Technical University of Denmark (DTU). He obtained his PhD in bioinformatics from the Center for Biological Sequences Analysis at DTU in 2014 after which he held two postdoctoral positions in clinical genetics. Hereafter, he returned to the newly formed Department of Health Technology to continue his research in the Immunoinformatics and Machine Learning Group at section for bioinformatics. Throughout his career, his research focus has been on connecting genotype to phenotype in an immunological context.<\/p> <p>Abstract:<\/p> <p>Understanding what constitutes an immune target is pivotal in vaccinology. With the advent of COVID-19 this has only become more evident. While computer-based predictions cannot replace traditional experimental validation in the laboratory, it can serve as an important tool to drastically reduce the target search space and increase understanding. In this webinar, I will demonstrate how we can model immune targets using artificial neural networks (ANNs) in R. ANNs constitute the basic building block of Deep Learning. Moreover, I will use the binding of peptides to the Major Histocompatibility Complex class I (MHCI) as a study case. pMHC formation is a precursor for activation of cytotoxic T-lymphocytes, which in turn is the primary system for ridding the body of viral infections. The webinar assumes no prior knowledge and will be followed by a Q&amp;A.<\/p> ",
     "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271185501/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: X-Europe Webinar #5 Multi-State Churn Analysis",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-07-01",
+    "description": "<p>X-EUROPE WEBINARS<br/><a href=\"https://xeurope.carrd.co/\" class=\"linkified\">https://xeurope.carrd.co/<\/a><\/p> <p>X-EUROPE YOUTUBE<br/><a href=\"https://www.youtube.com/channel/UCjA4mkiGSUvS2JQ7TzT0gew\" class=\"embedded\">https://www.youtube.com/channel/UCjA4mkiGSUvS2JQ7TzT0gew<\/a><\/p> <p>REGISTER<br/><a href=\"https://multi-state-churn.carrd.co/\" class=\"linkified\">https://multi-state-churn.carrd.co/<\/a><\/p> <p>DETAILS<br/>This is a joint online event of Vienna Data Science Group, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar and Warsaw R Users Group.<\/p> <p>SPEAKER<br/>Marcin Kosiński has a master degree in Mathematical Statistics and Data Analysis specialty. Challenges seeker and devoted R language enthusiast. In the past, keen on the field of large-scale online learning and various approaches to personalized news article recommendation.<br/>Community events host: organizer of Why R? conferences whyr.pl. Interested in R packages development and survival analysis models. Currently explores and improves methods for quantitative marketing analyses and global surveys at Gradient Metrics.<\/p> <p>TOPIC<br/>Subscriptions are no longer just for newspapers. The consumer product landscape, particularly among e-commerce firms, includes a bevy of subscription-based business models. Internet and mobile phone subscriptions are now commonplace and joining the ranks are dietary supplements, meals, clothing, cosmetics and personal grooming products.<\/p> <p>Standard metrics to diagnose a healthy consumer-brand relationship typically include customer purchase frequency and ultimately, retention of the customer demonstrated by regular purchases. If a brand notices that a customer isn’t purchasing, it may consider targeting the customer with discount offers or deploying a tailored messaging campaign in the hope that the customer will return and not “churn”.<\/p> <p>The churn diagnosis, however, becomes more complicated for subscription-based products, many of which offer multiple delivery frequencies and the ability to pause a subscription. Brands with subscription-based products need to have some reliable measure of churn propensity so they can further isolate the factors that lead to churn and preemptively identify at-risk customers.<\/p> <p>During the presentation I’ll show how to analyze churn propensity for products with multiple states, such as different subscription cadences or a paused subscription. If the time allows I’ll also present useful plots that provide deep insights during such modeling, that we have developed at Gradient Metrics - a quantitative marketing agency<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271514056/",
     "textColor": "#7171fb"
   },
   {
@@ -272,6 +288,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Wiesbaden R User Group: R Coffee Break - Bloomberg in R mit der Rblpapi",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-07-01",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass in dieser R Coffee Break Fabian Echterling etwas über das Paket Rblpapi erzählt,. Das Paket ermöglicht den Bezug von Daten aus Bloomberg, einer der Datenquellen für den Finance-Bereich.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Treten Sie Ihrem Webex-Meeting zum gegebenen Zeitpunkt hier bei.<\/p> <p>Meeting-Kennnummer (Zugriffscode):[masked]<br/>Meeting-Passwort: naDYyJv87F4<\/p> <p>Hier tippen, um mit Mobilgerät beizutreten (nur für Teilnehmer)<br/>[masked],,[masked]## Germany Frankfurt Toll<br/>[masked],,[masked]## Luxembourg Toll<\/p> <p>Über Telefon beitreten<br/>[masked] Germany Frankfurt Toll<br/>[masked] Luxembourg Toll<br/>Globale Einwahlnummern<\/p> <p>Über Videogerät oder -anwendung beitreten<br/>Wählen Sie[masked]@deka.webex.com<br/>Sie können auch[masked] wählen und Ihre Meeting-Nummer eingeben.<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/271604430/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Melbourne Users of R Network (MelbURN): A cookbook for web based data visualisations with R + Highcharter",
     "group": "Melbourne Users of R Network (MelbURN)",
     "start": "2020-06-30",
@@ -304,6 +328,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Cordoba: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Cordoba",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
+    "url": "https://www.meetup.com/rladies-cordoba/events/271568343/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "New York Open Statistical Programming Meetup: Learning When, Where, and by How Much, Things Change",
     "group": "New York Open Statistical Programming Meetup",
     "start": "2020-06-22",
@@ -328,11 +360,27 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Buenos Aires: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Buenos Aires",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>***IMPORTANTE***<br/>Para participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (<a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a>).<\/p> <p>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo miércoles a las 13:30 hs. mandaremos un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-buenos-aires/events/271571920/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Santa Fe: Gráficos on demand con ggplot2.",
     "group": "R-Ladies Santa Fe",
     "start": "2020-06-29",
     "description": "<p>¡Nueva reunión de R-Ladies Santa Fe! Esta vez la reunión será virtual por plataforma www.meet.jit.si.<br/>Esta plataforma no requiere instalación. Una vez que te anotes, guardamos tu e mail y te enviaremos el room con la contraseña para entrar el día de la reunión.<\/p> <p>:: INVITADA ::<br/>&gt; Mariel Lovatto. Actualmente cursa el doctorado en estadística en UNR y trabaja como ayudante de cátedra en Probabilidad y Estadística en Facultad de Ingeniería Química.<\/p> <p>:: CHARLA::<br/>Vamos a analizar cómo se realizan gráficos con el paquete de R ggplot2. Podés enviarnos tus dudas por mail o a nuestras redes sociales y las tratamos el día del evento!!!<\/p> <p>:: PÚBLICO ::<br/>En este evento, se priorizará la inscripción de mujeres y minorías.<\/p> <p>:: SEDE ::<br/>meet.jit.si<br/>Una vez que te inscribas al evento podrás ver el enlace.<br/>La contraseña para ingresar será: RLadies062020<\/p> ",
     "url": "https://www.meetup.com/rladies-santa-fe/events/271366858/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Santa Fe: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Santa Fe",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
+    "url": "https://www.meetup.com/rladies-santa-fe/events/271614564/",
     "textColor": "#7171fb"
   },
   {
@@ -384,6 +432,29 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies La Paz: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies La Paz",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
+    "url": "https://www.meetup.com/rladies-la-paz/events/271627874/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Ushuaia: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Ushuaia",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
+    "url": "https://www.meetup.com/rladies-ushuaia/events/271587310/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Resistencia-Corrientes: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Resistencia-Corrientes",
+    "start": "2020-07-01",
+    "url": "https://www.meetup.com/rladies-resistencia-corrientes/events/271608242/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Natal: Introdução ao R: passo a passo para iniciantes.",
     "group": "R-Ladies Natal",
     "start": "2020-06-17",
@@ -432,6 +503,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Santiago: Charla desde RLadies Global: Cómo hacer una reunión virtual inolvidable",
+    "group": "R-Ladies Santiago",
+    "start": "2020-07-01",
+    "description": "<p>Este miércoles a las 13:00 nos sumamos a la transmisión de la charla \"Cómo hacer una reunión virtual inolvidable (sin morir en el intento)\" que organiza RLadies Global.<\/p> <p>Resumen:<br/>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<br/>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>[NOTA: este no es un meetup sobre R, sino sobre cómo organizar eventos en línea]<\/p> ",
+    "url": "https://www.meetup.com/rladies-scl/events/271573073/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Philly: June Virtual Event - Intro to R & Data Science Lighting talk",
     "group": "R-Ladies Philly",
     "start": "2020-06-09",
@@ -464,6 +543,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Brisbane: Virtual presentations - Spatial data analysis with R",
+    "group": "R-Ladies Brisbane",
+    "start": "2020-07-01",
+    "description": "<p>* What are we going to learn?<br/>In this session I will talk about how I use R as a GIS for spatial data analysis. Reka will focus on data about crime, policing, and people's perceptions of place, her main areas of research. She will cover descriptive analysis, making thematic and point maps, and some spatial statistics. I'll be making use of packages such as sf, tmap, leaflet, spatstat and probably some more...!<\/p> <p>* Who is going to present?<br/>We have a special international guest!<br/>Dr Reka Solymosi who is a Lecturer in Quantitative Methods at the University of Manchester at the Department of Criminology.<br/>She is a member of the Software Sustainability Institute and an Honorary Lecturer at University College London. Her research focuses on making use of new forms of data to gain insight into people's behaviour and subjective experiences, particularly focusing on crime, victimisation, transport, and spatial research. She is also dedicated to promoting data literacy in social science study and practice.<br/>For more info look at her beautiful R website <a href=\"https://rekadata.net/\" class=\"linkified\">https://rekadata.net/<\/a><\/p> <p>* When are we meeting?<br/>We would like to invite everyone to meet at 5:30 pm for a little virtual chat. An opportunity to say hi before starting the presentation at 6:00 pm.<\/p> <p>************The presentation will start at 6:00 pm.************<br/>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This is a short presentation, so get your questions ready! we will aim to get those answered during the session.<br/>If you want to install the packages from this presentation you can install them on the R console:<\/p> <p># Copy this code<br/>install.packages('sf','tmap','leaflet','spatstat')<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
+    "url": "https://www.meetup.com/rladies-brisbane/events/271201146/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Auckland: Presenting like a Kunoichi with Xaringan",
     "group": "R-Ladies Auckland",
     "start": "2020-06-16",
@@ -485,6 +572,14 @@
     "start": "2020-06-16",
     "description": "<p>Dashboards are a great, user-friendly way for communicating insights and sharing results. They offer more flexibility than standard reports, and with R and Shiny they can be interactive and deliver complex results.<\/p> <p>But where do you start? For many, grokking a Shiny app is no easy feat. This is where flexdashboard is incredibly valuable - all it needs is a little R code, mixed with some R Markdown, and voila! Flexdashboard also integrates with Shiny, so it's a great on ramp to learning more about reactivity.<\/p> <p>This hands-on virtual workshop will give an overview of building dashboards, starting with RMarkdown and flexdashboard, and will end with some more advanced topics such as Shiny and HTML widgets.<\/p> <p>All are welcome, and no Shiny experience is needed.<\/p> <p>Dashboard: <a href=\"https://connect.rstudioservices.com/penguins/\" class=\"linkified\">https://connect.rstudioservices.com/penguins/<\/a><\/p> <p>Slides: <a href=\"https://docs.google.com/presentation/d/16JtzkVJc2iLoFB_RmtgPhfJwpP0jh0iPOj9Ch4f48vE/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/presentation/d/16JtzkVJc2iLoFB_RmtgPhfJwpP0jh0iPOj9Ch4f48vE/edit?usp=sharing<\/a><\/p> <p>RStudio Cloud Project: <a href=\"https://rstudio.cloud/project/1389836\" class=\"linkified\">https://rstudio.cloud/project/1389836<\/a><\/p> <p>Github repo: <a href=\"https://github.com/SamanthaToet/intro-to-flexdashboard\" class=\"linkified\">https://github.com/SamanthaToet/intro-to-flexdashboard<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-charlottesville/events/270748602/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Santa Rosa: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Santa Rosa",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
+    "url": "https://www.meetup.com/rladies-santa-rosa/events/271529806/",
     "textColor": "#7171fb"
   },
   {
@@ -584,6 +679,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Freiburg: Text Analysis with R",
+    "group": "R-Ladies Freiburg",
+    "start": "2020-07-01",
+    "description": "<p>In this meetup, you will learn all the fundamental steps of preparing and working with text data, such as full copies of famous literary works, song lyrics, or written/transcribed language. Using the examples of fairy tales, like the Grimm brothers collection and Alice in Wonderland, we will prepare and tokenize text data, extract the most frequent words, and display these results graphically. Then, we will explore methods for comparing more than one text source, finding words that are especially characteristic of a particular author/speaker/genre/chapter and comparing these to similar texts. After this meetup, you'll know how to compute word frequencies, identify unique word choices, calculate text-level measures such as lexical density, and create exciting visualizations of text statistics in R.<\/p> <p>R-users of all levels can get something out of this Meetup, as we will walk you through every step from reading in data to tuning the graphical parameters. The only requirement is to have R and R Studio up and running on your computer. Main packages include: tidyverse, tidytext, gutenbergr, scales. Primary source: Text Mining with R by Julia Silge.<\/p> <p>The meetup will be hosted online via Zoom -- the link will be sent out via Meetup shortly before the start time.<\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/271449817/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Valparaíso: Sesión 1 - Club de lectura - Happy Git with R, de Jenny Bryan",
     "group": "R-Ladies Valparaíso",
     "start": "2020-06-10",
@@ -608,11 +711,43 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Valparaíso: Charla desde RLadies Global: Cómo hacer una reunión virtual inolvidable",
+    "group": "R-Ladies Valparaíso",
+    "start": "2020-07-01",
+    "description": "<p>Este miércoles a las 13:00 nos sumamos a la transmisión de la charla \"Cómo hacer una reunión virtual inolvidable (sin morir en el intento)\" que organiza RLadies Global.<\/p> <p>Resumen:<br/>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<br/>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>[NOTA: este no es un meetup sobre R, sino sobre cómo organizar eventos en línea]<\/p> ",
+    "url": "https://www.meetup.com/rladies-valparaiso/events/271573055/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Lima: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Lima",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>***IMPORTANTE***<br/>Para participar, dale \"Asistiré\" en este evento y asegúrate de tener también instalado Zoom.<br/>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo miércoles mandaremos un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-lima/events/271629143/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Barcelona: Webinario: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Barcelona",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>&gt; ORADORA: Yanina Bellini Saibene y Paola Corrales.<br/>&gt; ORGANIZAN: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas.<br/>&gt; DÓNDE: Evento vía Zoom. Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.<br/>&gt; IDIOMA: El webinario será impartido en español.<\/p> ",
+    "url": "https://www.meetup.com/rladies-barcelona/events/271515495/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Guayaquil: Tomáte un café con nosotras y conoce a las R-Ladies de Ecuador",
     "group": "R-Ladies Guayaquil",
     "start": "2020-06-30",
     "description": "<p>Las R-Ladies de Ecuador: Quito, Guayaquil y Galápagos, unen fuerzas durante la pandemia para organizar una serie de webinars sobre programación en R. Todo mientras disfrutamos de una tacita de nuestro café o té favorito.<br/>Empezaremos esta serie con una presentación sobre las R-Ladies en Ecuador. Compartiremos nuestras motivaciones para iniciar un capítulo de R-Ladies, así como los retos y éxitos logrados. También daremos oportunidades a los participantes de compartir sus experiencias y expectativas con R.<br/>Únete a nuestro evento, no importa tu nivel de experiencia o conocimiento con R.<br/>Incentivamos especialmente a mujeres y personas de grupos minoritarios a que se unan a nuestros eventos.<\/p> ",
     "url": "https://www.meetup.com/rladies-guayaquil/events/271447005/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Guayaquil: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Guayaquil",
+    "start": "2020-07-01",
+    "description": "<p>Evento de R-Ladies Global<\/p> <p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.<\/p> <p>El evento será el 1 de julio a las 12:00 hora Ecuador Continental. Si te encuentras en otra ciudad, igualmente te invitamos a unirte a este evento y puedes revisar la hora local en la que ocurrirá aquí: <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20200612T160000&amp;p1=3917\" class=\"linkified\">https://www.timeanddate.com/worldclock/converter.html?iso=20200612T160000&amp;p1=3917<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-guayaquil/events/271629475/",
     "textColor": "#7171fb"
   },
   {
@@ -653,6 +788,14 @@
     "start": "2020-06-30",
     "description": "<p>Emi Tanaka is an applied statistician whose primary interest is to develop impactful methods and tools that can be readily used by practitioners. Her research interests include mixed models and experimental designs, motivated primarily by the problems in bioinformatics and agricultural sciences. She recently joined as a lecturer at the Department of Econometrics and Business Statistics, Monash University. She is currently the Vice President of the Statistical Society of Australia Victoria Branch.<\/p> <p>In this presentation, Emi takes us \"Beyond Beamer: Modern and Dynamic Presentations with R Markdown\". In many fields, scientific communications and publications are unimaginable without LaTeX. LaTeX, built on the TeX typesetting program, allows writing scientific documents with a markup language for structure and styling; capabilities for mathematical typesetting; ability to add cross-references and citations (though BibTeX or otherwise); and customisation through document classes, packages and macros. A particular LaTeX document class widely used for making presentation slides is Beamer. Beamer offers much of the same features as the original LaTeX in addition to special macros handy for presentation purposes and is used often by academics presenting mathematical content. Why then would we want another tool for presentation?<\/p> <p>In this tutorial talk, Emi will talk about the capabilities and benefits of using R Markdown to make presentation slides based on the `xaringan` R-package. If you have two monitors or an extra laptop/desktop computer, then you are encouraged to try some coding yourself as you follow along with the talk.<\/p> <p>Coding requirements: you will need to be familiar with R, have R and the xaringan &amp; tidyverse R packages installed. It is preferable that you use RStudio IDE although not required.<\/p> ",
     "url": "https://www.meetup.com/rladies-canberra/events/271304673/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Mendoza: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Mendoza",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
+    "url": "https://www.meetup.com/rladies-mendoza/events/271611673/",
     "textColor": "#7171fb"
   },
   {
@@ -848,6 +991,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Concepción: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "group": "R-Ladies Concepción",
+    "start": "2020-07-01",
+    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup, realizado a las 13:00 hrs Chile, te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.<\/p> ",
+    "url": "https://www.meetup.com/rladies-concepcion/events/271633875/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Bamako Data Science: Data Science avec R: introduction",
     "group": "Bamako Data Science",
     "start": "2020-06-12",
@@ -872,11 +1023,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Orange County R Users Group (OCRUG): Book club - Session 06 - Applied Predictive Modeling",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2020-07-01",
-    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 to 8:00 PM. The location is Zoom if we cannot meet in person. If we can meet, it will be at Panara Bread (see below)<\/p> <p>Book: Applied Predictive Modeling<br/><a href=\"http://appliedpredictivemodeling.com/\" class=\"linkified\">http://appliedpredictivemodeling.com/<\/a><br/><a href=\"https://www.amazon.com/dp/B00K15TZU0/\" class=\"linkified\">https://www.amazon.com/dp/B00K15TZU0/<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/270076610/",
+    "title": "Colchester R Meetup: Bring your notebook R workshop!",
+    "group": "Colchester R Meetup",
+    "start": "2020-07-23",
+    "description": "<p>Our July Meetup will feature our very popular workshop format where we get together discuss the newest features of R and solve problems together.<\/p> <p>We will start with a walk though the newest release of dplyr now that it has achieved 1.0.0 release status to start out and then try to answer your questions so bring them!<\/p> <p>Please RSVP and a link will be posted and emailed out the day of the talk.<\/p> ",
+    "url": "https://www.meetup.com/Colchester-R-Meetup/events/271656620/",
     "textColor": "blue"
   },
   {
@@ -1013,14 +1164,6 @@
     "start": "2020-09-26",
     "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
     "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcmbjc/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: X-Europe Webinar #5 Multi-State Churn Analysis",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-07-01",
-    "description": "<p>X-EUROPE WEBINARS<br/><a href=\"https://xeurope.carrd.co/\" class=\"linkified\">https://xeurope.carrd.co/<\/a><\/p> <p>X-EUROPE YOUTUBE<br/><a href=\"https://www.youtube.com/channel/UCjA4mkiGSUvS2JQ7TzT0gew\" class=\"embedded\">https://www.youtube.com/channel/UCjA4mkiGSUvS2JQ7TzT0gew<\/a><\/p> <p>REGISTER<br/><a href=\"https://multi-state-churn.carrd.co/\" class=\"linkified\">https://multi-state-churn.carrd.co/<\/a><\/p> <p>DETAILS<br/>This is a joint online event of Vienna Data Science Group, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar and Warsaw R Users Group.<\/p> <p>SPEAKER<br/>Marcin Kosiński has a master degree in Mathematical Statistics and Data Analysis specialty. Challenges seeker and devoted R language enthusiast. In the past, keen on the field of large-scale online learning and various approaches to personalized news article recommendation.<br/>Community events host: organizer of Why R? conferences whyr.pl. Interested in R packages development and survival analysis models. Currently explores and improves methods for quantitative marketing analyses and global surveys at Gradient Metrics.<\/p> <p>TOPIC<br/>Subscriptions are no longer just for newspapers. The consumer product landscape, particularly among e-commerce firms, includes a bevy of subscription-based business models. Internet and mobile phone subscriptions are now commonplace and joining the ranks are dietary supplements, meals, clothing, cosmetics and personal grooming products.<\/p> <p>Standard metrics to diagnose a healthy consumer-brand relationship typically include customer purchase frequency and ultimately, retention of the customer demonstrated by regular purchases. If a brand notices that a customer isn’t purchasing, it may consider targeting the customer with discount offers or deploying a tailored messaging campaign in the hope that the customer will return and not “churn”.<\/p> <p>The churn diagnosis, however, becomes more complicated for subscription-based products, many of which offer multiple delivery frequencies and the ability to pause a subscription. Brands with subscription-based products need to have some reliable measure of churn propensity so they can further isolate the factors that lead to churn and preemptively identify at-risk customers.<\/p> <p>During the presentation I’ll show how to analyze churn propensity for products with multiple states, such as different subscription cadences or a paused subscription. If the time allows I’ll also present useful plots that provide deep insights during such modeling, that we have developed at Gradient Metrics - a quantitative marketing agency<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271514056/",
     "textColor": "blue"
   },
   {
@@ -1216,6 +1359,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Portland R User Group: aggregate: meet, greet, learn, collaborate",
+    "group": "Portland R User Group",
+    "start": "2020-07-15",
+    "description": "<p>Please join us for the 32nd R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>Details:<\/p> <p>When: Wednesday July 15 6:30 pm - 8:00 pm<\/p> <p>Where: The meeting will take place on Zoom. Zoom link is provided when you RSVP.<\/p> <p>Agenda:<\/p> <p>• Working with census data and using the tidycensus package, prresented by Marley Buchman. Please register for an API key from <a href=\"https://api.census.gov/data/key_signup.html\" class=\"linkified\">https://api.census.gov/data/key_signup.html<\/a> if you want to follow along.<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct/\" class=\"linkified\">https://pdxrlang.com/code_of_conduct/<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message me (Marley) in the meetup app, or on Twitter at @pdxrlang<\/p> ",
+    "url": "https://www.meetup.com/portland-r-user-group/events/271649940/",
+    "textColor": "blue"
+  },
+  {
     "title": "Wiesbaden R User Group: R Coffee Break XL - Das mlr3-Paket",
     "group": "Wiesbaden R User Group",
     "start": "2020-07-29",
@@ -1247,57 +1398,18 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Cordoba: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Cordoba",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
-    "url": "https://www.meetup.com/rladies-cordoba/events/271568343/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Buenos Aires: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Buenos Aires",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>***IMPORTANTE***<br/>Para participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (<a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a>).<\/p> <p>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo miércoles a las 13:30 hs. mandaremos un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-buenos-aires/events/271571920/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Santa Fe: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Santa Fe",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
-    "url": "https://www.meetup.com/rladies-santa-fe/events/271614564/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies La Paz: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies La Paz",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
-    "url": "https://www.meetup.com/rladies-la-paz/events/271627874/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Ushuaia: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Ushuaia",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
-    "url": "https://www.meetup.com/rladies-ushuaia/events/271587310/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Resistencia-Corrientes: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Resistencia-Corrientes",
-    "start": "2020-07-01",
-    "url": "https://www.meetup.com/rladies-resistencia-corrientes/events/271608242/",
+    "title": "R-Ladies Natal: Mulheres que inspiram: o uso do R na ciência",
+    "group": "R-Ladies Natal",
+    "start": "2020-07-20",
+    "description": "<p>Olá Ladies do R!<\/p> <p>Nesta primeira palestra de R-Ladies Natal, teremos como ministradora e palestrante à doutora Maria Pennino.<\/p> <p>Esperamos vocês!<\/p> ",
+    "url": "https://www.meetup.com/rladies-natal/events/271651731/",
     "textColor": "blue"
   },
   {
     "title": "R-Ladies Natal: Traduzindo nossos dados através da visualização gráfica",
     "group": "R-Ladies Natal",
     "start": "2020-07-22",
-    "description": "<p>Olá Ladies do R!! tudo bem com vocês<br/>Esperamos que sim :)<br/>Neste encontro on-line, aprenderemos como traduzir nossos dados através da visualização gráfica.<br/>Utilizaremos o famoso pacote de ggplot2.<\/p> <p>*Entrega de Certificados<br/>SIM<\/p> <p>Requisitos:<br/>* Instalar em seu ambiente R o pacote ggplot2.<br/>( install.package (\"ggplot2\")<\/p> <p>* Vir com muitos ânimos de colocar \"mãos na massa\"<\/p> <p>Não faltem.<br/>Esperamos vocês. :)<\/p> ",
+    "description": "<p>Olá Ladies do R!! tudo bem com vocês<br/>Esperamos que sim :)<br/>Neste encontro on-line, aprenderemos como traduzir nossos dados através da visualização gráfica.<br/>Utilizaremos o famoso pacote de ggplot2.<\/p> <p>*Entrega de Certificados<br/>SIM<\/p> <p>Requisitos:<br/>* Instalar em seu ambiente R o pacote ggplot2.<br/>install.package (\"ggplot2\")<\/p> <p>* Vir com muitos ânimos de colocar \"mãos na massa\"<\/p> <p>Não faltem.<br/>Esperamos vocês. :)<\/p> ",
     "url": "https://www.meetup.com/rladies-natal/events/271645665/",
     "textColor": "blue"
   },
@@ -1307,14 +1419,6 @@
     "start": "2020-07-10",
     "description": "<p>Hello R-Ladies<\/p> <p>Are you an R beginner wanting to learn more about how to write functions? We got you covered!<\/p> <p>Yuka Takemon will be running an online workshop on how to build functions. The workshop is geared towards beginners and we will try to keep it as interactive as possible.<\/p> <p>Yuka is a PhD student in Genome sciences and technology at UBC and a certified Software Carpentry and RStudio instructor.<\/p> <p>Workshop details:<\/p> <p>Day and time: July 10th, 2020 at 6pm<\/p> <p>Webinar link: RSVP to view<\/p> <p>******<br/>About the workshop &amp; instructions:<\/p> <p>-Please expect a hands-on session in a friendly and laid-back atmosphere where we all encouraged to learn together.<br/>- All levels are welcome, but be prepared that we created this with beginners in mind. You should be familiar with R and RStudio.<br/>- Install R: <a href=\"https://mirror.its.sfu.ca/mirror/CRAN/\" class=\"linkified\">https://mirror.its.sfu.ca/mirror/CRAN/<\/a><br/>- Install RStudio (choose the Desktop version): <a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a><\/p> <p>**********************IMPORTANT************************<\/p> <p>1. Have your computer and a steady internet connection ready<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>3. Who is this allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>See you there!<\/p> <p>Raissa, Lucia, Jasmine, &amp; Lisa<\/p> ",
     "url": "https://www.meetup.com/rladies-vancouver/events/271619508/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Santiago: Charla desde RLadies Global: Cómo hacer una reunión virtual inolvidable",
-    "group": "R-Ladies Santiago",
-    "start": "2020-07-01",
-    "description": "<p>Este miércoles a las 13:00 nos sumamos a la transmisión de la charla \"Cómo hacer una reunión virtual inolvidable (sin morir en el intento)\" que organiza RLadies Global.<\/p> <p>Resumen:<br/>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<br/>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>[NOTA: este no es un meetup sobre R, sino sobre cómo organizar eventos en línea]<\/p> ",
-    "url": "https://www.meetup.com/rladies-scl/events/271573073/",
     "textColor": "blue"
   },
   {
@@ -1363,14 +1467,6 @@
     "start": "2020-07-29",
     "description": "<p>I've been wanting to read Angela Saini's new book Superior for a while, but the events of recent weeks have made it rise to the top of my pile.<\/p> <p>The book does a deep dive into the history of scientific racism and sharply critiques the impact of our reluctance to accept race as a social construct. The book walks through how the persistence of race science myths are impacting the current political climate.<\/p> <p>Angela Saini is science journalist and author of the best selling book Inferior, which dives into the science of gender. Her new book has already received numerous accolades (<a href=\"https://www.angelasaini.co.uk/superior\" class=\"linkified\">https://www.angelasaini.co.uk/superior<\/a>) and is right now on sale on Kindle!<\/p> <p>Select reviews:<\/p> <p>\"It is Saini’s attention to power that will make her book essential reading for anyone concerned with understanding the history of science’s preoccupation with race. Blending skilful synthesis of essential works on the history of race science with compelling first-person interviews with today’s leading researchers...\"<br/>- The Times Literary Supplement<\/p> <p>\"An intense, intelligent and compelling investigation into race science. Angela Saini is meticulous and forensic in her debunking of the myths around race and racism.\"<br/>- Nikesh Shukla, author and editor of The Good Immigrant<\/p> ",
     "url": "https://www.meetup.com/rladies-sydney/events/271307619/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Santa Rosa: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Santa Rosa",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
-    "url": "https://www.meetup.com/rladies-santa-rosa/events/271529806/",
     "textColor": "blue"
   },
   {
@@ -1494,14 +1590,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Freiburg: Text Analysis with R",
-    "group": "R-Ladies Freiburg",
-    "start": "2020-07-01",
-    "description": "<p>In this meetup, you will learn all the fundamental steps of preparing and working with text data, such as full copies of famous literary works, song lyrics, or written/transcribed language. Using the examples of fairy tales, like the Grimm brothers collection and Alice in Wonderland, we will prepare and tokenize text data, extract the most frequent words, and display these results graphically. Then, we will explore methods for comparing more than one text source, finding words that are especially characteristic of a particular author/speaker/genre/chapter and comparing these to similar texts. After this meetup, you'll know how to compute word frequencies, identify unique word choices, calculate text-level measures such as lexical density, and create exciting visualizations of text statistics in R.<\/p> <p>R-users of all levels can get something out of this Meetup, as we will walk you through every step from reading in data to tuning the graphical parameters. The only requirement is to have R and R Studio up and running on your computer. Main packages include: tidyverse, tidytext, gutenbergr, scales. Primary source: Text Mining with R by Julia Silge.<\/p> <p>The meetup will be hosted online via Zoom -- the link will be sent out via Meetup shortly before the start time.<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/271449817/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Oslo: Statistrikk: Hard facts by soft materials",
     "group": "R-Ladies Oslo",
     "start": "2020-08-24",
@@ -1518,43 +1606,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Valparaíso: Charla desde RLadies Global: Cómo hacer una reunión virtual inolvidable",
-    "group": "R-Ladies Valparaíso",
-    "start": "2020-07-01",
-    "description": "<p>Este miércoles a las 13:00 nos sumamos a la transmisión de la charla \"Cómo hacer una reunión virtual inolvidable (sin morir en el intento)\" que organiza RLadies Global.<\/p> <p>Resumen:<br/>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<br/>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>[NOTA: este no es un meetup sobre R, sino sobre cómo organizar eventos en línea]<\/p> ",
-    "url": "https://www.meetup.com/rladies-valparaiso/events/271573055/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Valparaíso: Sesión 4 - Club de lectura - Happy Git with R, de Jenny Bryan",
     "group": "R-Ladies Valparaíso",
     "start": "2020-07-04",
     "description": "<p>Este sábado nos reuniremos para la cuarta sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: <a href=\"https://happygitwithr.com/\" class=\"linkified\">https://happygitwithr.com/<\/a><\/p> <p>- ¿Cómo funciona el club de lectura?<br/>Divideremos la lectura del libro en seis sesiones. Cada sesión la liderará una relatora de nuestra comunidad.<\/p> <p>Esta cuarta sesión estará a cargo de Riva Quiroga (<a href=\"https://twitter.com/rivaquiroga\" class=\"linkified\">https://twitter.com/rivaquiroga<\/a>). Abordaremos las secciones IV y V del libro (\"Git Fundamentals\" y \"Remote setups\"). En ellas se abordan algunos conceptos clave (como qué es un commit, una rama y un repositorio remoto) y se explica cómo configurar todo para poder colaborar en repositorios de otras personas sin problemas.<\/p> <p>- ¿Qué necesito para participar?<br/>Lo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>Lo segundo, es haber instalado ya Git en tu computador (<a href=\"https://git-scm.com/\" class=\"linkified\">https://git-scm.com/<\/a>) y tener una cuenta en GitHub (<a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a>). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)<\/p> <p>Lo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.<\/p> <p>- ¿Qué pasa si no leo en inglés?<br/>¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)<\/p> <p>- Estoy recién aprendiendo sobre R, ¿puedo participar?<br/>Sí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: <a href=\"https://github.com/rladieschile/taller-introductorio-mayo\" class=\"linkified\">https://github.com/rladieschile/taller-introductorio-mayo<\/a>.<\/p> <p>¡Te esperamos!<\/p> ",
     "url": "https://www.meetup.com/rladies-valparaiso/events/271594998/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Lima: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Lima",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>***IMPORTANTE***<br/>Para participar, dale \"Asistiré\" en este evento y asegúrate de tener también instalado Zoom.<br/>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo miércoles mandaremos un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-lima/events/271629143/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Barcelona: Webinario: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Barcelona",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>&gt; ORADORA: Yanina Bellini Saibene y Paola Corrales.<br/>&gt; ORGANIZAN: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas.<br/>&gt; DÓNDE: Evento vía Zoom. Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.<br/>&gt; IDIONA: El webinario será impartido en español.<\/p> ",
-    "url": "https://www.meetup.com/rladies-barcelona/events/271515495/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Guayaquil: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Guayaquil",
-    "start": "2020-07-01",
-    "description": "<p>Evento de R-Ladies Global<\/p> <p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.<\/p> <p>El evento será el 1 de julio a las 12:00 hora Ecuador Continental. Si te encuentras en otra ciudad, igualmente te invitamos a unirte a este evento y puedes revisar la hora local en la que ocurrirá aquí: <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20200612T160000&amp;p1=3917\" class=\"linkified\">https://www.timeanddate.com/worldclock/converter.html?iso=20200612T160000&amp;p1=3917<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-guayaquil/events/271629475/",
     "textColor": "blue"
   },
   {
@@ -1574,11 +1630,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Mendoza: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Mendoza",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento<\/p> ",
-    "url": "https://www.meetup.com/rladies-mendoza/events/271611673/",
+    "title": "R en Rosario: Aplicando R desde casa: taller virtual de Web Scraping y R Markdown",
+    "group": "R en Rosario",
+    "start": "2020-07-09",
+    "description": "<p>R en Rosario regresa de manera virtual!!! En esta ocasión presentaremos dos talleres que podés seguir online:<br/>1) Los hermanos Franco y Esteban Cometto hablarán sobre Web Scraping con una aplicación para analizar el mercado inmobiliario.<br/>2) Federico Izzo nos contará su experiencia con R Markdown.<\/p> <p>Próximamente compartiremos el link para sumarse a la videollamada. Te esperamos!<\/p> ",
+    "url": "https://www.meetup.com/R-en-Rosario/events/271655433/",
     "textColor": "blue"
   },
   {
@@ -1737,16 +1793,8 @@
     "title": "R-Ladies Belo Horizonte: We R Ladies - R Markdown",
     "group": "R-Ladies Belo Horizonte",
     "start": "2020-07-11",
-    "description": "<p>Quem somos nós?<br/>O R-Ladies Belo Horizonte faz parte de uma organização mundial para promover a diversidade de gênero na comunidade da linguagem computacional estatística (R). Nossa principal missão é apoiar os gêneros minoritários para alcançar seu potencial de programação, construindo uma rede global colaborativa de líderes, mentores, aprendizes e desenvolvedoras para facilitar o progresso individual e coletivo em todo o mundo. Também tentamos promover nos nossos eventos, palestras referentes ao empreendedorismo feminino e diversidade para que as mulheres do ambiente sintam-se engajadas a correrem atrás do seu espaço no mercado.<\/p> <p>R Markdown — A ferramenta mais versátil e linde de documentação!<\/p> <p>Nível de Habilidade: Intermediária<\/p> <p>O que você vai aprender neste curso?<\/p> <p>• Chunks para gráficos e tabelas (e parâmetros como eval, echo, message)<br/>• Tabset<br/>• Adicionar links<br/>• Negrito/ itálico/ títulos<br/>• Índice lateral<br/>• Equações simples<br/>• Citações e notas de rodapé<br/>Tópicos Avançados:<br/>• Relatórios com parâmetros<br/>• Documentos iterativos<\/p> <p>O que você precisa ter?<br/>Para acompanhar o curso online, o ideal é ter acesso a um computador e internet rápida. Antes de iniciar o curso você receberá um guia com as informações sobre o que precisa ser instalado e como fazer isso.<\/p> <p>Precisa ter algum conhecimento prévio?<br/>Há a necessidade de ter pelo menos um conhecimento básico no R.<\/p> <p>Vai ter certificado?<br/>Vai sim, todo mundo que fizer o curso terá direito a um certificado de 3h por curso.<\/p> <p>O curso é gratuito?<br/>Sim.<\/p> <p>O que é o Projeto Animal?<\/p> <p>O projeto Animal é um grupo de voluntários particular, e dessa forma não recebe nenhum recurso público. Atua com recursos próprios e doações recebidas. Sabemos que o trabalho de cuidados com os animais resgatados gera custos como: alimentação, vacinas, medicamentos, produtos de higiene e limpeza. Por isso contamos com a ajuda de vocês para manter esse projeto incrível funcionando.<br/>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>Você pode ajudar doando itens como: Ração para cães e gatos, medicamentos, jornal, material de limpeza e outros!!! Ou pode fazer uma doação de qualquer valor.<br/>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>Para saber a lista de itens que eles precisam, o endereço de entrega ou como fazer o depósito, acesse o site: <a href=\"https://projetoanimal.com.br\" class=\"linkified\">https://projetoanimal.com.br<\/a>.<\/p> <p>Ficou alguma dúvida?<br/>É só enviar para [masked] ;)<\/p> ",
+    "description": "<p>Inscrições em: <a href=\"https://www.sympla.com.br/r-markdown__895355\" class=\"linkified\">https://www.sympla.com.br/r-markdown__895355<\/a><\/p> <p>Quem somos nós?<br/>O R-Ladies Belo Horizonte faz parte de uma organização mundial para promover a diversidade de gênero na comunidade da linguagem computacional estatística (R). Nossa principal missão é apoiar os gêneros minoritários para alcançar seu potencial de programação, construindo uma rede global colaborativa de líderes, mentores, aprendizes e desenvolvedoras para facilitar o progresso individual e coletivo em todo o mundo. Também tentamos promover nos nossos eventos, palestras referentes ao empreendedorismo feminino e diversidade para que as mulheres do ambiente sintam-se engajadas a correrem atrás do seu espaço no mercado.<\/p> <p>R Markdown — A ferramenta mais versátil e linde de documentação!<\/p> <p>Nível de Habilidade: Intermediária<\/p> <p>O que você vai aprender neste curso?<\/p> <p>• Chunks para gráficos e tabelas (e parâmetros como eval, echo, message)<br/>• Tabset<br/>• Adicionar links<br/>• Negrito/ itálico/ títulos<br/>• Índice lateral<br/>• Equações simples<br/>• Citações e notas de rodapé<br/>Tópicos Avançados:<br/>• Relatórios com parâmetros<br/>• Documentos iterativos<\/p> <p>O que você precisa ter?<br/>Para acompanhar o curso online, o ideal é ter acesso a um computador e internet rápida. Antes de iniciar o curso você receberá um guia com as informações sobre o que precisa ser instalado e como fazer isso.<\/p> <p>Precisa ter algum conhecimento prévio?<br/>Há a necessidade de ter pelo menos um conhecimento básico no R.<\/p> <p>Vai ter certificado?<br/>Vai sim, todo mundo que fizer o curso terá direito a um certificado de 3h por curso.<\/p> <p>O curso é gratuito?<br/>Sim.<\/p> <p>O que é o Projeto Animal?<\/p> <p>O projeto Animal é um grupo de voluntários particular, e dessa forma não recebe nenhum recurso público. Atua com recursos próprios e doações recebidas. Sabemos que o trabalho de cuidados com os animais resgatados gera custos como: alimentação, vacinas, medicamentos, produtos de higiene e limpeza. Por isso contamos com a ajuda de vocês para manter esse projeto incrível funcionando.<br/>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>Você pode ajudar doando itens como: Ração para cães e gatos, medicamentos, jornal, material de limpeza e outros!!! Ou pode fazer uma doação de qualquer valor.<br/>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>Para saber a lista de itens que eles precisam, o endereço de entrega ou como fazer o depósito, acesse o site: <a href=\"https://projetoanimal.com.br\" class=\"linkified\">https://projetoanimal.com.br<\/a>.<\/p> <p>Ficou alguma dúvida?<br/>É só enviar para [masked] ;)<\/p> ",
     "url": "https://www.meetup.com/rladies-belo-horizonte/events/271646004/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Concepción: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "group": "R-Ladies Concepción",
-    "start": "2020-07-01",
-    "description": "<p>Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup, realizado a las 13:00 hrs Chile, te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.<\/p> <p>Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.<\/p> <p>Oradoras: Yanina Bellini Saibene y Paola Corrales.<\/p> <p>Organizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas<\/p> <p>Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.<\/p> ",
-    "url": "https://www.meetup.com/rladies-concepcion/events/271633875/",
     "textColor": "blue"
   },
   {
@@ -1763,6 +1811,14 @@
     "start": "2020-07-23",
     "description": "<p>Speaker: Nic Crane (UNAI)<\/p> <p>Title:<br/>NLP - Beyond Wordclouds, or How I Learned to Stop Worrying and Love Text Data<\/p> <p>Abtract:<\/p> <p>Six months ago, I found myself on a new work project, wrestling with a type of data I'd never had to encounter before in the wild: text. Whilst having much in common with tabular data, this unstructured format has many of its own special quirks and idiosyncrasies. Now, on the precipice of project completion, I reflect on the challenges I faced, how I overcame them, and share the libraries, techniques, and resources that were instrumental in getting me there.<\/p> ",
     "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/271494400/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Bamako Data Science: Mesure d'opinion au Mali: les attitudes à l'égard de la contestation sociale.",
+    "group": "Bamako Data Science",
+    "start": "2020-07-03",
+    "description": "<p>Cette semaine, nous prenons un break d'avec le mode tutoriel pour revenir à la formule thématique.<br/>Nous serons servis par l'excéllent Amadou Yoro Thiam.<br/>Cerveau derrière 'Inférentielle', il nous parlera des travaux qu'il mène avec sa start-up.<br/>Il nous présentera leur tout dernier bébé, une étude sur \"L'attitude des maliens à l'égard de la contestation sociale.\"<\/p> <p>Comme d'habitude, rejoignez-nous sur Zoom, cette fois-ci à 16:30.<\/p> <p>Au plaisir de vous retrouver ce vendredi.<\/p> <p>En attendant, vous pouvez faire connaissance avec Inférentielle et avoir un avant-goût :<br/>Site web : <a href=\"https://www.inferentielle.com/\" class=\"linkified\">https://www.inferentielle.com/<\/a><br/>Facebook : <a href=\"https://www.facebook.com/inferentielle/\" class=\"linkified\">https://www.facebook.com/inferentielle/<\/a><br/>YouTube : <a href=\"https://youtu.be/lzpmtZgThFQ\" class=\"embedded\">https://youtu.be/lzpmtZgThFQ<\/a><\/p> <p>Cheers,<br/>Fousseynou.<\/p> ",
+    "url": "https://www.meetup.com/Bamako-Data-Science/events/271654330/",
     "textColor": "blue"
   }
 ]
