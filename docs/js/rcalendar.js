@@ -33,6 +33,7 @@ $(document).ready(function() {
 
 
   ],
+  timezone: 'local',			
   eventRender: function(event, element, view) {
             element.qtip({
                 content: '<b>' + event.title + '</b>' + '<br />' + event.description +  '<br />' + event.url,
