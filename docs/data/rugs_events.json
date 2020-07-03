@@ -120,6 +120,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar - JD Long - Helping drive data science adoption in organizations",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-07-02",
+    "description": "<p>Financed by the 'Perfect Science' program of the Polish Minister of Science and Higher Education<\/p> <p>- stream: <a href=\"https://youtu.be/4OKFY9tH0Bw\" class=\"embedded\">https://youtu.be/4OKFY9tH0Bw<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join YouTube <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<\/p> <p># Speaker:<br/>JD Long<br/>Enterprise Risk Management (ERM) Quant Risk Manager at RenaissanceRe<br/>co-Author of \"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics\"<\/p> <p># Title:<br/>Taking friction out of R: helping drive data science adoption in organizations<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271209435/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Greater Boston useR Group (R Programming Language): Interrupted Time Series Analysis in Public Health and Health Policy using R:",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2020-06-23",
@@ -256,14 +264,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Wiesbaden R User Group: M versus R versus P: Power BI Transformation im Vergleich zu anderen Sprachen",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-06-02",
-    "description": "<p>Hinweis: Aufgrund der CoViD-19-Krise findet die Veranstaltung online statt. Zugangsdaten (diesmal abweichend jitsi) veröffentlichen wir kurz vor der Veranstaltung!<\/p> <p>Hier sind die Zugangsdaten zu jitsi:<br/>Link: <a href=\"https://de-fsn-1.jitsi.rocks/RUsersWiesbaden\" class=\"linkified\">https://de-fsn-1.jitsi.rocks/RUsersWiesbaden<\/a><br/>Meeting-Name: RUsersWiesbden<br/>Passwort: RU~3rMeetup***<\/p> <p>Die Session wird ca. 60 Minuten dauern!<\/p> <p>Hallo liebe Wiesbaden R Userinos!<br/>Das erste Halbjahr 2020 steht ganz im Zusammenspiel von R und Microsoft.<\/p> <p>Oliver Engels, Leiter der PASS Deutschland e.V. RG Rhein Main, die sich mit interessanten Themen aus dem Bereich Microsoft Data Platform beschäftigt, konnten wir für einen Vergleich von R, Python und Microsoft Power BI gewinnen.<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/267829641/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Wiesbaden R User Group: R Coffee Break - GANTT Charts mit R",
     "group": "Wiesbaden R User Group",
     "start": "2020-06-10",
@@ -341,14 +341,6 @@
     "start": "2020-06-22",
     "description": "<p>We are staying virtual this month which allows us to once again to bring in a speaker from afar. One of the most popular talks was about Generalized Additive Models, so we are excited to have Gavin Simpson give us another dose.<\/p> <p>Due to COVID-19 there is no in-person component to this meetup and it will take place entirely online. Thank you to EcoHealth Alliance for providing the Zoom link.<\/p> <p>To help recreate even a sliver of our normal experience we are going to experiment with a new virtual world for people to gather together. The link is <a href=\"https://gather.town/fAGXHrSx0tOJDlfC/r-conference\" class=\"linkified\">https://gather.town/fAGXHrSx0tOJDlfC/r-conference<\/a> . Starting at 6:30 you can go to <a href=\"https://gather.town/fAGXHrSx0tOJDlfC/r-conference\" class=\"linkified\">https://gather.town/fAGXHrSx0tOJDlfC/r-conference<\/a> at roam around a virtual office and chat with each other. At 7 you should proceed to the \"Talks\" room where you will be able to enter the Zoom presentation (also available at <a href=\"https://zoom.us/j/97889324001\" class=\"linkified\">https://zoom.us/j/97889324001<\/a>).<\/p> <p>Since we still can't be together for pizza, Scott's Pizza Tours is sponsoring again and offering everyone 25% off virtual tours booked by July 31. Use code NerdsLovePizza at <a href=\"https://www.scottspizzatours.com/\" class=\"linkified\">https://www.scottspizzatours.com/<\/a> for the discount.<\/p> <p>About the Talk:<br/>A defining characteristic of ecological or environmental time series is that they are messy. They're full of holes, rarely long enough but often too big, and they have a tendency to start and stop at inconvenient times and places. On top of this, the things these time series measure are inherently complex, the result of myriad interactions and processes operating throughout the biogeosphere.<\/p> <p>In this talk I'll discuss how we use generalized additive models (GAMs) to estimate nonlinear spatio-temporal trends from these messy time series and illustrate the range of models and data types that we can handle with the mgcv and brms packages. I'll explain what modern GAMs are and how they learn from data, before moving on to demonstrate modern developments in GAMs that allow us to model entire conditional distributions rather than the usual focus on means and expectations. And as I'm a geographer, not a statistician, I plan to do this with pictures, not math.<\/p> <p>About Gavin:<\/p> <p>Gavin Simpson is a Research Scientist in the Institute of Environmental Change and Society at the University of Regina, Saskatchewan, Canada. He is a #fakebiologist and a #fakestatistician, but he does have two degrees in Geography from University College London in the UK, though he doesn’t make many maps.<\/p> <p>Gavin's research is broadly concerned with how ecosystems and the communities of species they support change in time and space, from seconds to millennia, from ones backyard to globally. He's been using R since before v1.0 and has developed or maintains a number of R packages, including vegan, for multivariate data analyses, and gratia, a package for working with Generalized Additive Models, which feature in much of his research.<\/p> <p>The talk will begin at 7 and we will start admitting people to the event early, details will be sent beforehand. Since this is completely remote there will be no pizza but everyone is encouraged to have pizza individually.<\/p> ",
     "url": "https://www.meetup.com/nyhackr/events/271259461/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Buenos Aires: Visualizando datos: especial #30díasdegráficos",
-    "group": "R-Ladies Buenos Aires",
-    "start": "2020-06-02",
-    "description": "<p>¡Se viene una nueva reunión virtual: Charlar con R, Toma 5!<\/p> <p>En este meetup María McNanton nos va a mostrar como visulializar datos usando ggplot y en particular vamos a trabajar con datos textuales para sumarnos al #30diasdegraficos organizado por la comunidad hispano hablante de R.<\/p> <p>¿Te sumás? Será el martes 2 de junio a las 18:30PM, por Zoom.<\/p> <p>***IMPORTANTE***<br/>Para participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (<a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a>).<\/p> <p>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo lunes vamos a mandar un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.<\/p> <p>¡Nos vemos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-buenos-aires/events/270963134/",
     "textColor": "#7171fb"
   },
   {
@@ -519,14 +511,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Sydney: Show and Tell your R Code",
-    "group": "R-Ladies Sydney",
-    "start": "2020-06-02",
-    "description": "<p>Have you been working on code you are particularly proud of? Or do you have some code that is driving you crazy?<\/p> <p>Bring it along to this online event and share your triumph and/or frustration. Last time we learned about some hidden gems of dplyr, the magic of facet_wrap in ggplot and some super cool mapping using leaflet. Who knows what this session will bring!<\/p> <p>This event will be via Zoom. Those who RSVP will receive the meeting link via email.<\/p> ",
-    "url": "https://www.meetup.com/rladies-sydney/events/270459232/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Sydney: Beyond Beamer: Modern and Dynamic Presentations with R Markdown",
     "group": "R-Ladies Sydney",
     "start": "2020-06-30",
@@ -623,14 +607,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Riverside: A Random Forests Tutorial with Examples in R [postponed]",
-    "group": "R-Ladies Riverside",
-    "start": "2020-06-02",
-    "description": "<p>Unfortunately, due to unforeseen circumstances, we will have to postpone today's session to a later date. Apologies for any inconvenience this may cause, and we hope to see you all soon.<\/p> <p>---------------<br/>Hello RiveRside community ;-)<\/p> <p>Come join us for a virtual evening of networking and learning on Tuesday, June 2nd, 5:15 pm (PST). Don't forget to RSVP to get access to the meeting's ID and password.<\/p> <p>Whether you are new to R or a data scientist, join us for a Random Forest algorithm tutorial and see how you can apply machine learning in your research.<\/p> <p>At the end of the meeting, we will have time to help each other with any R-related questions.<\/p> <p>Please have R and RStudio already installed on your computers. Also please install and verify that the package is loaded and working properly by running the first three lines of code in the tutorial here:<br/><a href=\"https://rladies.github.io/riverside/2020/05/20/packages.html\" class=\"linkified\">https://rladies.github.io/riverside/2020/05/20/packages.html<\/a><\/p> <p>Big thanks to UCR Library and UCR GradQuant for supporting us, and to our guest speaker Rebecca Paulette Kurtz-Garcia from Statistics Department, UCR!<\/p> <p>See you soon!<\/p> <p>ps: are you already following us at @RLadiesRiversd twitter?<\/p> ",
-    "url": "https://www.meetup.com/rladies-riverside/events/270746911/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Utrecht: R Ladies Netherlands Book Club - Advanced R Chapter 7",
     "group": "R-Ladies Utrecht",
     "start": "2020-06-23",
@@ -660,14 +636,6 @@
     "start": "2020-06-11",
     "description": "<p>Have you ever looked at a script you wrote two years ago and been totally clueless? Or do you hesitate to share your code with others out of fear that it's too cryptic? Come and join our best coding practices workshop and learn how to make your code more readable!<\/p> <p>Our speaker for this event is Arushi Garg. She is currently doing a PhD at the Donders Institute. In her past life, she worked in the software industry as a developer for three years, where she was required to follow rigorous coding standards. In this talk, she draws from her experience and will show us how we can employ such practices in science and make reproducibility and sharing a breeze.<\/p> <p>PREPARATION<br/>In order to get the most out of the meeting, we encourage you to upload a piece of your own code here before June 6th: <a href=\"https://www.dropbox.com/request/2v4Ragmq16eLIsx9AXwP\" class=\"linkified\">https://www.dropbox.com/request/2v4Ragmq16eLIsx9AXwP<\/a><br/>Arushi can then tailor her examples to your needs.<\/p> <p>PROGRAMME<br/>The event will start at 6pm. Join us on Zoom here: <a href=\"https://zoom.us/j/6903340773?pwd=b0M1c2wwVWNWenpjd0JhckJYWUhidz09\" class=\"linkified\">https://zoom.us/j/6903340773?pwd=b0M1c2wwVWNWenpjd0JhckJYWUhidz09<\/a><\/p> <p>We're looking forward to seeing many of you virtually ;-)<\/p> <p>CODE OF CONDUCT<br/>Please take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>R-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.<\/p> ",
     "url": "https://www.meetup.com/rladies-nijmegen/events/270879815/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Freiburg: R-Markdown - Introduction to Documents and Presentations",
-    "group": "R-Ladies Freiburg",
-    "start": "2020-06-02",
-    "description": "<p>This will be a beginner-intermediate level workshop on R-Markdown. We will start from the beginning introducing you to markdown in R, how to integrate code with text, what all you can do with it and make a document and a presentation using automated reports together. Hope to see you there! :)<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/270879098/",
     "textColor": "#7171fb"
   },
   {
@@ -1031,6 +999,54 @@
     "textColor": "blue"
   },
   {
+    "title": "Chico R Users Group: Community Coding",
+    "group": "Chico R Users Group",
+    "start": "2020-07-08",
+    "description": "<p>Coding is a social activity! Got data and working on analysis? Got questions on using R or other programming languages? Great way to dedicate time to working on that project you've been meaning to get around to. Come and hang out with other coders in a welcoming and supportive environment<\/p> <p>Students, staff, faculty, and the public are invited to join our Community Coding sessions. Bring your computer, coding projects, and your questions to this open working environment.<\/p> <p>Sponsored by the CSUC Data Science Initiative. Learn more at <a href=\"http://datascience.csuchico.edu\" class=\"linkified\">http://datascience.csuchico.edu<\/a><\/p> ",
+    "url": "https://www.meetup.com/Chico-R-Users-Group/events/zbsxtrybckblb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Chico R Users Group: Community Coding",
+    "group": "Chico R Users Group",
+    "start": "2020-07-15",
+    "description": "<p>Coding is a social activity! Got data and working on analysis? Got questions on using R or other programming languages? Great way to dedicate time to working on that project you've been meaning to get around to. Come and hang out with other coders in a welcoming and supportive environment<\/p> <p>Students, staff, faculty, and the public are invited to join our Community Coding sessions. Bring your computer, coding projects, and your questions to this open working environment.<\/p> <p>Sponsored by the CSUC Data Science Initiative. Learn more at <a href=\"http://datascience.csuchico.edu\" class=\"linkified\">http://datascience.csuchico.edu<\/a><\/p> ",
+    "url": "https://www.meetup.com/Chico-R-Users-Group/events/zbsxtrybckbtb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Chico R Users Group: Community Coding",
+    "group": "Chico R Users Group",
+    "start": "2020-07-22",
+    "description": "<p>Coding is a social activity! Got data and working on analysis? Got questions on using R or other programming languages? Great way to dedicate time to working on that project you've been meaning to get around to. Come and hang out with other coders in a welcoming and supportive environment<\/p> <p>Students, staff, faculty, and the public are invited to join our Community Coding sessions. Bring your computer, coding projects, and your questions to this open working environment.<\/p> <p>Sponsored by the CSUC Data Science Initiative. Learn more at <a href=\"http://datascience.csuchico.edu\" class=\"linkified\">http://datascience.csuchico.edu<\/a><\/p> ",
+    "url": "https://www.meetup.com/Chico-R-Users-Group/events/zbsxtrybckbdc/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Chico R Users Group: Community Coding",
+    "group": "Chico R Users Group",
+    "start": "2020-07-29",
+    "description": "<p>Coding is a social activity! Got data and working on analysis? Got questions on using R or other programming languages? Great way to dedicate time to working on that project you've been meaning to get around to. Come and hang out with other coders in a welcoming and supportive environment<\/p> <p>Students, staff, faculty, and the public are invited to join our Community Coding sessions. Bring your computer, coding projects, and your questions to this open working environment.<\/p> <p>Sponsored by the CSUC Data Science Initiative. Learn more at <a href=\"http://datascience.csuchico.edu\" class=\"linkified\">http://datascience.csuchico.edu<\/a><\/p> ",
+    "url": "https://www.meetup.com/Chico-R-Users-Group/events/zbsxtrybckbmc/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Chico R Users Group: Community Coding",
+    "group": "Chico R Users Group",
+    "start": "2020-08-05",
+    "description": "<p>Coding is a social activity! Got data and working on analysis? Got questions on using R or other programming languages? Great way to dedicate time to working on that project you've been meaning to get around to. Come and hang out with other coders in a welcoming and supportive environment<\/p> <p>Students, staff, faculty, and the public are invited to join our Community Coding sessions. Bring your computer, coding projects, and your questions to this open working environment.<\/p> <p>Sponsored by the CSUC Data Science Initiative. Learn more at <a href=\"http://datascience.csuchico.edu\" class=\"linkified\">http://datascience.csuchico.edu<\/a><\/p> ",
+    "url": "https://www.meetup.com/Chico-R-Users-Group/events/zbsxtrybclbhb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Chico R Users Group: Community Coding",
+    "group": "Chico R Users Group",
+    "start": "2020-08-12",
+    "description": "<p>Coding is a social activity! Got data and working on analysis? Got questions on using R or other programming languages? Great way to dedicate time to working on that project you've been meaning to get around to. Come and hang out with other coders in a welcoming and supportive environment<\/p> <p>Students, staff, faculty, and the public are invited to join our Community Coding sessions. Bring your computer, coding projects, and your questions to this open working environment.<\/p> <p>Sponsored by the CSUC Data Science Initiative. Learn more at <a href=\"http://datascience.csuchico.edu\" class=\"linkified\">http://datascience.csuchico.edu<\/a><\/p> ",
+    "url": "https://www.meetup.com/Chico-R-Users-Group/events/zbsxtrybclbqb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Orange County R Users Group (OCRUG): Book club - Session 07 - Applied Predictive Modeling",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2020-07-08",
@@ -1164,14 +1180,6 @@
     "start": "2020-09-26",
     "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
     "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcmbjc/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar - JD Long - Helping drive data science adoption in organizations",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-07-02",
-    "description": "<p>Financed by the 'Perfect Science' program of the Polish Minister of Science and Higher Education<\/p> <p>- stream: <a href=\"https://youtu.be/4OKFY9tH0Bw\" class=\"embedded\">https://youtu.be/4OKFY9tH0Bw<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join YouTube <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<\/p> <p># Speaker:<br/>JD Long<br/>Enterprise Risk Management (ERM) Quant Risk Manager at RenaissanceRe<br/>co-Author of \"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics\"<\/p> <p># Title:<br/>Taking friction out of R: helping drive data science adoption in organizations<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271209435/",
     "textColor": "blue"
   },
   {
@@ -1367,6 +1375,30 @@
     "textColor": "blue"
   },
   {
+    "title": "Wiesbaden R User Group: R Coffee Break - hilfreiche Funktionen für das Data Understanding",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-07-08",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>In dieser Coffee Break widmen wir uns dem Data Understanding. Wir wollen euch hilfreiche Funktionen zeigen, damit ihr diesen Schritt in eurem Data Mining Projekt so effizient wie möglich durchführen könnt.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Passwort: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/271692231/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break - Reproduzierbare Datenpipelines mit Drake",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-07-15",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Ob bei ML, data engineering oder Simulationen: der schnellste Code ist der, der nicht ausgeführt werden muss. Dieses Mal dreht sich alles um das Thema reproduzierbare Datenpipelines mit drake. Das R-Paket erlaubt es, automatisiert Code auf Änderungen zu prüfen um nur noch notwendige Berechnungsschritte durchzuführen.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Passwort: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/271692252/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break - Qualitätsregelkarten in R",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-07-22",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Läuft der Prozess optimal, oder benötigt er Aufmerksamkeit? Qualitätsregelkarten untersuchen Prozesse auf ihre Stabilität bzw. ihre Qualitätsstreuung. Sobald Prozesse messtechnisch erfasst werden, können sie eingesetzt werden. Und natürlich können wir auch mit R Qualitätsregelkarten erstellen.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Passwort: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/271692402/",
+    "textColor": "blue"
+  },
+  {
     "title": "Wiesbaden R User Group: R Coffee Break XL - Das mlr3-Paket",
     "group": "Wiesbaden R User Group",
     "start": "2020-07-29",
@@ -1515,6 +1547,14 @@
     "start": "2020-09-10",
     "description": "<p>Typical info below - Topic for this month TBD!<br/>Interested in speaking? Please message the organizers<br/>___________________________________________________________________________________<br/>Please come with a machine that can access rstudio.cloud. We will share link to project prior to session.<\/p> <p>As always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.<\/p> <p>Parking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots See pics below for directions.<\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/vtntnrybcmbnb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Rotterdam: Mastering conditions! R Ladies NL Book Club - Advanced R Chapter 8",
+    "group": "R-Ladies Rotterdam",
+    "start": "2020-07-07",
+    "description": "<p>Hi everyone,<\/p> <p>The R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<br/>Join us for our next meeting, in which Semiramis Castro will present the key points of Chapter 8: \"Conditions\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>You can find the full schedule and more information here: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>And sign up to discuss one of the chapters at <a href=\"https://bit.ly/2QBYGEG\" class=\"linkified\">https://bit.ly/2QBYGEG<\/a>!<\/p> <p>ABOUT Semiramis<br/>----------------------<br/>Semiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.<\/p> <p>ABOUT the chapter<br/>----------------------<br/>“Conditions” is the umbrella term used to describe errors, warnings, and messages. You’ve certainly encountered these before, so in this chapter you learn how to signal them appropriately in your own functions, and how to handle them when signalled elsewhere.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter in advance!<\/p> <p>LINK TO MEETUP<br/>----------------------<br/>Will be posted here the day of the event<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-rotterdam/events/271674531/",
     "textColor": "blue"
   },
   {
