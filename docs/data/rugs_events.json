@@ -503,14 +503,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Philly: June Virtual Event - Intro to R & Data Science Lighting talk",
-    "group": "R-Ladies Philly",
-    "start": "2020-06-09",
-    "description": "<p>R-Ladies Philly is pleased to host a virtual data science event to help you get started using R! This workshop will introduce the fundamentals and help you get started.<br/>Before the workshop, please install R and RStudio. Tess has provided detailed instructions here: <a href=\"https://github.com/rladies/meetup-presentations_philadelphia/blob/master/2020_06/R%20Studio%20Download%20Tutorial%202020.pdf\" class=\"linkified\">https://github.com/rladies/meetup-presentations_philadelphia/blob/master/2020_06/R%20Studio%20Download%20Tutorial%202020.pdf<\/a><\/p> <p>Agenda:<br/>6:00: Welcome<br/>6:05-6:20: \"6 R Packages to Add to Your Workflow\" by Jinyi Kuang<br/>6:20-8:00: Intro to R workshop by Tess Cherlin<\/p> <p>About our speakers:<br/>Jinyi Kuang is a research specialist at the Center for Social Norms and Behavioral Dynamics (CSNBD) and a Ph.D. student in Psychology at the University of Pennsylvania. She received a B.S. from the University of Maryland, College Park in 2016. Her research focuses on how people's social beliefs and expectations impact behaviors. Specifically, she is interested in how people perceive what is typical or desirable in a social group, how people make inferences of social information, and how individual differences in these inferences impact judgments and decision makings. She hopes these findings could inform intervention design to nudge people do good. Jinyi is currently working with CSNBD to assess social determinants of sanitation behaviors in India. She will present her recent research and how she uses R for her research workflow.<\/p> <p>Tess Cherlin is a PhD student at Thomas Jefferson University in the Genetics, Genomics, and Cancer Biology program and does her research in the Computational Medicine Center. She uses computational and wet lab methods to study small noncoding RNA profiles in health and disease contexts. Tess had no experience with R (or coding) when she began her PhD but has found R to be very learnable and incredibly useful for her data analysis. She looks forward to guiding R-Ladies beginners through a hands-on Intro to R workshop!<\/p> <p>Code of conduct:<br/><a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> <p>Learn more about R-Ladies Philly:<br/><a href=\"https://www.rladiesphilly.org\" class=\"linkified\">https://www.rladiesphilly.org<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-philly/events/268783148/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Sydney: Beyond Beamer: Modern and Dynamic Presentations with R Markdown",
     "group": "R-Ladies Sydney",
     "start": "2020-06-30",
@@ -647,14 +639,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Nijmegen: R Ladies Netherlands Book Club - Advanced R Chapter 6",
-    "group": "R-Ladies Nijmegen",
-    "start": "2020-06-09",
-    "description": "<p>Hi everyone,<\/p> <p>The R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<br/>Join us for our next meeting, in which Josephine Daub will present the key points of Chapter 6: \"Functions\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>The link to the meeting is here: <a href=\"https://meet.jit.si/RLadiesNLAdvancedR\" class=\"linkified\">https://meet.jit.si/RLadiesNLAdvancedR<\/a><\/p> <p>You can find the full schedule and more information here: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>Also feel free to sign up to discuss one of the chapters there!<\/p> <p>ABOUT Josephine<br/>----------------------<br/>Josephine is a computational biologist with special interest in evolutionary and cancer genomics. She is currently working as a postdoc at the Princess Máxima Center for Pediatric Oncology where she studies genetic interactions in childhood tumors. Josephine has programmed in many languages but the last years mainly in R. She knows that there is a lot to learn and working through the first chapters of the Advanced R book has already answered many questions she had about R's peculiarities.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter in advance!<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.<\/p> ",
-    "url": "https://www.meetup.com/rladies-nijmegen/events/270925058/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Nijmegen: Make your code more readable through best coding practices",
     "group": "R-Ladies Nijmegen",
     "start": "2020-06-11",
@@ -788,6 +772,14 @@
     "start": "2020-06-30",
     "description": "<p>Emi Tanaka is an applied statistician whose primary interest is to develop impactful methods and tools that can be readily used by practitioners. Her research interests include mixed models and experimental designs, motivated primarily by the problems in bioinformatics and agricultural sciences. She recently joined as a lecturer at the Department of Econometrics and Business Statistics, Monash University. She is currently the Vice President of the Statistical Society of Australia Victoria Branch.<\/p> <p>In this presentation, Emi takes us \"Beyond Beamer: Modern and Dynamic Presentations with R Markdown\". In many fields, scientific communications and publications are unimaginable without LaTeX. LaTeX, built on the TeX typesetting program, allows writing scientific documents with a markup language for structure and styling; capabilities for mathematical typesetting; ability to add cross-references and citations (though BibTeX or otherwise); and customisation through document classes, packages and macros. A particular LaTeX document class widely used for making presentation slides is Beamer. Beamer offers much of the same features as the original LaTeX in addition to special macros handy for presentation purposes and is used often by academics presenting mathematical content. Why then would we want another tool for presentation?<\/p> <p>In this tutorial talk, Emi will talk about the capabilities and benefits of using R Markdown to make presentation slides based on the `xaringan` R-package. If you have two monitors or an extra laptop/desktop computer, then you are encouraged to try some coding yourself as you follow along with the talk.<\/p> <p>Coding requirements: you will need to be familiar with R, have R and the xaringan &amp; tidyverse R packages installed. It is preferable that you use RStudio IDE although not required.<\/p> ",
     "url": "https://www.meetup.com/rladies-canberra/events/271304673/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R en Rosario: Aplicando R desde casa: taller virtual de Web Scraping y R Markdown",
+    "group": "R en Rosario",
+    "start": "2020-07-09",
+    "description": "<p>R en Rosario regresa de manera virtual!!! En esta ocasión presentaremos dos talleres que podés seguir online:<br/>1) Los hermanos Franco y Esteban Cometto hablarán sobre Web Scraping con una aplicación para analizar el mercado inmobiliario.<br/>2) Federico Izzo nos contará su experiencia con R Markdown.<\/p> <p>Próximamente compartiremos el link para sumarse a la videollamada. Te esperamos!<\/p> ",
+    "url": "https://www.meetup.com/R-en-Rosario/events/271655433/",
     "textColor": "#7171fb"
   },
   {
@@ -1255,6 +1247,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: 6 X-Europe Joint Webinar: Deep Self-Supervised Learning for All",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-07-15",
+    "description": "<p>Register: <a href=\"https://deep-self-supervised-learning.carrd.co/\" class=\"linkified\">https://deep-self-supervised-learning.carrd.co/<\/a><\/p> <p>Title:<br/>Deep Self-Supervised Learning for All<\/p> <p>Description:<br/>ABOUT TALK<br/>Deep neural networks have achieved outstanding results in various applications such as vision, language, audio, speech, or reinforcement learning. These powerful function approximators typically require large amounts of data to be trained, which poses a challenge in the usual case where little labeled data is available. During the last year, multiple solutions have been proposed to leverage this problem, based on the concept of self-supervised learning, which can be understood as a specific case of unsupervised learning. This talk will cover its basic principles and provide examples in the field of multimedia.<\/p> <p>ABOUT SPEAKER<br/>Be ready for a long and interesting list of experiences, titles, and recognitions that our guest Xavier has.<\/p> <p>Xavier Giro-i-Nieto is an associate professor at the Universitat Politecnica de Catalunya (UPC) in Barcelona as a member of the Intelligent Data Science and Artificial Intelligence Research Center (IDEAI-UPC) and Image Processing Group (GPI), and also a visiting researcher at Barcelona Supercomputing Center (BSC). He graduated in Telecommunications Engineering at ETSETB (UPC) in 2000, after completing his master thesis on image compression at the Vrije Universiteit in Brussels (VUB) with Prof. Peter Schelkens. After working one year in Sony Brussels, he started a Ph.D. on computer vision, supervised by Prof. Ferran Marqués. In parallel, he designed and taught courses at the ESEIAAT (video content delivery) and ETSETB (deep learning) schools at UPC, as well as the Master in Computer Vision of Barcelona (video analysis). He visited multiple times the Digital Video and MultiMedia laboratory directed by Prof. Shih-Fu Chang at Columbia University in New York between[masked], with whom he keeps collaborating. He also works closely with the Insight Center of Data Analytics at Dublin City University and his industrial partners at Vilynx, Mediapro, and Crisalix. He serves as associate editor at IEEE Transactions in Multimedia and reviews for top tier conferences in machine learning (NeurIPS, ICML), computer vision (CVPR, ECCV, ICCV), and multimedia (ACMMM, ICMR).<\/p> <p>FORMAT<br/>This is a joint online event of Vienna Data Science Group, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar and Warsaw R Users Group.<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271817582/",
+    "textColor": "blue"
+  },
+  {
     "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Supporting grant for Women in Data Science",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-08-16",
@@ -1391,10 +1391,10 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group - Philippines: #78 Joint Meetup with AWS User Group / {Topics to be announced}",
+    "title": "R User Group - Philippines: #78 Joint Meetup with AWS User Group / R Beyond RAM / R on the Cloud",
     "group": "R User Group - Philippines",
-    "start": "2020-07-15",
-    "description": "<p>Please bring a valid ID.<\/p> ",
+    "start": "2020-07-22",
+    "description": "<p>Our annual tradition with AWS meetup group continues even in 2020!<\/p> <p>This meetup we will tackle the elephant in the room we have loved and lived with - R's limitation in handling large datasets and in-memory operations, confined within our RAM. Our resident Big Data R-chitect Rowen Remis Iral will share his tips and tricks on how to go beyond your RAM, while our suking R speaker and AWS co-organizer Joshua Arvin Lat will take R up, up and away on the cloud for processing data at scale!<\/p> <p>Surely a session you won't want to miss!<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybckbtb/",
     "textColor": "blue"
   },
@@ -1790,18 +1790,10 @@
     "textColor": "blue"
   },
   {
-    "title": "R en Rosario: Aplicando R desde casa: taller virtual de Web Scraping y R Markdown",
-    "group": "R en Rosario",
-    "start": "2020-07-09",
-    "description": "<p>R en Rosario regresa de manera virtual!!! En esta ocasión presentaremos dos talleres que podés seguir online:<br/>1) Los hermanos Franco y Esteban Cometto hablarán sobre Web Scraping con una aplicación para analizar el mercado inmobiliario.<br/>2) Federico Izzo nos contará su experiencia con R Markdown.<\/p> <p>Próximamente compartiremos el link para sumarse a la videollamada. Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/R-en-Rosario/events/271655433/",
-    "textColor": "blue"
-  },
-  {
     "title": "R en Buenos Aires: Salud Pública para Dateres",
     "group": "R en Buenos Aires",
     "start": "2020-07-14",
-    "description": "<p>¡Nuevo Meetup virtual de RenBaires!<\/p> <p>En esta ocasión, el Programa de Innovación Tecnológica en Salud Pública de la Facultad de Medicina de la UBA dará una charla sobre \"Salud Pública para dateres\" sobre las nociones básicas de la disciplina que pueden ayudar a interpretar, producir y analizar mejor los datos de COVID-19<\/p> <p>Nos estaremos encontrando por la plataforma Zoom el martes 14 de julio a las 18h y luego de la charla reservaremos espacio para preguntas de les asistentes.<\/p> <p>Si quieren saber más sobre las oradores las encuentran en: <a href=\"https://twitter.com/lab_fmed\" class=\"linkified\">https://twitter.com/lab_fmed<\/a> y en <a href=\"https://www.fmed.uba.ar/innovacion\" class=\"linkified\">https://www.fmed.uba.ar/innovacion<\/a>.<\/p> ",
+    "description": "<p>¡Nuevo Meetup virtual de RenBaires!<\/p> <p>En esta ocasión, el Programa de Innovación Tecnológica en Salud Pública de la Facultad de Medicina de la UBA dará una charla sobre \"Salud Pública para dateres\" sobre las nociones básicas de la disciplina que pueden ayudar a interpretar, producir y analizar mejor los datos de COVID-19<\/p> <p>Nos estaremos encontrando por la plataforma Zoom el martes 14 de julio a las 18h y luego de la charla reservaremos espacio para preguntas de les asistentes.<\/p> <p>Si quieren saber más sobre las oradores las encuentran en: <a href=\"https://twitter.com/lab_fmed\" class=\"linkified\">https://twitter.com/lab_fmed<\/a> y en <a href=\"https://www.fmed.uba.ar/innovacion\" class=\"linkified\">https://www.fmed.uba.ar/innovacion<\/a> .<\/p> ",
     "url": "https://www.meetup.com/renbaires/events/271782344/",
     "textColor": "blue"
   },
