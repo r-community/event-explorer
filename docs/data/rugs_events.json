@@ -208,6 +208,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Zurich R User Group: SummeR BeeR @ El Lokal",
+    "group": "Zurich R User Group",
+    "start": "2020-08-04",
+    "description": "<p>The world has changed. The epidemiological, social, economic and geopolitical effects of the SARS-CoV-2 pandemic will linger on for a long time. ... We are planning to try to bring back a bit of normality by organizing a social gathering at El Lokal (Gessner-Allee 11, Zürich), for the first time in many months. Meet enthusiastic R users &amp; have fun. Hope to see you there!<\/p> <p>- What to bring: Good mood.<\/p> <p>- Location: El Lokal, Gessner-Allee 11, Zürich, <a href=\"http://www.ellokal.ch/\" class=\"linkified\">http://www.ellokal.ch/<\/a><\/p> <p>- IMPORTANT: The event is weather INdependent!<\/p> <p>Apologies for the short notice, we still hope you can make it and enjoy an evening with the local R community.<\/p> ",
+    "url": "https://www.meetup.com/Zurich-R-User-Group/events/272105024/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Greater Cleveland R Group: Virtual R Café",
     "group": "Greater Cleveland R Group",
     "start": "2020-07-11",
@@ -479,6 +487,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2020-08-04",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybclbgb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Auckland: Me, Myself, and R",
     "group": "R-Ladies Auckland",
     "start": "2020-07-20",
@@ -548,6 +564,22 @@
     "start": "2020-07-07",
     "description": "<p>Hi everyone,<\/p> <p>The R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<br/>Join us for our next meeting, in which Semiramis Castro will present the key points of Chapter 8: \"Conditions\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>You can find the full schedule and more information here: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>And sign up to discuss one of the chapters at <a href=\"https://bit.ly/2QBYGEG\" class=\"linkified\">https://bit.ly/2QBYGEG<\/a>!<\/p> <p>ABOUT Semiramis<br/>----------------------<br/>Semiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.<\/p> <p>ABOUT the chapter<br/>----------------------<br/>“Conditions” is the umbrella term used to describe errors, warnings, and messages. You’ve certainly encountered these before, so in this chapter you learn how to signal them appropriately in your own functions, and how to handle them when signalled elsewhere.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter in advance!<br/>Note that Jitsi works best with chrome<\/p> <p>LINK TO MEETUP<br/>----------------------<br/><a href=\"https://meet.jit.si/rladiesnl_bookclub_chp8\" class=\"linkified\">https://meet.jit.si/rladiesnl_bookclub_chp8<\/a><\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-rotterdam/events/271674531/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Twin Cities: SampleR PlatteR Night",
+    "group": "R-Ladies Twin Cities",
+    "start": "2020-08-04",
+    "description": "<p>Get a 15-20 minute taste of some R topics!<\/p> <p>We have 3 great R ladies lined up:<br/>-Joan Hinrichs: Methods for analyzing healthcare utilization and cost in R<br/>-Sarah Tonn: R road map to Real World Data (RWD)<br/>-Wei Zang: The reticulate package - using Python in R<\/p> ",
+    "url": "https://www.meetup.com/rladies-tc/events/271483710/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Cambridge: Reproducible computation at scale with drake",
+    "group": "R-Ladies Cambridge",
+    "start": "2020-08-04",
+    "description": "<p>The techniques in this tutorial enhance the maintainability, hygiene, speed, scale, and reproducibility of complicated projects with long runtimes. The drake R package resolves the dependency structure of data analysis pipelines, skips tasks that are already up to date, and cleanly organizes the output. Workflows with drake are efficient to maintain, and they provide tangible evidence that the results are synchronized with the underlying code and data, which increases one’s ability to trust the conclusions of the research.<\/p> <p>Learning objectives:<br/>1. Function-oriented programming: participants will learn to express data analysis tasks as user-defined<br/>functions, experience the advantages of functions relative to imperative scripts, and understand the role<br/>of functions in drake-powered projects.<br/>2. Declarative workflows: students will declare targets to represent data analysis artifacts, identify the<br/>dependencies of those targets, and inspect the emergent dependency structures of entire workflows.<br/>3. Project maintenance: students will experience drake’s responses to changing code and data, and they<br/>will understand the conditions that allow drake to skip computation and save time.<br/>4. Large plans: participants will practice declaring large collections of targets compactly using drake’s<br/>domain-specific language.<\/p> <p>Computing requirements:<br/>Each participant must have a laptop with a web browser and the ability to connect to the internet. Students will spend most of their time<br/>working through R notebooks and supporting Shiny applications.<br/>• notebooks: <a href=\"https://github.com/wlandau/learndrake/tree/master/inst/notebooks\" class=\"linkified\">https://github.com/wlandau/learndrake/tree/master/inst/notebooks<\/a><br/>• learndrakeflow app: <a href=\"https://wlandau.shinyapps.io/learndrakeflow\" class=\"linkified\">https://wlandau.shinyapps.io/learndrakeflow<\/a><br/>• learndrakeplans app: <a href=\"https://wlandau.shinyapps.io/learndrakeplans\" class=\"linkified\">https://wlandau.shinyapps.io/learndrakeplans<\/a><br/>• drakeplanner app: <a href=\"https://wlandau.shinyapps.io/drakeplanner\" class=\"linkified\">https://wlandau.shinyapps.io/drakeplanner<\/a><br/>Online RStudio Server instances will be provided so participants can interact with the notebooks without<br/>needing to install anything locally.<\/p> <p>The instructor:<br/>Will Landau received his PhD in Statistics at Iowa State University in 2016. His dissertation research<br/>introduced a novel fully Bayesian, hierarchical model-driven, GPU-accelerated approach to the analysis of heterosis gene expression data (Landau, Niemi, and Nettleton 2019). He currently works at Eli Lilly and<br/>Company, where he develops capabilities for clinical statisticians.<br/>Will is the creator and maintainer of rOpenSci’s drake R package. His most recent presentations on drake are the rOpenSci Community Call on September 24, 2019 (video recording at <a href=\"https://ropensci.org/commcalls/\" class=\"linkified\">https://ropensci.org/commcalls/<\/a><br/>2019-09-24) (Landau and Butland 2019) and a half-day workshop at R/Pharma 2019 (Landau 2019).<\/p> <p><a href=\"https://www.linkedin.com/in/wlandau/\" class=\"linkified\">https://www.linkedin.com/in/wlandau/<\/a><br/><a href=\"https://wlandau.github.io\" class=\"linkified\">https://wlandau.github.io<\/a><br/><a href=\"https://github.com/wlandau\" class=\"linkified\">https://github.com/wlandau<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-cambridge/events/271866242/",
     "textColor": "#7171fb"
   },
   {
@@ -652,6 +684,14 @@
     "start": "2020-08-01",
     "description": "<p>Hola, r-ladies!<\/p> <p>Nuestras compañeras de Barranquilla nos animaron a participar en este meetup con los datos de España y no hemos querido dejar pasar esta ocasión de colaborar en un asunto tan importante. Sabemos que es un meetup un tanto inusual porque será 1) en pleno verano 2) online 3) sobre más un tema social y menos técnico que de costumbre, pero creemos que puede ser muy interesante.<\/p> <p>Se trata de una mesa redonda en la que analizaremos la situación actual de Colombia, México y España referente a los casos de violencia intrafamiliar durante la cuarentena debido al COVID-19. Presentaremos dashboards elaborados con RStudio donde se pueden visualizar todas las estadísticas correspondientes a cada uno de los países, y mostraremos los resultados y las variaciones en los índices de violencia.<\/p> <p>Contaremos con la presencia de profesionales, quienes nos ayudarán a analizar la situación por medio de preguntas y comentarios del público asistente para que desde la óptica profesional tengamos un acercamiento de lo que pueden ser las causas o condiciones que ocasionan el posible incremento de la violencia en medio de la pandemia.<\/p> <p>El meetup se realizará por la plataforma virtual ZOOM; el enlace se compartirá minutos antes del evento.<\/p> ",
     "url": "https://www.meetup.com/rladies-madrid/events/272169220/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Amsterdam: [ONLINE] Function Factories! R-Ladies NL book club Advanced R Chapter 10",
+    "group": "R-Ladies Amsterdam",
+    "start": "2020-08-04",
+    "description": "<p>Hi everyone,<\/p> <p>The R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<br/>Join us for our next meeting, in which Sarah Stolle will present the key points of Chapter 10: “Function Factories\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>You can find the full schedule and more information here: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>Add questions and expectations in the collaborative HackMD:<br/><a href=\"https://hackmd.io/jwzoC61qRTOn8C3t3_X-kA?both\" class=\"linkified\">https://hackmd.io/jwzoC61qRTOn8C3t3_X-kA?both<\/a><\/p> <p>Also feel free to sign up to discuss one of the chapters there!<\/p> <p>ABOUT SARAH<br/>----------------------<br/>Sarah has a history in molecular life science and learned R during her PhD studies in the Biology of Ageing. After her academic studies she transitioned into a career in Data Science. She now works as a Data Scientist for Heineken in Amsterdam. Her main programming language at the moment is Python, but she keeps her love for R alive through R-Ladies and in personal projects.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter (10) in advance!<\/p> <p>LINK TO MEETUP<br/>———————————<br/>See on the right<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-amsterdam/events/272213195/",
     "textColor": "#7171fb"
   },
   {
@@ -1190,11 +1230,27 @@
     "textColor": "blue"
   },
   {
+    "title": "Montreal R User Group: Accurate de-identification, obfuscation and editing of scanned medical documents",
+    "group": "Montreal R User Group",
+    "start": "2020-08-19",
+    "description": "<p>Register here: <a href=\"https://hubs.ly/H0tjQ4Q0\" class=\"linkified\">https://hubs.ly/H0tjQ4Q0<\/a><\/p> <p>One kind of noisy data that healthcare data scientists deal with is scanned documents and images: from PDF attachments of lab results, referrals, or genetic testing to DICOM files with medical imaging. These files are challenging to de-identify, because personal health information (PHI) can appear anywhere in free text – so cannot be removed with rules or regular expressions – or “burned” into images so that it’s not even available as digital text to begin with.<\/p> <p>This webinar presents a software system that tackles these challenges, with lessons learned from applying it in real-world production systems. The workflow uses:<\/p> <p>- Spark OCR to extract both digital and scanned text from PDF and DICOM files<br/>- Spark NLP for Healthcare to recognize sensitive data in the extracted free text<br/>- The de-identification module to delete, replace, or obfuscate PHI<br/>- Spark OCR to generate new PDF or DICOM file with the de-identified data<br/>- Run the whole workflow within a local secure environment, with no need to share data with any third party or a public cloud API<\/p> <p>Register here: <a href=\"https://hubs.ly/H0tjQ4Q0\" class=\"linkified\">https://hubs.ly/H0tjQ4Q0<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/272377049/",
+    "textColor": "blue"
+  },
+  {
     "title": "Montreal R User Group: Breaking into AI: ML in the Real World",
     "group": "Montreal R User Group",
     "start": "2020-08-20",
     "description": "<p>Register here: <a href=\"https://hubs.ly/H0tcMYG0\" class=\"linkified\">https://hubs.ly/H0tcMYG0<\/a><\/p> <p>Do you want to build a career the field of AI? Join the session where 2 IBM data scientists from Data Science and AI Elite Team will share with you their journey to AI, the challenges they faced, interview tips and useful resources, along with their experience applying ML to real-world client problems by leveraging their earlier experiences.<\/p> <p>Register here: <a href=\"https://hubs.ly/H0tcMYG0\" class=\"linkified\">https://hubs.ly/H0tcMYG0<\/a><\/p> ",
     "url": "https://www.meetup.com/Montreal-R-User-Group/events/272334121/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Montreal R User Group: DSSe Virtual Salon | Volume 4",
+    "group": "Montreal R User Group",
+    "start": "2020-08-27",
+    "description": "<p>Register here: <a href=\"https://bit.ly/33pGjtJ\" class=\"linkified\">https://bit.ly/33pGjtJ<\/a><\/p> <p>Data Science Salon Elevate is a unique female focused virtual conference which brings together specialists to educate each other, illuminate best practices and innovate new solutions. Learn as female thought leaders share their wisdom and experience in their chosen field.<\/p> <p>Hear from:<br/>- Sivan Aldor-Noiman, Head of Data Science and Data Engineering at Wellio<br/>- Nandika Donthi, Data Engineer - Active Learning at Wellio<br/>- Amy Gershkoff Bolles, Chief Data Officer at BitlyIQ<br/>- Anupama Joshi, Director, AI – Pesonalization, Computer Vision and MLaaS at Target<br/>- Nicole Hu, CTO at One Concern<br/>- Rhonda Textor, Head of Data Science at True Fit<\/p> <p>Register here: <a href=\"https://bit.ly/33pGjtJ\" class=\"linkified\">https://bit.ly/33pGjtJ<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/272363661/",
     "textColor": "blue"
   },
   {
@@ -1214,11 +1270,11 @@
     "textColor": "blue"
   },
   {
-    "title": "Zurich R User Group: SummeR BeeR @ El Lokal",
-    "group": "Zurich R User Group",
-    "start": "2020-08-04",
-    "description": "<p>The world has changed. The epidemiological, social, economic and geopolitical effects of the SARS-CoV-2 pandemic will linger on for a long time. ... We are planning to try to bring back a bit of normality by organizing a social gathering at El Lokal (Gessner-Allee 11, Zürich), for the first time in many months. Meet enthusiastic R users &amp; have fun. Hope to see you there!<\/p> <p>- What to bring: Good mood.<\/p> <p>- Location: El Lokal, Gessner-Allee 11, Zürich, <a href=\"http://www.ellokal.ch/\" class=\"linkified\">http://www.ellokal.ch/<\/a><\/p> <p>- IMPORTANT: The event is weather INdependent!<\/p> <p>Apologies for the short notice, we still hope you can make it and enjoy an evening with the local R community.<\/p> ",
-    "url": "https://www.meetup.com/Zurich-R-User-Group/events/272105024/",
+    "title": "Montreal R User Group: IM DATA [virtual]",
+    "group": "Montreal R User Group",
+    "start": "2020-11-02",
+    "description": "<p>Register here: <a href=\"https://bit.ly/31kvurO\" class=\"linkified\">https://bit.ly/31kvurO<\/a><\/p> <p>Join us for Innovative Methods with Data Science and AI. RMDS’s annual conference has officially transitioned into a virtual experience, allowing for two days of groundbreaking content from experts in the field of data science, AI, machine learning and more.<\/p> <p>This multi-track conference will focus on three main areas:<\/p> <p>- Innovative Methods with Data Science and AI<br/>- Data and AI for COVID-19 and Healthcare<br/>- AI, Machine Learning and Deep Learning.<\/p> <p>Register here: <a href=\"https://bit.ly/31kvurO\" class=\"linkified\">https://bit.ly/31kvurO<\/a><\/p> <p>Interested in speaking? Apply here: <a href=\"https://bit.ly/2BcwLXp\" class=\"linkified\">https://bit.ly/2BcwLXp<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/271541248/",
     "textColor": "blue"
   },
   {
@@ -1382,6 +1438,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Wiesbaden R User Group: R Coffee Break - R und das S3-Objekt-System ",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-08-19",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Nach unserer 2-wöchigen Sommerpause beleuchten wir das Thema S3-Objekt-System etwas genauer.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Kenncode: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/272373901/",
+    "textColor": "blue"
+  },
+  {
     "title": "Wiesbaden R User Group: Azure Machine Learning Services mit R nutzen",
     "group": "Wiesbaden R User Group",
     "start": "2020-10-06",
@@ -1403,6 +1467,14 @@
     "start": "2020-08-10",
     "description": "<p>È tempo di un nuovo sondaggio per #sviluppatori e data scientists!<\/p> <p>Questo non è un evento ma un invito ad aiutarci a raggiungere un obiettivo che ad RLadies Italy ci siamo prefissati con partner di #DeveloperEconomics<\/p> <p>*Quali nuovi skills vorresti migliorare nel 2021? Quali strumenti o piattaforme di sviluppo diventeranno obsolete durante il prossimo anno?*<\/p> <p>Abbiamo deciso di supportare il nuovo questionario Developer Economics survey Q2 2020 per avere delle risposte.<br/>Il questionario è molto chiaro e diretto al sodo. Condividi le tue opinioni su i più popolari strumenti di sviluppo, piattaforme, tecnologie e framework. Cosa ti piace usare? Cosa hai provato ma poi subito abbandonato perché non abbastanza intuitivo, o cosa vorresti conoscere meglio?<\/p> <p>Rispondi a queste domande per aiutarci a scoprire cosa manca sul mercato. Il questionario è aperto solo a sviluppatori e data scientists, ma invita tutti a partecipare: studenti, professionisti, e coloro che si dilettano per hobby. I risultati saranno disponibili in autunno e pubblicati nel nuovo State of the Developer Nation (disponibile gratuitamente per tutti!). Qui avrai grafici e informazioni su trend globali che potrai utilizzare per avere un quadro più amplio e aggiornato del mercato.<\/p> <p>Coloro che si registrano e completano il questionario parteciperanno automaticamente all'estrazione di uno dei premi in palio. Il montepremi ammonta a +15 mila $, e sono inclusi premi tipo iPhone 11, Oculus Quest 64GB, JetBrains All Product Pack, Corsair Mechanical Gaming keyboard, Cloud Guru license, più una serie di gadgets e accessori, e vouchers Amazon. Sei pronto per una sfida? Ci sono altri 1000 $ in cash come premio se spargi la voce e altri sviluppatori partecipano al questionario.<\/p> <p>Un'altra cosa che è veramente importante è che per ogni questionario completato, doneremo $0.10 a Techfugees per supportare e aiutare gli sviluppatori di domani.<\/p> <p>Il questionario è aperto fino al 10 agosto, non perdere quest'occasione!<br/>I risultati del sondaggio sono ciò su cui si basa l'intero ecosistema per creare nuovi strumenti, piattaforme che saranno utilizzate in futuro da voi sviluppatori.<\/p> <p>Fallo per R-Ladies Bari. Se arriviamo ad un numero di risposte valide otterremo dei fondi da investire in un progetto congiunto tra RLadies Bari e RLadies Milano.<\/p> <p>Inizia qui 🚀<br/><a href=\"https://developereconomics.net?member_id=rladies_italy&amp;lang=en\" class=\"linkified\">https://developereconomics.net?member_id=rladies_italy&amp;lang=en<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-bari/events/271187316/",
+    "textColor": "blue"
+  },
+  {
+    "title": "LondonR: LondonR online August 2020: Register via Ti.to for link",
+    "group": "LondonR",
+    "start": "2020-08-25",
+    "description": "<p>Hello and welcome to LondonR online! While we cannot safely meet in person we will be hosting online meet ups. So grab a drink and join us on Tuesday 25th August at 5pm BST.<\/p> <p>Register here for a ticket: <a href=\"https://ti.to/londonr/londonr-25aug-2020\" class=\"linkified\">https://ti.to/londonr/londonr-25aug-2020<\/a><\/p> ",
+    "url": "https://www.meetup.com/LondonR/events/272374614/",
     "textColor": "blue"
   },
   {
@@ -1491,14 +1563,6 @@
     "start": "2020-08-19",
     "description": "<p>* What are we going to learn?<br/>In this session we will have short examples of how R is used in Biology.<br/>- R can be used for data management. Showing the benefits of R, allowing for replication and record keeping.<br/>- visualising Gene Ontology enrichment results using the GOPlot package.<\/p> <p>* Who is going to present?<br/>Valentine Murigneux<br/>Anna Vinkhuyzen<br/>Anna Jaeschke<\/p> <p>* When are we meeting?<br/>We would like to invite everyone to meet at 5:30 pm for a little virtual chat. An opportunity to say hi before starting the presentation at 6:00 pm and going for 1.5 hours.<\/p> <p>************The presentation will start at 6:00 pm.************<br/>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>If you want to install the packages from this presentation you can install them on the R console:<\/p> <p># Copy this code if you want to try the packages<br/>install.packages(\"qqman\", \"plyr\", \"platetools\", \"ggplot2\", \"viridis\", \"data.table\", \"janitor\", \"RDAVIDWebService\", \"GOplot\")<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/272075776/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2020-08-04",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybclbgb/",
     "textColor": "blue"
   },
   {
@@ -1630,22 +1694,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Twin Cities: SampleR PlatteR Night",
-    "group": "R-Ladies Twin Cities",
-    "start": "2020-08-04",
-    "description": "<p>Get a 15-20 minute taste of some R topics!<\/p> <p>We have 3 great R ladies lined up:<br/>-Joan Hinrichs: Methods for analyzing healthcare utilization and cost in R<br/>-Sarah Tonn: R road map to Real World Data (RWD)<br/>-Wei Zang: The reticulate package - using Python in R<\/p> ",
-    "url": "https://www.meetup.com/rladies-tc/events/271483710/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Cambridge: Reproducible computation at scale with drake",
-    "group": "R-Ladies Cambridge",
-    "start": "2020-08-04",
-    "description": "<p>The techniques in this tutorial enhance the maintainability, hygiene, speed, scale, and reproducibility of complicated projects with long runtimes. The drake R package resolves the dependency structure of data analysis pipelines, skips tasks that are already up to date, and cleanly organizes the output. Workflows with drake are efficient to maintain, and they provide tangible evidence that the results are synchronized with the underlying code and data, which increases one’s ability to trust the conclusions of the research.<\/p> <p>Learning objectives:<br/>1. Function-oriented programming: participants will learn to express data analysis tasks as user-defined<br/>functions, experience the advantages of functions relative to imperative scripts, and understand the role<br/>of functions in drake-powered projects.<br/>2. Declarative workflows: students will declare targets to represent data analysis artifacts, identify the<br/>dependencies of those targets, and inspect the emergent dependency structures of entire workflows.<br/>3. Project maintenance: students will experience drake’s responses to changing code and data, and they<br/>will understand the conditions that allow drake to skip computation and save time.<br/>4. Large plans: participants will practice declaring large collections of targets compactly using drake’s<br/>domain-specific language.<\/p> <p>Computing requirements:<br/>Each participant must have a laptop with a web browser and the ability to connect to the internet. Students will spend most of their time<br/>working through R notebooks and supporting Shiny applications.<br/>• notebooks: <a href=\"https://github.com/wlandau/learndrake/tree/master/inst/notebooks\" class=\"linkified\">https://github.com/wlandau/learndrake/tree/master/inst/notebooks<\/a><br/>• learndrakeflow app: <a href=\"https://wlandau.shinyapps.io/learndrakeflow\" class=\"linkified\">https://wlandau.shinyapps.io/learndrakeflow<\/a><br/>• learndrakeplans app: <a href=\"https://wlandau.shinyapps.io/learndrakeplans\" class=\"linkified\">https://wlandau.shinyapps.io/learndrakeplans<\/a><br/>• drakeplanner app: <a href=\"https://wlandau.shinyapps.io/drakeplanner\" class=\"linkified\">https://wlandau.shinyapps.io/drakeplanner<\/a><br/>Online RStudio Server instances will be provided so participants can interact with the notebooks without<br/>needing to install anything locally.<\/p> <p>The instructor:<br/>Will Landau received his PhD in Statistics at Iowa State University in 2016. His dissertation research<br/>introduced a novel fully Bayesian, hierarchical model-driven, GPU-accelerated approach to the analysis of heterosis gene expression data (Landau, Niemi, and Nettleton 2019). He currently works at Eli Lilly and<br/>Company, where he develops capabilities for clinical statisticians.<br/>Will is the creator and maintainer of rOpenSci’s drake R package. His most recent presentations on drake are the rOpenSci Community Call on September 24, 2019 (video recording at <a href=\"https://ropensci.org/commcalls/\" class=\"linkified\">https://ropensci.org/commcalls/<\/a><br/>2019-09-24) (Landau and Butland 2019) and a half-day workshop at R/Pharma 2019 (Landau 2019).<\/p> <p><a href=\"https://www.linkedin.com/in/wlandau/\" class=\"linkified\">https://www.linkedin.com/in/wlandau/<\/a><br/><a href=\"https://wlandau.github.io\" class=\"linkified\">https://wlandau.github.io<\/a><br/><a href=\"https://github.com/wlandau\" class=\"linkified\">https://github.com/wlandau<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-cambridge/events/271866242/",
-    "textColor": "blue"
-  },
-  {
     "title": "trigeR - Trójmiejska Grupa Entuzjastów R: Why R? 2020 Conference - Remote!",
     "group": "trigeR - Trójmiejska Grupa Entuzjastów R",
     "start": "2020-09-24",
@@ -1704,7 +1752,7 @@
   {
     "title": "R-Ladies Freiburg: Intro to Shiny!",
     "group": "R-Ladies Freiburg",
-    "start": "2020-08-05",
+    "start": "2020-08-11",
     "description": "<p>In this meetup we will do an introductory walkthrough of Shiny apps.<\/p> <p>Shiny is a web development platform developed through R Studio that allows R users to make interactive interfaces for data manipulation and visualization. Some great examples of what can be done using Shiny can be found here <a href=\"https://shiny.rstudio.com/gallery/\" class=\"linkified\">https://shiny.rstudio.com/gallery/<\/a>.<\/p> <p>During the tutorial we will introduce Shiny and build a first Shiny App together. R-users of all levels are welcome, only basic experience with R and R-Studio is necessary.<\/p> <p>Important!<br/>The meetup will be hosted online via Zoom -- the link will be sent out via Meetup around 15 minutes before the start time.<\/p> ",
     "url": "https://www.meetup.com/rladies-freiburg/events/272211757/",
     "textColor": "blue"
@@ -1731,14 +1779,6 @@
     "start": "2020-08-07",
     "description": "<p>Las R-Ladies Ecuador te traemos el tutorial 'Machine learning con mlr3' que dictarán Bernd Bischl y Michel Lang, el cual es parte de useR! 2020.<\/p> <p>En este tutorial con duración de tres horas, aprenderás sobre el paquete mlr3 de R para llevar a cabo procesos de aprendizaje automático (machine learning, ML) avanzados. El ecosistema mlr3 provee una solución completa para todas tus necesidades de ML, incluyendo pre-procesamiento de datos, diseño y evaluación de modelos de aprendizaje automático, conjuntos de modelos (ensembles), visualizaciones, y ajuste de hiperparámetros (a través de mlr3tuning). El proceso (pipeline) mlr3pipelines permite expresar flujos de trabajo complejos de manera sencilla, y probar nuevas ideas y aplicaciones. mlr3 puede ayudar a hacer tu flujo de trabajo más fácil de leer y más eficiente sin importar el tipo de problema o aplicación que quieras resolver con ML.<\/p> <p>Este tutorial está dirigido a usuarios con un conocimiento de conceptos básicos de aprendizaje automático (machine learning), pero no necesariamente debes tener conocimiento previo del paquete mlr3. Los participantes también deberán tener al menos un conocimiento intermedio de R y conocer los tipos de datos generales utilizados por R, así como habilidad para llevar a cabo operaciones básicas. Es preferible que tengan experiencia con R6 y data.table, pero no es esencial.<\/p> <p>Puedes acceder al material del curso a través del repositorio de GitHub: <a href=\"https://github.com/mlr-org/user2020\" class=\"linkified\">https://github.com/mlr-org/user2020<\/a> . Puedes descargar los material con antelación para que puedas seguir el curso en vivo, o para practicar los ejercicios en cualquier otro momento. El tutorial será en inglés, pero tendremos subtítulos disponibles en español para que nos puedas seguir con facilidad.<\/p> <p>Recuerda que al participar en nuestros eventos deberás aceptar el código de conducta de R-Ladies ( <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a> ), así como el de useR! 2020 ( <a href=\"https://user2020.r-project.org/codeofconduct/\" class=\"linkified\">https://user2020.r-project.org/codeofconduct/<\/a> ).<\/p> <p>Nuestros eventos están abiertos a todos los miembros de la comunidad de R, pero incentivamos particularmente a mujeres y miembros de grupos minoritarios a registrarse con nosotras.<\/p> <p>**English**<br/>R-Ladies Ecuador is bringing you the online tutorial: 'Machine learning con mlr3' taught by Bernd Bischl and Michel Lang, which is part of useR! 2020.<\/p> <p>In this three hour tutorial you will be introduced to the mlr3 R package for modern, state-of-the-art machine learning (ML). The mlr3 ecosystem provides a one-stop solution for all ML needs, spanning preprocessing, model learning and evaluation, ensembles, visualization, and hyperparameter tuning (via mlr3tuning). Its pipeline system mlr3pipelines allows to easily express complex workflows, and to quickly prototype new ideas and applications. Whether you are applying ML to solve a practical prediction problem, implementing learning algorithms as a research software engineer or researching ML by empirical means, mlr3 can help make your workflow more readable and efficient.<\/p> <p>We target to users with at least basic knowledge of ML concepts who are not yet familiar with mlr3. We require a working knowledge of R at medium level. One should know R's general type system and basic operations. Some experience with R6 and data.table definitely help, but is not essential.<\/p> <p>You can access all course material through GitHub: <a href=\"https://github.com/mlr-org/user2020\" class=\"linkified\">https://github.com/mlr-org/user2020<\/a> . You can dowload all the material prior to the course so you can follow the instructions live, or you can also use the materials to practice exercises on your own time. The tutorial will be taught in English, but subtitles will be available.<\/p> <p>When you participate in our events, remember that you are accepting the R-Ladies code of conduct ( <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a> ) as well as that from useR! 2020 ( <a href=\"https://user2020.r-project.org/codeofconduct/\" class=\"linkified\">https://user2020.r-project.org/codeofconduct/<\/a> ).<\/p> <p>Everyone is welcome, but we encourage women and people from minority groups to join our events.<\/p> ",
     "url": "https://www.meetup.com/rladies-guayaquil/events/272260450/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Amsterdam: [ONLINE] Function Factories! R-Ladies NL book club Advanced R Chapter 10",
-    "group": "R-Ladies Amsterdam",
-    "start": "2020-08-04",
-    "description": "<p>Hi everyone,<\/p> <p>The R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<br/>Join us for our next meeting, in which Sarah Stolle will present the key points of Chapter 10: “Function Factories\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>You can find the full schedule and more information here: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>Add questions and expectations in the collaborative HackMD:<br/><a href=\"https://hackmd.io/jwzoC61qRTOn8C3t3_X-kA?both\" class=\"linkified\">https://hackmd.io/jwzoC61qRTOn8C3t3_X-kA?both<\/a><\/p> <p>Also feel free to sign up to discuss one of the chapters there!<\/p> <p>ABOUT SARAH<br/>----------------------<br/>Sarah has a history in molecular life science and learned R during her PhD studies in the Biology of Ageing. After her academic studies she transitioned into a career in Data Science. She now works as a Data Scientist for Heineken in Amsterdam. Her main programming language at the moment is Python, but she keeps her love for R alive through R-Ladies and in personal projects.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter (10) in advance!<\/p> <p>LINK TO MEETUP<br/>———————————<br/>Will be announced later. Stay tuned.<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-amsterdam/events/272213195/",
     "textColor": "blue"
   },
   {
@@ -1769,7 +1809,7 @@
     "title": "Bauchi R User Group (BauchiRUG): Why R? 2020 Pre-meeting Bauchi",
     "group": "Bauchi R User Group (BauchiRUG)",
     "start": "2020-08-15",
-    "description": "<p>Why R? pre-meetings are R meetups that support local R groups. They promote Why R? 2020 Conference.<\/p> <p>OUR SPEAKER: Her name is Shel Kariuki. Shel is a Senior Data Analyst based in Nairobi, Kenya. She is an RStudio Certified Tidyverse trainer, and recently worked as a Research Manager at Geopoll, and as a Data Analyst at Busara Center for Behavioral Economics. She had previously worked as an assistant lecturer in various Kenyan universities, teaching units in Statistics and Actuarial Science. She has a Bsc in Actuarial Science and Msc in Applied Statistics from JKUAT. She has extensive experience in data analysis using R and Python. She co-organizes a community of R users in Nairobi #NairobiR and in Africa #AfricaR.<br/>In her own words: \"One of the missions of my community work is to make sure that we have an increased number of R adopters, in Africa. I am very passionate about training and using data analytics to drive development projects in Africa.\"<br/>For more about her works, visit <a href=\"https://shelkariuki.netlify.app/\" class=\"linkified\">https://shelkariuki.netlify.app/<\/a><\/p> <p>Event Agenda:<br/>10:00 am -------------------Welcome!<br/>10:10 am --------------------Codelab: Introduction to Package Development<br/>11:00 am --------------------Break<br/>11:15 am ---------------------Codelab Continues<br/>12:00 pm -------------------Q&amp;As<\/p> ",
+    "description": "<p>Why R? pre-meetings are R meetups that support local R groups. They promote Why R? 2020 Conference.<\/p> <p>OUR SPEAKER: Her name is Shelmith Kariuki. Shel is a Senior Data Analyst based in Nairobi, Kenya. She is an RStudio Certified Tidyverse trainer, and recently worked as a Research Manager at Geopoll, and as a Data Analyst at Busara Center for Behavioral Economics. She had previously worked as an assistant lecturer in various Kenyan universities, teaching units in Statistics and Actuarial Science. She has a Bsc in Actuarial Science and Msc in Applied Statistics from JKUAT. She has extensive experience in data analysis using R and Python. She co-organizes a community of R users in Nairobi #NairobiR and in Africa #AfricaR.<br/>In her own words: \"One of the missions of my community work is to make sure that we have an increased number of R adopters, in Africa. I am very passionate about training and using data analytics to drive development projects in Africa.\"<br/>For more about her works, visit <a href=\"https://shelkariuki.netlify.app/\" class=\"linkified\">https://shelkariuki.netlify.app/<\/a><\/p> <p>Note: This event is made possible thanks to the generous support from WhyR? Foundation. They can be found at <a href=\"https://2020.whyr.pl/\" class=\"linkified\">https://2020.whyr.pl/<\/a>.<\/p> <p>Event Agenda:<br/>10:00 am -------------------Welcome!<br/>10:10 am --------------------Codelab: Introduction to Package Development<br/>11:00 am --------------------Break<br/>11:15 am ---------------------Codelab Continues<br/>12:00 pm -------------------Q&amp;As<\/p> ",
     "url": "https://www.meetup.com/Bauchi-R-User-Group-BauchiRUG/events/272336756/",
     "textColor": "blue"
   },
@@ -1950,7 +1990,7 @@
     "textColor": "blue"
   },
   {
-    "title": "Bamako Data Science: useR 2020 tutorials: End-to End Machine Learning With Netflix's Metflow",
+    "title": "Bamako Data Science: useR 2020 tutorials: End-to End Machine Learning With Netflix's Metaflow",
     "group": "Bamako Data Science",
     "start": "2020-08-07",
     "description": "<p>Bonjour chers data scientists,<\/p> <p>Dans le cadre de la conférence useR 2020, nous co-organisons avec Abidjan R User Group et DakaR R User Group un tutoriel sur Metaflow de 3h qui sera animé par une équipe de data scientist:<br/>- Savin Goyal, Sofware engineer, Netflix;<br/>- Jason Ge, Sofware engineer, Netflix;<br/>- Bryan Galvin, Director of Data Science, LA Times.<\/p> <p>Metaflow est un des nouveaux outils de data science de Netflix et nous allons découvrir en avant première la version R de cet outil.<\/p> <p>En plus de confirmer votre présence sur le site Meetup, vous êtes invités à vous inscrire sur EventBrite: <a href=\"https://www.eventbrite.com/e/metaflow-tutorial-user-2020-registration-114326317092\" class=\"linkified\">https://www.eventbrite.com/e/metaflow-tutorial-user-2020-registration-114326317092<\/a><\/p> <p>Je vous remercie encore en espérant vous que serez nombreux à vous inscrire.<\/p> <p>Fousseynou.<\/p> ",
