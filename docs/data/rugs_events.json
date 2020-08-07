@@ -184,14 +184,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Montreal R User Group: Using Python with a Massively Parallel Database to Predict COVID-19 Numbers",
-    "group": "Montreal R User Group",
-    "start": "2020-07-07",
-    "description": "<p>Register here: <a href=\"https://bit.ly/3e483H5\" class=\"linkified\">https://bit.ly/3e483H5<\/a><\/p> <p>Python is a powerful programming language that is a good choice for many types of analytics. It is rapidly becoming the language of choice for scientists and researchers of many types. Now by combining a massively parallel (MPP) database like Vertica with Python, you can overcome many scale and analytics challenges that can limit Python users.<\/p> <p>Join this session to see a live demo of Vertica’s built-in integration with Python to measure and predict key numbers of the COVID-19 pandemic by using historical data on the number of cases and fatalities per state to predict the results for the following day.<\/p> <p>Register here: <a href=\"https://bit.ly/3e483H5\" class=\"linkified\">https://bit.ly/3e483H5<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/271312291/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Montreal R User Group: [Virtual] MLOps Salon",
     "group": "Montreal R User Group",
     "start": "2020-07-15",
@@ -221,6 +213,14 @@
     "start": "2020-07-30",
     "description": "<p>Data Science Salon wants to encourage, inspire and transcend this current climate of COVID 19!<\/p> <p>About this Event<br/>Data Science Salon Elevate is a unique female focused virtual conference which brings together specialists to educate each other, illuminate best practices and innovate new solutions. Learn as female thought leaders share their wisdom and experience in their chosen field.<\/p> <p>Register here: <a href=\"https://bit.ly/31iD4Ub\" class=\"linkified\">https://bit.ly/31iD4Ub<\/a><\/p> <p>Apply to speak at the next one: <a href=\"https://formulatedby.typeform.com/to/qlr8Va\" class=\"linkified\">https://formulatedby.typeform.com/to/qlr8Va<\/a><\/p> ",
     "url": "https://www.meetup.com/Montreal-R-User-Group/events/271463203/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Montreal R User Group: [Webinar] Interpretable Machine Learning for Enterprise Applications",
+    "group": "Montreal R User Group",
+    "start": "2020-08-06",
+    "description": "<p>Register here: <a href=\"https://bit.ly/2CfWz58\" class=\"linkified\">https://bit.ly/2CfWz58<\/a><\/p> <p>This webinar will focus on showing how leading companies leverage Machine Learning and Data Science in multiple industries.<\/p> <p>Our speakers will:<\/p> <p>- Show how to build interpretable time series models<br/>- Cover the most common problems in enterprise operations<br/>- Address AI applications in clinical development<\/p> <p>Schedule:<\/p> <p>11:00-11:30 AM PDT:<br/>Interpretable Forecasting Models: Decomposition of Demand and Other Enterprise Time Series by Ilya Katsov, Head of Data Science, Grid Dynamics<\/p> <p>11:30-12:00 PM PDT :<br/>Disease Interception: AI Applications in Clinical Development by Christel Chehoud, Director of Data Science, Analytics &amp; Insights at Janssen Pharmaceutical Companies of Johnson &amp; Johnson<\/p> <p>Register here: <a href=\"https://bit.ly/2CfWz58\" class=\"linkified\">https://bit.ly/2CfWz58<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/271816432/",
     "textColor": "#7171fb"
   },
   {
@@ -487,14 +487,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Sydney: Show and Tell your R Code",
-    "group": "R-Ladies Sydney",
-    "start": "2020-07-07",
-    "description": "<p>Have you been working on code you are particularly proud of? Or do you have some code that is driving you crazy?<\/p> <p>Bring it along to this online event and share your triumph and/or frustration. Last time we learned about some hidden gems of dplyr, the magic of facet_wrap in ggplot and some super cool mapping using leaflet. Who knows what this session will bring!<\/p> <p>This event will be via Zoom. Those who RSVP will receive the meeting link via email.<\/p> <p>Check out some of the cool things we shared last month at our blog:<\/p> <p><a href=\"https://rladiessydney.org/post/2020-06-02-show-and-tell-june-2020/\" class=\"linkified\">https://rladiessydney.org/post/2020-06-02-show-and-tell-june-2020/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-sydney/events/271304947/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Tucson AZ: Fall Planning",
     "group": "R-Ladies Tucson AZ",
     "start": "2020-07-25",
@@ -583,14 +575,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Rotterdam: Mastering conditions! R Ladies NL Book Club - Advanced R Chapter 8",
-    "group": "R-Ladies Rotterdam",
-    "start": "2020-07-07",
-    "description": "<p>Hi everyone,<\/p> <p>The R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<br/>Join us for our next meeting, in which Semiramis Castro will present the key points of Chapter 8: \"Conditions\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>You can find the full schedule and more information here: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>And sign up to discuss one of the chapters at <a href=\"https://bit.ly/2QBYGEG\" class=\"linkified\">https://bit.ly/2QBYGEG<\/a>!<\/p> <p>ABOUT Semiramis<br/>----------------------<br/>Semiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.<\/p> <p>ABOUT the chapter<br/>----------------------<br/>“Conditions” is the umbrella term used to describe errors, warnings, and messages. You’ve certainly encountered these before, so in this chapter you learn how to signal them appropriately in your own functions, and how to handle them when signalled elsewhere.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter in advance!<br/>Note that Jitsi works best with chrome<\/p> <p>LINK TO MEETUP<br/>----------------------<br/><a href=\"https://meet.jit.si/rladiesnl_bookclub_chp8\" class=\"linkified\">https://meet.jit.si/rladiesnl_bookclub_chp8<\/a><\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-rotterdam/events/271674531/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Twin Cities: SampleR PlatteR Night",
     "group": "R-Ladies Twin Cities",
     "start": "2020-08-04",
@@ -644,14 +628,6 @@
     "start": "2020-07-29",
     "description": "<p>Would you like to become a more confident and engaging speaker?<\/p> <p>If YES then be sure to attend July's R-Ladies Melbourne seminar! This month we are excited to welcome Jo Evans, a Public/Online Speaking and Presentation Coach and a TEDx Speaker Trainer.<\/p> <p>To support our R-ladies community Jo will share tips on how to master the art of communicating whether it's online or face to face. In this very practical online session we'll look at:<\/p> <p>a) How to calm those fears that may well be holding us back from speaking up<br/>b) Explore some great techniques to help us become a more engaging speaker, especially in the online environment<br/>c) In breakout rooms have a go at trying out some of the techniques for ourselves<\/p> <p>BEFORE the session, please think of an area of your work or an interest or an idea that you have that you would love to present to a small audience. Think about why your audience will be interested to hear what you have to say. No need to plan a talk but please come prepared with your topic. AND be open to push through any fears, try out new ideas, support each other to become more confident and engaging speakers and have fun! Jo is looking forward to meeting all our members!<\/p> <p>Jo's aim is to help people address their fears around speaking, develop confidence and skills in their ability to speak so they can share their message - whatever it is that matters to them.<\/p> <p>She has a passion for helping people to become engaging and powerful speakers and to have fun along the way! She has been involved in Presenting at Conferences, Public Speaking and Coaching for over 10 years and is a Distinguished Toastmaster.<\/p> <p>To learn more about Jo please have a look at her LinkedIn profile <a href=\"https://www.linkedin.com/in/jo-evans/\" class=\"linkified\">https://www.linkedin.com/in/jo-evans/<\/a>.<\/p> <p>This will be an online event, please be sure to connect a few minutes early for a prompt start at 5:30pm.<\/p> <p>We look forward to seeing everyone on the 29th!<\/p> <p>R-Ladies Melbourne<\/p> ",
     "url": "https://www.meetup.com/rladies-melbourne/events/271746083/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Ottawa: R-Ladies Ottawa - Summer Event (Zoom Edition)",
-    "group": "R-Ladies Ottawa",
-    "start": "2020-07-07",
-    "description": "<p>Come join R-Ladies Ottawa for a fun, interactive mini-coding session! For this event, we will be using data from the National Electronic Injury Surveillance System (<a href=\"https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data/\" class=\"linkified\">https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data/<\/a>). A cleaned-up version of the data can be found here (<a href=\"https://github.com/hadley/neiss\" class=\"linkified\">https://github.com/hadley/neiss<\/a>) under data.<\/p> <p>The goal of this exercise is to find meaningful relationships in the data. We can use these data to analyse all sorts of questions such as: Do forks cause more injuries than spoons? Which room in a house is more dangerous? And any other injury-related questions you can come up with...<\/p> <p>Who is this for?<br/>New and experienced R users alike! Let's learn together! All are welcome, including R-Ladies Ottawa members and R-Ladies from around the world.<\/p> <p>What do I need?<br/>You'll need a computer with videoconferencing capabilities and R.<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
-    "url": "https://www.meetup.com/rladies-ottawa/events/271373780/",
     "textColor": "#7171fb"
   },
   {
@@ -931,14 +907,6 @@
     "start": "2020-07-18",
     "description": "<p>Hello again, R enthusiasts!!! After a five-month hiatus, we're finally having out eighth meetup, real soon!<\/p> <p>WHEN?<br/>Saturday, 18th of July 2020 from 2 pm - 5 pm WIB.<\/p> <p>WHERE?<br/>We'll be live on Zoom. Please RSVP here and also fill up this form <a href=\"https://bit.ly/rladiesjktreg\" class=\"linkified\">https://bit.ly/rladiesjktreg<\/a> so that we can email you the meeting ID and password.<\/p> <p>AGENDA:<br/>We'll cover new materials about an introduction to twitter mining in R (by Erika Siregar) and Visualization for Likert-Scale Survey Data (by Ulfah Mardhiah).<\/p> <p>Interested? Hurry up and register then! It'll be great if you already have a twitter account.<\/p> <p>Some IMPORTANT stuff:<br/>1. We can only host 90 attendances.<br/>2. Check previous meetups docs here: <a href=\"https://github.com/RLadiesJakarta\" class=\"linkified\">https://github.com/RLadiesJakarta<\/a><br/>3. E-mail us at [masked] for any inquiries regarding this event!<br/>4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).<br/>5. Don't forget to have RStudio readily installed in your computer<br/>6. If you're very new to R, you can also go through these two documents before the meetup:<br/>1. Intro to R.pdf<br/>2. Starter Kit R.pdf<br/>You can download and read the descriptions here: <a href=\"https://github.com/RLadiesJakarta/starter-kit\" class=\"linkified\">https://github.com/RLadiesJakarta/starter-kit<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-jakarta/events/271893790/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Dallas: Data Analysis with R - Class Project Selection",
-    "group": "R-Ladies Dallas",
-    "start": "2020-07-07",
-    "description": "<p>I'm excited about our plan to enhance our programming skills through an online learning experience. As a group, we decided that we will focus on the \"Data Analysis with R\" course taught by Facebook instructors on the Udacity learning platform. This will ensure that we are all on the same page when we're ready to kick off our R-Ladies Dallas group project. The course is available for free at the following link: <a href=\"https://www.udacity.com/course/data-analysis-with-r--ud651\" class=\"linkified\">https://www.udacity.com/course/data-analysis-with-r--ud651<\/a><\/p> <p>In this meetup, we will discuss any remaining questions that you may have about the course material. We will discuss options for our the class project.<\/p> <p>*** CLASS PROJECT ***<\/p> <p>To help us all get a firmer understanding of the concepts learned in the course, we have decided to work on a class project. Members have already started to post suggestions in the Slack channel.<\/p> <p>To prepare for the event, please come with suggestions as to a specific dataset and use case that you think would be a good fit for our meetup project. An ideal project would allow us to grow our skills in most of these areas.<\/p> <p>* Data loading<br/>* Data manipulation<br/>* Data visualization<br/>* Single variable analysis<br/>* Bivariate analysis<\/p> <p>*************************<\/p> <p>Please join the #learning channel in our R-Ladies Dallas Slack community so that we can discuss the course and ask/answer questions you may have about the material. Slack sign-up info provided below.<\/p> <p>Agenda<br/>------------------------------<br/>Part 1: Lessons 1 - 4<br/>Part 2: Lessons 5 - 8<br/>Part 3: Lessons 9 - 10<br/>Class Project &lt; -------- this meetup event<\/p> <p>Also, please take time to watch the videos and work through the exercises.<\/p> <p>You are encouraged to click the link below to keep up with the webinar series and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Webinar + Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>About R-Ladies Dallas<\/p> <p>R-Ladies Dallas welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp; expert upskilling. Our non-profit, civil society community is designed to develop our members' R skills &amp; knowledge through social, collaborative learning &amp; sharing. Supporting minority identity access to STEM skills &amp; careers, the Free Software Movement, and contributing to the global R community!<\/p> <p>A local chapter of R-Ladies Global, R-Ladies Dallas exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.<\/p> <p>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dallas/events/271634230/",
     "textColor": "#7171fb"
   },
   {
@@ -1254,14 +1222,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Montreal R User Group: [Webinar] Interpretable Machine Learning for Enterprise Applications",
-    "group": "Montreal R User Group",
-    "start": "2020-08-06",
-    "description": "<p>Register here: <a href=\"https://bit.ly/2CfWz58\" class=\"linkified\">https://bit.ly/2CfWz58<\/a><\/p> <p>This webinar will focus on showing how leading companies leverage Machine Learning and Data Science in multiple industries.<\/p> <p>Our speakers will:<\/p> <p>- Show how to build interpretable time series models<br/>- Cover the most common problems in enterprise operations<br/>- Address AI applications in clinical development<\/p> <p>Schedule:<\/p> <p>11:00-11:30 AM PDT:<br/>Interpretable Forecasting Models: Decomposition of Demand and Other Enterprise Time Series by Ilya Katsov, Head of Data Science, Grid Dynamics<\/p> <p>11:30-12:00 PM PDT :<br/>Disease Interception: AI Applications in Clinical Development by Christel Chehoud, Director of Data Science, Analytics &amp; Insights at Janssen Pharmaceutical Companies of Johnson &amp; Johnson<\/p> <p>Register here: <a href=\"https://bit.ly/2CfWz58\" class=\"linkified\">https://bit.ly/2CfWz58<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/271816432/",
-    "textColor": "blue"
-  },
-  {
     "title": "Montreal R User Group: Accurate de-identification, obfuscation and editing of scanned medical documents",
     "group": "Montreal R User Group",
     "start": "2020-08-19",
@@ -1566,6 +1526,13 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Xalapa: Visualización de redes con visNetwork",
+    "group": "R-Ladies Xalapa",
+    "start": "2020-08-24",
+    "url": "https://www.meetup.com/rladies-xalapa/events/272407986/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Toronto: Open data and an interactive dashboard to monitor COVID-19 outbreak in Canada",
     "group": "R-Ladies Toronto",
     "start": "2020-08-12",
@@ -1694,6 +1661,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies San Francisco: Tangible Steps Towards Algorithmic Accountability",
+    "group": "R-Ladies San Francisco",
+    "start": "2020-08-27",
+    "description": "<p>Tangible Steps Towards Algorithmic Accountability<\/p> <p>Abstract:<br/>This talk will walk the audience through technical and strategic tools to build more accountable algorithms. Algorithmic bias has become more pervasive, however, there are many methods and frameworks for engineers and researchers to implement during their model development lifecycle.<\/p> <p>Bio:<br/>Ayodele Odubela is a Data Scientist working on driver risk mitigation at SambaSafety in Denver, CO. She earned her Master's degree in Data Science after transitioning to tech from social media marketing. She's created algorithms that predict consumer segment movement, goals in hockey, and the location of firearms using radio frequency sensors. Ayodele is passionate about using tech to improve the lives of marginalized people.<\/p> <p>================================================<br/>*This event is a joint event with AI INCLUSIVE SF (<a href=\"https://www.meetup.com/ai-inclusive-san-francisco\" class=\"linkified\">https://www.meetup.com/ai-inclusive-san-francisco<\/a>)*<br/>================================================<\/p> <p>• Important to know<\/p> <p>CODE OF CONDUCT<br/>Anyone who violates or has previously violated this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership, or other condition.<br/><a href=\"https://www.ai-inclusive.org/code-of-conduct/\" class=\"linkified\">https://www.ai-inclusive.org/code-of-conduct/<\/a><\/p> <p>• The mission of AI Inclusive is to increase the representation and participation of minority groups in AI.<\/p> <p>We are emphatically queer and trans-friendly.<\/p> ",
+    "url": "https://www.meetup.com/rladies-san-francisco/events/272407729/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup",
     "group": "R-Ladies Columbus",
     "start": "2020-08-13",
@@ -1715,6 +1690,14 @@
     "start": "2020-10-08",
     "description": "<p>Typical info below - Topic for this month TBD!<br/>Interested in speaking? Please message the organizers<br/>___________________________________________________________________________________<br/>Please come with a machine that can access rstudio.cloud. We will share link to project prior to session.<\/p> <p>As always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.<\/p> <p>Parking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots See pics below for directions.<\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/vtntnrybcnblb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Miami: Global R-Ladies ⚡️⚡️Talks pt.1",
+    "group": "R-Ladies Miami",
+    "start": "2020-08-20",
+    "description": "<p>The COVID-19 pandemic has separated many of us from our loved ones but has also brought us closer together. It is because of this and the understanding that many womxn and underrepresented may be hindered from giving a talk that we want to propose OUR FIRST ROUND OF LIGHTENING TALKS!<br/>We are completely overwhelmed and grateful for the amount of interest we have received from the GLOBAL R-Ladies community that we are certain that this will just be one of many 😉.<\/p> <p>Format:<br/>6:05 - 6:15 - R-Ladies MIA Intro &amp; Announcements<br/>6:15 - 6:30 - Speaker 1<br/>6:30 - 6:35 - Speaker 1 Q&amp;A<br/>6:35 - 6:55 - Speaker 2<br/>6:55 - 7:00 - Speaker 2 Q&amp;A<br/>7:00 - 7:20 - Speaker 3<br/>7:25 - 7:30 - Speaker 3 Q&amp;A<\/p> <p>This is a great chance for several of us who don't normally have the opportunity to present, who would like more public speaking practice, or just are excited to share so, we kindly ask that you please be respectful and stay mindful of the effort of our speakers, who have courageously volunteered to speak :)<\/p> <p>This months fantastic ladies will be speaking on topics that they are excited to share with you!<\/p> <p>*Speaker 1*<br/>Edna Mwenda<br/>Education: Bsc. Actuarial Science and statistics | Insurance | Finance | Econ<br/>Data science enthusiast. Believes in Tech for good.<\/p> <p>Topic: Applied Survival Analysis using R (beginner friendly...)<\/p> <p>The term 'survival analysis' has been used for data involving time to a certain event such as death, onset of a disease or relapse of a condition. Applied survival analysis arises in many areas including biomedical research, epidemiological studies as well as in engineering and finance areas.<\/p> <p>*Speaker 2*<br/>Jyoti Bhogal<\/p> <p>Topic: Analysis of Covid cases in India.<br/>She will be discussing her data visualization of the COVID cases in her region in India through a Shiny application<\/p> <p>*Speaker 3*<br/>TBA<\/p> ",
+    "url": "https://www.meetup.com/rladies-miami/events/272401502/",
     "textColor": "blue"
   },
   {
@@ -1808,8 +1791,8 @@
   {
     "title": "R-Ladies Amsterdam: [ONLINE] - Prototyping with R Packages: Case Study on E-Commerce Fraud Detection",
     "group": "R-Ladies Amsterdam",
-    "start": "2020-08-12",
-    "description": "<p>[ONLINE EVENT]<br/>-----------------------<br/>You all have been patiently waiting ... and the time has finally come!!!<\/p> <p>After a couple of months hiatus, R-Ladies Amsterdam is back in full swing! On August 12th, 2020, we have a very exciting R Ladies presentation by Irene Steves and Yogev Herz, tuning in from Tel Aviv! (Yes, R-Ladies Amsterdam is globalizing =) !)<\/p> <p>[TOPIC]<br/>-----------<br/>Irene and Yogev work in Tel Aviv for the eCommerce fraud protection company Riskified.<\/p> <p>In their work, they often come across fraud patterns in eCommerce that their regular models cannot detect. While retraining models on newer data can solve some of these problems, some patterns require entirely new analyses.<\/p> <p>In this talk, Irene and Yogev will discuss how they tackled fraudsters taking advantage of \"Buy Online Pay in Store\" policies, and how R packages helped gradually transition from analyses to production-ready code.<\/p> <p>[ABOUT IRENE and YOGEV]<br/>-------------------------------------<\/p> <p>Irene holds an M.Sc. in Ecology and a B.A. in Integrative Biology, through which she first discovered R and data science. Her interest in data-led her to the Arctic Data Center at the University of California Santa Barbara, a summer internship at RStudio, and ultimately to the Research department at Riskified, where she now explores the fascinating patterns of fraud in e-commerce.<\/p> <p>Yogev first encountered R when studying the social organization of bumblebees for his M.Sc. in evolutionary biology. He transitioned to full-time R user and programmer when he left the hot and humid beehive to the air-conditioned office space of the research department in Riskified. He enjoys learning new R tricks and packages to improve the department’s data science capabilities.<\/p> <p>[PROGRAMME]<br/>---------------------<br/>To come<\/p> <p>[ZOOM LINK]<br/>-------------------<br/>To come<\/p> ",
+    "start": "2020-08-19",
+    "description": "<p>[ONLINE EVENT]<br/>-----------------------<br/>You all have been patiently waiting ... and the time has finally come!!!<\/p> <p>After a couple of months hiatus, R-Ladies Amsterdam is back in full swing! On August 19th, 2020, we have a very exciting R Ladies presentation by Irene Steves and Yogev Herz, tuning in from Tel Aviv! (Yes, R-Ladies Amsterdam is globalizing =) !)<\/p> <p>[TOPIC]<br/>-----------<br/>Irene and Yogev work in Tel Aviv for the eCommerce fraud protection company Riskified.<\/p> <p>In their work, they often come across fraud patterns in eCommerce that their regular models cannot detect. While retraining models on newer data can solve some of these problems, some patterns require entirely new analyses.<\/p> <p>In this talk, Irene and Yogev will discuss how they tackled fraudsters taking advantage of \"Buy Online Pay in Store\" policies, and how R packages helped gradually transition from analyses to production-ready code.<\/p> <p>[ABOUT IRENE and YOGEV]<br/>-------------------------------------<\/p> <p>Irene holds an M.Sc. in Ecology and a B.A. in Integrative Biology, through which she first discovered R and data science. Her interest in data-led her to the Arctic Data Center at the University of California Santa Barbara, a summer internship at RStudio, and ultimately to the Research department at Riskified, where she now explores the fascinating patterns of fraud in e-commerce.<\/p> <p>Yogev first encountered R when studying the social organization of bumblebees for his M.Sc. in evolutionary biology. He transitioned to full-time R user and programmer when he left the hot and humid beehive to the air-conditioned office space of the research department in Riskified. He enjoys learning new R tricks and packages to improve the department’s data science capabilities.<\/p> <p>[PROGRAMME]<br/>---------------------<br/>To come<\/p> <p>[ZOOM LINK]<br/>-------------------<br/>To come<\/p> ",
     "url": "https://www.meetup.com/rladies-amsterdam/events/272195412/",
     "textColor": "blue"
   },
