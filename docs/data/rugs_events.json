@@ -248,6 +248,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Bay Area useR Group (R Programming Language): First \"Official\" Virtual BARUG Meetup",
+    "group": "Bay Area useR Group (R Programming Language)",
+    "start": "2020-09-08",
+    "description": "<p>Hello BARUG Members,<br/>We are going virtual! Better late than never.<\/p> <p>We will email the link to all who RSVP that they are attending the day before the event.<\/p> <p>Agenda:<br/>4:45 PM Online Networking<br/>5: 20 Announcements and plans for upcoming events<br/>5: 30 Avantika Lal: \"Predicting interactions between the SARS-CoV-2 genome and human proteins using R\"<br/>6:00 Norm Matloff: \"Sensible Approaches to Handling Unbalanced Data\"<br/>6:30 Dave Hurst: \"Using RStudio Cloud to Teach and Collaborate\"<br/>7:00 Q&amp;A with the speakers<\/p> <p>################<br/>Avantika Lal<br/>\"Predicting interactions between the SARS-CoV-2 genome and human proteins using R\"<\/p> <p>RNA viruses hijack a range of proteins inside host cells to assist in the replication and stability of their genetic material. I describe an R framework to predict potential interactions between human proteins and viral genomes, and demonstrate its application to the genome of the SARS-CoV-2 coronavirus.<\/p> <p>###############<\/p> <p>Norm Matloff<br/>\"Sensible Approaches to Handling Unbalanced Data\"<\/p> <p>Datasets for classification problems are often very unbalanced, with the<br/>number of cases for one class being far less than the numbers for the<br/>others. \"Conventional wisdom,\" reflected in the structure of popular<br/>software packages, is that the data should be artificially balanced via<br/>resampling. This is both unnecessary and harmful. Alternative, more<br/>sensible methods will be presented, with a recent Scientific American<br/>article as a motivating example.<\/p> <p>###############<br/>Dave Hurst<br/>\"Using RStudio Cloud to Teach and Collaborate\"<\/p> <p>RStudio.cloud is a cloud-hosted R environment and project workspace that includes the the RStudio IDE. (Just like the RStudio IDE there is a free version.) In this talk, we'll illustrate some of the features that make RStudio Cloud an ideal teaching environment with a mini-workshop on some of the fundamentals of the tidyverse.<\/p> ",
+    "url": "https://www.meetup.com/R-Users/events/272583774/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Barcelona R User Group: Barcelona R User Group meetup (online)",
     "group": "Barcelona R User Group",
     "start": "2020-09-02",
@@ -312,6 +320,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Boulder: R Ladies Boulder Meetup #10: Virtual Meet-n-Greet and Lightning Talks",
+    "group": "R-Ladies Boulder",
+    "start": "2020-09-08",
+    "description": "<p>Hi Boulder UseRs! Join us for this month's **Virtual** R Ladies Meetup and join our new local Slack workspace!<\/p> <p>We're hosting a virtual meet-n-greet featuring three great lightning talks.<br/>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and listen into some great informal short talks!<\/p> <p>We are planning to do new introductions to get new attendees acquainted with the community and then move on to our lightning talks!<\/p> <p>Talk #1: Using R to design an accent wall (Speaker: Leigh Alexander)<br/>Talk #2: Using patchwork to make composite plots (Speaker: Courtney Van Den Elzen)<br/>Talk #3: Teaching R to undergraduates (Speaker: Kelly Carscadden)<\/p> <p>We hope you'll join us on Zoom and on our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-boulder/events/272634605/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Philly: Hands-on Machine Learning Workshop",
     "group": "R-Ladies Philly",
     "start": "2020-08-13",
@@ -372,6 +388,14 @@
     "start": "2020-09-01",
     "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
     "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcmbcb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2020-09-08",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcmblb/",
     "textColor": "#7171fb"
   },
   {
@@ -700,6 +724,14 @@
     "start": "2020-08-28",
     "description": "<p>Practice your data wrangling and visualization skills with other members of R-Ladies! During this virtual event, participants will report on their experience working on a shared dataset.<\/p> <p>The R for Data Science Online Learning Community hosts a weekly \"Tidy Tuesday\" project in which they release a curated dataset every Tuesday for R users to practice data skills. We are meeting on Friday so that you have time to work on the dataset on your own.<\/p> <p>How it works:<\/p> <p>1. Read about the dataset here: <a href=\"https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-25/readme.md\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-25/readme.md<\/a><\/p> <p>2. Import the data into R using<br/>chopped &lt;- readr::read_tsv('<a href=\"https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-08-25/chopped.tsv\" class=\"linkified\">https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-08-25/chopped.tsv<\/a>')<\/p> <p>3. Try to make at least one graph in R using the data. For some inspiration, search Twitter for #TidyTuesday.<\/p> <p>4. Meet on Zoom during the event time. Message an organizer if you didn't receive the meeting password.<\/p> <p>5. During the meeting, share your code and graph with the other participants using the \"Share Screen\" feature in Zoom or talk about where you got stuck and we'll work through it together.<\/p> <p>Everyone's contribution is valuable, even if you're new to R! There are so many different ways to do things in R that your approach may be new to experienced R users.<\/p> ",
     "url": "https://www.meetup.com/rladies-gainesville/events/272612783/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Addis Ababa: 31st Meeting R-Ladies Addis Ababa",
+    "group": "R-Ladies Addis Ababa",
+    "start": "2020-09-08",
+    "description": "<p>This is the monthly R-Ladies Addis Ababa meeting to discuss the current agenda and potential new ideas. If you want to join, please send a short note and we will share the details about the meeting.<\/p> ",
+    "url": "https://www.meetup.com/rladies-addis-ababa/events/273080971/",
     "textColor": "#7171fb"
   },
   {
@@ -1071,10 +1103,10 @@
     "textColor": "blue"
   },
   {
-    "title": "Greater Cleveland R Group: September Meeting: TBD",
+    "title": "Greater Cleveland R Group: Emily Zabor: Creating presentation-ready summary tables with {gtsummary}",
     "group": "Greater Cleveland R Group",
     "start": "2020-09-30",
-    "description": "<p>TBD<\/p> ",
+    "description": "<p>Creating presentation-ready summary tables with the {gtsummary} package in R<\/p> <p>Presenting the results of summary statistics and regression models in a reproducible fashion is an essential task for many data analysts. However, the tools for creating well-formatted tables in R have been either limited in scope or cumbersome to use. The {gtsummary} package was written to work with the {gt} package from RStudio to create presentation-quality tables using sensible defaults but with high customizability, helping reduce the need for post-hoc table formatting. This talk will introduce users to the {gtsummary} package, from the basic functions for summary tables to details of customization options.<\/p> <p>Emily is a biostatistician at Cleveland Clinic in the Department of Quantitative Health Sciences and The Taussig Cancer Institute where she collaborates with oncologists on applied clinical research and does methodologic research on statistical methods for clinical trial design and survival analysis. Before joining the Cleveland Clinic, Emily worked as a research biostatistician at Memorial Sloan Kettering Cancer Center in New York, and was a founding board member of the R-Ladies NYC chapter. Emily earned her MS is biostatistics from the University of Minnesota in 2010 and her DrPH in biostatistics from Columbia University in 2019.<\/p> <p>Note: this talk will be recorded and posted on our YouTube channel.<\/p> ",
     "url": "https://www.meetup.com/Cleveland-UseR-Group/events/272645856/",
     "textColor": "blue"
   },
@@ -1215,14 +1247,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Wiesbaden R User Group: R Coffee Break - Code testen mit testthat",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-09-09",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass in dieser R Coffee Break Søren Schaffstein über das testthat-Paket berichtet. Das Paket unterstützt uns Entwickler beim Testen von Quellcode und hat sogar den Anspruch das Testen spaßig zu machen.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Passwort: tbd<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/272693845/",
-    "textColor": "blue"
-  },
-  {
     "title": "Wiesbaden R User Group: R Coffee Break - R und das S4-Objekt-System",
     "group": "Wiesbaden R User Group",
     "start": "2020-09-16",
@@ -1279,14 +1303,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Bay Area useR Group (R Programming Language): First \"Official\" Virtual BARUG Meetup",
-    "group": "Bay Area useR Group (R Programming Language)",
-    "start": "2020-09-08",
-    "description": "<p>Hello BARUG Members,<br/>We are going virtual! Better late than never.<\/p> <p>We will email the link to all who RSVP that they are attending the day before the event.<\/p> <p>Agenda:<br/>4:45 PM Online Networking<br/>5: 20 Announcements and plans for upcoming events<br/>5: 30 Avantika Lal: \"Predicting interactions between the SARS-CoV-2 genome and human proteins using R\"<br/>6:00 Norm Matloff: \"Sensible Approaches to Handling Unbalanced Data\"<br/>6:30 Dave Hurst: \"Using RStudio Cloud to Teach and Collaborate\"<br/>7:00 Q&amp;A with the speakers<\/p> <p>################<br/>Avantika Lal<br/>\"Predicting interactions between the SARS-CoV-2 genome and human proteins using R\"<\/p> <p>RNA viruses hijack a range of proteins inside host cells to assist in the replication and stability of their genetic material. I describe an R framework to predict potential interactions between human proteins and viral genomes, and demonstrate its application to the genome of the SARS-CoV-2 coronavirus.<\/p> <p>###############<\/p> <p>Norm Matloff<br/>\"Sensible Approaches to Handling Unbalanced Data\"<\/p> <p>Datasets for classification problems are often very unbalanced, with the<br/>number of cases for one class being far less than the numbers for the<br/>others. \"Conventional wisdom,\" reflected in the structure of popular<br/>software packages, is that the data should be artificially balanced via<br/>resampling. This is both unnecessary and harmful. Alternative, more<br/>sensible methods will be presented, with a recent Scientific American<br/>article as a motivating example.<\/p> <p>###############<br/>Dave Hurst<br/>\"Using RStudio Cloud to Teach and Collaborate\"<\/p> <p>RStudio.cloud is a cloud-hosted R environment and project workspace that includes the the RStudio IDE. (Just like the RStudio IDE there is a free version.) In this talk, we'll illustrate some of the features that make RStudio Cloud an ideal teaching environment with a mini-workshop on some of the fundamentals of the tidyverse.<\/p> ",
-    "url": "https://www.meetup.com/R-Users/events/272583774/",
-    "textColor": "blue"
-  },
-  {
     "title": "eRka / Cracow R Users Group: Why R? 2020 Conference - Remote!",
     "group": "eRka / Cracow R Users Group",
     "start": "2020-09-24",
@@ -1311,14 +1327,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Vienna<-R: Data Science Conference Austria",
-    "group": "Vienna<-R",
-    "start": "2020-09-08",
-    "description": "<p>Dear Data Science Enthusiast,<\/p> <p>we are happy to announce the first DSC Austria 2020 <a href=\"https://austria.datasciconference.com\" class=\"linkified\">https://austria.datasciconference.com<\/a> - the Austrian Edition of DSC Europe. The Conference consists of tech tutorials, which will be held on September 8th, and talks on September 9th.<\/p> <p>The DSC Austria will cover popular topics related to Artificial Intelligence &amp; Machine Learning, Data &amp; AI Literacy, and Data-Driven Decision, aiming to attract data science professionals, managers, and data enthusiasts. Some of the area that talks and Tutorials will cover are:<\/p> <p>Deep Learning &amp; Neural Network, Robotics, Computer Vision, Virtual Agents &amp; Recommender Systems, Machine Learning Platforms<\/p> <p>Advanced and augmented analytics, Data &amp; AI-Driven decision making, Business Intelligence &amp; Data Visualisation<\/p> <p>Data Governance, Data Collection &amp; Data Sharing, Data Protection, Data Privacy &amp; GDPR, AI systems &amp; how to engage with AI Solutions<\/p> <p>Reserve your FREE spot at<\/p> <p><a href=\"https://austria.datasciconference.com\" class=\"linkified\">https://austria.datasciconference.com<\/a><\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/272717777/",
-    "textColor": "blue"
-  },
-  {
     "title": "Campus useR Group Frankfurt: September meeting: Teaching (with) R",
     "group": "Campus useR Group Frankfurt",
     "start": "2020-09-24",
@@ -1335,18 +1343,10 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Boulder: R Ladies Boulder Meetup #10: Virtual Meet-n-Greet and Lightning Talks",
-    "group": "R-Ladies Boulder",
-    "start": "2020-09-08",
-    "description": "<p>Hi Boulder UseRs! Join us for this month's **Virtual** R Ladies Meetup and join our new local Slack workspace!<\/p> <p>We're hosting a virtual meet-n-greet featuring three great lightning talks.<br/>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and listen into some great informal short talks!<\/p> <p>We are planning to do new introductions to get new attendees acquainted with the community and then move on to our lightning talks!<\/p> <p>Talk #1: Using R to design an accent wall (Speaker: Leigh Alexander)<br/>Talk #2: Using patchwork to make composite plots (Speaker: Courtney Van Den Elzen)<br/>Talk #3: Teaching R to undergraduates (Speaker: Kelly Carscadden)<\/p> <p>We hope you'll join us on Zoom and on our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-boulder/events/272634605/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Philly: Decision Trees & Random Forests",
     "group": "R-Ladies Philly",
     "start": "2020-09-15",
-    "description": "<p>DESCRIPTION:<\/p> <p>Decision trees are easy to understand and form the basis for random forest, a powerful machine learning technique. We will build decision tree and random forest models to discover trends using the Philadelphia Police Department’s Complaints Against Police dataset. Please note that we are using the dataset to illustrate statistical and programming techniques and do not have the background in criminal justice to draw any conclusions from our models.<\/p> <p>SPEAKER:<\/p> <p>Alexandra Parfitt is a graduate student in applied statistics at Villanova University. She is completing a co-op at GlaxoSmithKline in chemical, manufacturing and controls statistics in the biopharmaceutical division. She entered data science and statistics after working in the humanities and she holds an AB from the University of Chicago and a PhD from Yale in comparative literature. She lives in Ardmore with her husband and their four-year-old daughter.<\/p> <p>SHOW'N'TELL<\/p> <p>Trang Le will do a quick intro of her package treeheatr (<a href=\"https://trang1618.github.io/treeheatr/\" class=\"linkified\">https://trang1618.github.io/treeheatr/<\/a>) which creates interpretable decision tree visualizations with the data represented as a heatmap at the tree's leaf nodes.<\/p> ",
+    "description": "<p>DESCRIPTION:<\/p> <p>Decision trees are easy to understand and form the basis for random forests, a powerful machine learning technique. In this meetup, we are excited to have a line-up of presenters to share how to engage with tree-based methods in R.<\/p> <p>AGENDA:<br/>This will be a virtual event on zoom. We will admit attendees from the waiting room at 6 pm!<\/p> <p>(6:00 - 6:15) Welcome and Announcements<\/p> <p>(6:15 - 6:45) Walkthrough of hierarchical clustering in R, presented by Kavana Rudresh.<\/p> <p>(6:45 - 7:00) Trang Le will share an intro of her package, treeheatr (<a href=\"https://trang1618.github.io/treeheatr/\" class=\"linkified\">https://trang1618.github.io/treeheatr/<\/a>), which creates interpretable decision tree visualizations with the data represented as a heatmap at the tree's leaf nodes.<\/p> <p>(7:00 - 7:30) Decision trees vs random forests, presented by Karla Fettich<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/268783162/",
     "textColor": "blue"
   },
@@ -1381,27 +1381,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Brisbane: Virtual presentations - Getting Started with GitHub in R",
-    "group": "R-Ladies Brisbane",
-    "start": "2020-09-09",
-    "description": "<p>* What are we going to learn?<br/>This talk will be an overview of GitHub and how it can be used to help streamline R workflows. Version control is a great tool for organizing your files and collaborative projects.<\/p> <p>* Who is going to present?<br/>Dr. Caitie Keumpel is a conservation scientist who is currently a joint post-doctoral fellowship with the University of Queensland and World Wide Fund for Nature (WWF) in UQ's Coral Reef Ecosystems lab. Caitie recently finished a post-doctoral fellowship at the National Center for Ecological Analysis and Synthesis at UC Santa Barbara quantifying, mapping and comparing the environmental impacts of major food systems across the land and sea. Her research interests include protected area design, food system sustainability, and managing impacts on coral reefs.<\/p> <p>* When are we meeting?<br/>We would like to invite everyone to meet at 5:00 pm for an informal virtual chat. An opportunity to say hi before starting the presentation at 5:30 pm.<\/p> <p>************The presentation will start at 5:30 pm.************<br/>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This will be an interactive ~45 min presentation. If you would like to follow along in setting up git in RStudio please make sure you have installed the following before the session:<\/p> <p>git - <a href=\"https://git-scm.com/downloads\" class=\"linkified\">https://git-scm.com/downloads<\/a><br/>GitHub account - <a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a><br/>R - <a href=\"https://cran.r-project.org/bin/windows/base/\" class=\"linkified\">https://cran.r-project.org/bin/windows/base/<\/a><br/>RStudio - <a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a><\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
-    "url": "https://www.meetup.com/rladies-brisbane/events/272476318/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Brisbane: Virtual presentations - Workflows and best practices for collaborative coding",
     "group": "R-Ladies Brisbane",
     "start": "2020-10-07",
     "description": "<p>Join us for a follow-up session on workflows after last month's session on git/gitHub!<\/p> <p>* What are we going to learn?<br/>This seminar will discuss tools, tips, and tricks for:<br/>- Organizing your data<br/>- Coding workflows and best practices<br/>- Repositories / projects / environments<br/>- Project management<br/>- Collaborating across skill levels and programming languages<\/p> <p>* Who is going to present?<br/>Dr. Caitie Keumpel is a conservation scientist who is currently a joint post-doctoral fellowship with the University of Queensland and World Wide Fund for Nature (WWF) in UQ's Coral Reef Ecosystems lab. Caitie recently finished a post-doctoral fellowship at the National Center for Ecological Analysis and Synthesis at UC Santa Barbara quantifying, mapping and comparing the environmental impacts of major food systems across the land and sea. Her research interests include protected area design, food system sustainability, and managing impacts on coral reefs.<\/p> <p>* When are we meeting?<br/>We would like to invite everyone to the talk at 5:00 pm with time ~5:45 pm for socializing, questions, and discussion on workflows. Finish time 6:30 pm.<\/p> <p>************The presentation will start at 5:30 pm.************<br/>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This will be a ~40 min presentation followed by time for questions and discussion of workflow tools/tips/tricks.<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/273087228/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2020-09-08",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcmblb/",
     "textColor": "blue"
   },
   {
@@ -1733,11 +1717,35 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Washington D.C.: Movie night: TBD",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-09-12",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/273117956/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: TBD",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-09-19",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/273118071/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Washington D.C.: Books In Bars - How to be an antiracist",
     "group": "R-Ladies Washington D.C.",
     "start": "2020-09-25",
     "description": "<p>Spend Friday night discussing How to be an antiracist (<a href=\"https://www.bookdepository.com/How-To-Be-An-Antiracist-Ibram-X.-Kendi/9780525509288?redirected=true&amp;utm_medium=Google&amp;utm_campaign=Base1&amp;utm_source=US&amp;utm_content=How-To-Be-An-Antiracist&amp;selectCurrency=USD&amp;w=AFCCAU9SG5P9UGA8VC6U&amp;pdg=pla-293946777986:cmp-9463970525:adg-95102906766:crv-420351428878:pos-:dev-c&amp;gclid=EAIaIQobChMIzJWdnuTu6gIVrAiICR1r0gLMEAsYBCABEgJAqPD_BwE\" class=\"linkified\">https://www.bookdepository.com/How-To-Be-An-Antiracist-Ibram-X.-Kendi/9780525509288?redirected=true&amp;utm_medium=Google&amp;utm_campaign=Base1&amp;utm_source=US&amp;utm_content=How-To-Be-An-Antiracist&amp;selectCurrency=USD&amp;w=AFCCAU9SG5P9UGA8VC6U&amp;pdg=pla-293946777986:cmp-9463970525:adg-95102906766:crv-420351428878:pos-:dev-c&amp;gclid=EAIaIQobChMIzJWdnuTu6gIVrAiICR1r0gLMEAsYBCABEgJAqPD_BwE<\/a>).<\/p> <p>#1 NEW YORK TIMES BESTSELLER - From the National Book Award-winning author of Stamped from the Beginning comes a \"groundbreaking\" (Time) approach to understanding and uprooting racism and inequality in our society--and in ourselves. \"The most courageous book to date on the problem of race in the Western mind.\"--The New York Times NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New York Times Book Review - Time - NPR - The Washington Post - Shelf Awareness - Library Journal - Publishers Weekly - Kirkus Reviews Antiracism is a transformative concept that reorients and reenergizes the conversation about racism--and, even more fundamentally, points us toward liberating new ways of thinking about ourselves and each other. At its core, racism is a powerful system that creates false hierarchies of human value; its warped logic extends beyond race, from the way we regard people of different ethnicities or skin colors to the way we treat people of different sexes, gender identities, and body types. Racism intersects with class and culture and geography and even changes the way we see and value ourselves. In How to Be an Antiracist, Kendi takes readers through a widening circle of antiracist ideas--from the most basic concepts to visionary possibilities--that will help readers see all forms of racism clearly, understand their poisonous consequences, and work to oppose them in our systems and in ourselves. Kendi weaves an electrifying combination of ethics, history, law, and science with his own personal story of awakening to antiracism. This is an essential work for anyone who wants to go beyond the awareness of racism to the next step: contributing to the formation of a just and equitable society. Praise for How to Be an Antiracist \"Ibram X. Kendi's new book, How to Be an Antiracist, couldn't come at a better time. . . . Kendi has gifted us with a book that is not only an essential instruction manual but also a memoir of the author's own path from anti-black racism to anti-white racism and, finally, to antiracism. . . . How to Be an Antiracist gives us a clear and compelling way to approach, as Kendi puts it in his introduction, 'the basic struggle we're all in, the struggle to be fully human and to see that others are fully human.' \"--NPR \"Kendi dissects why in a society where so few people consider themselves to be racist the divisions and inequalities of racism remain so prevalent. How to Be an Antiracist punctures the myths of a post-racial America, examining what racism really is--and what we should do about it.\"--Time<\/p> <p>PS Please contact the organizer if you need support finding the book.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/272198514/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: TBD",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-10-03",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/273118291/",
     "textColor": "blue"
   },
   {
@@ -1810,6 +1818,14 @@
     "start": "2020-09-24",
     "description": "<p>R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Este jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.<\/p> <p>Programa:<\/p> <p>17:00-17:05<br/>Bienvenida<\/p> <p>17:05-17:15<br/>Presentación de la organización R-Ladies<\/p> <p>17:15-17:45<br/>Conferencia 1: Estadísticas e historia de los capítulos en México<\/p> <p>17:45-18:45<br/>Panel de discusión: Retos y Perspectivas<\/p> <p>18:45-19:00<br/>Coffee break y networking<\/p> <p>19:00-19:30<br/>Sesión de pláticas cortas: Aplicaciones de R<\/p> <p>19:30-19:55<br/>Conferencia 2: Cómo crear un nuevo capítulo.<\/p> <p>19:55-20:00<br/>Cierre<\/p> <p>Este evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.<\/p> <p>Les pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.<\/p> <p>Recuerda leer y atender el código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-puebla/events/272988011/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Jakarta: 11th Meetup: Using R for Time Series & Stock Analysis",
+    "group": "R-Ladies Jakarta",
+    "start": "2020-09-12",
+    "description": "<p>Hello again, R enthusiasts!!! Come join us again in our upcoming meet-up.<\/p> <p>WHEN?<br/>Saturday, 12 September 2020 from 2 pm - 4 pm WIB.<\/p> <p>WHERE?<br/>We'll be live on Zoom. Please fill up this form <a href=\"https://bit.ly/rladiesjkt11\" class=\"linkified\">https://bit.ly/rladiesjkt11<\/a> so that we can email you the meeting ID and password.<\/p> <p>AGENDA:<br/>Using R for Time Series &amp; Stock Analysis<\/p> <p>Some IMPORTANT stuff:<br/>1. We can host up to 300 attendances.<br/>2. Check previous meetups docs here: <a href=\"https://github.com/RLadiesJakarta\" class=\"linkified\">https://github.com/RLadiesJakarta<\/a><br/>3. E-mail us at [masked] for any inquiries regarding this event!<br/>4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).<br/>5. Don't forget to have RStudio readily installed in your computer<br/>6. If you're very new to R, you can also go through these two documents before the meetup:<br/>1. Intro to R.pdf<br/>2. Starter Kit R.pdf<br/>You can download and read the descriptions here: <a href=\"https://github.com/RLadiesJakarta/starter-kit\" class=\"linkified\">https://github.com/RLadiesJakarta/starter-kit<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-jakarta/events/273113017/",
     "textColor": "blue"
   },
   {
