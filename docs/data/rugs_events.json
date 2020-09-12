@@ -8,22 +8,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Chico R Users Group: Community Coding",
-    "group": "Chico R Users Group",
-    "start": "2020-08-12",
-    "description": "<p>Coding is a social activity! Got data and working on analysis? Got questions on using R or other programming languages? Great way to dedicate time to working on that project you've been meaning to get around to. Come and hang out with other coders in a welcoming and supportive environment<\/p> <p>Students, staff, faculty, and the public are invited to join our Community Coding sessions. Bring your computer, coding projects, and your questions to this open working environment.<\/p> <p>Sponsored by the CSUC Data Science Initiative. Learn more at <a href=\"http://datascience.csuchico.edu\" class=\"linkified\">http://datascience.csuchico.edu<\/a><\/p> ",
-    "url": "https://www.meetup.com/Chico-R-Users-Group/events/zbsxtrybclbqb/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Orange County R Users Group (OCRUG): Book club - Session 12 - Applied Predictive Modeling",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2020-08-12",
-    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. If you cannot, please wait until the next round starts with a new book. It is also expected that participants will take turns being the leader.<\/p> <p>We will meet each week, Wednesday evening between 6:30 to 8:00 PM. The location is Zoom if we cannot meet in person. If we can meet, it will be at Panara Bread (see below)<\/p> <p>Book: Applied Predictive Modeling<br/><a href=\"http://appliedpredictivemodeling.com/\" class=\"linkified\">http://appliedpredictivemodeling.com/<\/a><br/><a href=\"https://www.amazon.com/dp/B00K15TZU0/\" class=\"linkified\">https://www.amazon.com/dp/B00K15TZU0/<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/272034761/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Orange County R Users Group (OCRUG): Dissecting a Function and Lesser Used Base R Functions",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2020-08-18",
@@ -372,14 +356,6 @@
     "group": "R-Ladies Xalapa",
     "start": "2020-08-24",
     "url": "https://www.meetup.com/rladies-xalapa/events/272407986/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Toronto: Open data and an interactive dashboard to monitor COVID-19 outbreak in Canada",
-    "group": "R-Ladies Toronto",
-    "start": "2020-08-12",
-    "description": "<p>We are so excited to be back!<\/p> <p>On August 12, Isha Berry will be talking about be talking about \"Open access epidemiological data and an interactive dashboard to monitor the COVID-19 outbreak in Canada\".<\/p> <p>This meetup is, of course, online, and a link to the Zoom meeting will be shared the day of the event.<\/p> <p>Approximate agenda:<br/>7 - 7:10pm: Welcome and announcements<br/>7:10 - 7:30pm: Isha's talk<br/>7:30 - 7:45pm: Q&amp;A and discussion<br/>7:45 - 8:00pm: Wrap up<\/p> <p>Talk description:<br/>The COVID-19 Canada Open Data Working Group was founded in March 2020 in response to the need for accurate, up-to-date and accessible data on the COVID-19 epidemic in Canada. Unlike many datasets that provide only aggregate case counts, the working group dataset collects individual-level case data, which are particularly valuable during outbreaks but are seldom made available in real time. This dataset feeds into an interactive dashboard, which enables users to visualize the data and identify key health outcome trends.<\/p> <p>The dataset and dashboard have become a reliable pan-Canadian source for COVID-19 information. Additionally, this has the potential for future linkages with diverse datasets, such as policy interventions, socio-behavioural changes, environmental factors, and other population-level factors. The open access aspect of this work encourages transparency and data sharing, which are crucial for supporting evidence-based control strategies and directing public health response efforts in Canada for the COVID-19 pandemic.<\/p> <p>This talk will provide an overview of the key features associated with the COVID-19 Canada Open Data Working Group datasets and feature a demonstration of the tools available on the R Shiny dashboard. We will also discuss some of the key epidemiological insights that have been<br/>observed from this data and dashboard to date.<\/p> <p>About Isha Berry:<br/>Isha Berry is a PhD Candidate in Epidemiology at the Dalla Lana School of Public Health and a Fellow in the Emerging Leaders in Biosecurity Initiative at the Johns Hopkins Centre for Health Security. She is a co-founder of the COVID-19 Canada Open Data Working Group, which leads digital surveillance of COVID-19 cases in Canada to curate a publicly available line list and public-facing data dashboard. Isha has expertise in infectious disease epidemiology, geo-spatial methods, and mathematical modelling. Her primary area of research is understanding the socio-behavioral drivers of global emerging infectious diseases. She has experience conducting infectious disease research in low-, middle-, and high-income settings. She holds an MSc in Epidemiology from the London School of Hygiene and Tropical Medicine and a BSc in Environmental Science from McGill University.<\/p> <p>---<\/p> <p>Please note that by attending you agree to abide by our code of conduct: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> <p>R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.<\/p> ",
-    "url": "https://www.meetup.com/rladies-toronto/events/272230276/",
     "textColor": "#7171fb"
   },
   {
@@ -783,6 +759,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Gainesville: Tidy Friday: Practicing Data Visualization in R",
+    "group": "R-Ladies Gainesville",
+    "start": "2020-09-11",
+    "description": "<p>Practice your data wrangling and visualization skills with other members of R-Ladies! During this virtual event, participants will report on their experience working on a shared dataset.<\/p> <p>The R for Data Science Online Learning Community hosts a weekly \"Tidy Tuesday\" project in which they release a curated dataset every Tuesday for R users to practice data skills. We are meeting on Friday so that you have time to work on the dataset on your own.<\/p> <p>How it works:<\/p> <p>1. Read about the dataset here: <a href=\"https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md<\/a><\/p> <p>2. Import the data into R using the instructions in the website above (we suggest using the code in the section titled \"# Or read in the data manually\")<\/p> <p>3. Try to make a graph in R using the data. For some inspiration, search Twitter for #TidyTuesday.<\/p> <p>4. Meet on Zoom during the event time. Message an organizer if you didn't receive the meeting password.<\/p> <p>5. During the meeting, share your code and graph with the other participants using the \"Share Screen\" feature in Zoom or talk about where you got stuck and we'll work through it together.<\/p> <p>Everyone's contribution is valuable, even if you're new to R! There are so many different ways to do things in R that your approach may be new to experienced R users.<\/p> ",
+    "url": "https://www.meetup.com/rladies-gainesville/events/273112013/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Addis Ababa: 31st Meeting R-Ladies Addis Ababa",
     "group": "R-Ladies Addis Ababa",
     "start": "2020-09-08",
@@ -868,6 +852,14 @@
     "start": "2020-09-04",
     "description": "<p>Après un petit break de quelques semaines, nous reprenons notre cycle de tutoriels avec R.<br/>Cette semaine, nous importons des données dans R.<\/p> <p>Comme d'habitude, rejoignez-nous sur Zoom, cette fois-ci à 17:00.<\/p> <p>Au plaisir de vous retrouver ce vendredi.<\/p> <p>Cheers,<br/>Fousseynou.<\/p> ",
     "url": "https://www.meetup.com/Bamako-Data-Science/events/272934541/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Bamako Data Science: Data Science avec R: dplyr et tidyr",
+    "group": "Bamako Data Science",
+    "start": "2020-09-11",
+    "description": "<p>Pour ce qui sera notre dernière séance pour ce cycle de tutoriels en data science sur R, je vous propose d'explorer deux packages clés du tidyverse, dplyr et tidyr.<br/>Nous allons explorer ces deux packages et prendre la mesure de tout leur potentiel.<\/p> <p>Comme d'habitude, rejoignez-nous sur Zoom, cette fois-ci à 17:00.<\/p> <p>Au plaisir de vous retrouver ce vendredi.<\/p> <p>Cheers,<br/>Fousseynou.<\/p> ",
+    "url": "https://www.meetup.com/Bamako-Data-Science/events/273093943/",
     "textColor": "#7171fb"
   },
   {
@@ -1383,14 +1375,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Vancouver: DataJam 2020",
-    "group": "R-Ladies Vancouver",
-    "start": "2020-09-11",
-    "description": "<p>To confirm your participation, please sign up here (this post is just for promotion purposes): <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSft4I0fi-Mw6xR5DXY0HUAxqD-kJJf_METKDWxKhPGc45MUrg/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSft4I0fi-Mw6xR5DXY0HUAxqD-kJJf_METKDWxKhPGc45MUrg/viewform<\/a><\/p> <p>Vancouver Datajam 2020 is a hackathon-like event where you can develop your coding skills and meet other members of the community. Participating groups include RLadies, PyLadies, Women in Machine Learning/Data Science, SFU Scientific Programming, and Women Techmakers. As of March 2020, the Datajam has transitioned to a fully virtual event! The event kicks off on September 11, 2020, with exciting workshops on R, Python, and virtual collaboration in GitHub. The main hackathon portion of the event will occur from 9am-5pm on September 12, 2020. That evening, we'll be featuring a Q&amp;A panel composed of both industry professionals and academics. This year our theme is \"hack for a plastic waste free future.\" Datajam participants will work to bring awareness to the plastics crisis with projects that aim to understand, visualize, and make predictions about plastic waste data.<\/p> <p>Curious about how our virtual hackathon will operate?<\/p> <p>Datajam Goes Virtual<br/>Our event committee is working hard to set this event up for success in the virtual space. Here’s a few areas on which we are focusing:<br/>Virtual networking: we’ll be setting up opportunities for participants to meet one another in small group settings and will encourage teams to connect virtually.<br/>Tutorials: Tutorials will continue as planned, but in a virtual setting. We’ll still have volunteers available to help participants troubleshoot issues that come up.<br/>Collaboration: Use of version control and meeting software will be essential for teams to connect and collaborate. We’ll be sharing more details and guidelines for virtual collaboration soon.<\/p> <p>We hope you are able to attend! If you have any questions please email us at:<br/>[masked]<\/p> ",
-    "url": "https://www.meetup.com/rladies-vancouver/events/272687752/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Philly: Decision Trees & Random Forests",
     "group": "R-Ladies Philly",
     "start": "2020-09-15",
@@ -1420,6 +1404,22 @@
     "start": "2020-12-08",
     "description": "<p>Details to follow!<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/268783170/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Sydney: Show and Tell your R Code",
+    "group": "R-Ladies Sydney",
+    "start": "2020-09-22",
+    "description": "<p>Have you been working on code you are particularly proud of? Or do you have some code that is driving you crazy?<\/p> <p>Bring it along to this online event and share your triumph and/or frustration. Last time we learned about some hidden gems of dplyr, the magic of facet_wrap in ggplot and some super cool mapping using leaflet. Who knows what this session will bring!<\/p> <p>This event will be via Zoom.<\/p> <p>Check out some of the cool things we have shared at Show and Tell events earlier this year.<\/p> <p><a href=\"https://rladiessydney.org/post/2020-05-02-show-and-tell-may-2020/\" class=\"linkified\">https://rladiessydney.org/post/2020-05-02-show-and-tell-may-2020/<\/a><br/><a href=\"https://rladiessydney.org/post/2020-06-02-show-and-tell-june-2020/\" class=\"linkified\">https://rladiessydney.org/post/2020-06-02-show-and-tell-june-2020/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-sydney/events/273204790/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Sydney: Date Night (analysing dates with lubridate)",
+    "group": "R-Ladies Sydney",
+    "start": "2020-10-29",
+    "description": "<p>How do you go about learning to use a new package in R? Do you like to watch people code so always turn to Youtube first? Or do you look for tutorials that someone has posted on their blog? Maybe you are a R purist and head to the package documentation?<\/p> <p>I have decided that I want to learn how to deal with dates in R and in scheduling this talk, I am publicly committing to my goal! I am starting now and hopefully by the talk date in October I will have worked it out. If not, I might end up presenting about the process of learning to use a new package in R than how to use `lubridate` per se.<\/p> <p>At this stage, it is a bit unclear what this talk will be, but either way it will be fun!!<\/p> <p>See you in October!<br/>Jen<\/p> ",
+    "url": "https://www.meetup.com/rladies-sydney/events/273204898/",
     "textColor": "blue"
   },
   {
@@ -1597,6 +1597,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup",
+    "group": "R-Ladies Columbus",
+    "start": "2020-12-10",
+    "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-columbus/events/mpjmxrybcqbnb/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Rotterdam: Mastering R6! Advanced R, Chapter 14, R-Ladies NL Book Club",
     "group": "R-Ladies Rotterdam",
     "start": "2020-09-15",
@@ -1741,10 +1749,18 @@
     "textColor": "blue"
   },
   {
+    "title": "EdinbR: The Edinburgh R Usergroup: September 2020 meeting: improving diversity and teaching R",
+    "group": "EdinbR: The Edinburgh R Usergroup",
+    "start": "2020-09-16",
+    "description": "<p>Hi everyone,<\/p> <p>**We're BACK!**<\/p> <p>Our September session will be on 16th, so join us from 5.30pm online. As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>Our online meetings are kindly being enabled by Redhat (<a href=\"https://www.redhat.com/\" class=\"linkified\">https://www.redhat.com/<\/a>).<\/p> <p>Our speakers are Greg Sutcliffe and Melanie Stefan. Greg is the Community Data Scientist for Ansible, where he spends his time doing analysis and tool-building to improve how the upstream community operates. Melanie is a Senior Lecturer in Biomedical Sciences at the University of Edinburgh. Her lab (<a href=\"http://stefanlab.net\" class=\"linkified\">http://stefanlab.net<\/a>) uses computational modelling and simulations to understand learning and memory.<\/p> <p>---<\/p> <p>## How R helps with Red Hat's Conscious Language project<\/p> <p>### Greg Sutcliffe (<a href=\"https://twitter.com/Gwmngilfen\" class=\"linkified\">https://twitter.com/Gwmngilfen<\/a>)<\/p> <p>In June, Red Hat's CTO published a blog (<a href=\"https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language\" class=\"linkified\">https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language<\/a>) on how Red Hat is committing to improving diversity and inclusion in the open source world.<\/p> <p>The scope is vast - thousands of Git repositories, hundreds of thousands of text files to scan. In this talk, we'll take a look over the key R packages that helped me index the repos, and rapidly build a dashboard to track our progress.<\/p> <p>We'll cover:<\/p> <p>* googledrive<br/>* pins<br/>* git2r<br/>* furrr &amp; future<br/>* plumber APIs<\/p> <p>---<\/p> <p>## Designing meaningful assessments when teaching R<\/p> <p>### Melanie Stefan (<a href=\"https://twitter.com/MelanieIStefan\" class=\"linkified\">https://twitter.com/MelanieIStefan<\/a>)<\/p> <p>A growing number of institutions teach their students how to use R. For instructors, the question arises of how to design meaningful assessments. Meaningful assessments should capture the course learning objectives, and should also bear some resemblance to a \"real\" task the student may have to do later in their professional life. They may also need to capture additional skills, such as the ability to work in teams. In the past year, I have taught R within an \"Applied Data Science\" course for undergraduate students in the Edinburgh-Zhejiang joint degree programme in Bioinformatics in China. In this talk, I will share my experiences with assessments in this course, including what went well and what very much did not go well.<\/p> <p>---<\/p> <p>Looking forward to seeing you there!!<\/p> <p>/f<\/p> ",
+    "url": "https://www.meetup.com/EdinbR/events/273188563/",
+    "textColor": "blue"
+  },
+  {
     "title": "R User Group Rhein-Neckar: ONLINE: Machine Learning Themes",
     "group": "R User Group Rhein-Neckar",
     "start": "2020-09-15",
-    "description": "<p>We will continue our Meetup miniseries on \"Machine Learning with R\" during September and maybe even longer.<\/p> <p>The content of the meeting on September 15 is not yet fixed, but could cover topics like<\/p> <p>* The 'mlr3' package: Pipelining<br/>* Benchmarking/tuning: The 'caret' package<\/p> <p>Let us know -- for instance here in the Comments section -- which themes you are interested in, what else should be covered, or if you could contribute, say, in future meetups.<\/p> <p>The plan is to have online meetups until the end of this year, every second Tuesday at 7:00-7:40 PM local CEST, starting September 15. Meetings will take place even if no contributions have been prepared, leaving room for questions, news, and discussions in general.<\/p> <p>Zoom Meeting ID: tbd.<br/>Password: tbd.<\/p> <p>Meeting ID and password will be announced here the day before the meeting.<\/p> <p>PS: Because of the time restrictions with Zoom, we are also considering changing the conference provider to, e.g., JITSI.<\/p> ",
+    "description": "<p>We will continue our Meetup miniseries on \"Machine Learning with R\" during September and maybe even longer.<\/p> <p>The content of the meeting on September 15 is not yet fixed, but could cover topics like<\/p> <p>* ModelStudio: Interpretation von ML Modellen<br/>* Hinweise auf Link-Sammlungen zu R<\/p> <p>Let us know -- for instance here in the Comments section -- which themes you are interested in, what else should be covered, or if you could contribute, say, in future meetups.<\/p> <p>The plan is to have online meetups until the end of this year, every second Tuesday of a month at 7:00-7:40 PM local CEST, starting September 15. Meetings will take place even if no contributions have been prepared, leaving room for questions, news, and discussions in general.<\/p> <p>Zoom Meeting ID: tbd.<br/>Password: tbd.<\/p> <p>Meeting ID and password will be announced here the day before the meeting.<\/p> <p>PS: Because of the time restrictions with Zoom, we are also considering changing the conference provider to, e.g., JITSI.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/272929176/",
     "textColor": "blue"
   },
@@ -1853,22 +1869,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Jakarta: 11th Meetup: Using R for Time Series & Stock Analysis",
-    "group": "R-Ladies Jakarta",
-    "start": "2020-09-12",
-    "description": "<p>Hello again, R enthusiasts!!! Come join us again in our upcoming meet-up.<\/p> <p>WHEN?<br/>Saturday, 12 September 2020 from 2 pm - 4 pm WIB.<\/p> <p>WHERE?<br/>We'll be live on Zoom. Please fill up this form <a href=\"https://bit.ly/rladiesjkt11\" class=\"linkified\">https://bit.ly/rladiesjkt11<\/a> so that we can email you the meeting ID and password.<\/p> <p>AGENDA:<br/>Using R for Time Series &amp; Stock Analysis<\/p> <p>Some IMPORTANT stuff:<br/>1. We can host up to 300 attendances.<br/>2. Check previous meetups docs here: <a href=\"https://github.com/RLadiesJakarta\" class=\"linkified\">https://github.com/RLadiesJakarta<\/a><br/>3. E-mail us at [masked] for any inquiries regarding this event!<br/>4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).<br/>5. Don't forget to have RStudio readily installed in your computer<br/>6. If you're very new to R, you can also go through these two documents before the meetup:<br/>1. Intro to R.pdf<br/>2. Starter Kit R.pdf<br/>You can download and read the descriptions here: <a href=\"https://github.com/RLadiesJakarta/starter-kit\" class=\"linkified\">https://github.com/RLadiesJakarta/starter-kit<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-jakarta/events/273113017/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Gainesville: Tidy Friday: Practicing Data Visualization in R",
-    "group": "R-Ladies Gainesville",
-    "start": "2020-09-11",
-    "description": "<p>Practice your data wrangling and visualization skills with other members of R-Ladies! During this virtual event, participants will report on their experience working on a shared dataset.<\/p> <p>The R for Data Science Online Learning Community hosts a weekly \"Tidy Tuesday\" project in which they release a curated dataset every Tuesday for R users to practice data skills. We are meeting on Friday so that you have time to work on the dataset on your own.<\/p> <p>How it works:<\/p> <p>1. Read about the dataset here: <a href=\"https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md<\/a><\/p> <p>2. Import the data into R using the instructions in the website above (we suggest using the code in the section titled \"# Or read in the data manually\")<\/p> <p>3. Try to make a graph in R using the data. For some inspiration, search Twitter for #TidyTuesday.<\/p> <p>4. Meet on Zoom during the event time. Message an organizer if you didn't receive the meeting password.<\/p> <p>5. During the meeting, share your code and graph with the other participants using the \"Share Screen\" feature in Zoom or talk about where you got stuck and we'll work through it together.<\/p> <p>Everyone's contribution is valuable, even if you're new to R! There are so many different ways to do things in R that your approach may be new to experienced R users.<\/p> ",
-    "url": "https://www.meetup.com/rladies-gainesville/events/273112013/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Dallas: R-Ladies Dallas group project + social justice initiatives",
     "group": "R-Ladies Dallas",
     "start": "2020-09-15",
@@ -1882,6 +1882,14 @@
     "start": "2020-09-16",
     "description": "<p>95 years ago, in January 2020, Sharla Gelfand (@sharlagelfand, they/she) gave a fun, super useful talk at RStudio::conf about reproducible reporting (<a href=\"https://rstudio.com/resources/rstudioconf-2020/don-t-repeat-yourself-talk-to-yourself-repeated-reporting-in-the-r-universe/\" class=\"linkified\">https://rstudio.com/resources/rstudioconf-2020/don-t-repeat-yourself-talk-to-yourself-repeated-reporting-in-the-r-universe/<\/a>), and while we're all largely trapped in our homes, we're bringing back the talk and Sharla too!<\/p> <p>In this online event, we will gather to watch Sharla's the 21 minute talk together, and they will join us for chatting and live Q&amp;A!<\/p> ",
     "url": "https://www.meetup.com/rladies-boston/events/272149449/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Belo Horizonte: We R Ladies - Curso de Sweeve - (R + Latex)",
+    "group": "R-Ladies Belo Horizonte",
+    "start": "2020-09-19",
+    "description": "<p>Inscrições em: <a href=\"https://www.sympla.com.br/we-r-ladies---curso-de-sweeve---r--latex__926022\" class=\"linkified\">https://www.sympla.com.br/we-r-ladies---curso-de-sweeve---r--latex__926022<\/a><\/p> <p>O Sweave é uma funcionalidade do R que permite a edição ágil de documentos combinando o LATEX e o R. Usando o Sweave o usuário pode incluir comandos, saídas computacionais e/ou gráficos automaticamente no texto, sem a necessidade de fazer tal inclusão manualmente e passo a passo. Com o R Sweve você consegue facilmente definir arquivos no formato artigo, relatório, e definir facilmente as normas do texto, como margem e espaçamento, facilitando o uso das normas da ABNT.<\/p> <p>Nível de Habilidade: Intermediária<\/p> <p>O que você vai aprender neste curso?<\/p> <p>1. Introdução ao latex<br/>• Aplicações e exemplos<br/>• Funcionalidades<br/>• Tipos de arquivos<br/>• Pacotes<br/>• Sintaxe<br/>2. R Sweave<br/>• Instalação<br/>• Utilização<br/>• Exemplos<br/>• Comandos e Sintaxe<br/>3. Overleaf<br/>• Utilização do latex<br/>• Utilização de beammers<\/p> <p>Conheça a facilitadora:<\/p> <p>Marina Alves Amorim - Estatística no Portal Casa Mineira Imóveis.: <a href=\"https://www.linkedin.com/in/marina-amorim-811b949b/\" class=\"linkified\">https://www.linkedin.com/in/marina-amorim-811b949b/<\/a><br/>Bacharel e mestre em Estatística pela UFMG.<\/p> <p>FAQs:<\/p> <p>O que é R?<\/p> <p>R é uma linguagem de programação de computador e ambiente de software para computação estatística e gráficos. Confira aqui (<a href=\"https://www.r-project.org/\" class=\"linkified\">https://www.r-project.org/<\/a>). Ele é usado para análise e visualização de dados em uma ampla variedade de campos.<\/p> <p>O que é R-Ladies?<\/p> <p>A comunidade R-Ladies é uma organização global que promove a diversidade de gênero na comunidade da linguagem computacional estatística (R). Embora nossos eventos considerem pelo menos o interesse de nível básico em R (algum conhecimento anterior é útil, mas não obrigatório), você é mais que bem-vinde a participar de qualquer uma de nossas sessões para ver o que fazemos.<\/p> <p>Onde posso acessar seus materiais?<\/p> <p>Vamos carregar os materiais para a nossa pasta no GDrive (<a href=\"https://drive.google.com/drive/folders/1UNO_46lSQ63aU71tIR70-7le0ez10HT5\" class=\"linkified\">https://drive.google.com/drive/folders/1UNO_46lSQ63aU71tIR70-7le0ez10HT5<\/a>).<\/p> <p>Precisa ter algum conhecimento prévio?<\/p> <p>Há a necessidade de ter pelo menos um conhecimento básico no R.<\/p> <p>Preciso de alguma estrutura pra acompanhar o curso?<\/p> <p>Para acompanhar o curso online, o ideal é ter acesso a um computador e internet rápida. Uma conta ativa no RStudio Cloud também será necessária. Veja como criá-la aqui: <a href=\"https://medium.com/rladiesbh/r-studio-cloud-como-programar-em-r-usando-a-web-aa6313a5fb8c\" class=\"linkified\">https://medium.com/rladiesbh/r-studio-cloud-como-programar-em-r-usando-a-web-aa6313a5fb8c<\/a><\/p> <p>Vai ter certificado?<\/p> <p>Vai sim, todo mundo que comparecer ao evento terá direito a um certificado de 6h.<\/p> <p>O curso é gratuito?<\/p> <p>Sim. Porém, teremos um número limitado de vagas gratuitas.<\/p> <p>Eu sou homem, posso me inscrever?<\/p> <p>Este grupo é principalmente voltado para o público feminino e LGBTQIA+, mas está aberto a todos que concordam com o CoC (<a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese<\/a>). Dito isto, se você é um homem e quer participar dos nossos encontros, você está convidado a participar!<\/p> <p>Ficou alguma dúvida?<\/p> <p>É só enviar para [masked] ;)<\/p> ",
+    "url": "https://www.meetup.com/rladies-belo-horizonte/events/273193322/",
     "textColor": "blue"
   },
   {
@@ -1914,14 +1922,6 @@
     "start": "2020-09-22",
     "description": "<p>Speaker: Manjula Dissanayake (Tesco Bank)<br/>Title: Banking on Darwin: A glimpse into Evolutionary Optimisation<\/p> <p>Abstract:<\/p> <p>Evolutionary algorithms are powerful optimisation techniques that are often overlooked despite their wide applications, especially in the financial field. This presentation will provide a brief introduction to evolution, an overview of an optimisation problem and a walkthrough of how evolutionary algorithms work. We will explore how evolutionary algorithms can be applied to the travelling salesman problem, early diagnosis of Leukaemia (my PhD work), dinosaurs learning to walk, and a banking industry problem: optimisation of cash delivery to ATMs.<\/p> <p>Bio:<\/p> <p>Dr. Manjula Dissanayake is a data scientist working at Tesco Bank. His current work includes building predictive models on customer behaviour and helping to develop the future analytics platform for Tesco Bank. His past work ranges from weather prediction &amp; renewable energy generation to software engineering in large scale distributed systems (Adobe). His research interests also includes feature selection and classification on cancer datasets and optimising chemotherapy treatment schedules.<\/p> ",
     "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/272642284/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Bamako Data Science: Data Science avec R: dplyr et tidyr",
-    "group": "Bamako Data Science",
-    "start": "2020-09-11",
-    "description": "<p>Pour ce qui sera notre dernière séance pour ce cycle de tutoriels en data science sur R, je vous propose d'explorer deux packages clés du tidyverse, dplyr et tidyr.<br/>Nous allons explorer ces deux packages et prendre la mesure de tout leur potentiel.<\/p> <p>Comme d'habitude, rejoignez-nous sur Zoom, cette fois-ci à 17:00.<\/p> <p>Au plaisir de vous retrouver ce vendredi.<\/p> <p>Cheers,<br/>Fousseynou.<\/p> ",
-    "url": "https://www.meetup.com/Bamako-Data-Science/events/273093943/",
     "textColor": "blue"
   }
 ]
