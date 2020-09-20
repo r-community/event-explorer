@@ -25,8 +25,14 @@ $(document).ready(function() {
       color: '#ffffff',
       textColor:'blue'
     },
+				{url: 'data/ropensci_jumpingR_events.json', // use the `url` property
+      color: '#ffffff',
+      textColor:'blue'},
+				{url: 'data/meetingsR_events.json', // use the `url` property
+      color: '#ffffff',
+      textColor:'blue'},
 				{
-					url:'https://raw.githubusercontent.com/benubah/rcentral/master/useR/events.json',
+					url:'rstudio_events.json',
 					color:'blue',
 					textColor:'white'
 				}
