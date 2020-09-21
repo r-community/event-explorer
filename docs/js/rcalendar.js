@@ -26,13 +26,13 @@ $(document).ready(function() {
       textColor:'blue'
     },
 				{url: 'data/ropensci_jumpingR_events.json', // use the `url` property
-      color: '#ffffff',
-      textColor:'blue'},
+      color:'blue',
+					textColor:'white'},
 				{url: 'data/meetingsR_events.json', // use the `url` property
       color: '#ffffff',
       textColor:'blue'},
 				{
-					url:'rstudio_events.json',
+					url:'data/rstudio_events.json',
 					color:'blue',
 					textColor:'white'
 				}
