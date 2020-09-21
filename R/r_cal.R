@@ -464,7 +464,7 @@ get_upcoming_events <- function(){
   all_past_revents <- lapply(rugs_urlnames_full, 
                              function(x) 
                              {
-                               y <- s_get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date())
+                               y <- s_get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 60, no_later_than = Sys.Date())
                                Sys.sleep(0.4)
                                y
                              }
