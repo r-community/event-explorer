@@ -1,180 +1,180 @@
 [
   {
-    "title": "rOpensci: Maintaining an R Package",
+    "title": "rOpensci: Maintaining an R Package [Community Call] ",
     "start": "2020-03-18",
     "description": "We’ll start with a short talk by Julia Silge, then spend most of the time on Q & A with four panelists - Elin Waring, Erin Grand, Leonardo Collado-Torres, and Scott Chamberlain - moderated by Julia. Our panelists bring a wide range of perspectives so there’s something for everyone. Collectively, they have experience developing and maintaining passion-project packages, very popular packages, too many packages on CRAN, packages on Bioconductor, and taking over maintenance (and changing things!) of a package developed by someone else.",
     "url": "https://ropensci.org/commcalls/2020-03-18/"
   },
   {
-    "title": "rOpensci: Last Night, Testing Saved my Life",
+    "title": "rOpensci: Last Night, Testing Saved my Life [Community Call] ",
     "start": "2019-12-05",
     "description": "To the uninitiated, software testing may seem variously boring, daunting or bogged down in obscure terminology. However, it has the potential to be enormously useful for people developing software at any level of expertise, and can often be put into practice with relatively little effort. We are aiming to address needs on a continuum, whether you are getting started with testing, or it’s already at the core of your development process. Read the announcement blog post for speaker details.",
     "url": "https://ropensci.org/commcalls/2019-12-05/"
   },
   {
-    "title": "rOpensci: Reproducible workflows at scale with drake",
+    "title": "rOpensci: Reproducible workflows at scale with drake [Community Call] ",
     "start": "2019-09-24",
     "description": "Ambitious workflows in R, such as machine learning analyses, can be difficult to manage. A single round of computation can take several hours to complete, and routine updates to the code and data tend to invalidate hard-earned results. You can enhance the maintainability, hygiene, speed, scale, and reproducibility of such projects with the drake R package. drake resolves the dependency structure of your analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and organizes the output so you rarely have to think about data files. This talk demonstrates how to create and maintain a realistic machine learning project using drake-powered automation.",
     "url": "https://ropensci.org/commcalls/2019-09-24/"
   },
   {
-    "title": "rOpensci: Reproducible Research with R",
+    "title": "rOpensci: Reproducible Research with R [Community Call] ",
     "start": "2019-07-30",
     "description": "Ben Marwick on research compendia, Karthik Ram on holepunch, Anna Krystalli on ReproHacks. See the announcement blog post for speaker bios.",
     "url": "https://ropensci.org/commcalls/2019-07-30/"
   },
   {
-    "title": "rOpensci: Involving Multilingual Communities",
+    "title": "rOpensci: Involving Multilingual Communities [Community Call] ",
     "start": "2019-06-28",
     "description": "rOpenSci’s community is increasingly international and multilingual. While we have operated primarily in English, we now receive submissions of packages from authors whose primary language is not. As we expand our community in this way, we want to learn from the experience of other organizations. How can we manage our peer-review process and open-source projects to be welcoming to non-native English speakers? Our guest speakers included Rayna Harris, who has co-led work with The Carpentries in internationalization of curricula, and Emilio Bruna, who as editor-in-chief of Biotropica, manages a journal with a heavily tropical-country audience and authorship base.",
     "url": "https://ropensci.org/commcalls/2019-06-28/"
   },
   {
-    "title": "rOpensci: Security for R",
+    "title": "rOpensci: Security for R [Community Call] ",
     "start": "2019-05-07",
     "description": "Bob Rudis on Zen and the art of ensuring confidentiality & integrity in analytics workflows; Ildi Czeller on Authorization vs authentication explained through signing commits: why you should do it and how the ropsec package helps you do it the right way.",
     "url": "https://ropensci.org/commcalls/2019-05-07/"
   },
   {
-    "title": "rOpensci: Research Applications of rOpenSci Taxonomy and Biodiversity Tools",
+    "title": "rOpensci: Research Applications of rOpenSci Taxonomy and Biodiversity Tools [Community Call] ",
     "start": "2019-03-27",
     "description": "Helping people learn about rOpenSci’s packages to access and analyze taxonomy and biodiversity data, and to recognize the breadth and depth of their applications. Presentations will start with an introduction and details on some specific packages and we’ll hear from several people about their “use cases in the wild”.",
     "url": "https://ropensci.org/commcalls/2019-03-27/"
   },
   {
-    "title": "rOpensci: Governance strategies for open source research software projects",
+    "title": "rOpensci: Governance strategies for open source research software projects [Community Call] ",
     "start": "2018-12-18",
     "description": "rOpenSci postdoctoral fellow, Dan Sholler has been researching governance, engagement, and resistance in the open science movement. In this Community Call he will share some of his findings to date.",
     "url": "https://ropensci.org/commcalls/2018-12-18/"
   },
   {
-    "title": "rOpensci: Working with images in R",
+    "title": "rOpensci: Working with images in R [Community Call] ",
     "start": "2018-11-15",
     "description": "Working with images in R, including audio and video. Jeroen Ooms, rOpenSci Research Software Engineer and Postdoctoral Fellow, will explain what images are, under the hood, and showcase several rOpenSci packages that form a modern toolkit for working with images in R, including `opencv`, `av`, `tesseract`, `magick` and `pdftools`.",
     "url": "https://ropensci.org/commcalls/2018-11-15/"
   },
   {
-    "title": "rOpensci: Code Review in the Lab, or ... How do you review code that accompanies a research project or paper?",
+    "title": "rOpensci: Code Review in the Lab, or ... How do you review code that accompanies a research project or paper? [Community Call] ",
     "start": "2018-10-16",
     "description": "Code Review in the Lab, or ... How do you review code that accompanies a research project or paper?",
     "url": "https://ropensci.org/commcalls/2018-10-16/"
   },
   {
-    "title": "rOpensci: Writing Packages to Support Research Communities - zoon & greta",
+    "title": "rOpensci: Writing Packages to Support Research Communities - zoon & greta [Community Call] ",
     "start": "2018-01-30",
     "description": "Writing Packages to Support Research Communities - zoon & greta",
     "url": "https://ropensci.org/commcalls/2018-01-30/"
   },
   {
-    "title": "rOpensci: rOpenSci Software Review and Onboarding",
+    "title": "rOpensci: rOpenSci Software Review and Onboarding [Community Call] ",
     "start": "2017-09-13",
     "description": "rOpenSci Software Review and Onboarding",
     "url": "https://ropensci.org/commcalls/2017-09-13/"
   },
   {
-    "title": "rOpensci: How to Ask Questions so they get Answered! Possibly by Yourself!",
+    "title": "rOpensci: How to Ask Questions so they get Answered! Possibly by Yourself! [Community Call] ",
     "start": "2017-03-07",
     "description": "How to Ask Questions so they get Answered! Possibly by Yourself!",
     "url": "https://ropensci.org/commcalls/2017-03-07/"
   },
   {
-    "title": "rOpensci: How do I Create a Code of Conduct for my Event/Lab/Codebase?",
+    "title": "rOpensci: How do I Create a Code of Conduct for my Event/Lab/Codebase? [Community Call] ",
     "start": "2016-12-15",
     "description": "How do I Create a Code of Conduct for my Event/Lab/Codebase?",
     "url": "https://ropensci.org/commcalls/2016-12-15/"
   },
   {
-    "title": "rOpensci: Advanced Graphics and Image Processing in R with magick",
+    "title": "rOpensci: Advanced Graphics and Image Processing in R with magick [Community Call] ",
     "start": "2016-08-24",
     "description": "Advanced Graphics and Image Processing in R with magick",
     "url": "https://ropensci.org/commcalls/2016-08-24/"
   },
   {
-    "title": "rOpensci: Python String Methods in R, pystr",
+    "title": "rOpensci: Python String Methods in R, pystr [Community Call] ",
     "start": "2016-05-11",
     "description": "Python String Methods in R, pystr",
     "url": "https://ropensci.org/commcalls/2016-05-11/"
   },
   {
-    "title": "rOpensci: Google Sheets in R",
+    "title": "rOpensci: Google Sheets in R [Community Call] ",
     "start": "2016-03-02",
     "description": "Google Sheets in R",
     "url": "https://ropensci.org/commcalls/2016-03-02/"
   },
   {
-    "title": "rOpensci: Designing dat 1.0",
+    "title": "rOpensci: Designing dat 1.0 [Community Call] ",
     "start": "2015-12-02",
     "description": "Designing dat 1.0",
     "url": "https://ropensci.org/commcalls/2015-12-02/"
   },
   {
-    "title": "rOpensci: Failing Fast and Early, assertr",
+    "title": "rOpensci: Failing Fast and Early, assertr [Community Call] ",
     "start": "2015-10-07",
     "description": "Failing Fast and Early, assertr",
     "url": "https://ropensci.org/commcalls/2015-10-07/"
   },
   {
-    "title": "rOpensci: Tools for R package development, metacran",
+    "title": "rOpensci: Tools for R package development, metacran [Community Call] ",
     "start": "2015-08-19",
     "description": "Tools for R package development, metacran",
     "url": "https://ropensci.org/commcalls/2015-08-19/"
   },
   {
-    "title": "rOpensci: broom, An R Package to Convert Statistical Models into Tidy Data Frames",
+    "title": "rOpensci: broom, An R Package to Convert Statistical Models into Tidy Data Frames [Community Call] ",
     "start": "2015-07-08",
     "description": "broom, An R Package to Convert Statistical Models into Tidy Data Frames",
     "url": "https://ropensci.org/commcalls/2015-07-08/"
   },
   {
-    "title": "rOpensci: Getting NCBI Data into your R Sessions, rentrez; rocker, Docker for R",
+    "title": "rOpensci: Getting NCBI Data into your R Sessions, rentrez; rocker, Docker for R [Community Call] ",
     "start": "2015-05-27",
     "description": "Getting NCBI Data into your R Sessions, rentrez; rocker, Docker for R",
     "url": "https://ropensci.org/commcalls/2015-05-27/"
   },
   {
-    "title": "rOpensci: Getting Your Data into R",
+    "title": "rOpensci: Getting Your Data into R [Community Call] ",
     "start": "2015-04-15",
     "description": "Getting Your Data into R",
     "url": "https://ropensci.org/commcalls/2015-04-15/"
   },
   {
-    "title": "rOpensci: htmlwidgets, Binding JS Libraries Made Easy",
+    "title": "rOpensci: htmlwidgets, Binding JS Libraries Made Easy [Community Call] ",
     "start": "2015-03-05",
     "description": "htmlwidgets, Binding JS Libraries Made Easy",
     "url": "https://ropensci.org/commcalls/2015-03-05/"
   },
   {
-    "title": "rOpensci: Reproducibility Hackathon",
+    "title": "rOpensci: Reproducibility Hackathon [Community Call] ",
     "start": "2015-01-14",
     "description": "Reproducibility Hackathon",
     "url": "https://ropensci.org/commcalls/2015-01-14/"
   },
   {
-    "title": "JumpingRivers: Advanced Graphics with R",
+    "title": "JumpingRivers: Advanced Graphics with R [Training] ",
     "start": "2020-09-23",
     "description": "This is a one-day intensive course on advanced graphics with R. The standard plotting commands in R are known as the base graphics, but are starting to show their age. In this course, we cover more advanced graphics packages - in particular, ggplot2. The ggplot2 package can create advanced and informative graphics. This training course stresses understanding - not just one off R scripts. By the end of the session, participants will be familiar with themes, scales and facets, as well as the wider ggplot2 world of packages.",
     "url": "https://www.jumpingrivers.com/training/course/advanced-graphics-ggplot2-r/?event=1266"
   },
   {
-    "title": "JumpingRivers: Automated Reporting",
+    "title": "JumpingRivers: Automated Reporting [Training] ",
     "start": "2020-09-29",
     "description": "Do you want to create interactive documents? Do you want your reports to automatically update when the data changes? Then this session is for you! This training course is based on a workshop run by Garret Grolemund (RStudio) and Colin Gillespie (Jumping Rivers) at Strata, London.  The course commences with an introduction to markdown and how we can embed R code directly into a document. We use this foundation to create interactive, client-side dashboards using the flexdashboard package and HTML widgets. ",
     "url": "https://www.jumpingrivers.com/training/course/automated-reporting-first-steps-towards-shiny/?event=1268"
   },
   {
-    "title": "JumpingRivers: Getting to Grips with the Tidyverse",
+    "title": "JumpingRivers: Getting to Grips with the Tidyverse [Training] ",
     "start": "2020-10-06",
     "description": "The tidyverse is essential for any data scientist who deals with data on a day-to-day basis. By focusing on small key tasks, the tidyverse suite of packages removes the pain of data manipulation.  The tidyverse allows you toImport data from databases and data sources with easeRemove the pain of data cleaningStart understanding that data by transforming it, visualising it with imagery and modelling itCommunicate your findings throughout your organisation securely and simply with apps, documents or plotsMake business decisions based on accurate dataThis training course covers key aspects of the tidyverse, including dplyr, lubridate, tidyr and tibbles.Jumping Rivers are one of the few companies worldwide to be RStudio Full Service Partners. We have expertise in all aspects of the tidyverse.",
     "url": "https://www.jumpingrivers.com/training/course/introduction-r-tidyverse/?event=1269"
   },
   {
-    "title": "JumpingRivers: Programming with R",
+    "title": "JumpingRivers: Programming with R [Training] ",
     "start": "2020-10-12",
     "description": "The benefit of using a programming language such as R is that we can automate repetitive tasks. This course covers the fundamental techniques such as functions, for loops and conditional expressions. By the end of this course, you will understand what these techniques are and when to use them. This is a one-day intensive course on R.",
     "url": "https://www.jumpingrivers.com/training/course/programming-with-r/?event=1270"
   },
   {
-    "title": "JumpingRivers: Spatial Data Analysis with R",
+    "title": "JumpingRivers: Spatial Data Analysis with R [Training] ",
     "start": "2020-10-19",
     "description": "As spatial data sets get larger, more sophisticated software needs to be harnessed for their analysis. R is now a widely used open source software platform for working with spatial data thanks to its powerful analysis and visualisation packages.This training course provides an introduction to sf, a popular package for handling geographic data in R. Participants will learn how to load, manipulate and visualise spatial data, creating both static and interactive maps. The focus is on the principles rather than the specific methods, providing participants with the understanding needed to apply R's powerful suite of geographical tools to their own problems.",
     "url": "https://www.jumpingrivers.com/training/course/spatial-data-analysis-with-r/?event=1271"
