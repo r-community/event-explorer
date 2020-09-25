@@ -208,6 +208,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Berlin R Users Group: #43 tidyflow: a simplified and fresh workflow for machine learning",
+    "group": "Berlin R Users Group",
+    "start": "2020-09-24",
+    "description": "<p>Join our next meetup, virtually!<\/p> <p>Jorge Cimentada | tidyflow: a simplified and fresh workflow for doing machine learning with tidymodels<\/p> <p>Machine Learning programming is hard. Managing your data, splitting, resampling, preprocessing, modeling, and grid search into different objects can prove to be difficult. One can predict on the testing data by mistake, forget whether the preprocessing has been applied to the data or not, or simply do not remember the name of all the tuning parameters to specify in the grid. The `tidyflow` package builds upon `tidymodels` to bundle all of these steps into a coherent flow. It gives the same flexibility as the separate `tidymodels` package but makes machine learning modeling much more linear. In this talk we’ll introduce the benefits of tidyflow and walk through some examples of how to use it.<\/p> <p>Agenda:<br/>18:00 Intro<br/>18:05 Jorge's talk<br/>18:35 Q&amp;A<br/>19:00 Closing remarks<\/p> <p>----<br/>Bio: Jorge Cimentada<\/p> <p>PhD in Sociology from Pompeu Fabra University and currently a Research Scientist at the Laboratory of Digital and Computational Demography at the Max Planck Institute for Demographic Research. His research is mainly focused on the study of educational inequality, inequality in spatial mobility and computational social science. He has worked on data science projects both in the private sector and in academic research and is interested in merging cutting edge machine learning techniques with classical social statistics. You can check out his blog at cimentadaj.github.io or contact him through twitter at @cimentadaj.<\/p> ",
+    "url": "https://www.meetup.com/Berlin-R-Users-Group/events/272829989/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Supporting grant for Women in Data Science",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-08-16",
@@ -245,6 +253,14 @@
     "start": "2020-09-17",
     "description": "<p>This webinar promotes Why R? 2020 conference - <a href=\"http://2020.whyr.pl\" class=\"linkified\">http://2020.whyr.pl<\/a><br/>that happens[masked]<\/p> <p>My Rprofile is optimal (for me). My RStudio set-up is optimal (for me). My desktop set-up is optimal (for me). This talk will demonstrate the myriad of options available to R users, such as customising your R prompt, selecting the best font, and optimising your RStudio pane layout. At the end of the talk, you too can have the optimal, but bespoke, R set-up.<\/p> <p>- speaker: Colin Gillespie <a href=\"https://www.jumpingrivers.com/\" class=\"linkified\">https://www.jumpingrivers.com/<\/a><\/p> <p>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><\/p> <p>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><\/p> <p>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><\/p> <p>- format: 45 min talk + 15 min for Q&amp;A<\/p> <p>- comments: ask YouTube live chat<\/p> <p>- stream: <a href=\"https://youtu.be/2rWi2KVcyjg\" class=\"embedded\">https://youtu.be/2rWi2KVcyjg<\/a><\/p> ",
     "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697229/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Text Mining Hackathon",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-09-23",
+    "description": "<p>Website - 2020.whyr.pl/hackathon/<br/>Slack - whyr.pl/slack/<\/p> <p>Theme<br/>We just announced the theme for the Hackathon - Text Mining. You can read some more details about the Hackathon on this website 2020.whyr.pl/hackathon/<\/p> <p>Submit Teams<br/>If you find the topic interesting, please follow this form whyr.pl/2020/hackathon/register/ to submit your team. We would like participants to gather in teams of 4 or 5. If you don't yet have a team, please use our whyr.pl/slack/ to find team mates.<\/p> <p>Timespan<br/>We start the hackathon with Keynote Talk by Julia Silge at 5:30pm UTC[masked].<br/>We finish the hackathon with Sponsored Talk by McKinsey at 5:30pm UTC[masked].<br/>This means there are 24hours for solving challenges published at the beginning of the event!<\/p> <p>You can find more scheduled talks on our YouTube channel youtube.com/WhyRFoundation<br/>We will be adding content during upcoming days.<\/p> <p>Warmly,<br/>Why R? Organizing Committee<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273245384/",
     "textColor": "#7171fb"
   },
   {
@@ -464,6 +480,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Oslo useR! Group: [Online] A Beginner's Guide to Monte Carlo Simulations",
+    "group": "Oslo useR! Group",
+    "start": "2020-09-24",
+    "description": "<p>Unfortunately we are unable to meet in person as of yet, so R-Ladies Oslo and Oslo useR! Group have decided to postpone the Lightning Talk event. We are, however, lucky enough to have one of our planned contributors giving a full talk instead!<\/p> <p>Monte Carlo simulation (MCS) is a computational tool used to determine a numerical result or unknown parameter by randomly selecting numbers repeatedly. It has a vast array of applications (e.g. risk analysis) in a variety of fields including education, law, mathematics and physics.<br/>This presentation will briefly outline what MCS are, why MCS are useful and how to conduct an MCS. An application of MCS in educational measurement will also be presented, while emphasizing possible solutions to issues that may be encountered.<\/p> <p>Dan Uehara recently completed his MSc, where he conducted Monte Carlo simulations to investigate the classification accuracy of score and sum score-based equating methods. Currently Dan works at the IPED at UiO as a research assistant analyzing survey data.<\/p> ",
+    "url": "https://www.meetup.com/Oslo-useR-Group/events/273004088/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Saint Louis R User Group: Introduction to Generalized Linear Models for Insurance Pricing",
     "group": "Saint Louis R User Group",
     "start": "2020-09-16",
@@ -477,6 +501,14 @@
     "start": "2020-08-18",
     "description": "<p>Please join us for the 33rd R aggRegate meetup, taking place on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>Details:<\/p> <p>When: Tuesday August 18, 6:30 pm - 8:00 pm<\/p> <p>Where: The meeting will take place on Zoom. The Zoom link will be sent to you when you RSVP.<\/p> <p>Agenda:<br/>• A demo on parallel computing in R using the \"parallel\", \"doParallel\", and \"foreach\" packages, presented by Brittany Barker. Make your computations faster! She will send a link to the demo shortly before the event date.<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct/\" class=\"linkified\">https://pdxrlang.com/code_of_conduct/<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message me in the meetup app, or on Twitter at @pdxrlang<\/p> ",
     "url": "https://www.meetup.com/portland-r-user-group/events/272237785/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Portland R User Group: aggregate: meet, greet, learn, collaborate",
+    "group": "Portland R User Group",
+    "start": "2020-09-24",
+    "description": "<p>Please join us for the 34th R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>Details:<\/p> <p>When: September 25, 2020 @ 6:30-8 PM<\/p> <p>Where: The meeting will take place on Zoom. Zoom link is provided when you RSVP.<\/p> <p>Agenda:<\/p> <p>• We'll be going over two code examples from the ggplot2 flipbook (<a href=\"https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1\" class=\"linkified\">https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1<\/a>), learning how a visualization is built step by step.<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct\" class=\"linkified\">https://pdxrlang.com/code_of_conduct<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message Ted Laderas or Laurel Boyd in the meetup app, or on Twitter at @pdxrlang<\/p> ",
+    "url": "https://www.meetup.com/portland-r-user-group/events/273148830/",
     "textColor": "#7171fb"
   },
   {
@@ -632,6 +664,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Birmingham R User Group (R Programming Language): [Online] Meet the BirminghamR community!",
+    "group": "Birmingham R User Group (R Programming Language)",
+    "start": "2020-09-24",
+    "description": "<p>Is it a podcast? Is it a panel? Is it a Q&amp;A? I have no idea but it's the next BirminghamR Meetup!<\/p> <p>This September we're going to try something different. Instead of talks from great speakers, we'll be interviewing some of our fantastic members. The format will be 4 questions each (sent beforehand) or 10 minutes, whichever is first. You're not required to answer the questions, you can basically talk about anything R-related.<\/p> <p>If you're interested in being interviewed or know someone who would be interested please let us know via Meetup or Twitter. For every interviewee, we will donate £10 to their favourite charity.<\/p> <p>We don't know what's going to happen but we're excited nonetheless, hope you are too and will join us for this momentous occasion!<\/p> <p>See Zoom link below.<br/>Meeting ID:[masked]<br/>Passcode:[masked]<\/p> ",
+    "url": "https://www.meetup.com/BirminghamR/events/272657958/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Vienna<-R: Data Science Conference Austria",
     "group": "Vienna<-R",
     "start": "2020-09-08",
@@ -669,6 +709,14 @@
     "start": "2020-08-20",
     "description": "<p>We came up with an experimental format for our August session: Till will bring a dataset and a rough idea for a shiny app. Problem is, he has never used shiny before, so he will need the help of experts (i. e. you!) to build it! Come and join us for this non-expert talk... an \"un-webinar\" if you will.<\/p> <p>As always, our session is open to useRs of all backgrounds and at all levels of expertise. So if you're new to shiny yourself, don't worry! This will be an opportunity to tune in, ask questions and try out shiny as well.<\/p> ",
     "url": "https://www.meetup.com/r-frankfurt/events/272205609/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Campus useR Group Frankfurt: September meeting: Teaching (with) R",
+    "group": "Campus useR Group Frankfurt",
+    "start": "2020-09-24",
+    "description": "<p>Let's talk about how we use R for teaching!<\/p> <p>R can be a vehicle for teaching quantitative methods, it can be a required skill for degrees and certifications, or it can be simply the least painful way of putting a formula on a slide.<\/p> <p>We've invited short (max. 10 min) inputs from a few 'experts' in our own ranks, who will be sharing some insights from their various experiences teaching (with) R. But most of us have encountered R in the classroom at some point, so our hope is for a lively, casual and honest discussion of best practices and horror scenarios concerning the didactics of R.<\/p> <p>As always, our meeting is open to useRs of all backgrounds and at all levels of expertise.<\/p> ",
+    "url": "https://www.meetup.com/r-frankfurt/events/272803622/",
     "textColor": "#7171fb"
   },
   {
@@ -732,6 +780,13 @@
     "group": "R-Ladies Xalapa",
     "start": "2020-08-24",
     "url": "https://www.meetup.com/rladies-xalapa/events/272407986/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Xalapa: 🇲🇽 Primer Encuentro Anual R-Ladies México 🇲🇽 ",
+    "group": "R-Ladies Xalapa",
+    "start": "2020-09-24",
+    "url": "https://www.meetup.com/rladies-xalapa/events/272984655/",
     "textColor": "#7171fb"
   },
   {
@@ -1071,6 +1126,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Oslo: [Cancelled] Lightning talks 2020",
+    "group": "R-Ladies Oslo",
+    "start": "2020-09-24",
+    "description": "<p>This meetup is unfortunately cancelled. Please see and join the meetup organised by the Oslo UseR! group on the same day on<\/p> <p>A Beginner's Guide to Monte Carlo Simulations - <a href=\"https://www.meetup.com/Oslo-useR-Group/events/273004088/\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/events/273004088/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-oslo/events/271380061/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Valparaíso: Sesión 6 - Club de lectura - Happy Git with R, de Jenny Bryan",
     "group": "R-Ladies Valparaíso",
     "start": "2020-07-29",
@@ -1100,6 +1163,14 @@
     "start": "2020-09-17",
     "description": "<p>Learn about community resources for getting help with R. We’ll also cover how to prepare a minimum reproducible example of your code (reprex) for posting questions to GitHub issues, StackOverflow, or Slack snippets. You’ll have an opportunity to network with other R users and learn more about domain-specific resources.<\/p> <p>Tentative Agenda<br/>––––––––––––––<br/>3:30 – Welcome &amp; Introductions<br/>3:35 – Overview: where to ask for help?<br/>4:50 – Demo: How to ask for help + How to prepare a reprex<br/>4:10 – Co-work: Your turn<br/>4:30 – Break: Q&amp;A + feedback<br/>4:40 – Networking: know thy neighbor (by field of study)<br/>4:50 – Questions + what’s coming up next<br/>5:00 – Wrap up<\/p> <p>Registration<br/>------------------<br/>Completion of the google form below is REQUIRED to receive zoom link by email: <a href=\"https://forms.gle/729JWJNG9urH5gNt5\" class=\"linkified\">https://forms.gle/729JWJNG9urH5gNt5<\/a><\/p> <p>Contact us at [masked]<\/p> <p>Meetup sponsor: Department of Computational Mathematics, Science &amp; Engineering, Michigan State University.<\/p> ",
     "url": "https://www.meetup.com/rladies-east-lansing/events/272642592/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies East Lansing: W+DS: Data Science Methodology",
+    "group": "R-Ladies East Lansing",
+    "start": "2020-09-24",
+    "description": "<p>Michigan State University &amp; University of Michigan invite you to their joint monthly webinar &amp; meetup series for Fall 2020!<\/p> <p>Agenda<br/>===========<br/>3:30: Keynote: Teaching computers to discover scientific knowledge by reading papers<br/>4:15: Lightning Talks: Data Science Methodology<br/>* Alyssa Travitz (UM)<br/>* Yiqi Wang (MSU)<br/>* Danielle Barnes (MSU)<br/>* Sarah Tymochko (MSU)\"<br/>4:45: Networking + Q&amp;A<br/>5:00: Wrap-up<\/p> <p>Registration<br/>============<br/>Please complete the form below to receive Zoom meeting details: <a href=\"https://forms.gle/j6psmyVFRBBdAVDV8\" class=\"linkified\">https://forms.gle/j6psmyVFRBBdAVDV8<\/a><\/p> <p>About the Keynote<br/>======================<br/>Enormous amounts of ever-changing knowledge are available online in diverse emergent textual styles (e.g., news vs. science text). This talk presents some of the H2Lab @UW's recent efforts to address the problem of textual comprehension and reasoning about scientific text, including knowledge extraction and claim verification given scientific articles.<br/>More information: <a href=\"https://women-plus-datascience.github.io/\" class=\"linkified\">https://women-plus-datascience.github.io/<\/a><\/p> <p>Keywords<br/>==========<br/>Natural Language Processing, NLP for bio-medicine, Deep Learning, Knowledge extraction<\/p> <p>About the Keynote Speaker<br/>===================<br/>Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science &amp; Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Honors include the Sloan Fellowship, Allen Distinguished Investigator Award, multiple best paper and honorable mention awards, and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.<\/p> <p>Planning Committee<br/>===========<br/>*Dr. Janani Ravi, Pathobiology and Diagnostic Investigation, MSU, R-Ladies East Lansing<br/>*Dr. Jing Liu, Michigan Institute for Data Science (MIDAS), U-M<br/>*Dr. Elizabeth Munch, Department of Computational Mathematics, Science &amp; Engineering, MSU<br/>*Dr. Parisa Kordjamshidi, Department of Computer Science &amp; Engineering, MSU<br/>*Dr. Dola Pathak, Department of Statistics, MSU<\/p> <p>Questions, sponsorship interests, email is at:<br/>[masked]<\/p> ",
+    "url": "https://www.meetup.com/rladies-east-lansing/events/272641171/",
     "textColor": "#7171fb"
   },
   {
@@ -1455,6 +1526,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies CDMX: Primer Encuentro Anual de RLadies México",
+    "group": "R-Ladies CDMX",
+    "start": "2020-09-24",
+    "description": "<p>A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y casi 3000 miembros se han integrado a esta comunidad.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Objetivos<br/>Compartir experiencias y retos enfrentados.<br/>Establecer un panel de discusión sobre las perspectivas de R-Ladies en nuestro país.<br/>Empoderar a más mujeres para crear nuevos capítulos.<br/>Unir fuerzas para generar conferencias y talleres conjuntos que hagan crecer aún más la comunidad de usuarias y usuarios de R.<br/>Fecha<br/>24 de septiembre de 2020, 17:00 h (Hora del Centro de México).<\/p> <p>Programa<br/>24 Septiembre, 2020<br/>17:00-17:05 Bienvenida<br/>17:05-17:15 Presentación de la organización R-Ladies<br/>17:15-17:45 Conferencia 1: Estadísticas e historia de los capítulos en México<br/>17:45-18:45 Panel de discusión: Retos y Perspectivas<br/>18:45-19:00 Coffee break y networking<br/>19:00-19:30 Sesión de pláticas cortas: Aplicaciones de R<br/>19:30-19:55 Conferencia 2: Cómo crear un nuevo capítulo.<br/>19:55-20:00 Cierre<br/>Agradecemos a la CDSB por su apoyo en la organización de este evento.<\/p> ",
+    "url": "https://www.meetup.com/rladies-cdmx/events/272991189/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies St. Louis: Virtual Meetup: Algorithms of Oppression by Safiya Umoja Noble",
     "group": "R-Ladies St. Louis",
     "start": "2020-09-22",
@@ -1484,6 +1563,14 @@
     "start": "2020-09-21",
     "description": "<p>Ce tutorial faisait part de la conference useR2020, et à cause du covid-19 le tutorial a été offert à R-Ladies Strasbourg. Il sera fait en Anglais car les intervenants présenteront sur zoom depuis les États-Unis.<\/p> <p>For this tutorial we will give the priority to R-Ladies Strasbourg and the R-community in Strasbourg and surrounding. Thank you for your understanding.<\/p> <p>This tutorial will identify a suite of tools for using network models in applied data analyses. Examples will utilize metabolomics data<br/>from ongoing large-scale health research studies, although techniques are transferrable across multiple domains. This workshop will<br/>link network visualizations with statistical analyses of complex metabolomics data and will emphasize detection of network<br/>subcomponents that link to health outcomes. Utility of these tools for ‘story telling’ in complex data settings will be illustrated.<br/>Learning objectives for the workshop are to:<br/>1) Explain the use of network models in metabolomics and other omics studies<br/>2) Apply R programming to analyze metabolomics and other omics network data<br/>3) Visualize network models using R<\/p> <p>The tutorial will include didactic instruction, demonstration of code and hands on work time for provided exercises. All exercises will be constructed in an R markdown format. Example code will be extracted from the .Rmd file for easy copy-and-paste execution during the course.<\/p> <p>Didactic introduction to network models and metabolomics (30 min)<br/>Demonstration of code for creating basic network data objects in R (20 min)<br/>Hands on work time for first set of exercises (40 min)<br/>Break (30 min)<br/>Didactic introduction to graphical lasso and differential network analysis (30 min)<br/>Demonstration of code for performing graphical lasso and differential network analysis in R (20 min)<br/>Hands on work time for second set of exercises (40 min)<\/p> <p>The course will be co-taught by Raji Balasubramanian, PhD, Associate Professor of Biostatistics at University of Massachusetts at Amherst in Amherst, MA and Denise Scholtens, PhD, Professor of Biostatistics at Northwestern University Feinberg School of Medicine in Chicago, IL.<br/>Drs. Balasubramanian and Scholtens are long time R users (15+ years) and statistical collaborators on the development of network methods for metabolomics data analysis. They previously co-taught a similar workshop at Metabolomics 2019 in The Hague, Netherlands. They are both regular faculty instructors in the graduate biostatistics degree programs at their respective institutions. Links to their faculty pages are below.<br/><a href=\"https://www.umass.edu/sphhs/person/faculty/raji-balasubramanian\" class=\"linkified\">https://www.umass.edu/sphhs/person/faculty/raji-balasubramanian<\/a><br/><a href=\"https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=16163\" class=\"linkified\">https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=16163<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-strasbourg/events/271946857/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Puebla: Rladies México",
+    "group": "R-Ladies Puebla",
+    "start": "2020-09-24",
+    "description": "<p>R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Este jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.<\/p> <p>Programa:<\/p> <p>17:00-17:05<br/>Bienvenida<\/p> <p>17:05-17:15<br/>Presentación de la organización R-Ladies<\/p> <p>17:15-17:45<br/>Conferencia 1: Estadísticas e historia de los capítulos en México<\/p> <p>17:45-18:45<br/>Panel de discusión: Retos y Perspectivas<\/p> <p>18:45-19:00<br/>Coffee break y networking<\/p> <p>19:00-19:30<br/>Sesión de pláticas cortas: Aplicaciones de R<\/p> <p>19:30-19:55<br/>Conferencia 2: Cómo crear un nuevo capítulo.<\/p> <p>19:55-20:00<br/>Cierre<\/p> <p>Este evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.<\/p> <p>Les pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.<\/p> <p>Recuerda leer y atender el código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-puebla/events/272988011/",
     "textColor": "#7171fb"
   },
   {
@@ -1663,6 +1750,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Cuernavaca: Primer encuentro anual R-Ladies México",
+    "group": "R-Ladies Cuernavaca",
+    "start": "2020-09-24",
+    "description": "<p>R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Este jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.<\/p> <p>Programa:<br/>17:00-17:05 Bienvenida<br/>17:05-17:15 Presentación de la organización R-Ladies<br/>17:15-17:45 Conferencia 1: Estadísticas e historia de los capítulos en México<br/>17:45-18:45 Panel de discusión: Retos y Perspectivas<br/>18:45-19:00 Coffee break y networking<br/>19:00-19:30 Sesión de pláticas cortas: Aplicaciones de R<br/>19:30-19:55 Conferencia 2: Cómo crear un nuevo capítulo.<br/>19:55-20:00 Cierre<\/p> <p>Este evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.<\/p> <p>Les pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.<\/p> <p>Recuerda leer y atender el código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-cuernavaca/events/272988331/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Medellín: Cuarto Encuentro R-Ladies Medellín: Shiny, tutorial para principiantes",
     "group": "R-Ladies Medellín",
     "start": "2020-08-05",
@@ -1692,6 +1787,14 @@
     "start": "2020-08-15",
     "description": "<p>En esta ocasión Aurore, una chica de RLadies Amsterdam impartirá un taller sobre crear páginas webs y blogs desde RMarkdown.Para este taller es necesario que tengas una cuenta GitHub y el paquete Blogdown descargado.<\/p> ",
     "url": "https://www.meetup.com/rladies-queretaro/events/272298491/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Queretaro: RLadies México",
+    "group": "R-Ladies Queretaro",
+    "start": "2020-09-24",
+    "description": "<p>R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Este jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.<\/p> <p>Estaremos transmitiendo por YouTubeLive también!!!<br/><a href=\"https://www.youtube.com/channel/UCrG34lup96IfDweTSDkPHDA\" class=\"embedded\">https://www.youtube.com/channel/UCrG34lup96IfDweTSDkPHDA<\/a><\/p> <p>Programa<\/p> <p>17:00-17:05<br/>Bienvenida<\/p> <p>17:05-17:15<br/>Presentación de la organización R-Ladies<\/p> <p>17:15-17:45<br/>Conferencia 1: Estadísticas e historia de los capítulos en México<\/p> <p>17:45-18:45<br/>Panel de discusión: Retos y Perspectivas<\/p> <p>18:45-19:00<br/>Coffee break y networking<\/p> <p>19:00-19:30<br/>Sesión de pláticas cortas: Aplicaciones de R<\/p> <p>19:30-19:55<br/>Conferencia 2: Cómo crear un nuevo capítulo.<\/p> <p>19:55-20:00<br/>Cierre<\/p> <p>Este evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.<\/p> <p>Les pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.<\/p> <p>Recuerda leer y atender el código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-queretaro/events/272986368/",
     "textColor": "#7171fb"
   },
   {
@@ -1762,7 +1865,7 @@
     "title": "Orange County R Users Group (OCRUG): Book club - Advanced R",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2020-09-30",
-    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. It is expected that this book will take 2-3 months to go through. If you cannot make this regular commitment, please wait until the next round starts. It is also expected that participants will take turns being the leader.<\/p> <p>Due to the nature of the material of this book, we ask that you have at least intermediate R programming skills.<\/p> <p>We will meet each week, Wednesday evening between 6:00 to 7:30 PM on Zoom.<\/p> <p>Book: Advanced R<br/><a href=\"http://adv-r.had.co.nz/\" class=\"linkified\">http://adv-r.had.co.nz/<\/a><br/><a href=\"https://www.amazon.com/gp/product/0815384572\" class=\"linkified\">https://www.amazon.com/gp/product/0815384572<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
+    "description": "<p>The book club is to motivate us to read books and discussing them together. This will help all of us to develop our skills. Xi Chen will be heading up the book club.<\/p> <p>The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.<\/p> <p>The expectations are that you will attend regularly once you sign up for a book. It is expected that this book will take 2-3 months to go through. If you cannot make this regular commitment, please wait until the next round starts. It is also expected that participants will take turns being the leader.<\/p> <p>Due to the nature of the material of this book, we ask that you have at least intermediate R programming skills.<\/p> <p>We will meet each week, Wednesday evening between 6:00 to 7:30 PM on Zoom.<\/p> <p>Book: Advanced R<br/><a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a><br/><a href=\"https://www.amazon.com/gp/product/0815384572\" class=\"linkified\">https://www.amazon.com/gp/product/0815384572<\/a><\/p> <p>What to bring<br/>* Laptop with R installed<br/>* Book<\/p> ",
     "url": "https://www.meetup.com/OC-RUG/events/272034792/",
     "textColor": "blue"
   },
@@ -1876,22 +1979,6 @@
     "start": "2020-12-19",
     "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
     "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcqbzb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "STWUR - Wroclaw R Users Group Meetup: Why R? 2020 Conference - Remote!",
-    "group": "STWUR - Wroclaw R Users Group Meetup",
-    "start": "2020-09-24",
-    "description": "<p>[REGISTRATION STARTS JUNE 1st] - whyr.pl/2020/register/<br/>[SUBMISSIONS STARTS JUNE 1st] - whyr.pl/2020/submit/<\/p> <p>We will stream the conference at youtube.com/WhyRFoundation<\/p> <p>Why R? 2020 Conference, the fourth meeting of R enthusiasts. It will be held remotely, 24-27 September 2020. As the meeting is held in English, we are happy to invite R users from all over the globe!<\/p> <p>Why R? 2020 Conference is an international event of R statistical software users. It is a remarkable occasion to gain knowledge about R, enhance data analysis and processing skills, and meet other members of European R community.<\/p> <p>TIMELINE<\/p> <p>[masked] - Lectures Registration Starts<br/>[masked] - Hackathon Registration Starts<\/p> <p>[masked] - Call for Papers Starts<br/>[masked] - Call for Papers Closes<br/>[masked] - Call for Papers Decisions<\/p> <p>[masked] - Agenda Announced<br/>[masked] - Workshops Registration Starts<br/>[masked] - Workshops Registration Closes<\/p> <p>[masked] - Hackathon<br/>[masked] - Workshops<br/>[masked] - Lectures Day 1<br/>[masked] - Lectures Day 2<\/p> ",
-    "url": "https://www.meetup.com/Wroclaw-R-Users-Group/events/271813207/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Berlin R Users Group: #43 tidyflow: a simplified and fresh workflow for machine learning",
-    "group": "Berlin R Users Group",
-    "start": "2020-09-24",
-    "description": "<p>Join our next meetup, virtually!<\/p> <p>Jorge Cimentada | tidyflow: a simplified and fresh workflow for doing machine learning with tidymodels<\/p> <p>Machine Learning programming is hard. Managing your data, splitting, resampling, preprocessing, modeling, and grid search into different objects can prove to be difficult. One can predict on the testing data by mistake, forget whether the preprocessing has been applied to the data or not, or simply do not remember the name of all the tuning parameters to specify in the grid. The `tidyflow` package builds upon `tidymodels` to bundle all of these steps into a coherent flow. It gives the same flexibility as the separate `tidymodels` package but makes machine learning modeling much more linear. In this talk we’ll introduce the benefits of tidyflow and walk through some examples of how to use it.<\/p> <p>Agenda:<br/>18:00 Intro<br/>18:05 Jorge's talk<br/>18:35 Q&amp;A<br/>19:00 Closing remarks<\/p> <p>----<br/>Bio: Jorge Cimentada<\/p> <p>PhD in Sociology from Pompeu Fabra University and currently a Research Scientist at the Laboratory of Digital and Computational Demography at the Max Planck Institute for Demographic Research. His research is mainly focused on the study of educational inequality, inequality in spatial mobility and computational social science. He has worked on data science projects both in the private sector and in academic research and is interested in merging cutting edge machine learning techniques with classical social statistics. You can check out his blog at cimentadaj.github.io or contact him through twitter at @cimentadaj.<\/p> ",
-    "url": "https://www.meetup.com/Berlin-R-Users-Group/events/272829989/",
     "textColor": "blue"
   },
   {
@@ -2071,11 +2158,11 @@
     "textColor": "blue"
   },
   {
-    "title": "Oslo useR! Group: [Online] A Beginner's Guide to Monte Carlo Simulations",
+    "title": "Oslo useR! Group: [Online] Organizing Your Research and Teaching Material with Git and R",
     "group": "Oslo useR! Group",
-    "start": "2020-09-24",
-    "description": "<p>Unfortunately we are unable to meet in person as of yet, so R-Ladies Oslo and Oslo useR! Group have decided to postpone the Lightning Talk event. We are, however, lucky enough to have one of our planned contributors giving a full talk instead!<\/p> <p>Monte Carlo simulation (MCS) is a computational tool used to determine a numerical result or unknown parameter by randomly selecting numbers repeatedly. It has a vast array of applications (e.g. risk analysis) in a variety of fields including education, law, mathematics and physics.<br/>This presentation will briefly outline what MCS are, why MCS are useful and how to conduct an MCS. An application of MCS in educational measurement will also be presented, while emphasizing possible solutions to issues that may be encountered.<\/p> <p>Dan Uehara recently completed his MSc, where he conducted Monte Carlo simulations to investigate the classification accuracy of score and sum score-based equating methods. Currently Dan works at the IPED at UiO as a research assistant analyzing survey data.<\/p> ",
-    "url": "https://www.meetup.com/Oslo-useR-Group/events/273004088/",
+    "start": "2020-10-29",
+    "description": "<p>Organizing Your Research and Teaching Material<br/>- An introduction to version control using Git with R<\/p> <p>Speaker: Waldir Leoncio Netto<\/p> <p>[This description will be updated as soon as possible :)]<\/p> ",
+    "url": "https://www.meetup.com/Oslo-useR-Group/events/273481893/",
     "textColor": "blue"
   },
   {
@@ -2100,14 +2187,6 @@
     "start": "2020-12-16",
     "description": "<p>By: TBD<\/p> ",
     "url": "https://www.meetup.com/Saint-Louis-RUG/events/xlrkjrybcqbvb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Portland R User Group: aggregate: meet, greet, learn, collaborate",
-    "group": "Portland R User Group",
-    "start": "2020-09-24",
-    "description": "<p>Please join us for the 34th R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>Details:<\/p> <p>When: September 25, 2020 @ 6:30-8 PM<\/p> <p>Where: The meeting will take place on Zoom. Zoom link is provided when you RSVP.<\/p> <p>Agenda:<\/p> <p>• We'll be going over two code examples from the ggplot2 flipbook (<a href=\"https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1\" class=\"linkified\">https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1<\/a>), learning how a visualization is built step by step.<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct\" class=\"linkified\">https://pdxrlang.com/code_of_conduct<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message Ted Laderas or Laurel Boyd in the meetup app, or on Twitter at @pdxrlang<\/p> ",
-    "url": "https://www.meetup.com/portland-r-user-group/events/273148830/",
     "textColor": "blue"
   },
   {
@@ -2191,14 +2270,6 @@
     "textColor": "blue"
   },
   {
-    "title": "eRka / Cracow R Users Group: Why R? 2020 Conference - Remote!",
-    "group": "eRka / Cracow R Users Group",
-    "start": "2020-09-24",
-    "description": "<p>[REGISTRATION STARTS JUNE 1st] - whyr.pl/2020/register/<br/>[SUBMISSIONS STARTS JUNE 1st] - whyr.pl/2020/submit/<\/p> <p>We will stream the conference at youtube.com/WhyRFoundation<\/p> <p>Why R? 2020 Conference, the fourth meeting of R enthusiasts. It will be held remotely, 24-27 September 2020. As the meeting is held in English, we are happy to invite R users worldwide!<\/p> <p>Why R? 2020 Conference is an international event of R statistical software users. It is a remarkable opportunity to learn about R, enhance data analysis and processing skills, and meet other European R community members.<\/p> <p>TIMELINE<\/p> <p>[masked] - Lectures Registration Starts<br/>[masked] - Hackathon Registration Starts<\/p> <p>[masked] - Call for Papers Starts<br/>[masked] - Call for Papers Closes<br/>[masked] - Call for Papers Decisions<\/p> <p>[masked] - Agenda Announced<br/>[masked] - Workshops Registration Starts<br/>[masked] - Workshops Registration Closes<\/p> <p>[masked] - Hackathon<br/>[masked] - Workshops<br/>[masked] - Lectures Day 1<br/>[masked] - Lectures Day 2<\/p> ",
-    "url": "https://www.meetup.com/erkakrakow/events/271767657/",
-    "textColor": "blue"
-  },
-  {
     "title": "New York Open Statistical Programming Meetup: Creating a Command Line Focused Development Environment",
     "group": "New York Open Statistical Programming Meetup",
     "start": "2020-09-29",
@@ -2207,11 +2278,11 @@
     "textColor": "blue"
   },
   {
-    "title": "Birmingham R User Group (R Programming Language): [Online] Meet the BirminghamR community!",
+    "title": "Birmingham R User Group (R Programming Language): [Online] Workshop Generalized Linear Models",
     "group": "Birmingham R User Group (R Programming Language)",
-    "start": "2020-09-24",
-    "description": "<p>Is it a podcast? Is it a panel? Is it a Q&amp;A? I have no idea but it's the next BirminghamR Meetup!<\/p> <p>This September we're going to try something different. Instead of talks from great speakers, we'll be interviewing some of our fantastic members. The format will be 4 questions each (sent beforehand) or 10 minutes, whichever is first. You're not required to answer the questions, you can basically talk about anything R-related.<\/p> <p>If you're interested in being interviewed or know someone who would be interested please let us know via Meetup or Twitter. For every interviewee, we will donate £10 to their favourite charity.<\/p> <p>We don't know what's going to happen but we're excited nonetheless, hope you are too and will join us for this momentous occasion!<\/p> <p>See Zoom link below.<br/>Meeting ID:[masked]<br/>Passcode:[masked]<\/p> ",
-    "url": "https://www.meetup.com/BirminghamR/events/272657958/",
+    "start": "2020-10-14",
+    "description": "<p>For the October meetup Bodo Winter will be giving a workshop:<\/p> <p>Title: Introduction to generalized linear models with broom<br/>In this workshop, I’ll give a super-quick high-level introduction to the conceptual foundations of (generalized) linear models, followed by a hands-on demonstration of the broom package, and how to process linear models in a tidy work flow. Make sure to have the broom and tidyverse packages installed. A Markdown will be distributed prior to the session.<\/p> <p>Zoom details will be added later.<\/p> ",
+    "url": "https://www.meetup.com/BirminghamR/events/273501527/",
     "textColor": "blue"
   },
   {
@@ -2220,14 +2291,6 @@
     "start": "2020-10-09",
     "description": "<p>Descrição: Apresentação do funcionamento básico do R por meio de manipulação (dplyr) visualização de dados (ggplot2).<\/p> <p>Público: Interessadas em usar o R para explorar dados quantitativos e que nunca tiveram contato com linguagens de programação.<\/p> <p>Materiais: scripts para acompanhar a apresentação e fazer as atividades serão enviados na véspera do encontro. Participantes devem ter a última versão do R e do RStudio funcionando em seus computadores.<\/p> ",
     "url": "https://www.meetup.com/rladies-natal/events/273270143/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Campus useR Group Frankfurt: September meeting: Teaching (with) R",
-    "group": "Campus useR Group Frankfurt",
-    "start": "2020-09-24",
-    "description": "<p>Let's talk about how we use R for teaching!<\/p> <p>R can be a vehicle for teaching quantitative methods, it can be a required skill for degrees and certifications, or it can be simply the least painful way of putting a formula on a slide.<\/p> <p>We've invited short (max. 10 min) inputs from a few 'experts' in our own ranks, who will be sharing some insights from their various experiences teaching (with) R. But most of us have encountered R in the classroom at some point, so our hope is for a lively, casual and honest discussion of best practices and horror scenarios concerning the didactics of R.<\/p> <p>As always, our meeting is open to useRs of all backgrounds and at all levels of expertise.<\/p> ",
-    "url": "https://www.meetup.com/r-frankfurt/events/272803622/",
     "textColor": "blue"
   },
   {
@@ -2255,6 +2318,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Sydney: Careers in the time of COVID",
+    "group": "R-Ladies Sydney",
+    "start": "2020-10-13",
+    "description": "<p>Six months into the COVID19 pandemic and we have all weathered major changes in how and where we work. Some of us have learned to do our jobs remotely and others have made major career transitions as some career doors close and others open.<\/p> <p>In this event, we will talk with a panel of Sydney-based #rladies about the changes that they have made in their careers in 2020. We will pick their brains about the move from academia to industry and from big corporate to small corporate. We will get their perspectives on working remotely, negotiating the job market in a pandemic, and what it is like to start a new job without ever meeting anyone in person.<\/p> <p>Our panel members are...<\/p> <p>Zoe Meers<br/>background/old job: degree in government/stats, research fellow at USyd US Studies Centre<br/>new job: data analyst at Canva<\/p> <p>Sarah Romanes<br/>background/old job: PhD in Statistics from the University of Sydney<br/>new job: Senior Data Scientist at Boston Consulting Group/ BCG GAMMA<\/p> <p>Steph Stammel<br/>background/old job: PhD in Econometrics from USyd, consultant at PwC<br/>new job: Principal Econometrician, strategy team at Transurban<\/p> <p>Melanie Zeppel<br/>background/old job: PhD in biology from UTS, research fellow in genomic medicine/drought/climate change<br/>new job: data scientist/stat analyst at Westpac<\/p> <p>Do you have a question for our panel?<\/p> <p>We will use slido.com to field audience questions, you can contribute questions in advance of the event using the event tag #rladies_sydney<\/p> ",
+    "url": "https://www.meetup.com/rladies-sydney/events/273439603/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Sydney: Date Night (analysing dates with lubridate)",
     "group": "R-Ladies Sydney",
     "start": "2020-10-29",
@@ -2263,17 +2334,17 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Xalapa: 🇲🇽 Primer Encuentro Anual R-Ladies México 🇲🇽 ",
-    "group": "R-Ladies Xalapa",
-    "start": "2020-09-24",
-    "url": "https://www.meetup.com/rladies-xalapa/events/272984655/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Xalapa: Workshop: Análisis de agrupamiento y ordenamiento",
     "group": "R-Ladies Xalapa",
     "start": "2020-09-29",
     "url": "https://www.meetup.com/rladies-xalapa/events/272970777/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Xalapa: Importando datos desde hojas de cálculo ",
+    "group": "R-Ladies Xalapa",
+    "start": "2020-10-01",
+    "url": "https://www.meetup.com/rladies-xalapa/events/273488216/",
     "textColor": "blue"
   },
   {
@@ -2405,6 +2476,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R Addicts Paris: Parlons de {dplyr} - évènement en ligne",
+    "group": "R Addicts Paris",
+    "start": "2020-10-14",
+    "description": "<p>Bonjour à tous !<\/p> <p>Ca faisait longtemps n'est ce pas ? :)<\/p> <p>Mercredi 14 octobre est un jour important, au moins pour 2 choses. La première : c'est l'anniversaire d'hadley wickham, la seconde c'est qu'on va pouvoir se réunir (virtuellement) pour parler {dplyr} avec Romain François. Romain est francophone et travaille chez Rstudio au développement de {dplyr} .<\/p> <p>Pour le lieu, ca sera sur twitch zoom ou youtube ( on fait des essais de fonctionnalité avant de trancher )<\/p> <p>à très bientot.<\/p> ",
+    "url": "https://www.meetup.com/rparis/events/273482496/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Goiânia: Descomplicando o R Markdown",
     "group": "R-Ladies Goiânia",
     "start": "2020-09-26",
@@ -2450,14 +2529,6 @@
     "start": "2020-12-10",
     "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/mpjmxrybcqbnb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "trigeR - Trójmiejska Grupa Entuzjastów R: Why R? 2020 Conference - Remote!",
-    "group": "trigeR - Trójmiejska Grupa Entuzjastów R",
-    "start": "2020-09-24",
-    "description": "<p>[REGISTRATION STARTS JUNE 1st] - whyr.pl/2020/register/<br/>[SUBMISSIONS STARTS JUNE 1st] - whyr.pl/2020/submit/<\/p> <p>We will stream the conference at youtube.com/WhyRFoundation<\/p> <p>Why R? 2020 Conference, the fourth meeting of R enthusiasts. It will be held remotely, 24-27 September 2020. As the meeting is held in English, we are happy to invite R users from all over the globe!<\/p> <p>Why R? 2020 Conference is an international event of R statistical software users. It is a remarkable occasion to gain knowledge about R, enhance data analysis and processing skills, and meet other members of European R community.<\/p> <p>TIMELINE<br/>[masked] - Lectures Registration Starts[masked] - Hackathon Registration Starts<br/>[masked] - Call for Papers Starts[masked] - Call for Papers Closes[masked] - Call for Papers Decisions<br/>[masked] - Agenda Announced[masked] - Workshops Registration Starts[masked] - Workshops Registration Closes<br/>[masked] - Hackathon[masked] - Workshops[masked] - Lectures Day[masked] - Lectures Day 2<\/p> ",
-    "url": "https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/events/271621840/",
     "textColor": "blue"
   },
   {
@@ -2517,22 +2588,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Oslo: [Cancelled] Lightning talks 2020",
-    "group": "R-Ladies Oslo",
-    "start": "2020-09-24",
-    "description": "<p>This meetup is unfortunately cancelled. Please see and join the meetup organised by the Oslo UseR! group on the same day on<\/p> <p>A Beginner's Guide to Monte Carlo Simulations - <a href=\"https://www.meetup.com/Oslo-useR-Group/events/273004088/\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/events/273004088/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-oslo/events/271380061/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies East Lansing: W+DS: Data Science Methodology",
-    "group": "R-Ladies East Lansing",
-    "start": "2020-09-24",
-    "description": "<p>Michigan State University &amp; University of Michigan invite you to their joint monthly webinar &amp; meetup series for Fall 2020!<\/p> <p>Agenda<br/>===========<br/>3:30: Keynote: Teaching computers to discover scientific knowledge by reading papers<br/>4:15: Lightning Talks: Data Science Methodology<br/>* Alyssa Travitz (UM)<br/>* Yiqi Wang (MSU)<br/>* Danielle Barnes (MSU)<br/>* Sarah Tymochko (MSU)\"<br/>4:45: Networking + Q&amp;A<br/>5:00: Wrap-up<\/p> <p>Registration<br/>============<br/>Please complete the form below to receive Zoom meeting details: <a href=\"https://forms.gle/j6psmyVFRBBdAVDV8\" class=\"linkified\">https://forms.gle/j6psmyVFRBBdAVDV8<\/a><\/p> <p>About the Keynote<br/>======================<br/>Enormous amounts of ever-changing knowledge are available online in diverse emergent textual styles (e.g., news vs. science text). This talk presents some of the H2Lab @UW's recent efforts to address the problem of textual comprehension and reasoning about scientific text, including knowledge extraction and claim verification given scientific articles.<br/>More information: <a href=\"https://women-plus-datascience.github.io/\" class=\"linkified\">https://women-plus-datascience.github.io/<\/a><\/p> <p>Keywords<br/>==========<br/>Natural Language Processing, NLP for bio-medicine, Deep Learning, Knowledge extraction<\/p> <p>About the Keynote Speaker<br/>===================<br/>Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science &amp; Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Honors include the Sloan Fellowship, Allen Distinguished Investigator Award, multiple best paper and honorable mention awards, and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.<\/p> <p>Planning Committee<br/>===========<br/>*Dr. Janani Ravi, Pathobiology and Diagnostic Investigation, MSU, R-Ladies East Lansing<br/>*Dr. Jing Liu, Michigan Institute for Data Science (MIDAS), U-M<br/>*Dr. Elizabeth Munch, Department of Computational Mathematics, Science &amp; Engineering, MSU<br/>*Dr. Parisa Kordjamshidi, Department of Computer Science &amp; Engineering, MSU<br/>*Dr. Dola Pathak, Department of Statistics, MSU<\/p> <p>Questions, sponsorship interests, email is at:<br/>[masked]<\/p> ",
-    "url": "https://www.meetup.com/rladies-east-lansing/events/272641171/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies East Lansing: rOpenSci - open tools for open science",
     "group": "R-Ladies East Lansing",
     "start": "2020-10-22",
@@ -2552,7 +2607,7 @@
     "title": "R-Ladies Lima: Workshop: Mapas interactivos con R para la Gestión en Salud Pública",
     "group": "R-Ladies Lima",
     "start": "2020-09-26",
-    "description": "<p>¡Tercer meetup del 2020!<\/p> <p>¿Quieres aprender a hacer mapas🌎 interactivos con R👩‍💻? ¿Sabes que los mapas 🗾🛤 de enfermedades son una importante herramienta para la gestión de la salud pública 👩‍⚕️?<\/p> <p>Es hora de reencontrarnos y para esto nos hemos unido con la carrera de Ingeniería Informática UPCH- Universidad Peruana Cayetano Heredia (<a href=\"https://www.facebook.com/IngInformaticaUPCH\" class=\"linkified\">https://www.facebook.com/IngInformaticaUPCH<\/a>) 💻🔝.<\/p> <p>Estamos muy felices 😀 de contar con una súper ponente:<\/p> <p>Paula Moraga, Profesora de Estadística en King Abdullah University of Science and Technology (KAUST). Ella es Ph.D. en Matemáticas por la Universidad de Valencia y Máster en Bioestadistica por la Universidad de Harvard. Además, sus áreas de interés son Estadística Espacial, Programación en R, Salud Pública y es autora del libro \"Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny (<a href=\"https://www.routledge.com/Geospatial-Health-Data-Modeling-and-Visualization-with-R-INLA-and-Shiny/Moraga/p/book/9780367357955\" class=\"linkified\">https://www.routledge.com/Geospatial-Health-Data-Modeling-and-Visualization-with-R-INLA-and-Shiny/Moraga/p/book/9780367357955<\/a>)<\/p> <p>• Lo que haremos:<br/>Se mostrará cómo hacer mapas interactivos con datos de las estimaciones de riesgo de cáncer de pulmón. Para ello se usará un dataset del paquete SpatialEpi que contiene los casos de cáncer de pulmón y las proporciones de tabaquismo en los condados de Pensilvania del 2002.<\/p> <p>• Requisitos:<br/>Asegúrate de tener instalado Zoom.<br/>Recomendamos tener instalado los siguientes paquetes para que puedas replicar el código durante el taller: SpatialEpi, dplyr, leaflet y sp.<\/p> <p>***IMPORTANTE***<br/>Para participar, dale \"Asistiré\" en este evento.<br/>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. Estaremos publicando el link 1 hora antes del inicio del evento.<\/p> <p>• Pregunta frecuente:<br/>P: ¿Los chicos son bienvenidos a las reuniones de R-Ladies Lima?<br/>R: Sí, los chicos son bienvenidos a cualquiera de nuestros eventos. Puedes revisar nuestro código de conducta global aquí: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
+    "description": "<p>¡Tercer meetup del 2020!<\/p> <p>¿Quieres aprender a hacer mapas🌎 interactivos con R👩‍💻? ¿Sabes que los mapas 🗾🛤 de enfermedades son una importante herramienta para la gestión de la salud pública 👩‍⚕️?<\/p> <p>Es hora de reencontrarnos y para esto nos hemos unido con la carrera de Ingeniería Informática UPCH- Universidad Peruana Cayetano Heredia (<a href=\"https://www.facebook.com/IngInformaticaUPCH\" class=\"linkified\">https://www.facebook.com/IngInformaticaUPCH<\/a>) 💻🔝.<\/p> <p>Estamos muy felices 😀 de contar con una súper ponente:<\/p> <p>Paula Moraga, Profesora de Estadística en King Abdullah University of Science and Technology (KAUST). Ella es Ph.D. en Matemáticas por la Universidad de Valencia y Máster en Bioestadistica por la Universidad de Harvard. Además, sus áreas de interés son Estadística Espacial, Programación en R, Salud Pública y es autora del libro \"Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny (<a href=\"https://www.routledge.com/Geospatial-Health-Data-Modeling-and-Visualization-with-R-INLA-and-Shiny/Moraga/p/book/9780367357955\" class=\"linkified\">https://www.routledge.com/Geospatial-Health-Data-Modeling-and-Visualization-with-R-INLA-and-Shiny/Moraga/p/book/9780367357955<\/a>)<\/p> <p>• Lo que haremos:<br/>Se mostrará cómo hacer mapas interactivos con datos de las estimaciones de riesgo de cáncer de pulmón. Para ello se usará un dataset del paquete SpatialEpi que contiene los casos de cáncer de pulmón y las proporciones de tabaquismo en los condados de Pensilvania del 2002.<\/p> <p>• Requisitos:<br/>Asegúrate de tener instalado Zoom.<br/>Recomendamos tener instalado los siguientes paquetes para que puedas replicar el código durante el taller: SpatialEpi, ggplot2, dplyr, leaflet, sp y spdep.<\/p> <p>***IMPORTANTE***<br/>Para participar, dale \"Asistiré\" en este evento.<br/>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. Estaremos publicando el link 1 hora antes del inicio del evento.<\/p> <p>• Pregunta frecuente:<br/>P: ¿Los chicos son bienvenidos a las reuniones de R-Ladies Lima?<br/>R: Sí, los chicos son bienvenidos a cualquiera de nuestros eventos. Puedes revisar nuestro código de conducta global aquí: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-lima/events/273286168/",
     "textColor": "blue"
   },
@@ -2589,6 +2644,22 @@
     "textColor": "blue"
   },
   {
+    "title": "R en Rosario: Importando datos desde hojas de cálculo",
+    "group": "R en Rosario",
+    "start": "2020-10-01",
+    "description": "<p>A menudo se comparten hojas de cálculo con información poco estructurada, o codificada como formato del texto y/o de las celdas que no se trasladan directamente a un objeto de R (ej. celdas de colores para denotar categorías). Ésto resulta en pérdida de información potencialmente relevante, o bien, pérdida de tiempo al tener que interpretar y limpiar manualmente los valores de las celdas. En este taller se enseñará a importar y manejar este tipo de datos a R. Además, se demostrará la lectura y escritura de archivos .xls y .xlsx (paquetes readxl y writexl), el manejo de archivos con múltiples pestañas (paquete purrr), celdas con formato (paquetes tidyxl y unheadr), y la nueva funcionalidad del paquete googlesheets4 que permite leer y escribir en hojas de cálculo en línea, facilitando la colaboración de manera reproducible. Al final del taller, los asistentes serán capaces de compatibilizar el uso de R con las hojas de cálculo en sus flujos de trabajo y colaboraciones.<\/p> <p>Para este taller es necesario tener instalado R igual o superior a 3.6 y los paquetes dplyr, readxl, purrr, writexl, tidyxl, googlesheets4, y unheadr (versiones de CRAN).<\/p> <p>Dr. Luis D. Verde Arregoitia:<br/>Biólogo, especialista en mamíferos. Autor de los paquetes unheadr y annotater, que se utilizan para manejar datos desordenados y añadir información sobre librerías externas a código existente. Interesado en la resolución de problemas usando R, en áreas como análisis espacial, deportes, biología evolutiva y videojuegos.\"<\/p> ",
+    "url": "https://www.meetup.com/R-en-Rosario/events/273492270/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Mendoza: Introducción a Machine Learning con Tidymodels",
+    "group": "R-Ladies Mendoza",
+    "start": "2020-10-05",
+    "description": "<p>---------------------------- importante ------------------------<br/>EL ENLACE DE ZOOM SE COMPARTIRA EL MISMO DÍA DEL EVENTO a través de meetup, a quienes hayan confirmado asistencia.<br/>------------------------------------------------------------------------<\/p> <p>Este taller es introductorio y permitirá dar los primeros pasos en el universo tidymodels, el cual está formado por un conjunto de paquetes creados para aprendizaje automático siguiendo la filosofía tidyverse.<\/p> <p>El curso tendrá una breve introducción teórica y luego nos centraremos en entrenar y evaluar modelos de machine learning para resolver problemas de predicción y clasificación utilizando algunos de los paquetes como rsample, parsnip, yardstick, entre otros.<\/p> <p>El asistente luego del curso podrá ejecutar modelos de predicción y clasificación y evaluar su performance.<\/p> <p>REQUERIMIENTOS<\/p> <p>Es necesario tener instalado tidyverse, tidymodels, palmerpenguins, DATOS y tener una versión de R 3.6.0 o superior.<br/>Es necesario tener conocimientos básicos de R, visualización de datos y tidyverse.<\/p> <p>PERSONAS A CARGO DEL TALLER<\/p> <p>Roxana Noelia Villafañe<br/>PostDoc en LEMYP(CONICET). Lic en Cs Químicas y Dr por la Universidad Nacional del Nordeste en Recursos Naturales. Ha trabajado durante su doctorado en problemas de clasificación, ganando experiencia en análisis supervisado y no supervisado. Profesora asistente en Probabilidad y Estadística para Ingeniería Industrial (UNNE).<\/p> <p>Ana Laura Diedrichs<br/>Ingeniera en sistemas por la UTN Mendoza. Se encuentra en el último año para terminar su doctorado en Sistemas por UTN Mendoza. Ha trabajado en aprendizaje automático relacionado con IoT y la predicción de heladas. Es profesora de la UTN dando clases de Ciencia de datos, Programación. Ha fundado el capítulo Rladies Mendoza.\"<\/p> <p>Patricia Loto.<br/>Lic en Sistemas de Información. Se encuentra cursando la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones por la Universidad Nacional de Córdoba. Ha co-fundado Rladies Resistencia Corrientes y el grupo de usuarios de R, R-en-el-NEA, junto a Roxana Villafañe.<\/p> ",
+    "url": "https://www.meetup.com/rladies-mendoza/events/273489088/",
+    "textColor": "blue"
+  },
+  {
     "title": "R User Group Rhein-Neckar: October Meeting: Machine Learning cont'd.",
     "group": "R User Group Rhein-Neckar",
     "start": "2020-10-13",
@@ -2621,11 +2692,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies CDMX: Primer Encuentro Anual de RLadies México",
-    "group": "R-Ladies CDMX",
-    "start": "2020-09-24",
-    "description": "<p>A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y casi 3000 miembros se han integrado a esta comunidad.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Objetivos<br/>Compartir experiencias y retos enfrentados.<br/>Establecer un panel de discusión sobre las perspectivas de R-Ladies en nuestro país.<br/>Empoderar a más mujeres para crear nuevos capítulos.<br/>Unir fuerzas para generar conferencias y talleres conjuntos que hagan crecer aún más la comunidad de usuarias y usuarios de R.<br/>Fecha<br/>24 de septiembre de 2020, 17:00 h (Hora del Centro de México).<\/p> <p>Programa<br/>24 Septiembre, 2020<br/>17:00-17:05 Bienvenida<br/>17:05-17:15 Presentación de la organización R-Ladies<br/>17:15-17:45 Conferencia 1: Estadísticas e historia de los capítulos en México<br/>17:45-18:45 Panel de discusión: Retos y Perspectivas<br/>18:45-19:00 Coffee break y networking<br/>19:00-19:30 Sesión de pláticas cortas: Aplicaciones de R<br/>19:30-19:55 Conferencia 2: Cómo crear un nuevo capítulo.<br/>19:55-20:00 Cierre<br/>Agradecemos a la CDSB por su apoyo en la organización de este evento.<\/p> ",
-    "url": "https://www.meetup.com/rladies-cdmx/events/272991189/",
+    "title": "R-Ladies RTP: [ONLINE] RStudio Conf Watch Party",
+    "group": "R-Ladies RTP",
+    "start": "2020-10-06",
+    "description": "<p>In this virtual event, we'll watch two, 20 min videos from RStudio Conf 2020 (<a href=\"https://rstudio.com/resources/rstudioconf-2020/\" class=\"linkified\">https://rstudio.com/resources/rstudioconf-2020/<\/a>), watch them, and discuss our main take-aways. It'll be a low-key event so sit down at your computer with a snack and drink and join us for fun conversations about R.<\/p> <p>Agenda:<br/>7:00-7:15 - Introductions and Group Chat<br/>7:15-7:40 - Watch Video 1 (TBD)<br/>7:40-7:50 - Discuss Video 1 in Breakout Rooms<br/>7:50-8:10 - Watch Video 2 (TBD)<br/>8:10-8:20 - Discuss Video 2 in Breakout Rooms<br/>8:20-8:30 - Final Discussion and Group Chat<\/p> <p>Who is this for?<br/>New and experienced R users alike! All are welcome, including R-Ladies RTP members and R-Ladies from around the world.<\/p> <p>What should I bring?<br/>You'll need a computer with videoconferencing capabilities. Serve yourself a beverage and a snack to fuel your evening!<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
+    "url": "https://www.meetup.com/rladies-rtp/events/273490123/",
     "textColor": "blue"
   },
   {
@@ -2669,11 +2740,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Puebla: Rladies México",
+    "title": "R-Ladies Puebla: Importando datos desde hojas de cálculo",
     "group": "R-Ladies Puebla",
-    "start": "2020-09-24",
-    "description": "<p>R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Este jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.<\/p> <p>Programa:<\/p> <p>17:00-17:05<br/>Bienvenida<\/p> <p>17:05-17:15<br/>Presentación de la organización R-Ladies<\/p> <p>17:15-17:45<br/>Conferencia 1: Estadísticas e historia de los capítulos en México<\/p> <p>17:45-18:45<br/>Panel de discusión: Retos y Perspectivas<\/p> <p>18:45-19:00<br/>Coffee break y networking<\/p> <p>19:00-19:30<br/>Sesión de pláticas cortas: Aplicaciones de R<\/p> <p>19:30-19:55<br/>Conferencia 2: Cómo crear un nuevo capítulo.<\/p> <p>19:55-20:00<br/>Cierre<\/p> <p>Este evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.<\/p> <p>Les pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.<\/p> <p>Recuerda leer y atender el código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-puebla/events/272988011/",
+    "start": "2020-10-01",
+    "description": "<p>A partir de LatinR nuestra próximo reunión: Importando datos desde hojas de cálculo.<\/p> <p>Descripción del taller:<br/>A menudo se comparten hojas de cálculo con información poco estructurada, o codificada como formato del texto y/o de las celdas que no se trasladan directamente a un objeto de R (ej. celdas de colores para denotar categorías). Ésto resulta en pérdida de información potencialmente relevante, o bien, pérdida de tiempo al tener que interpretar y limpiar manualmente los valores de las celdas. En este taller se enseñará a importar y manejar este tipo de datos a R. Además, se demostrará la lectura y escritura de archivos .xls y .xlsx (paquetes readxl y writexl), el manejo de archivos con múltiples pestañas (paquete purrr), celdas con formato (paquetes tidyxl y unheadr), y la nueva funcionalidad del paquete googlesheets4 que permite leer y escribir en hojas de cálculo en línea, facilitando la colaboración de manera reproducible. Al final del taller, los asistentes serán capaces de compatibilizar el uso de R con las hojas de cálculo en sus flujos de trabajo y colaboraciones.<\/p> <p>Requerimientos:<br/>Para este taller es necesario tener instalado R igual o superior a 3.6 y los paquetes dplyr, readxl, purrr, writexl, tidyxl, googlesheets4, y unheadr (versiones de CRAN).<\/p> <p>Ponente:<br/>Dr. Luis D. Verde Arregoitia: Biólogo, especialista en mamíferos. Autor de los paquetes unheadr y annotater, que se utilizan para manejar datos desordenados y añadir información sobre librerías externas a código existente. Interesado en la resolución de problemas usando R, en áreas como análisis espacial, deportes, biología evolutiva y videojuegos.<\/p> <p>Para más información: <a href=\"https://latin-r.com/\" class=\"linkified\">https://latin-r.com/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-puebla/events/273492185/",
     "textColor": "blue"
   },
   {
@@ -2693,14 +2764,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Cuernavaca: Primer encuentro anual R-Ladies México",
-    "group": "R-Ladies Cuernavaca",
-    "start": "2020-09-24",
-    "description": "<p>R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Este jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.<\/p> <p>Programa:<br/>17:00-17:05 Bienvenida<br/>17:05-17:15 Presentación de la organización R-Ladies<br/>17:15-17:45 Conferencia 1: Estadísticas e historia de los capítulos en México<br/>17:45-18:45 Panel de discusión: Retos y Perspectivas<br/>18:45-19:00 Coffee break y networking<br/>19:00-19:30 Sesión de pláticas cortas: Aplicaciones de R<br/>19:30-19:55 Conferencia 2: Cómo crear un nuevo capítulo.<br/>19:55-20:00 Cierre<\/p> <p>Este evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.<\/p> <p>Les pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.<\/p> <p>Recuerda leer y atender el código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-cuernavaca/events/272988331/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Den Bosch: R Ladies Netherlands Boook Club - Advanced R - Chapters 15/16: S4/Trade-offs",
     "group": "R-Ladies Den Bosch",
     "start": "2020-09-29",
@@ -2709,11 +2772,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Queretaro: RLadies México",
-    "group": "R-Ladies Queretaro",
-    "start": "2020-09-24",
-    "description": "<p>R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.<\/p> <p>Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.<\/p> <p>Este jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.<\/p> <p>Estaremos transmitiendo por YouTubeLive también!!!<br/><a href=\"https://www.youtube.com/channel/UCrG34lup96IfDweTSDkPHDA\" class=\"embedded\">https://www.youtube.com/channel/UCrG34lup96IfDweTSDkPHDA<\/a><\/p> <p>Programa<\/p> <p>17:00-17:05<br/>Bienvenida<\/p> <p>17:05-17:15<br/>Presentación de la organización R-Ladies<\/p> <p>17:15-17:45<br/>Conferencia 1: Estadísticas e historia de los capítulos en México<\/p> <p>17:45-18:45<br/>Panel de discusión: Retos y Perspectivas<\/p> <p>18:45-19:00<br/>Coffee break y networking<\/p> <p>19:00-19:30<br/>Sesión de pláticas cortas: Aplicaciones de R<\/p> <p>19:30-19:55<br/>Conferencia 2: Cómo crear un nuevo capítulo.<\/p> <p>19:55-20:00<br/>Cierre<\/p> <p>Este evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.<\/p> <p>Les pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.<\/p> <p>Recuerda leer y atender el código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-queretaro/events/272986368/",
+    "title": "R-Ladies Concepción: Aplicaciones web interactivas con Shiny",
+    "group": "R-Ladies Concepción",
+    "start": "2020-09-29",
+    "description": "<p>¡Hola a todas y todos!<\/p> <p>Te damos la bienvenida al taller de LatinR 2020 a través de R-Ladies Concepción, es muy importante para nosotras tu participación. El taller corresponderá a \"Aplicaciones web interactivas con Shiny\" y estará a cargo de Florencia D'Andrea, Juan Cruz Rodríguez y Vilma Romero.<\/p> <p>Sobre el taller<\/p> <p>¿Quieres generar una página web interactiva a partir de tu código de R? Con el paquete Shiny, resulta sencillo tomar tu trabajo en R y exponerlo a través de un navegador web para que cualquiera pueda usarlo. En este taller inicial desarrollaremos una Shiny app de principio a fin. Te acompañaremos para que puedas generar la interfaz de usuario y el código del servidor. Brindaremos a la par algunas prácticas y tips al momento de su construcción así como recomendaciones de paquetes que pueden mejorar sustancialmente la app. Para finalizar te mostraremos formas gratuitas en las que podrás compartir la misma.<\/p> <p>Requerimientos<\/p> <p>Paquetes necesarios: tidyverse, shiny, shinythemes. Dependencias adicionales (se puede hacer el taller sin tenerlas): ggtext, emojifont, emo. Este último no está en CRAN, puedes descargarlo con la función remotes::install_github(\"hadley/emo\")<\/p> <p>Si es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>También debes aceptar el Código de Conducta de LatinR<br/><a href=\"https://latin-r.com/cdc/\" class=\"linkified\">https://latin-r.com/cdc/<\/a><\/p> <p>¡No dudes en consultarnos cualquier duda, te esperamos!<\/p> <p>Síguenos en:<\/p> <p>Website LatinR: <a href=\"https://latin-r.com/\" class=\"linkified\">https://latin-r.com/<\/a><br/>Twitter: @LatinR_Conf, @RLadiesConce<br/>Instagram: @rladiesconce<br/>Facebook: @RLadiesConcepcion<\/p> ",
+    "url": "https://www.meetup.com/rladies-concepcion/events/273495052/",
     "textColor": "blue"
   },
   {
