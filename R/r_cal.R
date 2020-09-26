@@ -497,7 +497,7 @@ get_upcoming_events <- function(){
   
   eventdf$name <- paste(eventdf$name, eventdf$Country, eventdf$group_region, sep = ", ")
   
-  eventdf <- eventdf[(c("name","group_name","local_date", "description","link"))]
+  eventdf <- eventdf[(c("name","group_name","local_date", "description","link", "textColor"))]
   #
   eventdf$name <- paste(eventdf$group_name, eventdf$name, sep = ": ")
   colnames(eventdf) <- c("title", "group","start", "description", "url", "textColor")
