@@ -452,7 +452,7 @@ get_upcoming_events <- function(){
                                  function(x) 
                                  {
                                    y <- s_get_events(x, event_status = "upcoming", api_key = "", no_earlier_than = Sys.Date(), no_later_than = Sys.Date() + 90 )
-                                   Sys.sleep(0.4)
+                                   Sys.sleep(0.6)
                                    y
                                  }
   )
@@ -468,7 +468,7 @@ get_upcoming_events <- function(){
                              function(x) 
                              {
                                y <- s_get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date())
-                               Sys.sleep(0.4)
+                               Sys.sleep(0.6)
                                y
                              }
   )  
