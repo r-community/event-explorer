@@ -141,6 +141,9 @@ get_events <- function(urlname, event_status = NULL, fields = NULL, api_key = NU
     venue_state = purrr::map_chr(res, c("venue", "state"), .null = NA),
     venue_zip = purrr::map_chr(res, c("venue", "zip"), .null = NA),
     venue_country = purrr::map_chr(res, c("venue", "country"), .null = NA),
+    venue_country_name = purrr::map_chr(res, c("venue", "localized_country_name"), .null = NA),
+    group_country = purrr::map_chr(res, c("group", "country"), .null = NA),
+    group_region = purrr::map_chr(res, c("group", "timezone"), .null = NA),
     description = purrr::map_chr(res, c("description"), .null = NA),
     link = purrr::map_chr(res, c("link"), .default = NA),
     #added because of error when res is null
@@ -464,7 +467,7 @@ get_upcoming_events <- function(){
   all_past_revents <- lapply(rugs_urlnames_full, 
                              function(x) 
                              {
-                               y <- s_get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 60, no_later_than = Sys.Date())
+                               y <- s_get_events(x, event_status = "past", api_key = "", no_earlier_than = Sys.Date() - 30, no_later_than = Sys.Date())
                                Sys.sleep(0.4)
                                y
                              }
@@ -477,6 +480,24 @@ get_upcoming_events <- function(){
   past_eventdf$textColor <- "#7171fb"
   eventdf$textColor <- "blue"
   eventdf <- rbind(past_eventdf, eventdf)
+  #
+  country_code <- eventdf$group_country
+  country_name <- countrycode::countrycode(country_code, "iso2c", "country.name")
+  eventdf <- tibble::add_column(eventdf, Country = country_name, .after = "group_country")
+  
+  eventdf[grepl("America",eventdf$group_region),]$group_region <- "Latin America"
+  eventdf[grepl("US|Canada",eventdf$group_region),]$group_region <- "US/Canada"
+  eventdf[grepl("Europe",eventdf$group_region),]$group_region <- "Europe"
+  eventdf[grepl("Africa",eventdf$group_region),]$group_region <- "Africa"
+  eventdf[grepl("Asia",eventdf$group_region),]$group_region <- "Asia"
+  eventdf[grepl("Australia|Pacific/Auckland",eventdf$group_region),]$group_region <- "Australia"
+  
+  eventdf[grepl("Online", eventdf$venue_name), ]$name <- paste(eventdf$name[grepl("Online", eventdf$venue_name)], " [Virtual] ")
+  
+  eventdf$name <- paste(eventdf$name, eventdf$Country, eventdf$group_region, sep = ", ")
+  
+  eventdf <- eventdf[(c("name","group_name","local_date", "description","link"))]
+  #
   eventdf$name <- paste(eventdf$group_name, eventdf$name, sep = ": ")
   colnames(eventdf) <- c("title", "group","start", "description", "url", "textColor")
   
