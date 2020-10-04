@@ -80,6 +80,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
+    "group": "Central Iowa R User Group",
+    "start": "2020-10-03",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcnbfb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "STWUR - Wroclaw R Users Group Meetup: Why R? 2020 Conference - Remote!  [Virtual] , Poland, Europe",
     "group": "STWUR - Wroclaw R Users Group Meetup",
     "start": "2020-09-24",
@@ -93,14 +101,6 @@
     "start": "2020-09-24",
     "description": "<p>Join our next meetup, virtually!<\/p> <p>Jorge Cimentada | tidyflow: a simplified and fresh workflow for doing machine learning with tidymodels<\/p> <p>Machine Learning programming is hard. Managing your data, splitting, resampling, preprocessing, modeling, and grid search into different objects can prove to be difficult. One can predict on the testing data by mistake, forget whether the preprocessing has been applied to the data or not, or simply do not remember the name of all the tuning parameters to specify in the grid. The `tidyflow` package builds upon `tidymodels` to bundle all of these steps into a coherent flow. It gives the same flexibility as the separate `tidymodels` package but makes machine learning modeling much more linear. In this talk we’ll introduce the benefits of tidyflow and walk through some examples of how to use it.<\/p> <p>Agenda:<br/>18:00 Intro<br/>18:05 Jorge's talk<br/>18:35 Q&amp;A<br/>19:00 Closing remarks<\/p> <p>----<br/>Bio: Jorge Cimentada<\/p> <p>PhD in Sociology from Pompeu Fabra University and currently a Research Scientist at the Laboratory of Digital and Computational Demography at the Max Planck Institute for Demographic Research. His research is mainly focused on the study of educational inequality, inequality in spatial mobility and computational social science. He has worked on data science projects both in the private sector and in academic research and is interested in merging cutting edge machine learning techniques with classical social statistics. You can check out his blog at cimentadaj.github.io or contact him through twitter at @cimentadaj.<\/p> ",
     "url": "https://www.meetup.com/Berlin-R-Users-Group/events/272829989/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 014 - John Blischak - Reproducible research with workflowr  [Virtual] , Poland, Europe",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-09-03",
-    "description": "<p>This webinar promotes Why R? 2020 conference - <a href=\"http://2020.whyr.pl\" class=\"linkified\">http://2020.whyr.pl<\/a><br/>that happens[masked]<\/p> <p>- full title: Reproducible research with workflowr: a framework for organizing, versioning, and sharing your data analysis projects<\/p> <p>- speaker: John Blischak <a href=\"https://jdblischak.com/\" class=\"linkified\">https://jdblischak.com/<\/a><\/p> <p>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><\/p> <p>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><\/p> <p>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><\/p> <p>- format: 45 min talk + 15 min for Q&amp;A<\/p> <p>- comments: ask YouTube live chat<\/p> <p>- stream: <a href=\"https://youtu.be/3yX73UBN2SU\" class=\"embedded\">https://youtu.be/3yX73UBN2SU<\/a><\/p> <p>Have you ever struggled to re-run your own code or scripts you received from a collaborator? You’re not alone! Fortunately, there are best practices that you can adopt to help you develop more reproducible R code. In this talk, I’ll share some of these best practices, and then describe how the R package workflowr (<a href=\"https://jdblischak.github.io/workflowr/\" class=\"linkified\">https://jdblischak.github.io/workflowr/<\/a>) automates these tasks for you so that you can focus on your analyses. The workflowr framework combines R Markdown for literate programming and Git for version control. I’ll demonstrate how workflowr makes it easier for you to organize your project files, version your code, and share your results online.<\/p> <p>John Blischak is a Freelance Scientific Software Developer based out of Akron, Ohio, USA. He received his PhD in Genetics from the University of Chicago, where he became interested in reproducible and transparent computational workflows. Along with co-authors Peter Carbonetto and Matthew Stephens, he has developed the R package workflowr to facilitate reproducible research and promote open science.<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697194/",
     "textColor": "#7171fb"
   },
   {
@@ -165,14 +165,6 @@
     "start": "2020-09-16",
     "description": "<p>September Boston useR **(virtual event - all are welcome!)**<br/>Anomaly Detection in Practice: Industry Use Cases with Shiny<\/p> <p>This session will highlight two anomaly detection use cases in production: identification of problematic life sciences manufacturing units and identification of significant newsworthy sports events. With both of these solutions, Shiny is integrated with live data to provide early detection for proactive intervention. Shiny’s intuitive UI also allows for interaction with the data behind anomalies to uncover potential causes and paths to action or resolution.<\/p> <p>In addition to reviewing these industry applications, the session will briefly highlight a rapid prototyping approach with Shiny. This technique allows for iterative and collaborative refinement of the underlying anomaly detection model in R, quickly incorporating user feedback.<\/p> <p>Speaker:<br/>Tanya Cashorali, CEO, TCB Analytics<\/p> <p>Tanya Cashorali is the founder of TCB Analytics, a Boston-based data and analytics consultancy. She hosts a world-wide community network of over 450 data enthusiasts, has helped universities launch data science programs, and is a frequent speaker at tech conferences.<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/272984018/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Montreal R User Group: Webinar: Euphoria Convenience  [Virtual] , Canada, US/Canada",
-    "group": "Montreal R User Group",
-    "start": "2020-09-03",
-    "description": "<p>Register here: <a href=\"https://bit.ly/2CCeoMe\" class=\"linkified\">https://bit.ly/2CCeoMe<\/a><\/p> <p>Euphoria Convenience is big data and predictive analytics perfectly attuned: it means satisfying goods and services arriving even before consumers sense that they want them. Already we see slivers of it on Netflix when the next, curated video begins even before the previous one ends. We experience it on Amazon when suggestions occasionally fulfill an urge we didn’t know we had.<\/p> <p>The key to perfected entertainment and service is our personal information, and the underlying human dilemma is about how much of ourselves we should expose to get what we want. In this webinar, real world cases and philosophical thought experiments will help us investigate by exploring questions including: What is privacy? Why is Kim Kardashian the most private person in the world? Is it more satisfying to want and then get, or to get before wanting? Answers are elusive, but the goal is to identify and clarify the ethical dilemmas arising when personal information is gathered and leveraged in the media, entertainment, marketing and retail sectors. This webinar is tailored for professionals in data governance, but open to all those interested in the regulatory and human dilemmas inhabiting privacy and AI powered convenience.<\/p> <p>Register here: <a href=\"https://bit.ly/2CCeoMe\" class=\"linkified\">https://bit.ly/2CCeoMe<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/272653397/",
     "textColor": "#7171fb"
   },
   {
@@ -549,6 +541,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Santa Rosa: Generando tutoriales interactivos con el paquete learnr  [Virtual] , Argentina, Latin America",
+    "group": "R-Ladies Santa Rosa",
+    "start": "2020-10-03",
+    "description": "<p>En este tutorial presentamos al paquete learnr para generar tutoriales interactivos. La idea de un documento rmarkdown que permita recorrer un contenido, contestar preguntas y ejecutar código para recibir feedback inmediato es muy poderosa. Especialmente si ese tutorial puede estar disponible como un paquete o como un sitio web o en RStudio. Si tenes clases remotas o asincrónicas, si tenes un paquete y queres llevar la ayuda a otro nivel, si tenes alumnos iniciales y no queres que sufran la instalación de las herramientas un tutorial interactivo te puede ayudar.<\/p> <p>Tenes que tener instalados los siguientes paquetes: {rmarkdown}, {learnr}, {gapminder} y vamos a necesitar RStudio.<\/p> ",
+    "url": "https://www.meetup.com/rladies-santa-rosa/events/273513242/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Goiânia: Visualização de Dados: Ggploteando no R  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies Goiânia",
     "start": "2020-09-12",
@@ -717,14 +717,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Ames: TidyTuesday: social event to play with public data sets  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Ames",
-    "start": "2020-09-03",
-    "description": "<p>Hi there!! TidyTuesday is back! It's a weekly social event to play with public data sets and make some visualization using R.<\/p> <p>The data set for this week can be found here <a href=\"https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-01/readme.md\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-01/readme.md<\/a><\/p> <p>The event will be hosted online and you will receive a link if you RSVP. It is scheduled on Thursday to give people time to look at the data (but not required, you can just jump to the meeting without any preparation).<\/p> <p>See you online<\/p> ",
-    "url": "https://www.meetup.com/rladies-ames/events/272937116/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R en Rosario: Importando datos desde hojas de cálculo  [Virtual] , Argentina, Latin America",
     "group": "R en Rosario",
     "start": "2020-10-01",
@@ -789,11 +781,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Dublin R: Why R? Webinar: Reproducible research with workflowr with John Blischak  [Virtual] , Ireland, Europe",
-    "group": "Dublin R",
-    "start": "2020-09-03",
-    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Full title: Reproducible research with workflowr: a framework for organizing, versioning, and sharing your data analysis projects<\/p> <p>Speaker: John Blischak <a href=\"https://jdblischak.com/\" class=\"linkified\">https://jdblischak.com/<\/a><\/p> <p>Have you ever struggled to re-run your own code or scripts you received from a collaborator? You’re not alone! Fortunately, there are best practices that you can adopt to help you develop more reproducible R code. In this talk, I’ll share some of these best practices, and then describe how the R package workflowr (<a href=\"https://jdblischak.github.io/workflowr/\" class=\"linkified\">https://jdblischak.github.io/workflowr/<\/a>) automates these tasks for you so that you can focus on your analyses. The workflowr framework combines R Markdown for literate programming and Git for version control. I’ll demonstrate how workflowr makes it easier for you to organize your project files, version your code, and share your results online.<\/p> <p>John Blischak is a Freelance Scientific Software Developer based out of Akron, Ohio, USA. He received his PhD in Genetics from the University of Chicago, where he became interested in reproducible and transparent computational workflows. Along with co-authors Peter Carbonetto and Matthew Stephens, he has developed the R package workflowr to facilitate reproducible research and promote open science.<\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/272867306/",
+    "title": "R-Ladies Washington D.C.: Movie night: TBD  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-10-03",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/273118291/",
     "textColor": "#7171fb"
   },
   {
@@ -1081,14 +1073,6 @@
     "start": "2020-10-13",
     "description": "<p>***********************************************************************<br/>*** Register for this event on Eventbrite ***<\/p> <p><a href=\"https://www.eventbrite.com/e/ocrug-regression-models-with-r-applications-tickets-119384266555\" class=\"linkified\">https://www.eventbrite.com/e/ocrug-regression-models-with-r-applications-tickets-119384266555<\/a><\/p> <p>***********************************************************************<\/p> <p>Develop the practical skills and foundation knowledge to effectively use some of the most common regression models used by data scientists.<\/p> <p>Abstract<\/p> <p>This workshop will give you the practical skills and foundation knowledge to effectively use some of the most common regression models used by data scientists. In regression analysis, the nature of the data dictates which model type is appropriate. Models differ depending on the distribution of the response variable. This workshop will introduce four types of models in which the distributions of the response variable are: (i) normal (continuous, with bell-shaped density function), (ii) gamma (continuous, with density having a long right tail), (iii) binary (discrete, assuming values 0 or 1), and (iv) Poisson (discrete, assuming values 0, 1, 2, 3, etc.). For each regression, a definition and all must-know facts will be discussed. Further, the expression for the fitted model will be explained and how to interpret estimated regression coefficients will be taught. You will be shown how to use the model for prediction. The course will give examples in R and you will be taught how it create these models and interpret the output. You will work in small groups to do hands-on exercises to help reinforce the material.<\/p> <p>We would like to use the RStudio Cloud. If you are not familiar with this technology, the participants use a web browser to access RStudio. The environment will be setup and loaded with the code and data that is needed. This way, participants can focus on building models.<\/p> <p>Schedule<\/p> <p>6:00-6:10 Introduction<br/>6:10-6:50 Normal Linear Regression<br/>6:50-7:30 Gamma Regression<br/>7:30-7:40 Break<br/>7:40-8:20 Logistic Regression<br/>8:20-9:00 Poisson Regression<br/>9:00-9:15 Wrap up<\/p> <p>Venue<\/p> <p>This event will be held on Zoom. You will need a Zoom account in order to join. Before the event, the Zoom link will be emailed to you.<\/p> <p>Organizers<\/p> <p>This event is being brought to you by the Orange Country R Users Group (OCRUG) <a href=\"https://www.meetup.com/OC-RUG/\" class=\"linkified\">https://www.meetup.com/OC-RUG/<\/a><\/p> <p>Sponsors<\/p> <p>This event is sponsored by the University of California, Paul Merage School of Business. <a href=\"https://merage.uci.edu/\" class=\"linkified\">https://merage.uci.edu/<\/a><\/p> <p>Code of Conduct<\/p> <p><a href=\"https://github.com/ocrug/hackathon-2019-05/blob/master/code-of-conduct.md\" class=\"linkified\">https://github.com/ocrug/hackathon-2019-05/blob/master/code-of-conduct.md<\/a><\/p> ",
     "url": "https://www.meetup.com/OC-RUG/events/273000536/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
-    "group": "Central Iowa R User Group",
-    "start": "2020-10-03",
-    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
-    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcnbfb/",
     "textColor": "blue"
   },
   {
@@ -1691,14 +1675,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Santa Rosa: Generando tutoriales interactivos con el paquete learnr  [Virtual] , Argentina, Latin America",
-    "group": "R-Ladies Santa Rosa",
-    "start": "2020-10-03",
-    "description": "<p>En este tutorial presentamos al paquete learnr para generar tutoriales interactivos. La idea de un documento rmarkdown que permita recorrer un contenido, contestar preguntas y ejecutar código para recibir feedback inmediato es muy poderosa. Especialmente si ese tutorial puede estar disponible como un paquete o como un sitio web o en RStudio. Si tenes clases remotas o asincrónicas, si tenes un paquete y queres llevar la ayuda a otro nivel, si tenes alumnos iniciales y no queres que sufran la instalación de las herramientas un tutorial interactivo te puede ayudar.<\/p> <p>Tenes que tener instalados los siguientes paquetes: {rmarkdown}, {learnr}, {gapminder} y vamos a necesitar RStudio.<\/p> ",
-    "url": "https://www.meetup.com/rladies-santa-rosa/events/273513242/",
-    "textColor": "blue"
-  },
-  {
     "title": "R Addicts Paris: Parlons de {dplyr} - évènement en ligne  [Virtual] , France, Europe",
     "group": "R Addicts Paris",
     "start": "2020-10-14",
@@ -1941,9 +1917,17 @@
   {
     "title": "R-Ladies Washington D.C.: Movie night: TBD  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Washington D.C.",
-    "start": "2020-10-03",
+    "start": "2020-10-10",
     "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dc/events/273118291/",
+    "url": "https://www.meetup.com/rladies-dc/events/273696705/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Movie night: TBD  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-10-17",
+    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/273696690/",
     "textColor": "blue"
   },
   {
