@@ -152,6 +152,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 017 - Suhem Parack - Introduction to Twitter data analysis in R  [Virtual] , Poland, Europe",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-10-08",
+    "description": "<p>- speaker: Suhem Parack, Sr. Developer Advocate, Academic Research at Twitter <a href=\"https://twitter.com/suhemparack\" class=\"linkified\">https://twitter.com/suhemparack<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<br/>- stream: <a href=\"https://youtu.be/0sJVKxHodJo\" class=\"embedded\">https://youtu.be/0sJVKxHodJo<\/a><\/p> <p>Abstract:<br/>The Twitter API provides access to a high volume of Tweets that developers and researchers use to study the public conversation as it is happening in real time. In this talk, learn how you can get started with accessing and analyzing Twitter data using R.<\/p> <p>Bio:<br/>Suhem Parack is a Sr. Developer Advocate at Twitter and focuses on helping the academic research community succeed on Twitter's developer platform. Follow or reach out to him on Twitter @suhemparack with questions about Twitter data<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273589074/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Greater Boston useR Group (R Programming Language): September Boston useR Virtual Meetup  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2020-09-16",
@@ -256,6 +264,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Ann Arbor R User Group: October Meeting - Shiney  [Virtual] , United States, US/Canada",
+    "group": "Ann Arbor R User Group",
+    "start": "2020-10-08",
+    "description": "<p>Aditya Royal Matturi will show us how to use Shiny in R, to create web applications:<br/>1) Shiny template basic<br/>2) link list /collection<br/>3) input widget<br/>4) render and reactive<br/>5) multi-page apps<br/>6) shiny themes<br/>7) publishing and sharing<br/>8) integrating tables<br/>9) integrating with all sorts of media<br/>10) server<\/p> <p>Aditya is a data scientist at Miracle Software Systems. He works on marketing, inventory monitoring and price optimization.<\/p> ",
+    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/273354605/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "IndyUseR Group: Overview of reticulate package - Shankar   [Virtual] , United States, US/Canada",
     "group": "IndyUseR Group",
     "start": "2020-09-15",
@@ -352,11 +368,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Bay Area useR Group (R Programming Language): First \"Official\" Virtual BARUG Meetup  [Virtual] , United States, US/Canada",
-    "group": "Bay Area useR Group (R Programming Language)",
-    "start": "2020-09-08",
-    "description": "<p>Hello BARUG Members,<br/>We are going virtual! Better late than never.<\/p> <p>We will email the link to all who RSVP that they are attending the day before the event.<\/p> <p>Agenda:<br/>4:45 PM Online Networking<br/>5: 20 Announcements and plans for upcoming events<br/>5: 30 Avantika Lal: \"Predicting interactions between the SARS-CoV-2 genome and human proteins using R\"<br/>6:00 Norm Matloff: \"Sensible Approaches to Handling Unbalanced Data\"<br/>6:30 Dave Hurst: \"Using RStudio Cloud to Teach and Collaborate\"<br/>7:00 Q&amp;A with the speakers<\/p> <p>################<br/>Avantika Lal<br/>\"Predicting interactions between the SARS-CoV-2 genome and human proteins using R\"<\/p> <p>RNA viruses hijack a range of proteins inside host cells to assist in the replication and stability of their genetic material. I describe an R framework to predict potential interactions between human proteins and viral genomes, and demonstrate its application to the genome of the SARS-CoV-2 coronavirus.<\/p> <p>###############<\/p> <p>Norm Matloff<br/>\"Sensible Approaches to Handling Unbalanced Data\"<\/p> <p>Datasets for classification problems are often very unbalanced, with the<br/>number of cases for one class being far less than the numbers for the<br/>others. \"Conventional wisdom,\" reflected in the structure of popular<br/>software packages, is that the data should be artificially balanced via<br/>resampling. This is both unnecessary and harmful. Alternative, more<br/>sensible methods will be presented, with a recent Scientific American<br/>article as a motivating example.<\/p> <p>###############<br/>Dave Hurst<br/>\"Using RStudio Cloud to Teach and Collaborate\"<\/p> <p>RStudio.cloud is a cloud-hosted R environment and project workspace that includes the the RStudio IDE. (Just like the RStudio IDE there is a free version.) In this talk, we'll illustrate some of the features that make RStudio Cloud an ideal teaching environment with a mini-workshop on some of the fundamentals of the tidyverse.<\/p> ",
-    "url": "https://www.meetup.com/R-Users/events/272583774/",
+    "title": "Lagos R User Group: Deep Learning with Keras and TensorFlow   [Virtual] , Nigeria, Africa",
+    "group": "Lagos R User Group",
+    "start": "2020-10-08",
+    "description": "<p>This training is aimed at giving you a general overview of how to use the Keras and Tensorflow package for deep learning in R<\/p> <p>Deep learning is an artificial intelligence that mimics the workings of a human brain in processing different data, creating patterns and interpreting information that is used for decision making. It is a subfield of machine learning in artificial intelligence and Its networks has the capability to learn, supervised or unsupervised, from data that is either structured or labelled.<\/p> <p>It is one of the hottest trends in machine learning at the moment and there are many problems where deep learning shines, such as Self Driving Cars, Natural Language Processing, Machine Translations, image recognition and Artificial Intelligence (AI) and so on.<\/p> <p>1. You will start with RStudio by learning how to first prepare your workspace<\/p> <p>2. Load data and move to exploring and preprocessing the data.<\/p> <p>3. Normalize and split the data into training and test sets.<\/p> <p>4. Construct your deep learning model<\/p> <p>5. Compile and fit the model to your data<\/p> <p>6. Predict target values based on test data and<\/p> <p>7. Evaluate your model and interpret the results<\/p> <p>Register Here: <a href=\"https://deeplearningr.eventbrite.com\" class=\"linkified\">https://deeplearningr.eventbrite.com<\/a><\/p> ",
+    "url": "https://www.meetup.com/LagosRUsers/events/273523204/",
     "textColor": "#7171fb"
   },
   {
@@ -392,14 +408,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Vienna<-R: Data Science Conference Austria, Austria, Europe",
-    "group": "Vienna<-R",
-    "start": "2020-09-08",
-    "description": "<p>Dear Data Science Enthusiast,<\/p> <p>we are happy to announce the first DSC Austria 2020 <a href=\"https://austria.datasciconference.com\" class=\"linkified\">https://austria.datasciconference.com<\/a> - the Austrian Edition of DSC Europe. The Conference consists of tech tutorials, which will be held on September 8th, and talks on September 9th.<\/p> <p>The DSC Austria will cover popular topics related to Artificial Intelligence &amp; Machine Learning, Data &amp; AI Literacy, and Data-Driven Decision, aiming to attract data science professionals, managers, and data enthusiasts. Some of the area that talks and Tutorials will cover are:<\/p> <p>Deep Learning &amp; Neural Network, Robotics, Computer Vision, Virtual Agents &amp; Recommender Systems, Machine Learning Platforms<\/p> <p>Advanced and augmented analytics, Data &amp; AI-Driven decision making, Business Intelligence &amp; Data Visualisation<\/p> <p>Data Governance, Data Collection &amp; Data Sharing, Data Protection, Data Privacy &amp; GDPR, AI systems &amp; how to engage with AI Solutions<\/p> <p>Reserve your FREE spot at<\/p> <p><a href=\"https://austria.datasciconference.com\" class=\"linkified\">https://austria.datasciconference.com<\/a><\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/272717777/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Resistencia-Corrientes: Introducción a machine learning con tidymodels, Argentina, Latin America",
     "group": "R-Ladies Resistencia-Corrientes",
     "start": "2020-10-05",
@@ -428,14 +436,6 @@
     "start": "2020-09-11",
     "description": "<p>To confirm your participation, please sign up here (this post is just for promotion purposes): <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSft4I0fi-Mw6xR5DXY0HUAxqD-kJJf_METKDWxKhPGc45MUrg/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSft4I0fi-Mw6xR5DXY0HUAxqD-kJJf_METKDWxKhPGc45MUrg/viewform<\/a><\/p> <p>Vancouver Datajam 2020 is a hackathon-like event where you can develop your coding skills and meet other members of the community. Participating groups include RLadies, PyLadies, Women in Machine Learning/Data Science, SFU Scientific Programming, and Women Techmakers. As of March 2020, the Datajam has transitioned to a fully virtual event! The event kicks off on September 11, 2020, with exciting workshops on R, Python, and virtual collaboration in GitHub. The main hackathon portion of the event will occur from 9am-5pm on September 12, 2020. That evening, we'll be featuring a Q&amp;A panel composed of both industry professionals and academics. This year our theme is \"hack for a plastic waste free future.\" Datajam participants will work to bring awareness to the plastics crisis with projects that aim to understand, visualize, and make predictions about plastic waste data.<\/p> <p>Curious about how our virtual hackathon will operate?<\/p> <p>Datajam Goes Virtual<br/>Our event committee is working hard to set this event up for success in the virtual space. Here’s a few areas on which we are focusing:<br/>Virtual networking: we’ll be setting up opportunities for participants to meet one another in small group settings and will encourage teams to connect virtually.<br/>Tutorials: Tutorials will continue as planned, but in a virtual setting. We’ll still have volunteers available to help participants troubleshoot issues that come up.<br/>Collaboration: Use of version control and meeting software will be essential for teams to connect and collaborate. We’ll be sharing more details and guidelines for virtual collaboration soon.<\/p> <p>We hope you are able to attend! If you have any questions please email us at:<br/>[masked]<\/p> ",
     "url": "https://www.meetup.com/rladies-vancouver/events/272687752/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Boulder: R Ladies Boulder Meetup #10: Virtual Meet-n-Greet and Lightning Talks  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Boulder",
-    "start": "2020-09-08",
-    "description": "<p>Hi Boulder UseRs! Join us for this month's **Virtual** R Ladies Meetup and join our new local Slack workspace!<\/p> <p>We're hosting a virtual meet-n-greet featuring three great lightning talks.<br/>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and listen into some great informal short talks!<\/p> <p>We are planning to do new introductions to get new attendees acquainted with the community and then move on to our lightning talks!<\/p> <p>Talk #1: Using R to design an accent wall (Speaker: Leigh Alexander)<br/>Talk #2: Using patchwork to make composite plots (Speaker: Courtney Van Den Elzen)<br/>Talk #3: Teaching R to undergraduates (Speaker: Kelly Carscadden)<\/p> <p>We hope you'll join us on Zoom and on our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-boulder/events/272634605/",
     "textColor": "#7171fb"
   },
   {
@@ -497,14 +497,6 @@
     "start": "2020-10-07",
     "description": "<p>Join us for a follow-up session on workflows after last month's session on git/gitHub!<\/p> <p>* What are we going to learn?<br/>This seminar will discuss tools, tips, and tricks for:<br/>- Organizing your data<br/>- Coding workflows and best practices<br/>- Repositories / projects / environments<br/>- Project management<br/>- Collaborating across skill levels and programming languages<\/p> <p>* Who is going to present?<br/>Dr. Caitie Keumpel is a conservation scientist who is currently a joint post-doctoral fellowship with the University of Queensland and World Wide Fund for Nature (WWF) in UQ's Coral Reef Ecosystems lab. Caitie recently finished a post-doctoral fellowship at the National Center for Ecological Analysis and Synthesis at UC Santa Barbara quantifying, mapping and comparing the environmental impacts of major food systems across the land and sea. Her research interests include protected area design, food system sustainability, and managing impacts on coral reefs.<\/p> <p>* When are we meeting?<br/>The talk will start at 5:00 pm to allow for socializing, questions, and discussion on workflows following the presentation. Finish time 6:30 pm.<\/p> <p>************The presentation will start at 5:00 pm.************<\/p> <p>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This will be a ~40 min presentation followed by time for questions and discussion of workflow tools/tips/tricks.<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/273087228/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2020-09-08",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcmblb/",
     "textColor": "#7171fb"
   },
   {
@@ -620,6 +612,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Columbus",
+    "start": "2020-10-08",
+    "description": "<p>In this session, Ezgi will talk about the tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/95152180846?pwd=V1o3eXZSRjVFTkhJU2FJejFQL1ZEdz09\" class=\"linkified\">https://osu.zoom.us/j/95152180846?pwd=V1o3eXZSRjVFTkhJU2FJejFQL1ZEdz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-columbus/events/mpjmxrybcnblb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Rotterdam: Mastering R6! Advanced R, Chapter 14, R-Ladies NL Book Club  [Virtual] , Netherlands, Europe",
     "group": "R-Ladies Rotterdam",
     "start": "2020-09-15",
@@ -665,6 +665,14 @@
     "start": "2020-09-22",
     "description": "<p>Come join R-Ladies Ottawa for a fun, interactive mini-coding session! For this event, we will be using this weeks's data posted to <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> <p>The goal of this exercise is to find meaningful relationships in the data.<\/p> <p>Who is this for?<br/>New and experienced R users alike! Let's learn together! All are welcome, including R-Ladies Ottawa members and R-Ladies from around the world.<\/p> <p>What do I need?<br/>You'll need a computer with videoconferencing capabilities and R.<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
     "url": "https://www.meetup.com/rladies-ottawa/events/272770185/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Freiburg: Sentiment Analysis with R  [Virtual] , Germany, Europe",
+    "group": "R-Ladies Freiburg",
+    "start": "2020-10-08",
+    "description": "<p>Join us for an evening of sentiment analysis! Using different R packages (including tidytext and sentimentr), we'll find positive and negative sentiments in texts, but also more detailed emotions such as surprise or fear.<\/p> <p>We'll look at questions such as:<br/>Can we distinguish Shakespeare's comedies from his tragedies by looking at their sentiment scores?<br/>How can we trace sentiment through chapters of a book, or lines of a play?<br/>What are frequent positive and negative words in reviews of this year's hit game Animal Crossing?<br/>Which emotions are expressed in Beyoncé's and Taylor Swift's song lyrics?<\/p> <p>We'll learn how to visualise commonly used positive and negative words in comparison clouds (an extension of word clouds) and compare approaches which only look at single words to approaches which take into account negations and other items that can influence the sentiment score.<\/p> <p>This meetup will start with a quick review of basic text processing steps, so it's suitable for all levels and you don't need any previous experience with this topic.<\/p> <p>You will receive a zoom link within an hour of the event starting, so check your junk mailbox shortly before the event starts if you don't have it yet!<\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/273638515/",
     "textColor": "#7171fb"
   },
   {
@@ -843,6 +851,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Dublin R: Why R? Webinar 017 - Suhem Parack - Introduction to Twitter data analysis in R  [Virtual] , Ireland, Europe",
+    "group": "Dublin R",
+    "start": "2020-10-08",
+    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Speaker:<br/>Suhem Parack, Sr. Developer Advocate, Academic Research at Twitter <a href=\"https://twitter.com/suhemparack\" class=\"linkified\">https://twitter.com/suhemparack<\/a><\/p> <p>Abstract:<br/>The Twitter API provides access to a high volume of Tweets that developers and researchers use to study the public conversation as it is happening in real time. In this talk, learn how you can get started with accessing and analyzing Twitter data using R.<\/p> <p>Bio:<br/>Suhem Parack is a Sr. Developer Advocate at Twitter and focuses on helping the academic research community succeed on Twitter's developer platform. Follow or reach out to him on Twitter @suhemparack with questions about Twitter data<\/p> ",
+    "url": "https://www.meetup.com/DublinR/events/273638429/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Seattle useR Group (R Programming Language): Intro to Shiny  [Virtual] , United States, US/Canada",
     "group": "Seattle useR Group (R Programming Language)",
     "start": "2020-09-29",
@@ -895,6 +911,14 @@
     "start": "2020-09-22",
     "description": "<p>Erin Grand will introduce key data cleaning steps that she uses everyday. She will review the janitor package for working with duplicate rows and the tidyr package for working with tidy data structure.<\/p> <p>Materials will be posted soon!<\/p> <p>Erin works as a Data Scientist at Uncommon Schools where she trains coworkers in R as well as maintaining two R packages. Prior to Uncommon, she worked as a Data Scientist at Crisis Text Line and as a software programmer at NASA while completing her Data Science Masters at Columbia University. Before data science, Erin researched star formation and taught introductory courses in astronomy and physics at the University of Maryland.<\/p> <p>Passcode to the Zoom event is STL2020<\/p> ",
     "url": "https://www.meetup.com/rladies-st-louis/events/272721801/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies St. Louis: Virtual Workshop: An Introduction to Data Visualization in R with ggplot2  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies St. Louis",
+    "start": "2020-10-08",
+    "description": "<p>About the workshop: This workshop will introduce plotting in R using the ggplot package. You will learn the theory of \"grammar of graphics\" and how to create and customize your own plots.<\/p> <p>About the instructor: Meenakshi graduated with an MPH (Environmental and Occupational Health) from University of Washington, Seattle in 2015. She has worked on a range of environmental health issues including lead poisoning, air pollution, and water quality in Malawi, US, Vietnam, and India. She is currently the Director of Research at ILK working on cross-cultural collaboration to produce policy-relevant health and environmental data, and engage with multi-disciplinary stakeholders to address global grand challenges. See more: <a href=\"https://www.ilklabs.com/about-us/team#h.p_kembYhXOTX-d\" class=\"linkified\">https://www.ilklabs.com/about-us/team#h.p_kembYhXOTX-d<\/a><\/p> <p>We will send the zoom link in an email to those who are registered when we get closer to the event.<\/p> ",
+    "url": "https://www.meetup.com/rladies-st-louis/events/272935512/",
     "textColor": "#7171fb"
   },
   {
@@ -951,14 +975,6 @@
     "start": "2020-09-11",
     "description": "<p>Practice your data wrangling and visualization skills with other members of R-Ladies! During this virtual event, participants will report on their experience working on a shared dataset.<\/p> <p>The R for Data Science Online Learning Community hosts a weekly \"Tidy Tuesday\" project in which they release a curated dataset every Tuesday for R users to practice data skills. We are meeting on Friday so that you have time to work on the dataset on your own.<\/p> <p>How it works:<\/p> <p>1. Read about the dataset here: <a href=\"https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md<\/a><\/p> <p>2. Import the data into R using the instructions in the website above (we suggest using the code in the section titled \"# Or read in the data manually\")<\/p> <p>3. Try to make a graph in R using the data. For some inspiration, search Twitter for #TidyTuesday.<\/p> <p>4. Meet on Zoom during the event time. Message an organizer if you didn't receive the meeting password.<\/p> <p>5. During the meeting, share your code and graph with the other participants using the \"Share Screen\" feature in Zoom or talk about where you got stuck and we'll work through it together.<\/p> <p>Everyone's contribution is valuable, even if you're new to R! There are so many different ways to do things in R that your approach may be new to experienced R users.<\/p> ",
     "url": "https://www.meetup.com/rladies-gainesville/events/273112013/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Addis Ababa: 31st Meeting R-Ladies Addis Ababa, Ethiopia, Africa",
-    "group": "R-Ladies Addis Ababa",
-    "start": "2020-09-08",
-    "description": "<p>This is the monthly R-Ladies Addis Ababa meeting to discuss the current agenda and potential new ideas. If you want to join, please send a short note and we will share the details about the meeting.<\/p> ",
-    "url": "https://www.meetup.com/rladies-addis-ababa/events/273080971/",
     "textColor": "#7171fb"
   },
   {
@@ -1122,6 +1138,14 @@
     "textColor": "blue"
   },
   {
+    "title": "CaRdiff - the Cardiff R User Group: Hacktoberfest 2020  [Virtual] , United Kingdom, Europe",
+    "group": "CaRdiff - the Cardiff R User Group",
+    "start": "2020-10-15",
+    "description": "<p>A hacktoberfest virtual meetup!<\/p> <p>We have a few projects to consider working on for hacktoberfest in the Cardiff R User group:<\/p> <p>badgeR is an R package written by Dom for our Cardiff SatRday in 2019 to help design and produce badges for the attendees to wear: <a href=\"https://github.com/satRdays/badgeR\" class=\"linkified\">https://github.com/satRdays/badgeR<\/a><br/>We want to extend it's function with a few new features to encourage it's use in other satRdays around the world!<\/p> <p>satRday_site_template is a Hugo website that has made each the individual conference websites for a few years now: <a href=\"https://github.com/satRdays/satRday_site_template\" class=\"linkified\">https://github.com/satRdays/satRday_site_template<\/a><br/>There are a range of jobs to do here including extending it with new features, fully closing down a few small bugs, and updating/replacing some of the default dependencies which are no longer maintained. Theres also a potential GitHub action to be created which would smooth the request and deployment process for each individual conference.<\/p> <p>tdor provides data on killings and suicides of transgender people, as memorialized in the Transgender Day of Remembrance: <a href=\"https://github.com/CaRdiffR/tdor\" class=\"linkified\">https://github.com/CaRdiffR/tdor<\/a> . There are a range of issues to contribute to documentation and extending the API integration which would all be beneficial.<\/p> <p>If you've never been involved in hacktoberfest, it's basically programmer Christmas. It exists to encourage people to contribute to Open Source code. ESPECIALLY if you haven't done it before. You can find more info here: <a href=\"https://hacktoberfest.digitalocean.com/\" class=\"linkified\">https://hacktoberfest.digitalocean.com/<\/a><\/p> <p>Incidentally this year DEV.TO are also sponsoring the event, and Dave spent a bit of time this summer writing a package to help publish .Rmd documents to dev.to: <a href=\"https://github.com/DaveParr/dev.to.ol\" class=\"linkified\">https://github.com/DaveParr/dev.to.ol<\/a> so if you're interested in dev.to as a blog service, or already active, there are a few items that can be contributed there too :)<\/p> ",
+    "url": "https://www.meetup.com/Cardiff-R-User-Group/events/273820254/",
+    "textColor": "blue"
+  },
+  {
     "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
     "group": "Central Iowa R User Group",
     "start": "2020-10-10",
@@ -1226,14 +1250,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 017 - Suhem Parack - Introduction to Twitter data analysis in R  [Virtual] , Poland, Europe",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-10-08",
-    "description": "<p>- speaker: Suhem Parack, Sr. Developer Advocate, Academic Research at Twitter <a href=\"https://twitter.com/suhemparack\" class=\"linkified\">https://twitter.com/suhemparack<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<br/>- stream: <a href=\"https://youtu.be/0sJVKxHodJo\" class=\"embedded\">https://youtu.be/0sJVKxHodJo<\/a><\/p> <p>Abstract:<br/>The Twitter API provides access to a high volume of Tweets that developers and researchers use to study the public conversation as it is happening in real time. In this talk, learn how you can get started with accessing and analyzing Twitter data using R.<\/p> <p>Bio:<br/>Suhem Parack is a Sr. Developer Advocate at Twitter and focuses on helping the academic research community succeed on Twitter's developer platform. Follow or reach out to him on Twitter @suhemparack with questions about Twitter data<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273589074/",
-    "textColor": "blue"
-  },
-  {
     "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Gradient Boosting Machines - From Zero to Hero - X-Europe Webinars  [Virtual] , Poland, Europe",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-10-14",
@@ -1319,14 +1335,6 @@
     "start": "2020-12-09",
     "description": "<p>Evan Tachovsky is data scientist, cartographer, and a product of Northeast Ohio. He is going to share how he used R to create the maps for the book \"Cleveland in 50 Maps\" from Belt Publishing.<\/p> <p>Talk Summary:<br/>- A gentle introduction to spatial analysis in R using sf and the tidyverse.<br/>- Exploring a bit of the data scraping and munging required to build the datasets.<br/>- Producing publication quality maps with R and things to think about when collaborating with designers.<\/p> <p><a href=\"https://beltpublishing.com/products/cleveland-in-50-maps\" class=\"linkified\">https://beltpublishing.com/products/cleveland-in-50-maps<\/a><\/p> <p>Note: this talk will be recorded and posted on our YouTube channel.<\/p> ",
     "url": "https://www.meetup.com/Cleveland-UseR-Group/events/272645913/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Ann Arbor R User Group: October Meeting - Shiney  [Virtual] , United States, US/Canada",
-    "group": "Ann Arbor R User Group",
-    "start": "2020-10-08",
-    "description": "<p>Aditya Royal Matturi will show us how to use Shiny in R, to create web applications:<br/>1) Shiny template basic<br/>2) link list /collection<br/>3) input widget<br/>4) render and reactive<br/>5) multi-page apps<br/>6) shiny themes<br/>7) publishing and sharing<br/>8) integrating tables<br/>9) integrating with all sorts of media<br/>10) server<\/p> <p>Aditya is a data scientist at Miracle Software Systems. He works on marketing, inventory monitoring and price optimization.<\/p> ",
-    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/273354605/",
     "textColor": "blue"
   },
   {
@@ -1554,6 +1562,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Chicago: rOpenSci - open tools for open science  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Chicago",
+    "start": "2020-10-22",
+    "description": "<p>Learn about the rOpenSci community effort to foster open R software and transparent research practices among users and developers. You’ll also learn about the rOpenSci process of package peer-review and learn tips for getting your own R package ready for peer-review.<\/p> <p>Tentative Agenda<br/>=====================<br/>3:30: Welcome &amp; Introductions<br/>3:35: What is rOpenSci &amp; how to contribute?<br/>4:00: rOpenSci package peer- review process<br/>4:40: Networking<br/>5:00: Wrap up<\/p> <p>Registration<br/>====================<br/>Completion of the google form below is REQUIRED to receive zoom link by email: <a href=\"https://forms.gle/729JWJNG9urH5gNt5\" class=\"linkified\">https://forms.gle/729JWJNG9urH5gNt5<\/a><\/p> <p>Speakers<br/>==============<br/>Stefanie Butland, rOpenSci Community Manager<br/>Meetup sponsor: Department of Computational Mathematics, Science &amp; Engineering, Michigan State University.<\/p> <p>** Questions? Find us on slack: rladies-eastlansing.slack.com OR<br/>** Email us: [masked]<\/p> ",
+    "url": "https://www.meetup.com/rladies-chicago/events/273810238/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Chicago: InspiRing InstRuction: A panel on teaching #rstats for all audiences  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Chicago",
     "start": "2020-11-12",
@@ -1772,17 +1788,9 @@
   {
     "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Columbus",
-    "start": "2020-10-08",
-    "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-columbus/events/mpjmxrybcnblb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Columbus",
     "start": "2020-11-12",
-    "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-columbus/events/mpjmxrybcpbqb/",
+    "description": "<p>In this session, Ezgi will talk about the tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.<\/p> <p>We will continue with the second get started article on tidymodels.org: <a href=\"https://www.tidymodels.org/start/recipes/\" class=\"linkified\">https://www.tidymodels.org/start/recipes/<\/a><\/p> <p>This will be a virtual even please see the meeting information below:<br/>Password: rladies<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-columbus/events/273807485/",
     "textColor": "blue"
   },
   {
@@ -1858,14 +1866,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Freiburg: Sentiment Analysis with R  [Virtual] , Germany, Europe",
-    "group": "R-Ladies Freiburg",
-    "start": "2020-10-08",
-    "description": "<p>Join us for an evening of sentiment analysis! Using different R packages (including tidytext and sentimentr), we'll find positive and negative sentiments in texts, but also more detailed emotions such as surprise or fear.<\/p> <p>We'll look at questions such as:<br/>Can we distinguish Shakespeare's comedies from his tragedies by looking at their sentiment scores?<br/>How can we trace sentiment through chapters of a book, or lines of a play?<br/>What are frequent positive and negative words in reviews of this year's hit game Animal Crossing?<br/>Which emotions are expressed in Beyoncé's and Taylor Swift's song lyrics?<\/p> <p>We'll learn how to visualise commonly used positive and negative words in comparison clouds (an extension of word clouds) and compare approaches which only look at single words to approaches which take into account negations and other items that can influence the sentiment score.<\/p> <p>This meetup will start with a quick review of basic text processing steps, so it's suitable for all levels and you don't need any previous experience with this topic.<\/p> <p>You will receive a zoom link within an hour of the event starting, so check your junk mailbox shortly before the event starts if you don't have it yet!<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/273638515/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies East Lansing: rOpenSci - open tools for open science  [Virtual] , United States, US/Canada",
     "group": "R-Ladies East Lansing",
     "start": "2020-10-22",
@@ -1925,7 +1925,7 @@
     "title": "R-Ladies Cape Town: Web Scraping with Andrew Collier: Session 2  [Virtual] , South Africa, Africa",
     "group": "R-Ladies Cape Town",
     "start": "2020-10-14",
-    "description": "<p>Andrew Collier (Exegetic Analytics, @datawookie) is back to give us a four-week Web Scraping in R course! The term ‘Web Scraping’ refers to the automated gathering of information from websites hosted on the internet. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis. Andrew has recently used web scraping to create the Trundler API and R package: a repository of historical pricing data of goods sold by major local retailers (<a href=\"https://www.trundler.dev/\" class=\"linkified\">https://www.trundler.dev/<\/a>). The possibilities presented by this technology are endless, and we are super excited for this opportunity to learn more!<\/p> <p>Outline<br/>Session 1 (7 October):<br/>• Introduction to Web Scraping<br/>• Scraping with Screenshots<br/>• Working with URLs<\/p> <p>Session 2 (14 October): Locating content with CSS and XPath<br/>Session 3 (21 October): Scraping static sites with {rvest}<br/>Session 4 (28 October): Scraping dynamic sites with Selenium<\/p> <p>These sessions will take place via Google Meet at 17:30 sharp and last a maximum of 90 mins. We hope to see you there!<\/p> <p>To join: Use the Google Meet link provided - please mute your microphone when joining!<\/p> ",
+    "description": "<p>Andrew Collier (Exegetic Analytics, @datawookie) is back to give us a four-week Web Scraping in R course! The term ‘Web Scraping’ refers to the automated gathering of information from websites hosted on the internet. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis. Andrew has recently used web scraping to create the Trundler API and R package: a repository of historical pricing data of goods sold by major local retailers (<a href=\"https://www.trundler.dev/\" class=\"linkified\">https://www.trundler.dev/<\/a>). The possibilities presented by this technology are endless, and we are super excited for this opportunity to learn more!<\/p> <p>Outline<br/>Session 1 (7 October): Introduction - Recording - <a href=\"https://youtu.be/EaWDZUReN9s\" class=\"embedded\">https://youtu.be/EaWDZUReN9s<\/a><\/p> <p>Session 2 (14 October): Locating content with CSS and XPath<br/>Session 3 (21 October): Scraping static sites with {rvest}<br/>Session 4 (28 October): Scraping dynamic sites with Selenium<\/p> <p>These sessions will take place via Zoom at 17:30 sharp and last a maximum of 90 mins. We hope to see you there!<\/p> <p>To join: Use the Zoom link provided - please mute your microphone when joining!<\/p> ",
     "url": "https://www.meetup.com/rladies-cape-town/events/273586479/",
     "textColor": "blue"
   },
@@ -1994,14 +1994,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Dublin R: Why R? Webinar 017 - Suhem Parack - Introduction to Twitter data analysis in R  [Virtual] , Ireland, Europe",
-    "group": "Dublin R",
-    "start": "2020-10-08",
-    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Speaker:<br/>Suhem Parack, Sr. Developer Advocate, Academic Research at Twitter <a href=\"https://twitter.com/suhemparack\" class=\"linkified\">https://twitter.com/suhemparack<\/a><\/p> <p>Abstract:<br/>The Twitter API provides access to a high volume of Tweets that developers and researchers use to study the public conversation as it is happening in real time. In this talk, learn how you can get started with accessing and analyzing Twitter data using R.<\/p> <p>Bio:<br/>Suhem Parack is a Sr. Developer Advocate at Twitter and focuses on helping the academic research community succeed on Twitter's developer platform. Follow or reach out to him on Twitter @suhemparack with questions about Twitter data<\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/273638429/",
-    "textColor": "blue"
-  },
-  {
     "title": "Dublin R: Why R? Webinar 018 - Michał Maj - platypus image segmentation & object detection  [Virtual] , Ireland, Europe",
     "group": "Dublin R",
     "start": "2020-10-15",
@@ -2023,14 +2015,6 @@
     "start": "2020-10-29",
     "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> ",
     "url": "https://www.meetup.com/DublinR/events/273638448/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies St. Louis: Virtual Workshop: An Introduction to Data Visualization in R with ggplot2  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies St. Louis",
-    "start": "2020-10-08",
-    "description": "<p>About the workshop: This workshop will introduce plotting in R using the ggplot package. You will learn the theory of \"grammar of graphics\" and how to create and customize your own plots.<\/p> <p>About the instructor: Meenakshi graduated with an MPH (Environmental and Occupational Health) from University of Washington, Seattle in 2015. She has worked on a range of environmental health issues including lead poisoning, air pollution, and water quality in Malawi, US, Vietnam, and India. She is currently the Director of Research at ILK working on cross-cultural collaboration to produce policy-relevant health and environmental data, and engage with multi-disciplinary stakeholders to address global grand challenges. See more: <a href=\"https://www.ilklabs.com/about-us/team#h.p_kembYhXOTX-d\" class=\"linkified\">https://www.ilklabs.com/about-us/team#h.p_kembYhXOTX-d<\/a><\/p> <p>We will send the zoom link in an email to those who are registered when we get closer to the event.<\/p> ",
-    "url": "https://www.meetup.com/rladies-st-louis/events/272935512/",
     "textColor": "blue"
   },
   {
