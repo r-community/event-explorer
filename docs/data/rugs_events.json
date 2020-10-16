@@ -56,6 +56,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "CaRdiff - the Cardiff R User Group: Hacktoberfest 2020  [Virtual] , United Kingdom, Europe",
+    "group": "CaRdiff - the Cardiff R User Group",
+    "start": "2020-10-15",
+    "description": "<p>A hacktoberfest virtual meetup! We'd like attendees to also register here, on the official hacktoberfest event: <a href=\"https://organize.mlh.io/participants/events/5705-cardiff-r-hacktoberfest\" class=\"linkified\">https://organize.mlh.io/participants/events/5705-cardiff-r-hacktoberfest<\/a><\/p> <p>We have a few projects to consider working on for hacktoberfest in the Cardiff R User group: badgeR is an R package written by Dom for our Cardiff SatRday in 2019 to help design and produce badges for the attendees to wear: <a href=\"https://github.com/satRdays/badgeR\" class=\"linkified\">https://github.com/satRdays/badgeR<\/a> We want to extend it's function with a few new features to encourage it's use in other satRdays around the world!<\/p> <p>satRday_site_template is a Hugo website that has made each the individual conference websites for a few years now: <a href=\"https://github.com/satRdays/satRday_site_template\" class=\"linkified\">https://github.com/satRdays/satRday_site_template<\/a> There are a range of jobs to do here including extending it with new features, fully closing down a few small bugs, and updating/replacing some of the default dependencies which are no longer maintained. Theres also a potential GitHub action to be created which would smooth the request and deployment process for each individual conference.<\/p> <p>tdor provides data on killings and suicides of transgender people, as memorialized in the Transgender Day of Remembrance: <a href=\"https://github.com/CaRdiffR/tdor\" class=\"linkified\">https://github.com/CaRdiffR/tdor<\/a> . There are a range of issues to contribute to documentation and extending the API integration which would all be beneficial.<\/p> <p>If you've never been involved in hacktoberfest, it's basically programmer Christmas. It exists to encourage people to contribute to Open Source code. ESPECIALLY if you haven't done it before. You can find more info here: <a href=\"https://hacktoberfest.digitalocean.com/\" class=\"linkified\">https://hacktoberfest.digitalocean.com/<\/a><\/p> <p>Incidentally this year DEV.TO are also sponsoring the event, and Dave spent a bit of time this summer writing a package to help publish .Rmd documents to dev.to: <a href=\"https://github.com/DaveParr/dev.to.ol\" class=\"linkified\">https://github.com/DaveParr/dev.to.ol<\/a> so if you're interested in dev.to as a blog service, or already active, there are a few items that can be contributed there too :)<\/p> ",
+    "url": "https://www.meetup.com/Cardiff-R-User-Group/events/273820254/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
     "group": "Central Iowa R User Group",
     "start": "2020-09-19",
@@ -168,6 +176,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar platypus - image segmentation & object detection made easy with R  [Virtual] , Poland, Europe",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-10-15",
+    "description": "<p>- speaker Michal Maj <a href=\"https://www.linkedin.com/in/michal-maj116/\" class=\"linkified\">https://www.linkedin.com/in/michal-maj116/<\/a><br/>- webinars <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<br/>- stream <a href=\"https://youtu.be/ONfqqSWwU9E\" class=\"embedded\">https://youtu.be/ONfqqSWwU9E<\/a><\/p> <p># Description<br/>With the release of the R Keras package (<a href=\"https://keras.rstudio.com/\" class=\"linkified\">https://keras.rstudio.com/<\/a>) (by JJ Allaire and Francois Chollet) at the end of 2017 / beginning 2018 the topic of artificial neural networks and especially deep learning in R became red-hot within the R community.<\/p> <p>'platypus' is an R package that allows you to build advanced deep learning models like YOLO3 and U-Net for object detection and image segmentation tasks. Thanks to build in data generators and ready to go architectures you can implement perfect solution with a few lines of code.<\/p> <p># Biogram<br/>I’m a data scientist with over 5 years of experience in the field, R/Shiny developer and a freelancer interested in deep/machine learning and statistics. I love challenges and I’m always ready to help solving data science problems. In my day to day work I am responsible for designing, testing and development of advanced deep and machine learning models in R and Python. I’m a big R language enthusiast and a co-organizer of R Enthusiasts meetups in Gdańsk (<a href=\"https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/\" class=\"linkified\">https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/<\/a>). Currently I'm trying to become a computer vision expert.<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596275/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Greater Boston useR Group (R Programming Language): September Boston useR Virtual Meetup  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2020-09-16",
@@ -269,14 +285,6 @@
     "start": "2020-10-08",
     "description": "<p>Aditya Royal Matturi will show us how to use Shiny in R, to create web applications:<br/>1) Shiny template basic<br/>2) link list /collection<br/>3) input widget<br/>4) render and reactive<br/>5) multi-page apps<br/>6) shiny themes<br/>7) publishing and sharing<br/>8) integrating tables<br/>9) integrating with all sorts of media<br/>10) server<\/p> <p>Aditya is a data scientist at Miracle Software Systems. He works on marketing, inventory monitoring and price optimization.<\/p> ",
     "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/273354605/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "IndyUseR Group: Overview of reticulate package - Shankar   [Virtual] , United States, US/Canada",
-    "group": "IndyUseR Group",
-    "start": "2020-09-15",
-    "description": "<p>We will explore reticulate package which allows easy use of python functionality from within R.<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentations<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>Zoom meeting information:<\/p> <p>Topic: IndyUser September 2020 Meetup<br/>Time: Sep 15,[masked]:30 PM Indiana (East)<\/p> <p>Join Zoom Meeting<br/><a href=\"https://us02web.zoom.us/j/88623200517\" class=\"linkified\">https://us02web.zoom.us/j/88623200517<\/a><\/p> <p>Meeting ID:[masked]<br/>One tap mobile<br/>[masked],,[masked]# US (Germantown)<br/>[masked],,[masked]# US (Chicago)<\/p> <p>Dial by your location<br/>[masked] US (Germantown)<br/>[masked] US (Chicago)<br/>[masked] US (New York)<br/>[masked] US (Tacoma)<br/>[masked] US (Houston)<br/>[masked] US (San Jose)<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://us02web.zoom.us/u/k42T2nXcj\" class=\"linkified\">https://us02web.zoom.us/u/k42T2nXcj<\/a><\/p> ",
-    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprybcmbtb/",
     "textColor": "#7171fb"
   },
   {
@@ -487,14 +495,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Philly: Decision Trees & Random Forests  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Philly",
-    "start": "2020-09-15",
-    "description": "<p>DESCRIPTION:<\/p> <p>Decision trees are easy to understand and form the basis for random forests, a powerful machine learning technique. In this meetup, we are excited to have a line-up of presenters to share how to engage with tree-based methods in R.<\/p> <p>AGENDA:<br/>This will be a virtual event on zoom. We will admit attendees from the waiting room at 6 pm!<\/p> <p>(6:00 - 6:15) Welcome and Announcements<\/p> <p>(6:15 - 6:45) Walkthrough of hierarchical clustering in R, presented by Kavana Rudresh.<\/p> <p>(6:45 - 7:00) Trang Le will share an intro of her package, treeheatr (<a href=\"https://trang1618.github.io/treeheatr/\" class=\"linkified\">https://trang1618.github.io/treeheatr/<\/a>), which creates interpretable decision tree visualizations with the data represented as a heatmap at the tree's leaf nodes.<\/p> <p>(7:00 - 7:30) Decision trees vs random forests, presented by Karla Fettich<\/p> ",
-    "url": "https://www.meetup.com/rladies-philly/events/268783162/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Sydney: Show and Tell your R Code  [Virtual] , Australia, Australia",
     "group": "R-Ladies Sydney",
     "start": "2020-09-22",
@@ -537,14 +537,6 @@
     "start": "2020-10-07",
     "description": "<p>Join us for a follow-up session on workflows after last month's session on git/gitHub!<\/p> <p>* What are we going to learn?<br/>This seminar will discuss tools, tips, and tricks for:<br/>- Organizing your data<br/>- Coding workflows and best practices<br/>- Repositories / projects / environments<br/>- Project management<br/>- Collaborating across skill levels and programming languages<\/p> <p>* Who is going to present?<br/>Dr. Caitie Keumpel is a conservation scientist who is currently a joint post-doctoral fellowship with the University of Queensland and World Wide Fund for Nature (WWF) in UQ's Coral Reef Ecosystems lab. Caitie recently finished a post-doctoral fellowship at the National Center for Ecological Analysis and Synthesis at UC Santa Barbara quantifying, mapping and comparing the environmental impacts of major food systems across the land and sea. Her research interests include protected area design, food system sustainability, and managing impacts on coral reefs.<\/p> <p>* When are we meeting?<br/>The talk will start at 5:00 pm to allow for socializing, questions, and discussion on workflows following the presentation. Finish time 6:30 pm.<\/p> <p>************The presentation will start at 5:00 pm.************<\/p> <p>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This will be a ~40 min presentation followed by time for questions and discussion of workflow tools/tips/tricks.<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/273087228/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2020-09-15",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcmbtb/",
     "textColor": "#7171fb"
   },
   {
@@ -668,19 +660,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Rotterdam: Mastering R6! Advanced R, Chapter 14, R-Ladies NL Book Club  [Virtual] , Netherlands, Europe",
-    "group": "R-Ladies Rotterdam",
-    "start": "2020-09-15",
-    "description": "<p>Welcome!!<\/p> <p>The R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<br/>Join us for our next meeting, in which Johanna Muñoz<br/>will present the key points of Chapter 14: \"R6\".<br/>After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)<\/p> <p>You can find the full schedule and more information here: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>And sign up to discuss one of the chapters at <a href=\"https://bit.ly/2QBYGEG\" class=\"linkified\">https://bit.ly/2QBYGEG<\/a>!<\/p> <p>ABOUT Johanna<br/>----------------------<br/>Johanna is a researcher with a diverse background. She loves statistics, and although she considers she is far away from being a programming wizard, she survives using R as her weapon of choice.<\/p> <p>ABOUT the chapter<br/>----------------------<br/>R6 is an implemention of encapsulated object-oriented programming for R, and is a simpler, faster, lighter-weight alternative to R’s built-in reference classes. This style of programming is also sometimes referred to as classical object-oriented programming.<\/p> <p>Some features of R6 from <a href=\"https://r6.r-lib.org/\" class=\"linkified\">https://r6.r-lib.org/<\/a>:<\/p> <p>- R6 objects have reference semantics.<br/>- R6 cleanly supports inheritance across packages.<br/>- R6 classes have public and private members.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Make sure to read the chapter in advance!<br/>Note that Jitsi works best with chrome<\/p> <p>LINK TO MEETUP<br/>----------------------<br/><a href=\"https://meet.jit.si/rladiesnl_bookclub_chp14\" class=\"linkified\">https://meet.jit.si/rladiesnl_bookclub_chp14<\/a><\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-rotterdam/events/273109375/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Irvine: How to Find a Mentor  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Irvine",
-    "start": "2020-09-15",
-    "description": "<p># How to Find a Mentor<\/p> <p># Schedule<br/>Tuesday, September 15th, 6:30-8:30pm<br/>6:30 - Zoom Breakout Rooms Networking Activity<br/>6:55 - Announcements<br/>7:00 - How to Find a Mentor Talk #1 (Gabriel Ruiz)<br/>7:25 - Questions for Gabriel Ruiz<br/>7:35 - How to Find a Mentor Talk #2 (Fatima Tuz-Zahra)<br/>8:00 - Questions for Fatima Tuz-Zahra<br/>8:10 - General Questions and Discussion<br/>8:30 - Meeting Adjourned<\/p> <p># Meeting Location<br/>Out of an abundance of caution regarding COVID-19 and in order to prioritize the health and safety of everyone who attends our events, this meeting will be held online using Zoom.<\/p> <p>The meeting link will be visible to all registered attendees.<br/>Please use the RSVP button to register!<\/p> <p># Presentations<br/>How to Find a Mentor<br/>Speakers: Gabriel Ruiz and Fatima Tuz-Zahra<br/>Gabriel Ruiz's Bio:<br/>\"I am a 4th year PhD student in statistics at UCLA where my research is on data mining and causal inference with motivations coming partially from biology and gaps in statistical theory. I completed my B.S. in statistics at UC Riverside in 2017, and while there I was a part of our student chapter of the ASA and participated in undergraduate research. I grew up in the San Gabriel Valley and Riverside, CA and am a first-generation college graduate.\"<br/>Gabriel Ruiz's Abstract:<br/>\"I will talk about the important role mentors have played in my short career so far. Using personal anecdotes from my undergraduate years, I hope to show that a mentor can be an older classmate or colleague in an organization (like R-Ladies Irvine!), a boss you find through a research or internship program, or a wise professional by the name of Madeline Bauer you reached out to an event like the ASA DataFest competition. My key message: it always helps to have someone in your corner cheering you on, especially at key junctures like deciding what classes to take, what internships to apply to, or what to do after graduation.\"<br/>Fatima Tuz-Zahra's Bio:<br/>\"My name is Fatima Tuz-Zahra, I graduated from SDSU with an MS in Statistics. I am currently working as a statistician at UC San Diego. My interests are statistics, causal inference and machine learning.\"<br/>Fatima Tuz-Zahra's Abstract:<br/>\"This talk will focus on how, in your role as a student and/or a job seeker, you can find a mentor to charter your route to success as smoothly as possible.\"<\/p> <p># Live-streaming &amp; Meeting Materials<br/>- All registered attendees will receive a Zoom link to join the meeting. Please see the information above.<br/>- All materials will be sent out and posted on our GitHub (<a href=\"https://github.com/rladies-irvine\" class=\"linkified\">https://github.com/rladies-irvine<\/a>) after the event.<br/>- The recording of the meeting will be sent out and posted on our YouTube Channel (<a href=\"https://www.youtube.com/channel/UCIbS1KNK7jbcbQVNt7lF62A\" class=\"embedded\">https://www.youtube.com/channel/UCIbS1KNK7jbcbQVNt7lF62A<\/a>) after the event.<\/p> ",
-    "url": "https://www.meetup.com/rladies-irvine/events/272837863/",
+    "title": "R-Ladies Miami: Predictive Modeling for Healthcare  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Miami",
+    "start": "2020-10-15",
+    "description": "<p>Dr. Beverly Festin Martinez is a member of the FSP Biometrics team at Syneos Health.<\/p> <p>Dr. Martinez has served the needs of major stakeholders in the healthcare industry at patient-centered/customer-focused organizations. With her PhD in Statistics &amp; Biometry from Emory University and continuing education in analytics, she has contributed to both randomized controlled trials and real-world evidence generation within the therapeutic areas of many disease models.<\/p> <p>Dr. Martinez will present an example of prediction modeling (a.k.a. supervised machine learning) using R. This use case will highlight the process flow of applying predictive models in the healthcare space.<\/p> ",
+    "url": "https://www.meetup.com/rladies-miami/events/273733504/",
     "textColor": "#7171fb"
   },
   {
@@ -705,6 +689,22 @@
     "start": "2020-10-13",
     "description": "<p>Do you wish to revamp your resume?<\/p> <p>Are you looking for some tips when it comes to searching and applying for a job?<\/p> <p>If YES then you need to come to our next seminar!<\/p> <p>For our October event we are excited to welcome Tahlia Marks, the Resume Guru! Tahlia is a recruiter with a passion for well written resumes and interview hacks.<\/p> <p>In her seminar Tahlia will discuss how to look for a job, information about the market, and salary expectations. She will cover how to set out a resume, what should and should not be included, as well as general dos and don'ts. Tahlia will also go over how to prepare for an interview, the typical interview layout, and what the interviewer will expect from you.<\/p> <p>For more information about Tahlia please visit her website<br/><a href=\"https://tahliaco.wixsite.com/resumegurubytahlia\" class=\"linkified\">https://tahliaco.wixsite.com/resumegurubytahlia<\/a><\/p> <p>This will be an online seminar. Please connect 5 minutes before for a prompt start at 6:15pm.<\/p> <p>We look forward to seeing everyone at this fantastic seminar!<\/p> <p>R-Ladies Melbourne<\/p> ",
     "url": "https://www.meetup.com/rladies-melbourne/events/273448829/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
+    "group": "R-Ladies Montreal",
+    "start": "2020-10-15",
+    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
+    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgrybcnbtb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
+    "group": "R-Ladies Montreal",
+    "start": "2020-10-15",
+    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
+    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrybcnbtb/",
     "textColor": "#7171fb"
   },
   {
@@ -827,14 +827,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R User Group Rhein-Neckar: ONLINE: Machine Learning Themes  [Virtual] , Germany, Europe",
-    "group": "R User Group Rhein-Neckar",
-    "start": "2020-09-15",
-    "description": "<p>We will continue our Meetup miniseries on \"Machine Learning with R\" during September and maybe even longer.<\/p> <p>The content of the meeting on September 15 is not yet fixed, but could cover topics like<\/p> <p>* ModelStudio: Interpretation von ML Modellen<br/>* Hinweise auf Link-Sammlungen zu R<\/p> <p>Let us know -- for instance here in the Comments section -- which themes you are interested in, what else should be covered, or if you could contribute, say, in future meetups.<\/p> <p>The plan is to have online meetups until the end of this year, every second Tuesday of a month at 7:00-7:40 PM local CEST, starting September 15. Meetings will take place even if no contributions have been prepared, leaving room for questions, news, and discussions in general.<\/p> <p>Zoom Meeting ID:[masked]<br/>Password: rnm159<\/p> <p>Meeting ID and password will be announced here the day before the meeting.<\/p> <p>PS: Because of the time restrictions with Zoom, we are also considering changing the conference provider to, e.g., JITSI.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/272929176/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R User Group Rhein-Neckar: October Meeting: Machine Learning cont'd.  [Virtual] , Germany, Europe",
     "group": "R User Group Rhein-Neckar",
     "start": "2020-10-13",
@@ -896,6 +888,14 @@
     "start": "2020-10-08",
     "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Speaker:<br/>Suhem Parack, Sr. Developer Advocate, Academic Research at Twitter <a href=\"https://twitter.com/suhemparack\" class=\"linkified\">https://twitter.com/suhemparack<\/a><\/p> <p>Abstract:<br/>The Twitter API provides access to a high volume of Tweets that developers and researchers use to study the public conversation as it is happening in real time. In this talk, learn how you can get started with accessing and analyzing Twitter data using R.<\/p> <p>Bio:<br/>Suhem Parack is a Sr. Developer Advocate at Twitter and focuses on helping the academic research community succeed on Twitter's developer platform. Follow or reach out to him on Twitter @suhemparack with questions about Twitter data<\/p> ",
     "url": "https://www.meetup.com/DublinR/events/273638429/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Dublin R: Why R? Webinar 018 - Michał Maj - platypus image segmentation & object detection  [Virtual] , Ireland, Europe",
+    "group": "Dublin R",
+    "start": "2020-10-15",
+    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p># Description<br/>With the release of the R Keras package (<a href=\"https://keras.rstudio.com/\" class=\"linkified\">https://keras.rstudio.com/<\/a>) (by JJ Allaire and Francois Chollet) at the end of 2017 / beginning 2018 the topic of artificial neural networks and especially deep learning in R became red-hot within the R community.<\/p> <p>'platypus' is an R package that allows you to build advanced deep learning models like YOLO3 and U-Net for object detection and image segmentation tasks. Thanks to build in data generators and ready to go architectures you can implement perfect solution with a few lines of code.<\/p> ",
+    "url": "https://www.meetup.com/DublinR/events/273638436/",
     "textColor": "#7171fb"
   },
   {
@@ -1007,14 +1007,6 @@
     "start": "2020-10-09",
     "description": "<p>Suzana é Estatística e vem trazer dicas valiosas sobre mineração de textos e análise de sentimentos usando o R. Vem nessa com a gente! Faça sua inscrição em <a href=\"https://www.sympla.com.br/1-meetup-virtual---mineracao-de-texto-e-analise-de-sentimentos-um-tutorial-no-r__987500\" class=\"linkified\">https://www.sympla.com.br/1-meetup-virtual---mineracao-de-texto-e-analise-de-sentimentos-um-tutorial-no-r__987500<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-salvador/events/273429490/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Dallas: R-Ladies Dallas group project + social justice initiatives  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Dallas",
-    "start": "2020-09-15",
-    "description": "<p>Hi, R-Ladies!<\/p> <p>In our last few events, we resolved to challenge ourselves to grow in our R programming skills. Congratulations to those of you who made it through the lectures and practice problems in the \"Data Analysis with R\" course on Udacity.<\/p> <p>Link to the course: <a href=\"https://www.udacity.com/course/data-analysis-with-r--ud651\" class=\"linkified\">https://www.udacity.com/course/data-analysis-with-r--ud651<\/a><\/p> <p>To help us all get a firmer understanding of the concepts learned in the course, we have decided to work on a class project. In our last event, we voted to create a series of projects around the Loan Default Prosper dataset suggested in the Udacity course in Lesson 10 for the Final Project. Details are provided in this document. The Loan Default Prosper dataset is the second-to-last row in the table.<\/p> <p><a href=\"https://docs.google.com/document/d/1qEcwltBMlRYZT-l699-71TzInWfk4W9q5rTCSvDVMpc/pub\" class=\"linkified\">https://docs.google.com/document/d/1qEcwltBMlRYZT-l699-71TzInWfk4W9q5rTCSvDVMpc/pub<\/a><\/p> <p>This type of dataset appears often in data science interview challenges, so it would be helpful to get familiar with the dataset, learn loan/credit terminology, and gain some initution about the unique challenges an analyst will encounter with this type of project. In this meetup, we will get an introduction to this dataset and get a first look at the first mini-project that we will work on together as a group.<\/p> <p>We will also have a chance to briefly discuss the social justice initiatives that Sydeaka Watson discussed in her Why R? webinar talk, \"Data Science for Social Justice Activism\". To attend/register for the Why R? webinar, see the details provided at the following link.<\/p> <p><a href=\"https://www.meetup.com/rladies-dallas/events/273060804/\" class=\"linkified\">https://www.meetup.com/rladies-dallas/events/273060804/<\/a><\/p> <p>*************************<\/p> <p>You are encouraged to click the link below to keep up with the group project and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Webinar + Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>About R-Ladies Dallas<\/p> <p>R-Ladies Dallas welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp; expert upskilling. Our non-profit, civil society community is designed to develop our members' R skills &amp; knowledge through social, collaborative learning &amp; sharing. Supporting minority identity access to STEM skills &amp; careers, the Free Software Movement, and contributing to the global R community!<\/p> <p>A local chapter of R-Ladies Global, R-Ladies Dallas exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.<\/p> <p>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dallas/events/273061139/",
     "textColor": "#7171fb"
   },
   {
@@ -1162,14 +1154,6 @@
     "textColor": "blue"
   },
   {
-    "title": "CaRdiff - the Cardiff R User Group: Hacktoberfest 2020  [Virtual] , United Kingdom, Europe",
-    "group": "CaRdiff - the Cardiff R User Group",
-    "start": "2020-10-15",
-    "description": "<p>A hacktoberfest virtual meetup! We'd like attendees to also register here, on the official hacktoberfest event: <a href=\"https://organize.mlh.io/participants/events/5705-cardiff-r-hacktoberfest\" class=\"linkified\">https://organize.mlh.io/participants/events/5705-cardiff-r-hacktoberfest<\/a><\/p> <p>We have a few projects to consider working on for hacktoberfest in the Cardiff R User group: badgeR is an R package written by Dom for our Cardiff SatRday in 2019 to help design and produce badges for the attendees to wear: <a href=\"https://github.com/satRdays/badgeR\" class=\"linkified\">https://github.com/satRdays/badgeR<\/a> We want to extend it's function with a few new features to encourage it's use in other satRdays around the world!<\/p> <p>satRday_site_template is a Hugo website that has made each the individual conference websites for a few years now: <a href=\"https://github.com/satRdays/satRday_site_template\" class=\"linkified\">https://github.com/satRdays/satRday_site_template<\/a> There are a range of jobs to do here including extending it with new features, fully closing down a few small bugs, and updating/replacing some of the default dependencies which are no longer maintained. Theres also a potential GitHub action to be created which would smooth the request and deployment process for each individual conference.<\/p> <p>tdor provides data on killings and suicides of transgender people, as memorialized in the Transgender Day of Remembrance: <a href=\"https://github.com/CaRdiffR/tdor\" class=\"linkified\">https://github.com/CaRdiffR/tdor<\/a> . There are a range of issues to contribute to documentation and extending the API integration which would all be beneficial.<\/p> <p>If you've never been involved in hacktoberfest, it's basically programmer Christmas. It exists to encourage people to contribute to Open Source code. ESPECIALLY if you haven't done it before. You can find more info here: <a href=\"https://hacktoberfest.digitalocean.com/\" class=\"linkified\">https://hacktoberfest.digitalocean.com/<\/a><\/p> <p>Incidentally this year DEV.TO are also sponsoring the event, and Dave spent a bit of time this summer writing a package to help publish .Rmd documents to dev.to: <a href=\"https://github.com/DaveParr/dev.to.ol\" class=\"linkified\">https://github.com/DaveParr/dev.to.ol<\/a> so if you're interested in dev.to as a blog service, or already active, there are a few items that can be contributed there too :)<\/p> ",
-    "url": "https://www.meetup.com/Cardiff-R-User-Group/events/273820254/",
-    "textColor": "blue"
-  },
-  {
     "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
     "group": "Central Iowa R User Group",
     "start": "2020-10-17",
@@ -1271,14 +1255,6 @@
     "start": "2021-01-09",
     "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
     "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrycccbmb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar platypus - image segmentation & object detection made easy with R  [Virtual] , Poland, Europe",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-10-15",
-    "description": "<p>- speaker Michal Maj <a href=\"https://www.linkedin.com/in/michal-maj116/\" class=\"linkified\">https://www.linkedin.com/in/michal-maj116/<\/a><br/>- webinars <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<br/>- stream <a href=\"https://youtu.be/ONfqqSWwU9E\" class=\"embedded\">https://youtu.be/ONfqqSWwU9E<\/a><\/p> <p># Description<br/>With the release of the R Keras package (<a href=\"https://keras.rstudio.com/\" class=\"linkified\">https://keras.rstudio.com/<\/a>) (by JJ Allaire and Francois Chollet) at the end of 2017 / beginning 2018 the topic of artificial neural networks and especially deep learning in R became red-hot within the R community.<\/p> <p>'platypus' is an R package that allows you to build advanced deep learning models like YOLO3 and U-Net for object detection and image segmentation tasks. Thanks to build in data generators and ready to go architectures you can implement perfect solution with a few lines of code.<\/p> <p># Biogram<br/>I’m a data scientist with over 5 years of experience in the field, R/Shiny developer and a freelancer interested in deep/machine learning and statistics. I love challenges and I’m always ready to help solving data science problems. In my day to day work I am responsible for designing, testing and development of advanced deep and machine learning models in R and Python. I’m a big R language enthusiast and a co-organizer of R Enthusiasts meetups in Gdańsk (<a href=\"https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/\" class=\"linkified\">https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/<\/a>). Currently I'm trying to become a computer vision expert.<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596275/",
     "textColor": "blue"
   },
   {
@@ -1413,7 +1389,7 @@
     "title": "R User Group - Philippines: #81 Operational analytics using R at Unionbank / R mentoring updates   [Virtual] , Philippines, Asia",
     "group": "R User Group - Philippines",
     "start": "2020-10-21",
-    "description": "<p>'Banking' and 'open source' - two terms you probably don't usually see together in a public event title, less so if you add 'operational analytics', right?<\/p> <p>Speaking at this month's meetup is Robin Ramos, a Data Scientist at Union Bank, who will put all these terms together for us in her talk as she describes a 'normal day' at the bank using R. She's been an R user since 2018 and a BS Management Information Systems graduate from Ateneo De Manila University.<\/p> <p>We also have updates on our R mentoring program, so make sure you attend to know how to sign up to our RUG-member exclusive mentoring sessions!<\/p> <p>Our virtual meetup is sponsored by SYKES ASIA. Tokens from UNION BANK will be given away after the talk.<\/p> ",
+    "description": "<p>'Banking' and 'open source' - two terms you probably don't usually see together in a public event title, less so if you add 'operational analytics', right?<\/p> <p>Speaking at this month's meetup is Robin Ramos, a Data Scientist at Union Bank, who will put all these terms together for us in her talk as she describes a 'normal day' at the bank using R. She's been an R user since 2018 and a BS Management Information Systems graduate from Ateneo De Manila University.<\/p> <p>We also have updates on our R mentoring program, so make sure you attend to know how to sign up to our RUG-member exclusive mentoring sessions!<\/p> <p>Our virtual meetup is sponsored by SYKES ASIA. Tokens from UNION BANK will be given away after the talk.<\/p> <p>==========================<br/>Meeting ID:[masked]<br/>Passcode: rusers<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybcnbcc/",
     "textColor": "blue"
   },
@@ -1538,6 +1514,22 @@
     "textColor": "blue"
   },
   {
+    "title": "Wiesbaden R User Group: R Coffee Break - Vorstellung von schoRsch  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-01-13",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>In dieser RCoffeeBreak freuen wir uns auf einen Vortrag von Roland Pfister. Er wird uns das Paket schoRsch vorstellen. SchoRsch richtet sich an Psychologen und Verhaltensforscher, die routinemäßig mit experimentellen Daten aus faktoriellen Experimenten arbeiten.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Kenncode: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/273451599/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Bay Area useR Group (R Programming Language): Halloween Time Series Workshop  [Virtual] , United States, US/Canada",
+    "group": "Bay Area useR Group (R Programming Language)",
+    "start": "2020-10-31",
+    "description": "<p>Not so scary stuff for Halloween. This is the first of what we hope will be a continuing series of introductory workshops on a variety of statistics and data science topics geared towards beginning and intermediate R users.<\/p> <p>Rami Krispin is going to present a free Time Series workshop focused on descriptive analysis. Topics will include:<br/>1. Time series objects (ts, tsibble, xts)<br/>2. Plotting time series objects<br/>3. The time series components<br/>4. Decomposition of time series<br/>5. Seasonal analysis<br/>6. Correlation analysis<\/p> <p>In this workshop Rami will cover some of the new time series data structures that were not included in his October 2019 workshop.<\/p> ",
+    "url": "https://www.meetup.com/R-Users/events/273961620/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Bariloche: Análisis estadístico de experimentos: diseños factoriales  [Virtual] , Argentina, Latin America",
     "group": "R-Ladies Bariloche",
     "start": "2020-10-26",
@@ -1599,6 +1591,14 @@
     "start": "2020-12-08",
     "description": "<p>DESCRIPTION:<br/>Every good chart started out as a bad one. In this workshop, we will discuss 1) basic visualization principles, and 2) resources, tools, tips, and tricks that help improve our charts and refine our data stories. Some familiarity with R and ggplot will be useful but not required - novice R users are encouraged to attend.<\/p> <p>AGENDA:<br/>TBD<\/p> <p>ABOUT OUR SPEAKER:<br/>Trang Le is a postdoctoral fellow with Jason Moore at the Computational Genetics Lab, University of Pennsylvania. She enjoys developing machine learning methods for rigorous analyses of biomedical data, including neuroimage, transcriptomic and genetic. She’s the author and maintainer of five R packages and active contributor of the automated machine learning tool TPOT. She holds a doctorate and a master’s degree in mathematics and two bachelor’s degrees in mathematics and geology. Reproducible research, inclusion and equity.<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/268783170/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Philly: R-Ladies Philly Workshop/Talk (Topic TBD), United States, US/Canada",
+    "group": "R-Ladies Philly",
+    "start": "2021-01-13",
+    "description": "<p>Details to follow!<\/p> ",
+    "url": "https://www.meetup.com/rladies-philly/events/268783210/",
     "textColor": "blue"
   },
   {
@@ -1778,30 +1778,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Miami: Predictive Modeling for Healthcare  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Miami",
-    "start": "2020-10-15",
-    "description": "<p>Dr. Beverly Festin Martinez is a member of the FSP Biometrics team at Syneos Health.<\/p> <p>Dr. Martinez has served the needs of major stakeholders in the healthcare industry at patient-centered/customer-focused organizations. With her PhD in Statistics &amp; Biometry from Emory University and continuing education in analytics, she has contributed to both randomized controlled trials and real-world evidence generation within the therapeutic areas of many disease models.<\/p> <p>Dr. Martinez will present an example of prediction modeling (a.k.a. supervised machine learning) using R. This use case will highlight the process flow of applying predictive models in the healthcare space.<\/p> ",
-    "url": "https://www.meetup.com/rladies-miami/events/273733504/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
-    "group": "R-Ladies Montreal",
-    "start": "2020-10-15",
-    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
-    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgrybcnbtb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
-    "group": "R-Ladies Montreal",
-    "start": "2020-10-15",
-    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
-    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrybcnbtb/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
     "group": "R-Ladies Montreal",
     "start": "2020-11-19",
@@ -1822,7 +1798,7 @@
     "group": "R-Ladies Montreal",
     "start": "2020-12-17",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
-    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrybcqbwb/",
+    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgrybcqbwb/",
     "textColor": "blue"
   },
   {
@@ -1830,7 +1806,15 @@
     "group": "R-Ladies Montreal",
     "start": "2020-12-17",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
-    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgrybcqbwb/",
+    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrybcqbwb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Ottawa: Tidy Tuesday October Zoom Event  [Virtual] , Canada, US/Canada",
+    "group": "R-Ladies Ottawa",
+    "start": "2020-10-27",
+    "description": "<p>Come join R-Ladies Ottawa for a fun, interactive mini-coding session! For this event, we will be using this weeks's data posted to <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> <p>The goal of this exercise is to find meaningful relationships in the data.<\/p> <p>Who is this for?<br/>New and experienced R users alike! Let's learn together! All are welcome, including R-Ladies Ottawa members and R-Ladies from around the world.<\/p> <p>What do I need?<br/>You'll need a computer with videoconferencing capabilities and R.<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
+    "url": "https://www.meetup.com/rladies-ottawa/events/273963342/",
     "textColor": "blue"
   },
   {
@@ -1898,11 +1882,27 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group Rhein-Neckar: Shiny Dashboards (postponed), Germany, Europe",
+    "title": "EdinbR: The Edinburgh R Usergroup: October 2020 meeting: improving diversity and teaching R  [Virtual] , United Kingdom, Europe",
+    "group": "EdinbR: The Edinburgh R Usergroup",
+    "start": "2020-10-21",
+    "description": "<p>Hi everyone,<\/p> <p>**We're BACK!**<\/p> <p>Our September session will be on 16th, so join us from 5.30pm online. As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>Our online meetings are kindly being enabled by Red Hat (<a href=\"https://www.redhat.com/\" class=\"linkified\">https://www.redhat.com/<\/a>).<\/p> <p>Our speakers are Lydia Gabriela Speyer (@LydiaSpeyer) and Russ Hyde (@haematobot).<\/p> <p>* **Lydia Gabriela Speyer** is a third year PhD student at the University of Edinburgh. Her research focuses on analysing longitudinal data such as the Millennium Cohort Study using Structural Equation Modelling and Network Analysis to gain insights into the effect of perinatal environmental and genetic risk factors on children’s socio-emotional development.<br/>* **Russ Hyde** started using R a decade ago, while a bioinformatician at Liverpool uni. In recent years, he has presented at Edinbr on the packages `dupree` and `polyply`. He mentors at the \"R for data science\" community and helps maintain `lintr`. Having left bioinformatics, Russ is currently looking for data science/engineering jobs; but is mostly fixing up a house.<\/p> <p>---<\/p> <p>## Analysing Dynamic Change in Longitudinal Data using ALT-SR and GVAR models<\/p> <p>### Lydia Gabriela Speyer (<a href=\"https://twitter.com/LydiaSpeyer\" class=\"linkified\">https://twitter.com/LydiaSpeyer<\/a>)<\/p> <p>This talk will give a short introduction to using Autoregressive Latent Trajectory Models with Structured Residuals and Graphical Vector Autoregression Models to analyse dynamic change in longitudinal panel data using R. These models focus on disaggregating within from between-person effects when modelling concurrent and temporal inter-relations between multiple repeated measures variables simultaneously. The two methods will be illustrated using data on children’s socio-emotional development from the Millennium Cohort Study.<\/p> <p>---<\/p> <p>## Your Code As Data<\/p> <p>### Russ Hyde (<a href=\"https://twitter.com/haematobot\" class=\"linkified\">https://twitter.com/haematobot<\/a>)<\/p> <p>The code you write this month won’t stay still. You’ll eventually want to add extra features to that package or extra analyses to that project. You might find a bug or try to speed things up. Your tests might start to fail when dependencies change or your report might not build on a different system. As it evolves to accommodate these changes, it is worth reappraising your code. R has a range of tools to help assess your current code-base encompassing static analysis (style / syntax / structure: lintr, goodpractice, cyclocomp, pkgnet) and dynamic analysis (test coverage / benchmarking / profiling: covr, bench, profvis). For version-controlled projects, the git history can provide an archaeological and social view of the code base that complements analysis of the code itself. In this talk (inspired by Adam Tornhill’s book ‘Software Design X-Rays’), I show how existing R tools for working with git can be combined with code analysis tools to provide a rich dataset about your code.<\/p> <p>See you there!<\/p> <p>/federico<\/p> ",
+    "url": "https://www.meetup.com/EdinbR/events/273977305/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R User Group Rhein-Neckar: November Meeting: Aspects of R and Julia  [Virtual] , Germany, Europe",
     "group": "R User Group Rhein-Neckar",
-    "start": "2020-12-31",
-    "description": "<p>If you can: please also bring your R news or maybe even a short / lightning talk (up to 10 min.).<\/p> <p>Ideas and questions are welcome.<\/p> <p>This meetup will take place at \"Dezernat 16\", Seminarraum upstairs (near the Heidelberg main station).<\/p> <p>--- Meetup format ---<\/p> <p>In general the regular meetups take place every second Tuesday of a month. We will meet in locations in and around Heidelberg and Mannheim, preferably near the train station.<\/p> <p>The meetup will start with a short intro, then a R news section.<br/>We try to organize the meetups along specific topics with lightning talks (up to 10 minutes) or longer presentations.<\/p> <p>Of course you also have the opportunity to discuss the topics you are interested in.<\/p> <p>-- What to bring --<\/p> <p>Ideas and questions. You may also post questions in the comments section of the upcoming meetups.<\/p> <p>-- Important to know --<\/p> <p>Our Meetups are free. You may also attend without prior registration.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/268685530/",
+    "start": "2020-11-10",
+    "description": "<p>The content of the meeting on November 10 is not yet fixed, but will probably focus on aspects of integrating R and Julia, for instance<\/p> <p>* Calling Julia from R<br/>* Machine Learning with R and Julia<\/p> <p>Participants can look at a short description of how to call Julia functions from R at <a href=\"https://hwborchers.github.io/\" class=\"linkified\">https://hwborchers.github.io/<\/a>. (This page will be updated and expanded before the meeting.)<\/p> <p>TIPS<br/>We will not discuss programming with Julia. If you are interested in seeing some Julia syntax, then a good starting point will be \"Think Julia\" at<br/><a href=\"https://benlauwens.github.io/ThinkJulia.jl/latest/book.html\" class=\"linkified\">https://benlauwens.github.io/ThinkJulia.jl/latest/book.html<\/a><\/p> <p>NOTE<br/>To avoid time restrictions, this video conference will be hosted on JITSI. Point your browser to 'meet.jit.si', enter the Meeting Id in the field below \"Start a new meeting\", press the GO button and you are awaiting approval.<\/p> <p>Jitsi Meeting ID:[masked]<br/>Password:[masked]<\/p> <p>Meeting ID and password will be announced the day before the meeting.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/273958508/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R User Group Rhein-Neckar: December Meeting: New Year's Reading List  [Virtual] , Germany, Europe",
+    "group": "R User Group Rhein-Neckar",
+    "start": "2020-12-08",
+    "description": "<p>There will be no talks or presentations. Every participant can bring along pointers to tutorials, videos, blogs, or online books about R, that will help us get through the weeks until the first (online) meetings in 2021.<\/p> <p>Also welcome are suggestions for topics we could be dealing with next year -- even better if you know speakers who could take over such presentations. 'Lightning Talks' of 5 minutes and 3 slides are another idea to follow, for example about a package you would like to recommend.<\/p> <p>Without your support this Meetup group will not survive difficult times.<\/p> <p>Zoom Meeting ID:[masked]<br/>Password:[masked]<\/p> <p>Meeting ID and password will be announced the day before the meeting.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/273959772/",
     "textColor": "blue"
   },
   {
@@ -1927,14 +1927,6 @@
     "start": "2020-11-27",
     "description": "<p>Spend Friday night discussing Invisible Women (<a href=\"https://www.bookdepository.com/Invisible-Women-Caroline-Criado-Perez/9781784741723\" class=\"linkified\">https://www.bookdepository.com/Invisible-Women-Caroline-Criado-Perez/9781784741723<\/a>).<\/p> <p>Winner of the 2019 Financial Times and McKinsey Business Book of the Year Award<br/>Winner of the 2019 Royal Society Science Book Prize<\/p> <p>Data is fundamental to the modern world. From economic development, to healthcare, to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this bias, in time, money, and often with their lives.<\/p> <p>Celebrated feminist advocate Caroline Criado Perez investigates the shocking root cause of gender inequality and research in Invisible Women​, diving into women’s lives at home, the workplace, the public square, the doctor’s office, and more. Built on hundreds of studies in the US, the UK, and around the world, and written with energy, wit, and sparkling intelligence, this is a groundbreaking, unforgettable exposé that will change the way you look at the world.<\/p> <p>PS Please contact the organizer if you need support finding the book.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/273580808/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Dublin R: Why R? Webinar 018 - Michał Maj - platypus image segmentation & object detection  [Virtual] , Ireland, Europe",
-    "group": "Dublin R",
-    "start": "2020-10-15",
-    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p># Description<br/>With the release of the R Keras package (<a href=\"https://keras.rstudio.com/\" class=\"linkified\">https://keras.rstudio.com/<\/a>) (by JJ Allaire and Francois Chollet) at the end of 2017 / beginning 2018 the topic of artificial neural networks and especially deep learning in R became red-hot within the R community.<\/p> <p>'platypus' is an R package that allows you to build advanced deep learning models like YOLO3 and U-Net for object detection and image segmentation tasks. Thanks to build in data generators and ready to go architectures you can implement perfect solution with a few lines of code.<\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/273638436/",
     "textColor": "blue"
   },
   {
@@ -1981,7 +1973,7 @@
     "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | Deploy Your Model to Live Trading, Taiwan, Asia",
     "group": "Taiwan R User Group / MLDM Monday",
     "start": "2020-10-26",
-    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：Deploy Your Model to Live Trading<br/>講題介紹：TBA<br/>講者介紹：TBA (Victor Yang)<\/p> ",
+    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：Deploy Your Model to Live Trading<\/p> <p>講題介紹：近年許多人開始將機器學習應用於金融交易模型，但是卻缺乏將模型部署於實際交易環境快速方便地解決方案，模型訓練好後如何串接即時報價，如何高效的把當下即時資料合併歷史資料預處理成模型的輸入資料，並且如何將模型訊號與實際交易下單介接，每一步都相當複雜且有效率考量。本次演講中，會建立一套快速方便且高效率的即時交易系統。<br/>首先介紹一下講者開發的 API (Shioaji)，接著如何使用 dolphindb 來將 API 即時的串流報價資料收集，整合 pandas 與 numpy 等放入訓練好的模型做即時的預測，並串接到交易 API 進行下單，並簡單介紹如何透過 dolphindb 快速做模型多商品績效的回測。<\/p> <p>講者介紹：YVictor<br/>Shioaji 開發者，讀藝術的程式設計師，目前專注於交易模型部屬及即時資料串流。<br/>Github: <a href=\"https://github.com/Yvictor\" class=\"linkified\">https://github.com/Yvictor<\/a><\/p> ",
     "url": "https://www.meetup.com/Taiwan-R/events/273939721/",
     "textColor": "blue"
   },
@@ -1999,6 +1991,30 @@
     "start": "2020-11-16",
     "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：ＴＢＡ（Flink 與串流分析相關主題）<br/>講題介紹：TBA<br/>講者介紹：TBA (Gordon Tai)<\/p> ",
     "url": "https://www.meetup.com/Taiwan-R/events/273945781/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | AI與法律：Automatic Law Report Generation, Taiwan, Asia",
+    "group": "Taiwan R User Group / MLDM Monday",
+    "start": "2020-11-23",
+    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：AI與法律：Automatic Law Report Generation<\/p> <p>講題介紹：<br/>路透社(Reuters)是世界三大媒體之一，然而其母公司湯森路透(Thomson Reuters)其實還有75%的業務投入在法律與財稅的資訊服務，旗下產品Westlaw是全球最大的法律資料庫，收錄了各式判例、法條、文章及見解。<br/>龐雜的資料除了透過搜尋引擎進行結構化整理，還聘請了大量的法律專業人員來彙整報告，又稱Law Report。<br/>Law Report讓使用者能快速的了解整起訴訟的關鍵訊息，更方便進行訴訟研究，極具附加價值。<br/>然而彙整報告的人力費用不斐，在特定案例上也有時效性的要求。<br/>Thomson Reuters Labs 近年導入深度學習，投入自動化生產Law Report的開發。<br/>在本次演講，講者將分享入職八個月至今關於此主題的進展，並聚焦在Automatic Text Summarization。<\/p> <p>講者介紹：<br/>Leo Yang, Data Scientist @ Thomson Reuters Labs<\/p> <p>(講者位於加拿大，本次分享，講者將用連線進行。)<\/p> ",
+    "url": "https://www.meetup.com/Taiwan-R/events/273957432/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | A Model of Inductive Bias Learning, Taiwan, Asia",
+    "group": "Taiwan R User Group / MLDM Monday",
+    "start": "2020-12-07",
+    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：A Model of Inductive Bias Learning<br/>講題介紹：<br/>你也許遇過這樣的問題：訓練某種很特殊的影像分類問題，例如黑白的漫畫影像，使用 ImageNet Pre-trained Model 竟然可以大幅提升 accuracy ，但是 ImageNet dataset 裡大部分都是彩色的真實照片。為什麼仍有這樣的效果？<\/p> <p>也許你有聽過這種很直覺的說法：因為 ImageNet 可以讓 CNN 比較前面的 filter 學到某些低階的特徵，例如各種不同角度的線條，而這些特徵可以共用於黑白影像的分類。但是，這種說法無法解釋，當你使用其他黑白影像的 Pre-trained Model 來做黑白的影像分類，是否能可以學到更多低階甚至高階可共用的特徵？因為真正的實驗結果顯示，用這種 Pre-traind Model 的 accuracy 不一定會比 ImageNet Pre-trained 還好，甚至會更差。<\/p> <p>要解釋這種現象，就必須了解 Inductive Bias Learning 。這裡所指的 Bias 相當於模型中的共用特徵，這些特徵是從一個叫作 Task Environment 的環境中學習，如果可以在這環境中學到越多種的 Task，則這些共用的特徵就越能適用到新的 Task 。而 ImageNet 總共有 1000 個類別，也就相當於有 1000 種 Task ，根據這個理論可以解釋，為什麼用 ImageNet 來做 Pre-trained Model 的效果通常都會比較好。<\/p> <p>本次主題主要是講解這篇 paper：A Model of Inductive Bias Learning [ <a href=\"https://arxiv.org/abs/1106.0245\" class=\"linkified\">https://arxiv.org/abs/1106.0245<\/a> ]。內容是 Inductive Bias Learning 的數學理論，當你真正了解這理論後，你就知道什麼樣的 Pre-trained Model 適合用來解決你的 Task。<\/p> <p>講者介紹：Mark Chang<\/p> <p>AI 工程師，也是 AI youtuber，直播主。主要興趣是推廣 Machine Learning 和 Deep Learning 的數學理論。相較於憑直覺或籠統的說法，使用嚴謹的數學理論，來解釋 Machine Learning 和 Deep Learning 遇到的各種情況，可以讓 AI 不再那麼黑箱，減少運算資源浪費及避免錯誤的決策。頻道：<a href=\"https://www.youtube.com/channel/UCckNPGDL21aznRhl3EijRQw?view_as=subscriber\" class=\"embedded\">https://www.youtube.com/channel/UCckNPGDL21aznRhl3EijRQw?view_as=subscriber<\/a><\/p> ",
+    "url": "https://www.meetup.com/Taiwan-R/events/273954352/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Gainesville: Introduction to RStudio Cloud + R updates  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Gainesville",
+    "start": "2020-10-28",
+    "description": "<p>At this Meetup, we will talk about RStudio Cloud in general; a great online tool to get started with R, without having to install any software. We will also spend some time on how RStudio Cloud can be used for teaching, for the educators among us.<br/>Lastly, we will talk about some of the changes that came with the latest release of R (4.0.2) - some of which are quite significant, and worth knowing about.<br/>Schedule:<br/>7.00 - 7.10 Introductions<br/>7.10 - 7.20 RStudio Cloud (mostly for beginners)<br/>7.20 - 7.40 RStudio Cloud for teaching<br/>7.40 - 8.00 Latest R changes.<\/p> <p>For beginners: we will not be doing an introduction to R at this meeting, but I'm sure we'll have plenty of people online to answer any questions.<\/p> <p>** No need to download anything before this meeting **<\/p> <p>Bring your pets, your kids, your room mates - everyone is welcome!<br/>Can't wait to \"see\" you all!<\/p> ",
+    "url": "https://www.meetup.com/rladies-gainesville/events/273752098/",
     "textColor": "blue"
   },
   {
