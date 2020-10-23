@@ -1,13 +1,5 @@
 [
   {
-    "title": "LA R users group: LA R Users: September Meeting  [Virtual] , United States, US/Canada",
-    "group": "LA R users group",
-    "start": "2020-09-22",
-    "description": "<p>LA R Users Group will have our September meeting online on Zoom (<a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a>).<\/p> <p>**Talk** (40min talk, 10min Q&amp;A)<\/p> <p>Title: Bigger but local: Tools for uncomfortably big data<br/>Abstract: Sooner or later, every data scientist faces a dataset big enough to require thought about how to handle it without blowing up the machine. We'll talk about three tools which both make it easier to handle bigger data locally and scale nicely to cloud architecture when required:<\/p> <p>1. Parquet. We all want more data, but nobody really wants a 281 Gb CSV. Parquet is a well-supported alternative that solves a lot of the problems with CSVs.<br/>2. Arrow Datasets. (Experimental!) What do you do when you've got more data than memory? Arrow Datasets are a really easy-to-use option to pull out what you need.<br/>3. Apache Drill. When you need a power tool, Drill lets you treat a hard drive like a database, putting the power of SQL at your fingertips without the setup.<\/p> <p>And thanks to our open-source community, they all work beautifully from R! Join us and learn how to scale up your data engineering skills.<\/p> <p>**Speaker**: Edward Visel<br/>Edward Visel is a data scientist at Uptake, a Chicago startup that detects problems in machines in the industrial internet of things before they cause catastrophic failures. In previous lives he worked in education and politics; in his spare time he, like everyone else, bakes bread.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>6:30 open zoom<br/>6:40-7:20 Presentation<br/>7:20-7:30 Q&amp;A<br/>~8:00 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://laocr.org/\" class=\"linkified\">https://laocr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
-    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/272772319/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "LA R users group: [RSVP on Eventbrite] Regression Models with R Applications  [Virtual] , United States, US/Canada",
     "group": "LA R users group",
     "start": "2020-10-13",
@@ -16,11 +8,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Orange County R Users Group (OCRUG): Bigger but local: Tools for uncomfortably big data  [Virtual] , United States, US/Canada",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2020-09-22",
-    "description": "<p>OCRUG has partnered with the LA R Users Group to have virtual monthly meetings.<\/p> <p>Location: <a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a><\/p> <p>**Talk1** (40min talk, including Q&amp;A)<\/p> <p>Title: Bigger but local: Tools for uncomfortably big data<br/>Abstract: Sooner or later, every data scientist faces a dataset big enough to require thought about how to handle it without blowing up the machine. We'll talk about three tools which both make it easier to handle bigger data locally and scale nicely to cloud architecture when required:<\/p> <p>1. Parquet. We all want more data, but nobody really wants a 281 Gb CSV. Parquet is a well-supported alternative that solves a lot of problems with CSVs.<br/>2. Arrow Datasets. (Experimental!) What do you do when you've got more data than memory? Arrow Datasets are a really easy-to-use option to pull out what you need.<br/>3. Apache Drill. When you need a power tool, Drill lets you treat a hard drive like a database, putting the power of SQL at your fingertips without the setup.<\/p> <p>And thanks to our open-source community, they all work beautifully from R! Join us and learn how to scale up your data engineering skills.<\/p> <p>**Speaker**: Edward Visel<br/>Edward Visel is a data scientist at Uptake, a Chicago startup that detects problems in machines in the industrial internet of things before they cause catastrophic failures. In previous lives he worked in education and politics; in his spare time he, like everyone else, bakes bread.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/ocrug/hackathon-2019-11/blob/master/code-of-conduct.md\" class=\"linkified\">https://github.com/ocrug/hackathon-2019-11/blob/master/code-of-conduct.md<\/a><\/p> <p>**Schedule**<br/>6:30 open zoom<br/>6:40-7:20 Presentation<br/>7:20-7:30 Q&amp;A<br/>~8:00 Virtual Social<\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/272772837/",
+    "title": "Colchester R Meetup: Teaching R to beginners using online videos  [Virtual] , United Kingdom, Europe",
+    "group": "Colchester R Meetup",
+    "start": "2020-10-22",
+    "description": "<p>Hi Colchester UseRs!<\/p> <p>Happy to say we have a great speaker booked for this month that will show us how to teach others how to use R using videos.<\/p> <p>Speaker: Dr. Ed Ryan, Department of Mathematics, University of Manchester<\/p> <p>Title: Tips and advice for teaching R to non-R users using online videos.<\/p> <p>Abstract: I’ve been using R since 2008 and in the past four years I’ve been interested in creating training resources to teach R to people who need it for their work (e.g. PhD students) but weren’t taught it as part of their undergraduate degree. Due to the pandemic, I’ve decided to record the training and put it on YouTube. At the moment I’ve put together videos for the first four sessions of my ‘Learning R course’ with the final two videos planned for later this year. In this talk I’ll give a quick overview of the entire six sessions, including the fourth session where I wrote a model in R that simulates the first innings of a Twenty20 cricket match. I’ll also give some tips and advice on the practical side of creating videos to post on YouTube, such as what kind of microphone to use, how to do screen capture, whether video editing software is needed and which ones are best and affordable, etc. The talk will be accessible and hopefully useful to people from all experience levels in R, from beginners to experts.<\/p> <p>Please RSVP and a link will be posted and emailed out the day of the talk.<\/p> ",
+    "url": "https://www.meetup.com/Colchester-R-Meetup/events/273733770/",
     "textColor": "#7171fb"
   },
   {
@@ -160,19 +152,19 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar - Faris Naji - Liberate the coder and empower the non coder  [Virtual] , Poland, Europe",
+    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+    "start": "2020-10-22",
+    "description": "<p>- speaker Faris Naji <a href=\"https://www.linkedin.com/in/faris-naji-52a717/\" class=\"linkified\">https://www.linkedin.com/in/faris-naji-52a717/<\/a><br/>- webinars <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<br/>- stream <a href=\"https://youtu.be/xD98Ba4qyo0\" class=\"embedded\">https://youtu.be/xD98Ba4qyo0<\/a><\/p> <p>This talk is about how to “liberate” the R programmer and “empower” the non programmer for data analysis by using the R Tercen open science framework. R programmers spend time dealing with the operational details of data analysis, such as user support, visual cosmetics, modifications of visuals for publications of non programmers and deployment of workflows and data for non programmers publications. The pressure is even more acute when the ratio of non programmers to R programmers is large. R programmers generally wish to be liberated from operational tasks in order to focus more intensely on research such as data algorithms and new techniques.<\/p> <p>Tercen liberates the R programmer by offering a unique and novel visual computing paradigm and a unique R plug-in architecture and data model. Additionally it brings concepts such as, incremental visualization and data source derivation and more. I will present R Tercen use cases where I outline the liberation and empowerment of researchers.<\/p> <p># ABOUT THE SPEAKER - Faris Naji<\/p> <p>Faris is strongly committed to helping science progress, he believes in removing barriers for people who may not have quantitative skill sets. This is essential for open science. Faris has worked over 15 years with non programmers to bring tools and approaches into their workflows. Faris is a director of bioinformatics in a biotech company which enerates large amounts of molecular measurements and has seen first-hand the issues it brings. Faris is a co-founder of an early stage startup company called Tercen to address gaps in the area of collaborative data analysis and open science<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596343/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Greater Boston useR Group (R Programming Language): October useR Meetup: Lightning Talks!  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2020-10-20",
     "description": "<p>This meetup will feature a series of 10-minute lightning talks on various topics.<\/p> <p>Talk #1<br/>Presented by Michael Thomas<br/>Beyond #rstats: Workflow Management &amp; Data Engineering in R<\/p> <p>R has gained a reputation for being a great programming language for statistical analysis. Did you know that R has a vast amount of tools available for executing traditional data engineering and workflow tasks? We don’t buy the narrative that Python is the only “production-quality” data science language and will showcase R’s ability to interface with the command line, manage files and directories, access environmental variables, talk to SQL databases, and more!<\/p> <p>Michael Thomas is the Chief Data Scientist at Ketchbrook Analytics, a software and analytics consulting firm out of Hartford, CT. He holds a B.S. in Accounting and Mathematics from Stonehill College, and an M.S. in Business Intelligence &amp; Analytics from Saint Joseph’s University. He has worked across a multitude of industries during his career, including public accounting, marketing, banking, financial services, agriculture, insurance, and information technology. He is passionate about combining data, analytics, and software to help everyday businesses make better decisions and operate more efficiently.<\/p> <p>Talk #2<br/>Presented by Leo PeBenito<\/p> <p>This lightning talk is a brief introduction to computational methods for addressing the current COVID-19 pandemic using R and the tidyverse. The classic SIR model will be applied to the Johns Hopkins University CSSE data set. Elements of the tidyverse will be explored through three vignettes: analysis using dplyr and purrr, visualization using tidyr and ggplot2, and when to return a tibble from a function.<\/p> <p>Leo PeBenito's background is in chemistry and biophysics, and his favorite molecule is melittin. He currently works as a data scientist on topics related to signal processing and ML. Two people that inspire him are Esther Duflo and Hadley Wickham.<\/p> <p>Talk #3<br/>Presented by Arafath Hossain<\/p> <p>This talk is about how we used R to productionalize a predictive model that helps business users interact with the model and use it as a powerful tool in their decision making. This application enables the business users to interact with the data, slice and dice the data and recalculate predictions based on their input changes.<\/p> <p>Arafath Hossain is a data scientist at Illinois State University. Arafath received his bachelor in business administration from the University of Dhaka, Bangladesh, then worked in the market research and telecommunication industry before moving to the US and completing his MS in Technology. He works as a data scientist helping business partners improve student retention by identifying at-risk students early and prescribing possible interventions.<\/p> <p>Talk #4<br/>Presented by David Zimmermann<br/>A brief introduction to the rintrojs package.<\/p> <p>This talk shows how you can use the rintrojs package to create tours for shiny applications. A guided tour allows the developer of an app to show its users how the UI is designed to be used and to thoroughly explain certain aspects of an app increasing the user experience. The talk gives a brief introduction to the package and also shows how rintrojs can work with shinydashboards, tables, or leaflet maps.<\/p> <p>David is a senior data scientist at Cologne Intelligence, a consulting firm specialised in software and data solutions, based in Cologne. He holds a PhD in economics/computational finance from the University of Witten/Herdecke, an MSc in Finance and Investment from the University of Edinburgh, UK, and a BA in economics and international politics from Zeppelin University, but eventually ventured off into data science, machine learning, and more and more R programming. He is interested in everything R related, be it the tidyverse, shiny, tidymodels, or raw performance using Rcpp.<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/273566159/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Montreal R User Group: DSS virtual: Media, Advertising & Entertainment  [Virtual] , Canada, US/Canada",
-    "group": "Montreal R User Group",
-    "start": "2020-09-22",
-    "description": "<p>Register here: <a href=\"https://www.datascience.salon/media-advertising-and-entertainment/\" class=\"linkified\">https://www.datascience.salon/media-advertising-and-entertainment/<\/a><\/p> <p>Join us this fall for a 4-day virtual salon, focused on Media, Advertising &amp; Entertainment. The series will include plenty of networking opportunities, meditation breaks, coffee chats, food demonstrations, breakout sessions and giveaways.<\/p> <p>Click here to register or learn more: <a href=\"https://www.datascience.salon/media-advertising-and-entertainment/\" class=\"linkified\">https://www.datascience.salon/media-advertising-and-entertainment/<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/271229738/",
     "textColor": "#7171fb"
   },
   {
@@ -415,6 +407,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Chicago: rOpenSci - open tools for open science  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Chicago",
+    "start": "2020-10-22",
+    "description": "<p>Learn about the rOpenSci community effort to foster open R software and transparent research practices among users and developers. You’ll also learn about the rOpenSci process of package peer-review and learn tips for getting your own R package ready for peer-review.<\/p> <p>Tentative Agenda (in EST)<br/>=====================<br/>3:30: Welcome &amp; Introductions<br/>3:35: What is rOpenSci &amp; how to contribute?<br/>4:00: rOpenSci package peer- review process<br/>4:40: Networking<br/>5:00: Wrap up<\/p> <p>Registration<br/>====================<br/>Completion of the google form below is REQUIRED to receive zoom link by email: <a href=\"https://forms.gle/729JWJNG9urH5gNt5\" class=\"linkified\">https://forms.gle/729JWJNG9urH5gNt5<\/a><\/p> <p>Speakers<br/>==============<br/>Stefanie Butland, rOpenSci Community Manager<br/>Meetup sponsor: Department of Computational Mathematics, Science &amp; Engineering, Michigan State University.<\/p> <p>** Questions? Find us on slack: rladies-eastlansing.slack.com OR<br/>** Email us: [masked]<\/p> ",
+    "url": "https://www.meetup.com/rladies-chicago/events/273810238/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Natal: Escrevendo manuscritos acadêmicos usando RMarkdown  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies Natal",
     "start": "2020-09-30",
@@ -471,14 +471,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Sydney: Show and Tell your R Code  [Virtual] , Australia, Australia",
-    "group": "R-Ladies Sydney",
-    "start": "2020-09-22",
-    "description": "<p>Have you been working on code you are particularly proud of? Or do you have some code that is driving you crazy?<\/p> <p>Bring it along to this online event and share your triumph and/or frustration. Last time we learned about some hidden gems of dplyr, the magic of facet_wrap in ggplot and some super cool mapping using leaflet. Who knows what this session will bring!<\/p> <p>This event will be via Zoom.<\/p> <p>Check out some of the cool things we have shared at Show and Tell events earlier this year.<\/p> <p><a href=\"https://rladiessydney.org/post/2020-05-02-show-and-tell-may-2020/\" class=\"linkified\">https://rladiessydney.org/post/2020-05-02-show-and-tell-may-2020/<\/a><br/><a href=\"https://rladiessydney.org/post/2020-06-02-show-and-tell-june-2020/\" class=\"linkified\">https://rladiessydney.org/post/2020-06-02-show-and-tell-june-2020/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-sydney/events/273204790/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Sydney: Careers in the time of COVID  [Virtual] , Australia, Australia",
     "group": "R-Ladies Sydney",
     "start": "2020-10-13",
@@ -513,14 +505,6 @@
     "start": "2020-10-07",
     "description": "<p>Join us for a follow-up session on workflows after last month's session on git/gitHub!<\/p> <p>* What are we going to learn?<br/>This seminar will discuss tools, tips, and tricks for:<br/>- Organizing your data<br/>- Coding workflows and best practices<br/>- Repositories / projects / environments<br/>- Project management<br/>- Collaborating across skill levels and programming languages<\/p> <p>* Who is going to present?<br/>Dr. Caitie Keumpel is a conservation scientist who is currently a joint post-doctoral fellowship with the University of Queensland and World Wide Fund for Nature (WWF) in UQ's Coral Reef Ecosystems lab. Caitie recently finished a post-doctoral fellowship at the National Center for Ecological Analysis and Synthesis at UC Santa Barbara quantifying, mapping and comparing the environmental impacts of major food systems across the land and sea. Her research interests include protected area design, food system sustainability, and managing impacts on coral reefs.<\/p> <p>* When are we meeting?<br/>The talk will start at 5:00 pm to allow for socializing, questions, and discussion on workflows following the presentation. Finish time 6:30 pm.<\/p> <p>************The presentation will start at 5:00 pm.************<\/p> <p>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This will be a ~40 min presentation followed by time for questions and discussion of workflow tools/tips/tricks.<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/273087228/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2020-09-22",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcmbdc/",
     "textColor": "#7171fb"
   },
   {
@@ -708,14 +692,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Ottawa: Tidy Tuesday September Event  [Virtual] , Canada, US/Canada",
-    "group": "R-Ladies Ottawa",
-    "start": "2020-09-22",
-    "description": "<p>Come join R-Ladies Ottawa for a fun, interactive mini-coding session! For this event, we will be using this weeks's data posted to <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> <p>The goal of this exercise is to find meaningful relationships in the data.<\/p> <p>Who is this for?<br/>New and experienced R users alike! Let's learn together! All are welcome, including R-Ladies Ottawa members and R-Ladies from around the world.<\/p> <p>What do I need?<br/>You'll need a computer with videoconferencing capabilities and R.<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
-    "url": "https://www.meetup.com/rladies-ottawa/events/272770185/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Freiburg: Sentiment Analysis with R  [Virtual] , Germany, Europe",
     "group": "R-Ladies Freiburg",
     "start": "2020-10-08",
@@ -745,6 +721,14 @@
     "start": "2020-09-24",
     "description": "<p>Michigan State University &amp; University of Michigan invite you to their joint monthly webinar &amp; meetup series for Fall 2020!<\/p> <p>Agenda<br/>===========<br/>3:30: Keynote: Teaching computers to discover scientific knowledge by reading papers<br/>4:15: Lightning Talks: Data Science Methodology<br/>* Alyssa Travitz (UM)<br/>* Yiqi Wang (MSU)<br/>* Danielle Barnes (MSU)<br/>* Sarah Tymochko (MSU)\"<br/>4:45: Networking + Q&amp;A<br/>5:00: Wrap-up<\/p> <p>Registration<br/>============<br/>Please complete the form below to receive Zoom meeting details: <a href=\"https://forms.gle/j6psmyVFRBBdAVDV8\" class=\"linkified\">https://forms.gle/j6psmyVFRBBdAVDV8<\/a><\/p> <p>About the Keynote<br/>======================<br/>Enormous amounts of ever-changing knowledge are available online in diverse emergent textual styles (e.g., news vs. science text). This talk presents some of the H2Lab @UW's recent efforts to address the problem of textual comprehension and reasoning about scientific text, including knowledge extraction and claim verification given scientific articles.<br/>More information: <a href=\"https://women-plus-datascience.github.io/\" class=\"linkified\">https://women-plus-datascience.github.io/<\/a><\/p> <p>Keywords<br/>==========<br/>Natural Language Processing, NLP for bio-medicine, Deep Learning, Knowledge extraction<\/p> <p>About the Keynote Speaker<br/>===================<br/>Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science &amp; Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Honors include the Sloan Fellowship, Allen Distinguished Investigator Award, multiple best paper and honorable mention awards, and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.<\/p> <p>Planning Committee<br/>===========<br/>*Dr. Janani Ravi, Pathobiology and Diagnostic Investigation, MSU, R-Ladies East Lansing<br/>*Dr. Jing Liu, Michigan Institute for Data Science (MIDAS), U-M<br/>*Dr. Elizabeth Munch, Department of Computational Mathematics, Science &amp; Engineering, MSU<br/>*Dr. Parisa Kordjamshidi, Department of Computer Science &amp; Engineering, MSU<br/>*Dr. Dola Pathak, Department of Statistics, MSU<\/p> <p>Questions, sponsorship interests, email is at:<br/>[masked]<\/p> ",
     "url": "https://www.meetup.com/rladies-east-lansing/events/272641171/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies East Lansing: rOpenSci - open tools for open science  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies East Lansing",
+    "start": "2020-10-22",
+    "description": "<p>Learn about the rOpenSci community effort to foster open R software and transparent research practices among users and developers. You’ll also learn about the rOpenSci process of package peer-review and learn tips for getting your own R package ready for peer-review.<\/p> <p>AGENDA<br/>========<br/>Oct 22, 2020 | 3.30–5p EST<\/p> <p>3:30: Welcome &amp; Introductions<br/>3:35: What is rOpenSci &amp; how to contribute?<br/>4:00: rOpenSci package peer- review process<br/>4:40: Networking<br/>5:00: Wrap up<\/p> <p>REGISTRATION<br/>===============<br/>*Completion of the Google form below is REQUIRED to receive the Zoom link by email: <a href=\"https://forms.gle/729JWJNG9urH5gNt5\" class=\"linkified\">https://forms.gle/729JWJNG9urH5gNt5<\/a><\/p> <p>SPEAKERS<br/>==========<br/>*Stefanie Butland, rOpenSci Community Manager (<a href=\"https://stefaniebutland.netlify.app/\" class=\"linkified\">https://stefaniebutland.netlify.app/<\/a>)<br/>*Brooke Anderson, Associate Professor, Colorado State University, and Editor, rOpenSci Software Peer Review<br/>(<a href=\"https://vetmedbiosci.colostate.edu/erhs/member/?id=35248\" class=\"linkified\">https://vetmedbiosci.colostate.edu/erhs/member/?id=35248<\/a>)<\/p> <p>RESOURCES<br/>============<br/>* rOpenSci Community Contributing Guide: <a href=\"https://contributing.ropensci.org/\" class=\"linkified\">https://contributing.ropensci.org/<\/a><br/>* rOpenSci Packages: Development, Maintenance, and Peer Review: <a href=\"https://devguide.ropensci.org/\" class=\"linkified\">https://devguide.ropensci.org/<\/a><\/p> <p>** Questions? Find us on slack: rladies-eastlansing.slack.com OR<br/>** Email us: [masked]<\/p> ",
+    "url": "https://www.meetup.com/rladies-east-lansing/events/272642612/",
     "textColor": "#7171fb"
   },
   {
@@ -915,6 +899,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Dublin R: Why R? Webinar:    [Virtual] , Ireland, Europe",
+    "group": "Dublin R",
+    "start": "2020-10-22",
+    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> ",
+    "url": "https://www.meetup.com/DublinR/events/273638445/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Seattle useR Group (R Programming Language): Intro to Shiny  [Virtual] , United States, US/Canada",
     "group": "Seattle useR Group (R Programming Language)",
     "start": "2020-09-29",
@@ -951,22 +943,6 @@
     "group": "R-Ladies Rio de Janeiro",
     "start": "2020-09-30",
     "url": "https://www.meetup.com/rladies-rio/events/273511481/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies St. Louis: Virtual Meetup: Algorithms of Oppression by Safiya Umoja Noble  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies St. Louis",
-    "start": "2020-09-22",
-    "description": "<p>The Brown School at Washington University in St. Louis &amp; R-Ladies St. Louis present a talk by Dr. Safiya Umoja Noble as part of the[masked] Public Health Speaker Series at The Brown School.<\/p> <p>Dr. Safiya Umoja Noble is an Associate Professor at the University of California, Los Angeles (UCLA) in the Department of Information Studies where she serves as the Co-Founder and Co-Director of the UCLA Center for Critical Internet Inquiry (C2i2).<\/p> <p>She also holds appointments in African American Studies and Gender Studies. She is a Research Associate at the Oxford Internet Institute at the University of Oxford and has been appointed as a Commissioner on the Oxford Commission on AI &amp; Good Governance (OxCAIGG). She is a board member of the Cyber Civil Rights Initiative, serving those vulnerable to online harassment.<\/p> <p>Her academic research focuses on the design of digital media platforms on the internet and their impact on society. Her work is both sociological and interdisciplinary, marking the ways that digital media impacts and intersects with issues of race, gender, culture, and technology. She is regularly quoted for her expertise on issues of algorithmic discrimination and technology bias by national and international press.<\/p> ",
-    "url": "https://www.meetup.com/rladies-st-louis/events/273252511/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies St. Louis: Virtual Workshop: How to Take your data from Messy to Tidy  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies St. Louis",
-    "start": "2020-09-22",
-    "description": "<p>Erin Grand will introduce key data cleaning steps that she uses everyday. She will review the janitor package for working with duplicate rows and the tidyr package for working with tidy data structure.<\/p> <p>Materials will be posted soon!<\/p> <p>Erin works as a Data Scientist at Uncommon Schools where she trains coworkers in R as well as maintaining two R packages. Prior to Uncommon, she worked as a Data Scientist at Crisis Text Line and as a software programmer at NASA while completing her Data Science Masters at Columbia University. Before data science, Erin researched star formation and taught introductory courses in astronomy and physics at the University of Maryland.<\/p> <p>Passcode to the Zoom event is STL2020<\/p> ",
-    "url": "https://www.meetup.com/rladies-st-louis/events/272721801/",
     "textColor": "#7171fb"
   },
   {
@@ -1074,6 +1050,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies New York: Analyzing Gender Bias with R  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies New York",
+    "start": "2020-10-22",
+    "description": "<p>For our October event, R-Ladies Yipeng Lai and Stacy Lansey will share short talks on using R for analyzing gender bias on Wikipedia and learning R through data visualization (which motivated an interesting side project on gender).<\/p> <p>This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.<\/p> <p>Agenda (times approximate):<br/>7-7:05 pm: R-Ladies NYC Announcements<br/>7:05-7:30: \"Text Analysis in R: Gender Bias in Wikipedia Biographies\" by Yipeng Lai<br/>7:30-7:55: \"R is for Resilience: Learning R through Data Visualization\" by Stacy Lansey<br/>7:55-8:15: Questions and wrap-up<\/p> <p>--- Talk Abstracts ---<\/p> <p>\"Text Analysis in R: Gender Bias in Wikipedia Biographies\"<br/>Speaker: Yipeng Lai<\/p> <p>Abstract: This talk will focus on how to manipulate and analyze textual data in R using the quanteda​ package. Yipeng will go over some basic natural language processing techniques. She will talk you through how to apply these techniques to dissect gender bias in Wikipedia biographies. She finds that biographies about female subjects are more likely to contain terms relating to gender and marriage.<\/p> <p>Bio: Yipeng is an Applied Scientist at StreetEasy, NYC's local real estate marketplace. She just received her MS in Data Science from New York University this summer. She is passionate about natural language processing, data science for social good, and urban data. When she is not working with data, you can find her blogging about food and practicing latte art.<\/p> <p>\"R is for Resilience: Learning R through Data Visualization\"<br/>Speaker: Stacy Lansey<\/p> <p>Abstract: I will talk about my first R Project, the visualizations for the Warby Parker Impact Report, and how I used the skills I gained to advocate for a shift in the descriptive adjectives associated with female students at my son's school.<\/p> <p>Bio: Stacy Lansey is the Data Science Analyst at Warby Parker. She came to this role from a background in real estate and finance and is speaking about her experiences learning R in this role.<\/p> <p>---<\/p> <p>R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-newyork/events/273937932/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Cuernavaca: Primer encuentro anual R-Ladies México  [Virtual] , Mexico, Latin America",
     "group": "R-Ladies Cuernavaca",
     "start": "2020-09-24",
@@ -1122,14 +1106,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Newcastle Upon Tyne Data Science Meetup: September Data Science Meet-up (Virtual)  [Virtual] , United Kingdom, Europe",
-    "group": "Newcastle Upon Tyne Data Science Meetup",
-    "start": "2020-09-22",
-    "description": "<p>Speaker: Manjula Dissanayake (Tesco Bank)<br/>Title: Banking on Darwin: A glimpse into Evolutionary Optimisation<\/p> <p>Abstract:<\/p> <p>Evolutionary algorithms are powerful optimisation techniques that are often overlooked despite their wide applications, especially in the financial field. This presentation will provide a brief introduction to evolution, an overview of an optimisation problem and a walkthrough of how evolutionary algorithms work. We will explore how evolutionary algorithms can be applied to the travelling salesman problem, early diagnosis of Leukaemia (my PhD work), dinosaurs learning to walk, and a banking industry problem: optimisation of cash delivery to ATMs.<\/p> <p>Bio:<\/p> <p>Dr. Manjula Dissanayake is a data scientist working at Tesco Bank. His current work includes building predictive models on customer behaviour and helping to develop the future analytics platform for Tesco Bank. His past work ranges from weather prediction &amp; renewable energy generation to software engineering in large scale distributed systems (Adobe). His research interests also includes feature selection and classification on cancer datasets and optimising chemotherapy treatment schedules.<\/p> ",
-    "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/272642284/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Bamako Data Science: The art and the science of thinking in graphs  [Virtual] , Mali, Africa",
     "group": "Bamako Data Science",
     "start": "2020-09-25",
@@ -1167,14 +1143,6 @@
     "start": "2020-10-27",
     "description": "<p>LA R Users Group will have our October meeting online on Zoom (<a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a>).<\/p> <p>**Talk**<\/p> <p>Title: Reproducible computation at scale in R with targets<\/p> <p>Abstract: Ambitious workflows in R, such as machine learning analyses, can be difficult to manage. A single round of computation can take several hours to complete, and routine updates to the code and data tend to invalidate hard-earned results. You can enhance the maintainability, hygiene, speed, scale, and reproducibility of such projects with the targets R package. targets resolves the dependency structure of your analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and manages data storage for you. It surpasses the permanent limitations of its predecessor, drake, and provides increased efficiency and a smoother user experience. This talk demonstrates how to create and maintain a Bayesian model validation project using targets-powered automation.<\/p> <p>Slides: <a href=\"https://wlandau.github.io/larug2020\" class=\"linkified\">https://wlandau.github.io/larug2020<\/a><br/>Materials: <a href=\"https://github.com/wlandau/larug2020\" class=\"linkified\">https://github.com/wlandau/larug2020<\/a><\/p> <p>**Speaker**: Will Landau<\/p> <p>Will Landau received his PhD in Statistics at Iowa State University in 2016. His dissertation research introduced a novel fully Bayesian, hierarchical model-driven, GPU-accelerated approach to the analysis of heterosis gene expression data (Landau, Niemi, and Nettleton 2019). He currently works at Eli Lilly and Company, where he develops capabilities for clinical statisticians. Will is the creator and maintainer of rOpenSci’s drake R package.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>6:30 Open zoom<br/>6:40-7:40 Presentation<br/>~8:00 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://socalr.org/\" class=\"linkified\">https://socalr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
     "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/274061890/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Colchester R Meetup: Teaching R to beginners using online videos  [Virtual] , United Kingdom, Europe",
-    "group": "Colchester R Meetup",
-    "start": "2020-10-22",
-    "description": "<p>Hi Colchester UseRs!<\/p> <p>Happy to say we have a great speaker booked for this month that will show us how to teach others how to use R using videos.<\/p> <p>Speaker: Dr. Ed Ryan, Department of Mathematics, University of Manchester<\/p> <p>Title: Tips and advice for teaching R to non-R users using online videos.<\/p> <p>Abstract: I’ve been using R since 2008 and in the past four years I’ve been interested in creating training resources to teach R to people who need it for their work (e.g. PhD students) but weren’t taught it as part of their undergraduate degree. Due to the pandemic, I’ve decided to record the training and put it on YouTube. At the moment I’ve put together videos for the first four sessions of my ‘Learning R course’ with the final two videos planned for later this year. In this talk I’ll give a quick overview of the entire six sessions, including the fourth session where I wrote a model in R that simulates the first innings of a Twenty20 cricket match. I’ll also give some tips and advice on the practical side of creating videos to post on YouTube, such as what kind of microphone to use, how to do screen capture, whether video editing software is needed and which ones are best and affordable, etc. The talk will be accessible and hopefully useful to people from all experience levels in R, from beginners to experts.<\/p> <p>Please RSVP and a link will be posted and emailed out the day of the talk.<\/p> ",
-    "url": "https://www.meetup.com/Colchester-R-Meetup/events/273733770/",
     "textColor": "blue"
   },
   {
@@ -1306,14 +1274,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar - Faris Naji - Liberate the coder and empower the non coder  [Virtual] , Poland, Europe",
-    "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
-    "start": "2020-10-22",
-    "description": "<p>- speaker Faris Naji <a href=\"https://www.linkedin.com/in/faris-naji-52a717/\" class=\"linkified\">https://www.linkedin.com/in/faris-naji-52a717/<\/a><br/>- webinars <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<br/>- stream <a href=\"https://youtu.be/xD98Ba4qyo0\" class=\"embedded\">https://youtu.be/xD98Ba4qyo0<\/a><\/p> <p>This talk is about how to “liberate” the R programmer and “empower” the non programmer for data analysis by using the R Tercen open science framework. R programmers spend time dealing with the operational details of data analysis, such as user support, visual cosmetics, modifications of visuals for publications of non programmers and deployment of workflows and data for non programmers publications. The pressure is even more acute when the ratio of non programmers to R programmers is large. R programmers generally wish to be liberated from operational tasks in order to focus more intensely on research such as data algorithms and new techniques.<\/p> <p>Tercen liberates the R programmer by offering a unique and novel visual computing paradigm and a unique R plug-in architecture and data model. Additionally it brings concepts such as, incremental visualization and data source derivation and more. I will present R Tercen use cases where I outline the liberation and empowerment of researchers.<\/p> <p># ABOUT THE SPEAKER - Faris Naji<\/p> <p>Faris is strongly committed to helping science progress, he believes in removing barriers for people who may not have quantitative skill sets. This is essential for open science. Faris has worked over 15 years with non programmers to bring tools and approaches into their workflows. Faris is a director of bioinformatics in a biotech company which enerates large amounts of molecular measurements and has seen first-hand the issues it brings. Faris is a co-founder of an early stage startup company called Tercen to address gaps in the area of collaborative data analysis and open science<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596343/",
-    "textColor": "blue"
-  },
-  {
     "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? - Kyla McConnell and Julia Müller - How to start your own #rstats group  [Virtual] , Poland, Europe",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-10-29",
@@ -1327,6 +1287,14 @@
     "start": "2020-11-18",
     "description": "<p>300 lessons later: What I've learned about R from teaching R<br/>Presented by Mark Niemann-Ross<\/p> <p>Robert Heinlein said \"When one teaches, two learn\" - and I'm proof! I started learning R in 2014, taught my first R course in 2015. I started with a casual knowledge of data science, statistics, and matrix math.<\/p> <p>Since then, have taught more than 300 sessions to nearly 60,000 learners. I've covered matrices, NLP, linear models, program flow and other details of the R language.<\/p> <p>But enough about me - how about you? Let's discuss the objections I've heard about passing on your knowledge to the next generation. I'll cover the imposter syndrome, lack of venue, and \"I'm a researcher, not an educator.\"<\/p> <p>In ten minutes, you'll have your confidence restored and your awesomeness confirmed.<\/p> <p>Mark Niemann-Ross is an author &amp; educator. He teaches for LinkedIn Learning, focused on the R programming language and Raspberry Pi. He is the author of \"Stupid Machine\" - a science fiction murder mystery solved by a refrigerator.<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/274057879/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Santa Barbara R Users Group: Fifth-annual Halloween Hackathon 2020 on #tidytuesday   [Virtual] , United States, US/Canada",
+    "group": "Santa Barbara R Users Group",
+    "start": "2020-10-27",
+    "description": "<p>Halloween is about candy. Let's do the annual hackathon and work with some candy data to explore popularity and sales. This will be our 5th annual Halloween Hackathon. Keep the sweet tradition alive.<\/p> <p>Wear a costume for the Zoom call and have some sweets or treats handy to eat whilst coding.<\/p> <p>Open data<br/>Pounds of candy<br/><a href=\"https://figshare.com/articles/dataset/Candy_sales_2020/13125551\" class=\"linkified\">https://figshare.com/articles/dataset/Candy_sales_2020/13125551<\/a><\/p> <p>Billions of dollars<br/><a href=\"https://figshare.com/articles/dataset/USA_Halloween_spending/13125572\" class=\"linkified\">https://figshare.com/articles/dataset/USA_Halloween_spending/13125572<\/a><\/p> <p>Environment<br/>We will work in R with RStudio and have a shared, open repo and live code some work collectively.<\/p> <p>Skills<br/>We will do the munging and initial viz within the tidyverse.<br/>If there is time, we also explore prediction and model fitting with parsnip and tidy models.<\/p> ",
+    "url": "https://www.meetup.com/Santa-Barbara-R-Users-Group/events/274106435/",
     "textColor": "blue"
   },
   {
@@ -1447,6 +1415,14 @@
     "start": "2020-12-16",
     "description": "<p>Please bring a valid ID.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybcqbvb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R User Group - Philippines: {R topic to be announced}, Philippines, Asia",
+    "group": "R User Group - Philippines",
+    "start": "2021-01-20",
+    "description": "<p>Please bring a valid ID.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprycccbbc/",
     "textColor": "blue"
   },
   {
@@ -1594,19 +1570,19 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Chicago: rOpenSci - open tools for open science  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Chicago",
-    "start": "2020-10-22",
-    "description": "<p>Learn about the rOpenSci community effort to foster open R software and transparent research practices among users and developers. You’ll also learn about the rOpenSci process of package peer-review and learn tips for getting your own R package ready for peer-review.<\/p> <p>Tentative Agenda (in EST)<br/>=====================<br/>3:30: Welcome &amp; Introductions<br/>3:35: What is rOpenSci &amp; how to contribute?<br/>4:00: rOpenSci package peer- review process<br/>4:40: Networking<br/>5:00: Wrap up<\/p> <p>Registration<br/>====================<br/>Completion of the google form below is REQUIRED to receive zoom link by email: <a href=\"https://forms.gle/729JWJNG9urH5gNt5\" class=\"linkified\">https://forms.gle/729JWJNG9urH5gNt5<\/a><\/p> <p>Speakers<br/>==============<br/>Stefanie Butland, rOpenSci Community Manager<br/>Meetup sponsor: Department of Computational Mathematics, Science &amp; Engineering, Michigan State University.<\/p> <p>** Questions? Find us on slack: rladies-eastlansing.slack.com OR<br/>** Email us: [masked]<\/p> ",
-    "url": "https://www.meetup.com/rladies-chicago/events/273810238/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Chicago: InspiRing InstRuction: A panel on teaching #rstats for all audiences  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Chicago",
     "start": "2020-11-12",
     "description": "<p>Someone in your department, company, or class comes to you and says: \"I want to learn R; where do I start?\" Or, \"how do I take my R skills to the next level?\"<\/p> <p>Come hear from 3 R-Ladies on how to make R pedagogy work for different groups of people! :-)<\/p> <p>R-Ladies Chicago and R-Ladies East Lansing will be a hosting a joint November virtual meetup featuring 3 panelists:<\/p> <p>**Alison Hill** is a Data Scientist &amp; Professional Educator at RStudio. Prior to joining RStudio, Dr. Hill was an Associate Professor and Center Assistant Director at Oregon Health &amp; Science University in Portland, Oregon, where she was an NIH-funded Principal Investigator. Her work has been published in Pediatrics, Autism Research, and other peer-reviewed journals. She has developed and taught several advanced courses and workshops on data visualization and communicating with data. Dr. Hill is also an international keynote speaker, award-winning educator, and co-author of the book blogdown: Creating Websites with R Markdown.<\/p> <p>**Marynia Kolak** is an Assistant Director of Health Informatics at the Center for Spatial Data Science at University of Chicago, where she also teaches full time as a Lecturer in Geographic Information Science. Dr. Kolak is interested in Social Determinants of Health (SDOH) and using open science tools as an exploratory data analytic approach to investigate issues of equity across space and time.<\/p> <p>**Katie Fitzgerald** is a PhD Candidate in Statistics at Northwestern University. Her research is in statistical methods for social policy, including work in meta-analysis, data visualization, and statistical cognition. She is passionate about statistics education and pedagogy and is pursuing a career at a liberal arts university. When she's not doing statistics, you can find her at Northwestern’s gorgeous lakefront, biking, hammocking, reading, or indulging in good food.<\/p> <p>Schedule for 11/12:<\/p> <p>6:00-6:10 Meet and Greet!<br/>6:10-6:25 Introduction from the panelists<br/>6:25-6:50 Moderated panel<br/>6:50-7:00 Questions from the audience<\/p> ",
     "url": "https://www.meetup.com/rladies-chicago/events/273650234/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Vancouver: Tidying Up Messy Data: Hands-on Demos  [Virtual] , Canada, US/Canada",
+    "group": "R-Ladies Vancouver",
+    "start": "2020-11-18",
+    "description": "<p>Hello R-Ladies<\/p> <p>Are you an R beginner wanting to learn more about how to tidy up messy data? We covered in our this hands-on workshop!<\/p> <p>Bruno Grande (he/him) has been training others in the ways of modern R programming since 2015. With a PhD in bioinformatics, he learned (the hard way) how to leverage the tidyverse toolbox to efficiently transform, analyze, and visualize data ranging from messy to tidy. As a Carpentries- and RStudio-certified trainer, he wishes to empower the next generation of researchers and professionals with the same data science skills that continue to bolster his career. He's currently promoting and implementing best practices in open science as a Bioinformatics Engineer at Sage Bionetworks in Seattle, WA.<\/p> <p>Workshop details:<br/>Day and time: Nov 18th, 2020 at 6pm<br/>Webinar link: RSVP to view<\/p> <p>******<br/>About the workshop:<\/p> <p>Do you have a messy dataset you'd like to have Bruno demo in this workshop? If so, we'd like to encourage you to submit your data here:<br/><a href=\"https://forms.gle/wdz4tDW3xaYfmZH28\" class=\"linkified\">https://forms.gle/wdz4tDW3xaYfmZH28<\/a><\/p> <p>Requirements and info for data submission:<br/>- Preferably a data frame, but can be other data formats (e.g. Excel, JSON).<br/>- Compliant with privacy requirements. ( ie No personal IDs, but redacted identifiers are okay)<br/>- Contributors must feel comfortable having their dataset being tidied in front of the workshop audience (and possibly a broader audience on the Internet if the workshop gets recorded).<br/>- Submissions can be anonymous<br/>- Must be submitted by October 31st, 2020.<\/p> <p>General workshop information:<\/p> <p>-Please expect a hands-on session in a friendly and laid-back atmosphere where we all encouraged to learn together.<br/>- All levels are welcome but be prepared that we created this with beginners in mind. You should be familiar with R and RStudio.<br/>- Install R: <a href=\"https://mirror.its.sfu.ca/mirror/CRAN/\" class=\"linkified\">https://mirror.its.sfu.ca/mirror/CRAN/<\/a><br/>- Install RStudio (choose the Desktop version): <a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a><br/>- Install tidyverse package: install.package(\"tidyverse\")<\/p> <p>**********************IMPORTANT************************<\/p> <p>1. Have your computer and a steady internet connection ready<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>3. Who is this allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>See you there!<\/p> <p>Lisa, Jasmine, Lucia, Zubia, and Yuka<\/p> ",
+    "url": "https://www.meetup.com/rladies-vancouver/events/274004638/",
     "textColor": "blue"
   },
   {
@@ -1866,14 +1842,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies East Lansing: rOpenSci - open tools for open science  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies East Lansing",
-    "start": "2020-10-22",
-    "description": "<p>Learn about the rOpenSci community effort to foster open R software and transparent research practices among users and developers. You’ll also learn about the rOpenSci process of package peer-review and learn tips for getting your own R package ready for peer-review.<\/p> <p>AGENDA<br/>========<br/>Oct 22, 2020 | 3.30–5p EST<\/p> <p>3:30: Welcome &amp; Introductions<br/>3:35: What is rOpenSci &amp; how to contribute?<br/>4:00: rOpenSci package peer- review process<br/>4:40: Networking<br/>5:00: Wrap up<\/p> <p>REGISTRATION<br/>===============<br/>*Completion of the Google form below is REQUIRED to receive the Zoom link by email: <a href=\"https://forms.gle/729JWJNG9urH5gNt5\" class=\"linkified\">https://forms.gle/729JWJNG9urH5gNt5<\/a><\/p> <p>SPEAKERS<br/>==========<br/>*Stefanie Butland, rOpenSci Community Manager (<a href=\"https://stefaniebutland.netlify.app/\" class=\"linkified\">https://stefaniebutland.netlify.app/<\/a>)<br/>*Brooke Anderson, Associate Professor, Colorado State University, and Editor, rOpenSci Software Peer Review<br/>(<a href=\"https://vetmedbiosci.colostate.edu/erhs/member/?id=35248\" class=\"linkified\">https://vetmedbiosci.colostate.edu/erhs/member/?id=35248<\/a>)<\/p> <p>RESOURCES<br/>============<br/>* rOpenSci Community Contributing Guide: <a href=\"https://contributing.ropensci.org/\" class=\"linkified\">https://contributing.ropensci.org/<\/a><br/>* rOpenSci Packages: Development, Maintenance, and Peer Review: <a href=\"https://devguide.ropensci.org/\" class=\"linkified\">https://devguide.ropensci.org/<\/a><\/p> <p>** Questions? Find us on slack: rladies-eastlansing.slack.com OR<br/>** Email us: [masked]<\/p> ",
-    "url": "https://www.meetup.com/rladies-east-lansing/events/272642612/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies East Lansing: InspiRing InstRuction: A panel on teaching #rstats for all audiences w/ RLC  [Virtual] , United States, US/Canada",
     "group": "R-Ladies East Lansing",
     "start": "2020-11-12",
@@ -1959,14 +1927,6 @@
     "start": "2020-11-27",
     "description": "<p>Spend Friday night discussing Invisible Women (<a href=\"https://www.bookdepository.com/Invisible-Women-Caroline-Criado-Perez/9781784741723\" class=\"linkified\">https://www.bookdepository.com/Invisible-Women-Caroline-Criado-Perez/9781784741723<\/a>).<\/p> <p>Winner of the 2019 Financial Times and McKinsey Business Book of the Year Award<br/>Winner of the 2019 Royal Society Science Book Prize<\/p> <p>Data is fundamental to the modern world. From economic development, to healthcare, to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this bias, in time, money, and often with their lives.<\/p> <p>Celebrated feminist advocate Caroline Criado Perez investigates the shocking root cause of gender inequality and research in Invisible Women​, diving into women’s lives at home, the workplace, the public square, the doctor’s office, and more. Built on hundreds of studies in the US, the UK, and around the world, and written with energy, wit, and sparkling intelligence, this is a groundbreaking, unforgettable exposé that will change the way you look at the world.<\/p> <p>PS Please contact the organizer if you need support finding the book.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/273580808/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Dublin R: Why R? Webinar:    [Virtual] , Ireland, Europe",
-    "group": "Dublin R",
-    "start": "2020-10-22",
-    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/273638445/",
     "textColor": "blue"
   },
   {
@@ -2122,19 +2082,19 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies New York: Analyzing Gender Bias with R  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies New York",
-    "start": "2020-10-22",
-    "description": "<p>For our October event, R-Ladies Yipeng Lai and Stacy Lansey will share short talks on using R for analyzing gender bias on Wikipedia and learning R through data visualization (which motivated an interesting side project on gender).<\/p> <p>This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.<\/p> <p>Agenda (times approximate):<br/>7-7:05 pm: R-Ladies NYC Announcements<br/>7:05-7:30: \"Text Analysis in R: Gender Bias in Wikipedia Biographies\" by Yipeng Lai<br/>7:30-7:55: \"R is for Resilience: Learning R through Data Visualization\" by Stacy Lansey<br/>7:55-8:15: Questions and wrap-up<\/p> <p>--- Talk Abstracts ---<\/p> <p>\"Text Analysis in R: Gender Bias in Wikipedia Biographies\"<br/>Speaker: Yipeng Lai<\/p> <p>Abstract: This talk will focus on how to manipulate and analyze textual data in R using the quanteda​ package. Yipeng will go over some basic natural language processing techniques. She will talk you through how to apply these techniques to dissect gender bias in Wikipedia biographies. She finds that biographies about female subjects are more likely to contain terms relating to gender and marriage.<\/p> <p>Bio: Yipeng is an Applied Scientist at StreetEasy, NYC's local real estate marketplace. She just received her MS in Data Science from New York University this summer. She is passionate about natural language processing, data science for social good, and urban data. When she is not working with data, you can find her blogging about food and practicing latte art.<\/p> <p>\"R is for Resilience: Learning R through Data Visualization\"<br/>Speaker: Stacy Lansey<\/p> <p>Abstract: I will talk about my first R Project, the visualizations for the Warby Parker Impact Report, and how I used the skills I gained to advocate for a shift in the descriptive adjectives associated with female students at my son's school.<\/p> <p>Bio: Stacy Lansey is the Data Science Analyst at Warby Parker. She came to this role from a background in real estate and finance and is speaking about her experiences learning R in this role.<\/p> <p>---<\/p> <p>R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-newyork/events/273937932/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Lexington Park: R4 Data Science Study Group  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Lexington Park",
     "start": "2020-12-14",
     "description": "<p>Monday, Dec 14th will be the first meeting of our virtual R 4 DS study group. During the first meeting we'll get started on the first chapter of R4DS (access the free textbook here <a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>) and set up a rotating lead for each chapter/set of exercises. We plan to meet twice a week (each Monday and Wednesday) for approximately 30 minutes to cover the key exercises of each chapter. All are welcome.<\/p> ",
     "url": "https://www.meetup.com/rladies-lexington-park/events/273936812/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Ankara: Toplumsal Bilimler İçin Temel R Eğitimi Serisi  [Virtual] , Turkey, Europe",
+    "group": "R-Ladies Ankara",
+    "start": "2020-10-23",
+    "description": "<p>Katılım ücretsizdir.<br/>Herkese açıktır.<br/>Kayıt yapmaya gerek yoktur.<br/>Zoom linkleri ve ayrıntılar için <a href=\"https://www.dlabmulkiye-tr.org/r-egitimi\" class=\"linkified\">https://www.dlabmulkiye-tr.org/r-egitimi<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-ankara/events/274108236/",
     "textColor": "blue"
   },
   {
