@@ -58,14 +58,6 @@
   {
     "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
     "group": "Central Iowa R User Group",
-    "start": "2020-10-03",
-    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
-    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcnbfb/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
-    "group": "Central Iowa R User Group",
     "start": "2020-10-10",
     "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
     "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrybcnbnb/",
@@ -447,14 +439,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Santa Rosa: Generando tutoriales interactivos con el paquete learnr  [Virtual] , Argentina, Latin America",
-    "group": "R-Ladies Santa Rosa",
-    "start": "2020-10-03",
-    "description": "<p>En este tutorial presentamos al paquete learnr para generar tutoriales interactivos. La idea de un documento rmarkdown que permita recorrer un contenido, contestar preguntas y ejecutar código para recibir feedback inmediato es muy poderosa. Especialmente si ese tutorial puede estar disponible como un paquete o como un sitio web o en RStudio. Si tenes clases remotas o asincrónicas, si tenes un paquete y queres llevar la ayuda a otro nivel, si tenes alumnos iniciales y no queres que sufran la instalación de las herramientas un tutorial interactivo te puede ayudar.<\/p> <p>Tenes que tener instalados los siguientes paquetes: {rmarkdown}, {learnr}, {gapminder} y vamos a necesitar RStudio.<\/p> ",
-    "url": "https://www.meetup.com/rladies-santa-rosa/events/273513242/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R Addicts Paris: Parlons de {dplyr} - évènement en ligne  [Virtual] , France, Europe",
     "group": "R Addicts Paris",
     "start": "2020-10-14",
@@ -696,14 +680,6 @@
   {
     "title": "R-Ladies Washington D.C.: Movie night: TBD  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Washington D.C.",
-    "start": "2020-10-03",
-    "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dc/events/273118291/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Washington D.C.: Movie night: TBD  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Washington D.C.",
     "start": "2020-10-10",
     "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/273696705/",
@@ -827,6 +803,14 @@
     "start": "2020-10-26",
     "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：Deploy Your Model to Live Trading<\/p> <p>講題介紹：近年許多人開始將機器學習應用於金融交易模型，但是卻缺乏將模型部署於實際交易環境快速方便地解決方案，模型訓練好後如何串接即時報價，如何高效的把當下即時資料合併歷史資料預處理成模型的輸入資料，並且如何將模型訊號與實際交易下單介接，每一步都相當複雜且有效率考量。本次演講中，會建立一套快速方便且高效率的即時交易系統。<br/>首先介紹一下講者開發的 API (Shioaji)，接著如何使用 dolphindb 來將 API 即時的串流報價資料收集，整合 pandas 與 numpy 等放入訓練好的模型做即時的預測，並串接到交易 API 進行下單，並簡單介紹如何透過 dolphindb 快速做模型多商品績效的回測。<\/p> <p>Slides: <a href=\"https://slides.com/yvictor/deploy-your-model-to-live-trading/fullscreen\" class=\"linkified\">https://slides.com/yvictor/deploy-your-model-to-live-trading/fullscreen<\/a><\/p> <p>講者介紹：YVictor<br/>Shioaji 開發者，讀藝術的程式設計師，目前專注於交易模型部屬及即時資料串流。<br/>Github: <a href=\"https://github.com/Yvictor\" class=\"linkified\">https://github.com/Yvictor<\/a><\/p> ",
     "url": "https://www.meetup.com/Taiwan-R/events/273939721/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | 建立 Data Pipeline 的基本原則與痛點, Taiwan, Asia",
+    "group": "Taiwan R User Group / MLDM Monday",
+    "start": "2020-11-02",
+    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：建立 Data Pipeline 的基本原則與痛點<br/>講題介紹：<br/>Data pipeline 是一個包括資料處理邏輯以及系統架構的領域。需要根據業務需求擬定要搜集的資料、根據資料量還有資料複雜度來設計管線系統、根據業務邏輯來規劃不同的資料處理流程。本次講題將會介紹基本管線系統的設計、以及規劃資料處理流程時需要注意的原則與雷點。<\/p> <p>講者介紹：Bryan Yang<br/>在團隊內做各種打雜扛轎，幫助團隊成員產生更多價值。<\/p> ",
+    "url": "https://www.meetup.com/Taiwan-R/events/273939818/",
     "textColor": "#7171fb"
   },
   {
@@ -1093,10 +1077,10 @@
     "textColor": "blue"
   },
   {
-    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Why R? Webinar 022 - Appsilon  [Virtual] , Poland, Europe",
+    "title": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw: Preserving wildlife with computer vision + Scaling Shiny Dashboards on a Budget  [Virtual] , Poland, Europe",
     "group": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
     "start": "2020-11-12",
-    "description": "<p>- stream <a href=\"https://youtu.be/c1o4LHO5hQ4\" class=\"embedded\">https://youtu.be/c1o4LHO5hQ4<\/a><\/p> <p>- speakers - Appsilon <a href=\"https://appsilon.com/\" class=\"linkified\">https://appsilon.com/<\/a><br/>- webinars <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<\/p> ",
+    "description": "<p># Stream url<br/>- <a href=\"https://youtu.be/c1o4LHO5hQ4\" class=\"embedded\">https://youtu.be/c1o4LHO5hQ4<\/a><\/p> <p># Talks<br/>- company - Appsilon <a href=\"https://appsilon.com/\" class=\"linkified\">https://appsilon.com/<\/a><br/>- Preserving wildlife with computer vision - Jędrzej Świeżewski PhD <a href=\"https://www.linkedin.com/in/swiezew/\" class=\"linkified\">https://www.linkedin.com/in/swiezew/<\/a><br/>- Scaling Shiny Dashboards on a Budget - Damian Budelewski <a href=\"https://www.linkedin.com/in/damianbudelewski\" class=\"linkified\">https://www.linkedin.com/in/damianbudelewski<\/a><\/p> <p># Details<br/>- webinars <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<\/p> ",
     "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234344/",
     "textColor": "blue"
   },
@@ -1122,14 +1106,6 @@
     "start": "2020-11-18",
     "description": "<p>300 lessons later: What I've learned about R from teaching R<br/>Presented by Mark Niemann-Ross<\/p> <p>Robert Heinlein said \"When one teaches, two learn\" - and I'm proof! I started learning R in 2014, taught my first R course in 2015. I started with a casual knowledge of data science, statistics, and matrix math.<\/p> <p>Since then, have taught more than 300 sessions to nearly 60,000 learners. I've covered matrices, NLP, linear models, program flow and other details of the R language.<\/p> <p>But enough about me - how about you? Let's discuss the objections I've heard about passing on your knowledge to the next generation. I'll cover the imposter syndrome, lack of venue, and \"I'm a researcher, not an educator.\"<\/p> <p>In ten minutes, you'll have your confidence restored and your awesomeness confirmed.<\/p> <p>Mark Niemann-Ross is an author &amp; educator. He teaches for LinkedIn Learning, focused on the R programming language and Raspberry Pi. He is the author of \"Stupid Machine\" - a science fiction murder mystery solved by a refrigerator.<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/274057879/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Montreal R User Group: IM DATA [virtual]  [Virtual] , Canada, US/Canada",
-    "group": "Montreal R User Group",
-    "start": "2020-11-02",
-    "description": "<p>Register here: <a href=\"https://bit.ly/3fvWAzT\" class=\"linkified\">https://bit.ly/3fvWAzT<\/a><\/p> <p>Join us for Innovative Methods with Data Science and AI. RMDS’s annual conference has officially transitioned into a virtual experience, allowing for two days of groundbreaking content from experts in the field of data science, AI, machine learning and more.<\/p> <p>This multi-track conference will focus on three main areas:<\/p> <p>- Innovative Methods with Data Science and AI<br/>- Data and AI for COVID-19 and Healthcare<br/>- AI, Machine Learning and Deep Learning.<\/p> <p>Register here: <a href=\"https://bit.ly/3fvWAzT\" class=\"linkified\">https://bit.ly/3fvWAzT<\/a><\/p> <p>Interested in speaking? Apply here: <a href=\"https://bit.ly/2BcwLXp\" class=\"linkified\">https://bit.ly/2BcwLXp<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/271541248/",
     "textColor": "blue"
   },
   {
@@ -1226,6 +1202,14 @@
     "start": "2021-01-20",
     "description": "<p>Please bring a valid ID.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprycccbbc/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Greater Portland useR Group (R programming language): Testing an API wrapper with Plumber  [Virtual] , United States, US/Canada",
+    "group": "Greater Portland useR Group (R programming language)",
+    "start": "2020-11-19",
+    "description": "<p>It's about time we get the group going again. I'll get us started by talking about a recent challenge I had - how to write reproducible tests for an API wrapper package. Enter plumber - a easy way to create an restful API endpoint in R to test against. This will be a virtual meeting hosted on zoom. RSVP to get the zoom link.<\/p> ",
+    "url": "https://www.meetup.com/Greater-Portland-useR-Group/events/274355687/",
     "textColor": "blue"
   },
   {
@@ -1362,6 +1346,14 @@
     "start": "2020-11-09",
     "description": "<p>This month's speaker comes to us from the R Foundation and R Consortium to talk about parallelism in R.<\/p> <p>Thank you to EcoHealth Alliance for providing the Zoom link.<\/p> <p>The Government &amp; Public Sector R Conference is coming December 2-4, 2020. Much like our recent NYR, this is virtual, so anyone around the world can attend. Visit <a href=\"https://rstats.ai/gov/\" class=\"linkified\">https://rstats.ai/gov/<\/a> to learn more and use code nyhackr for a 20% discount on tickets.<\/p> <p>About the Talk:<br/>The ‘future’ package provides a minimal and unifying framework for asynchronous, parallel, and distributed computing in R. It is being used to run R code in parallel on the local computer, on remote machines, in the cloud, and on high-performance computing. Popular packages such as 'shiny’, ‘plumber’, and ‘drake’ use futures internally. I will explain what futures are, discuss common feature requests, recent progress, and what is on the roadmap.<\/p> <p>About Henrik:<br/>Henrik Bengtsson is the author of over 30 R packages on CRAN and Bioconductor, e.g. 'future', 'matrixStats', 'progressr', and 'startup'. His research is on statistics and bioinformatics with an emphasis on high quality, reproducible method development, sustainable implementations, and large-scale processing. He is an Associate Professor in the Department of Epidemiology &amp; Biostatistics at the University of California, San Francisco (UCSF), affiliated with the UCSF Helen Diller Family Comprehensive Cancer Center, and a member of the R Foundation and the R Consortium Infrastructure Steering Committee.<\/p> <p>The talk will begin at 7 PM EST and we will start admitting people to the event shortly before. Since this is completely remote there will be no pizza but everyone is encouraged to have pizza individually.<\/p> ",
     "url": "https://www.meetup.com/nyhackr/events/274200133/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Birmingham R User Group (R Programming Language): Barcelona R User Group Takeover  [Virtual] , United Kingdom, Europe",
+    "group": "Birmingham R User Group (R Programming Language)",
+    "start": "2020-11-04",
+    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce the next meetup event which will be hosted online. Zoom link for the meeting will be made available to those who RSVP. Please see updated details below: 5:15 - 5:30 - Set up (systems check) and virtual hello 5:30 - 6:30 - Workshop: Introduction to RStudio and Shiny servers - by Nicolas Attalides 6:30 - 7:30 - Presentation: {sivis} - Turning browser clicks into reproducible scraping code - by Tonio Liebrand *The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code! \"See you\" soon!<\/p> ",
+    "url": "https://www.meetup.com/BirminghamR/events/274351202/",
     "textColor": "blue"
   },
   {
@@ -1549,6 +1541,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Edinburgh: Coding get-together with a Tidy Tuesday dataset  [Virtual] , United Kingdom, Europe",
+    "group": "R-Ladies Edinburgh",
+    "start": "2020-11-10",
+    "description": "<p>This is a second event in our Tidy Tuesday series: a dedicated time and supportive virtual space for us all to do some coding. We will use that week's Tidy Tuesday dataset to do data exploration, visualisation and analysis. Every participant will be free to take whatever direction they like and the coding will be done largely independently. But fear not, we will help each other when we get stuck and we will share our creations at the end of the event.<\/p> <p>This event is meant for R-Ladies with any level of coding skills: whether you're a beginner or an experienced coder, you'll definitely get an opportunity to practice your skills and learn something new.<\/p> <p>To participate, you need a computer with an installation of R and internet access. The workshop will be happening on Zoom - all attendees will be sent the access password in advance of the event. You can install Zoom on your computer for free if you like, but you can also use it via your internet browser.<\/p> <p>Here is a very rough agenda:<br/>5:30pm Welcome and introductions<br/>5:45pm Get coding<br/>6:30pm Quick check-in<br/>7:15pm Sharing our findings and creations<br/>7:30pm Closing of the event<\/p> <p>To find out more about the Tidy Tuesday initiative, check out <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a> or explore the #TidyTuesday hashtag on Twitter.<\/p> ",
+    "url": "https://www.meetup.com/rladies-edinburgh/events/274363221/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Bucharest: R-Ladies Bucharest Community #13: Git, Github, Raspberry pi și R  [Virtual] , Romania, Europe",
     "group": "R-Ladies Bucharest",
     "start": "2020-11-24",
@@ -1581,11 +1581,27 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Rotterdam: Quasiquotation: Learning about the bang bang and curly curly slang  [Virtual] , Netherlands, Europe",
+    "group": "R-Ladies Rotterdam",
+    "start": "2020-11-10",
+    "description": "<p>Welcome!<\/p> <p>In our next session Paloma Rojas-Saunero will share the key points on quasiquotation and useful tools from the rlang package. We will also learn about curly-curly, a new operator to make it easier to create functions around #tidyverse pipelines.<\/p> <p>After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles related to it.<\/p> <p>About R-Ladies book club<br/>----------------------<br/>This session is part of the initiative by R-Ladies chapters of the Netherlands who have been hosting a series of events based on Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<\/p> <p>You can find the slides and materials from previous sessions and our agenda at: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>Also feel free to sign up to discuss one of the chapters there!<\/p> <p>About \"Quasiquotation\" (Chapter 17, Advanced R)<br/>----------------------<br/>The package rlang has tools that you can use to capture (quote) unevaluated function arguments. You’ll also learn about quasiquotation, which provides a set of techniques to unquote input to make it possible to easily generate new trees from code fragments.<\/p> <p>Event link<br/>----------------------<br/>We host our events in Jitsi (Note that Jitsi works best with chrome)<\/p> <p>The link will be shared here during the day<\/p> <p>Code of Conduct<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-rotterdam/events/274362722/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Riverside: Data Science as a Team Sport  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Riverside",
     "start": "2020-12-10",
     "description": "<p>Hello RiveRside!<\/p> <p>Join us for our next virtual meeting of learning and networking, Thursday, December 10th, at 5:00 PM (PST). We will hear from Gabriela de Queiroz, founder of R-Ladies and AI Inclusive. Gabriela will tell us about her career journey, as well as the many different roles a Data Scientist may have.<\/p> <p>At the end of the meeting, there will be time to ask any questions you may have about data scientist careers or questions about R in general.<\/p> <p>Don't forget to RSVP in our Meetup to get access to the meeting's ID and password.<\/p> <p>Big thanks to UCR Library and UCR GradQuant for supporting us.<\/p> <p>See you soon!<\/p> <p>## Details<\/p> <p>~ Data Science as a Team Sport ~<\/p> <p>Data Science careers are in high demand, with many job opportunities and attractive salaries. As a relatively new career, it is ambiguously defined, and the job description of a data scientist can vary greatly from company to company. For those reasons, Data Science has attracted both new grads and career changers from all sorts of different fields. For Statisticians, Data Science is an exciting opportunity to apply your hard-earned skills to a variety of interesting and challenging problems. Having a solid Statistics background will give you a head start in that direction. However, Data Science is much more than pure Statistics knowledge. Being able to recognize and take advantage of a team with a diverse set of experiences will provide you with a unique opportunity to grow individually while benefiting your entire team. In this talk, I will walk you through my career journey, the different roles a Data Scientist can take, useful skills for a successful career, and lessons learned.<\/p> <p>~ Bio ~<br/>Gabriela de Queiroz is a Sr. Engineering &amp; Data Science Manager at IBM where she manages and leads a team of developers working on Data &amp; AI Open Source projects.<br/>She works to democratize AI by building tools and launching new open source projects. She is passionate about making data science available to everybody and is actively involved with several organizations to foster an inclusive community.<br/>She is the founder of AI Inclusive (ai-inclusive.org), a global organization that is helping increase the representation and participation of gender minorities in Artificial Intelligence. She is also the founder of R-Ladies (rladies.org), a worldwide organization for promoting diversity in the R community with more than 180 chapters in 50+ countries.<br/>She has worked in several startups and where she built teams, developed statistical models, and employed a variety of techniques to derive insights and drive data-centric decisions.<br/>She likes to mentor and shares her knowledge through mentorship programs, tutorials, and talks.<\/p> ",
     "url": "https://www.meetup.com/rladies-riverside/events/274066116/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Miami: Digital phenotyping, artificial intelligence and mental health  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Miami",
+    "start": "2020-11-05",
+    "description": "<p>This talk will focus on the emerging intersection of artificial intelligence, digital phenotyping, and mental health. Dr. Omar C. will discuss research opportunities and challenges in diagnosis and clinically validated mental health interventions with artificial intelligence methodologies.<\/p> <p>About the speaker:<\/p> <p>Omar Costilla-Reyes is a postdoctoral researcher at the Institute of Medical and Engineering Sciences at the Massachusetts Institute of Technology. His interests are in healthcare, artificial intelligence, education, and Latin America. In research, Omar focuses on artificial intelligence and digital health. Omar obtained his Ph.D. from the University of Manchester in England working at the intersection of artificial intelligence healthcare and biometrics. Omar is the founder and president of the Artificial Intelligence Latin American Summit at MIT. The goal of the summit is to incentivize leaders of the Latin American region in government, industry, and academia to invest and develop Artificial Intelligence for social benefit.<\/p> <p>Zoom Link: <a href=\"https://miami.zoom.us/j/92978732928\" class=\"linkified\">https://miami.zoom.us/j/92978732928<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-miami/events/274346653/",
     "textColor": "blue"
   },
   {
@@ -1672,7 +1688,7 @@
     "title": "R-Ladies Freiburg: Visualizing Geographical Data with R  [Virtual] , Germany, Europe",
     "group": "R-Ladies Freiburg",
     "start": "2020-11-04",
-    "description": "<p>If you work with spatial data, in this meetup you will get some ideas to do nice maps using R!<br/>We will present an overview of a few different ways to make nice maps, both static and interactive.<br/>We will start by building a plot using ggmap, a package that extends ggplot2 to visualize data with spatial information.<br/>Then, we will introduce some basic concepts to work with georeferenced data in R, like vector, raster and reference system. We will explore the packages that allow us to manipulate this data into R.<br/>We will finally explore the package tmap for rapidly creating beautiful and interactive maps!!<\/p> <p>If you want also to run the code we will share consider installing the following packages before the start of the meetup:<br/>- ggplot2<br/>- tidyverse<br/>- ggmaps<br/>- raster<br/>- sf<br/>- tmap<br/>- tmaptools<\/p> <p>The meetup will be hosted online via Zoom -- the info to enter the meetup will be sent out via Meetup shortly before the start time. If you do not receive an E-Mail check your spam folder.<\/p> ",
+    "description": "<p>If you work with spatial data, in this meetup you will get some ideas to do nice maps using R!<br/>We will present an overview of a few different ways to make nice maps, both static and interactive.<br/>We will start by building a plot using ggplot2 to visualize data with spatial information.<br/>Then, we will introduce some basic concepts to work with georeferenced data in R, like vector, raster and reference system. We will explore the packages that allow us to manipulate this data into R.<br/>We will finally explore the package tmap for rapidly creating beautiful and interactive maps!!<\/p> <p>If you want also to run the code we will share consider installing the following packages before the start of the meetup:<br/>- ggplot2<br/>- tidyverse<br/>- raster<br/>- sf<br/>- tmap<br/>- tmaptools<br/>- rnaturalearth<\/p> <p>The meetup will be hosted online via Zoom -- the info to enter the meetup will be sent out via Meetup shortly before the start time. If you do not receive an E-Mail check your spam folder.<\/p> ",
     "url": "https://www.meetup.com/rladies-freiburg/events/274277879/",
     "textColor": "blue"
   },
@@ -1725,6 +1741,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Ames: Write your CV (resume) using R pagedown!   [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Ames",
+    "start": "2020-11-12",
+    "description": "<p>In this workshop, we’ll introduce some tips and tricks for building a CV with pagedown. This workshop is expected to be a hands-on workshop . Participants would have a chance to build their own “baby” resume.<\/p> <p>Preparation: It would be helpful if you download the R package<br/>remotes::install_github('rstudio/pagedown')<\/p> <p>Learn more about pagedown: <a href=\"https://pagedown.rbind.io/\" class=\"linkified\">https://pagedown.rbind.io/<\/a><\/p> <p>See you online!<\/p> ",
+    "url": "https://www.meetup.com/rladies-ames/events/274347021/",
+    "textColor": "blue"
+  },
+  {
     "title": "MünsteR (R Users Group): Workshop on Shiny servers & Presentation on {sivis}  (online), Germany, Europe",
     "group": "MünsteR (R Users Group)",
     "start": "2020-11-04",
@@ -1772,10 +1796,10 @@
     "textColor": "blue"
   },
   {
-    "title": "Dublin R: Why R? Webinar:  Presentation by Appsilon Data Science  [Virtual] , Ireland, Europe",
+    "title": "Dublin R: Preserving wildlife with computer vision + Scaling Shiny Dashboards on a Budget  [Virtual] , Ireland, Europe",
     "group": "Dublin R",
     "start": "2020-11-12",
-    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> ",
+    "description": "<p>- channel: youtube.com/c/WhyRFoundation<br/>- date: every Thursday 7:00 pm (Irish Summer Time)<\/p> <p># Stream url<br/>- <a href=\"https://youtu.be/c1o4LHO5hQ4\" class=\"embedded\">https://youtu.be/c1o4LHO5hQ4<\/a><\/p> <p># Talks<br/>- company - Appsilon <a href=\"https://appsilon.com/\" class=\"linkified\">https://appsilon.com/<\/a><br/>- Preserving wildlife with computer vision - Jędrzej Świeżewski PhD <a href=\"https://www.linkedin.com/in/swiezew/\" class=\"linkified\">https://www.linkedin.com/in/swiezew/<\/a><br/>- Scaling Shiny Dashboards on a Budget - Damian Budelewski <a href=\"https://www.linkedin.com/in/damianbudelewski\" class=\"linkified\">https://www.linkedin.com/in/damianbudelewski<\/a><\/p> <p># Details<br/>- webinars <a href=\"http://whyr.pl/webinars/\" class=\"linkified\">http://whyr.pl/webinars/<\/a><br/>- donate <a href=\"http://whyr.pl/donate/\" class=\"linkified\">http://whyr.pl/donate/<\/a><br/>- join Why R? Slack <a href=\"http://whyr.pl/slack/\" class=\"linkified\">http://whyr.pl/slack/<\/a><br/>- join Meetup <a href=\"http://tiny.cc/WarsawRUG\" class=\"linkified\">http://tiny.cc/WarsawRUG<\/a><br/>- format: 45 min talk + 15 min for Q&amp;A<br/>- comments: ask YouTube live chat<\/p> ",
     "url": "https://www.meetup.com/DublinR/events/274318796/",
     "textColor": "blue"
   },
@@ -1815,7 +1839,7 @@
     "title": "R-Ladies St. Louis: Virtual Workshop: Intro to Network Analysis with R  [Virtual] , United States, US/Canada",
     "group": "R-Ladies St. Louis",
     "start": "2020-11-11",
-    "description": "<p>About the instructor: Join Dr. Maria C. Ramos, a Visiting Research Fellow at Duke Network Analysis Center (www.mariacramos.com), for her workshop on network analysis. Maria Ramos is a social scientist and networks scholar. She recently obtained a PhD in Sociology from Duke University and is now a Visiting Research Fellow at Duke Network Analysis Center. Maria’s research portfolio is diverse and interdisciplinary. Her current projects employ network science to understand HIV prevention, social-ecological systems, collaboration within organizations, and networks of beliefs and mental models. Maria regularly consults with organizations and research teams interested in leveraging network analysis to solve applied problems. She is also an avid R user and loves developing and teaching R workshops and tutorials.<\/p> <p>Workshop description: We live in an interconnected world: from the Web, transportation systems, and disease spread to our friendships and families, many aspects of our lives consist of interdependencies and connections among entities. Network analysis provides a framework and a set of tools for studying systems and patterns of relationships. This workshop will provide a gentle introduction to network analysis' concepts, methods, and applications. We will begin with an overview of the networks approach and its applications in various disciplines. Through hands-on activities, we will visualize networks and assess their general structure using different indices. We will also identify subgroups and key players. By the end of the workshop, participants will be able to examine networks and characterize their properties using R.<\/p> <p>Details: We will post or send out zoom links and materials closer to the event date.<\/p> ",
+    "description": "<p>About the instructor: Join Dr. Maria C. Ramos, a Visiting Research Fellow at Duke Network Analysis Center (www.mariacramos.com), for her workshop on network analysis. Maria Ramos is a social scientist and networks scholar. She recently obtained a PhD in Sociology from Duke University and is now a Visiting Research Fellow at Duke Network Analysis Center. Maria’s research portfolio is diverse and interdisciplinary. Her current projects employ network science to understand HIV prevention, social-ecological systems, collaboration within organizations, and networks of beliefs and mental models. Maria regularly consults with organizations and research teams interested in leveraging network analysis to solve applied problems. She is also an avid R user and loves developing and teaching R workshops and tutorials.<\/p> <p>Workshop description: We live in an interconnected world: from the Web, transportation systems, and disease spread to our friendships and families, many aspects of our lives consist of interdependencies and connections among entities. Network analysis provides a framework and a set of tools for studying systems and patterns of relationships. This workshop will provide a gentle introduction to network analysis' concepts, methods, and applications. We will begin with an overview of the networks approach and its applications in various disciplines. Through hands-on activities, we will visualize networks and assess their general structure using different indices. We will also identify subgroups and key players. By the end of the workshop, participants will be able to examine networks and characterize their properties using R.<\/p> <p>PLEASE NOTE: We will be automatically recording this event. If you do *not* wish to be recorded, please be sure to keep your video/camera turned OFF.<\/p> ",
     "url": "https://www.meetup.com/rladies-st-louis/events/272779608/",
     "textColor": "blue"
   },
@@ -1945,6 +1969,22 @@
     "start": "2020-12-14",
     "description": "<p>Monday, Dec 14th will be the first meeting of our virtual R 4 DS study group. During the first meeting we'll get started on the first chapter of R4DS (access the free textbook here <a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>) and set up a rotating lead for each chapter/set of exercises. We plan to meet twice a week (each Monday and Wednesday) for approximately 30 minutes to cover the key exercises of each chapter. All are welcome.<\/p> ",
     "url": "https://www.meetup.com/rladies-lexington-park/events/273936812/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Cuernavaca: Meetup Pruebas estadísticas en R: X2, t y ANOVA.  [Virtual] , Mexico, Latin America",
+    "group": "R-Ladies Cuernavaca",
+    "start": "2020-11-12",
+    "description": "<p>En esta sesión aprenderemos a realizar diferentes variantes de las pruebas estadísticas X2, t de Student y ANOVA con el lenguaje de programación R. Abordaremos cómo elegir un test estadístico, la interpretación de los resultados de las pruebas X2, t y ANOVA, así como otras pruebas y correcciones que se emplean en escenarios particulares.<\/p> <p>NOTA ADICIONAL: Las alternativas no paramétricas a T de Student y ANOVA, así como los tests usados con grupos de muestras no independientes (ej. en los estudios longitudinales), se abordarán en sesiones posteriores.<\/p> <p>TEMARIO<\/p> <p>+ La Elección de una prueba estadística<br/>+ Los supuestos de la prueba X2<br/>+ Diferentes escenarios del uso de X2<br/>+ Los supuestos de las pruebas T de Student y ANOVA<br/>+ Diferentes escenarios del uso de T de Student<br/>+ Diferentes escenarios del uso de ANOVA<\/p> <p>CONOCIMIENTOS PREVIOS REQUERIDOS:<\/p> <p>Este meetup está dirigido a personas con conocimientos básicos de R y de estadística. Contesta este cuestionario para saber si cuentas con los conocimientos necesarios para aprovechar esta reunión y qué recomendaciones u opciones tenemos para ti:<\/p> <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLScU4FKpJHPxAQ_bPyL0ptKnax3TcOlnOXwCDiPqV2lVbWYNyg/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLScU4FKpJHPxAQ_bPyL0ptKnax3TcOlnOXwCDiPqV2lVbWYNyg/viewform<\/a><\/p> <p>REQUERIMIENTOS DE SOFTWARE<\/p> <p>+ R &gt;=3.2 y RStudio<br/>+ Paquetes de R: ggplot2, ggpubr, corrplot, MASS, tidyverse, corrplot<\/p> <p>Puedes usar este comando para su instalación:<br/>install.packages(c(\"ggplot2\", \"ggpubr\", \"corrplot\", \"MASS\", \"tidyverse\", \"corrplot\"), dependencies = TRUE)<\/p> <p>ACERCA DE LA PONENTE:<\/p> <p>Aurora Labastida Martínez estudió la Licenciatura en Investigación Biomédica Básica y la Maestría en Ciencias Bioquímicas en la UNAM. Es especialista en análisis de datos de secuenciación masiva de ADN, un perfil que desarrolló gracias a la colaboración con expertas y expertos en ciencias biológicas y análisis de datos de la UNAM y, más tarde, de la iniciativa privada. Utiliza técnicas y trucos de R, Perl, Bash y AWK, además de técnicas variadas de estadística. Actualmente dirige el servicio de análisis de datos OMICs Analysis, en el que aplica sus conocimientos en proyectos de metagenómica y transcriptómica. Además se dedica a la panadería, la agricultura y a algunos proyectos mascota de programación.<\/p> <p>CÓDIGO DE CONDUCTA<br/>Recuerda leer y atender nuestro código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> <p>PATROCINADORES<br/>Agradecemos a nuestros patrocinadores: R Consortium y Red Mexicana de Bioinformática<\/p> ",
+    "url": "https://www.meetup.com/rladies-cuernavaca/events/274356929/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Newcastle Upon Tyne Data Science Meetup: December Meet-up: Dean Attali  [Virtual] , United Kingdom, Europe",
+    "group": "Newcastle Upon Tyne Data Science Meetup",
+    "start": "2020-12-03",
+    "description": "<p>Dean Attali (<a href=\"https://deanattali.com/\" class=\"linkified\">https://deanattali.com/<\/a>) is a Shiny Consultant based in Canada. If you have you used Shiny, you will have almost certainly used one of Dean's packages.<\/p> <p>Title: TBC, but something Shiny related<\/p> ",
+    "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/274337760/",
     "textColor": "blue"
   }
 ]
