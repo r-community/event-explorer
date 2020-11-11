@@ -191,6 +191,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Montreal R User Group: [Webinar] How to make any Python-based ML model reproducible  [Virtual] , Canada, US/Canada",
+    "group": "Montreal R User Group",
+    "start": "2020-11-10",
+    "description": "<p>Register here: <a href=\"https://hubs.li/H0zg45_0\" class=\"linkified\">https://hubs.li/H0zg45_0<\/a><\/p> <p>By popular demand, we will be broadcasting our session from AnacondaCON: How to make any Python-based ML model reproducible.<\/p> <p>Join us on Tuesday, November 10 at 2 PM ET, where we will:<br/>- Discuss why model versioning is important and only continues to increase in value<br/>- Present real-world applications where model versioning was able to safeguard against significant fines in regulated industries and save hundreds of researcher-hours<br/>- Show how any data scientist using Python can make their models reproducible by using a simple, open-source tool like ModelDB<\/p> <p>Register here: <a href=\"https://hubs.li/H0zg45_0\" class=\"linkified\">https://hubs.li/H0zg45_0<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/274386191/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Zurich R User Group: Zurich R-User Meetup: Spatial Data Analysis, Switzerland, Europe",
     "group": "Zurich R User Group",
     "start": "2020-10-29",
@@ -311,6 +319,22 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Bay Area useR Group (R Programming Language): Nov BARUG Meeting: \"ROC Day\"  [Virtual] , United States, US/Canada",
+    "group": "Bay Area useR Group (R Programming Language)",
+    "start": "2020-11-10",
+    "description": "<p>Agenda:<br/>4:30 Networking<br/>5:00 Announcements<br/>5:05 Joseph Rickert - Some ROC Basics and History<br/>5:20 Mario Inchiosa - ROC curves extended to multiclass classification, and how they do or do not map to the binary case.<br/>5:45 Robert Horton - Six Ways to Think About ROC Curves<br/>6:25 John Mount - How to Pick an Optimal Utility Threshold Using the ROC Plot<br/>6:55 Nina Zumel - Squeezing the Most Utility from Your Models<\/p> <p>#<br/>J Rickert<br/>Some ROC Basics and History<br/>In this very brief introduction, I will provide a little background on the history of ROC curves and introduce the basics.<\/p> <p>#<br/>M Inchiosa<br/>ROC curves extended to multiclass classification, and how they do or do not map to the binary case.<\/p> <p>The ROC curve was originally developed for binary classification, but extensions of the ROC curve to multiclass classification are commonly used, as well. In fact, the R package “multiROC” implements such extensions. We will briefly discuss these extensions and consider the following question: if multiclass classification metrics can be used for problems with n classes, do they apply to the special case of binary classification, i.e. n=2?<\/p> <p>#<br/>R Horton<br/>Six Ways to Think About ROC Curves<br/>We will walk through six ways to understand ROC curves:<\/p> <p>1. The discrete \"Turtle's Eye\" view, where labeled cases are sorted by score, and the path of the curve is determined by the order of positive and negative cases.<\/p> <p>2. The categorical view, where we have to handle tied scores, or when scores put cases in sortable buckets.<\/p> <p>3. The continuous view, where the cumulative distribution function (CDF) for the positive cases is plotted against the CDF for the negative cases.<\/p> <p>4. The ROC curve can be thought of as the limit of the cumulative gain curve (or \"Total Operating Characteristic\" curve) as the prevalence of positive cases goes to zero.<\/p> <p>5. The probabilistic view, where AUC is the probability that a randomly chosen positive case will have a higher score than a randomly chosen negative case.<\/p> <p>6. The ROC curve emerges from a graphical interpretation of the Mann-Whitney Wilcoxon U Test Statistic, which illustrates how AUC relates to this commonly used non-parametric hypothesis test.<\/p> <p>Once we're covered how to think about ROC curves, we'll look at some examples of using them to diagnose issues with machine learning classifiers<\/p> <p>#<br/>J Mount<br/>How to Pick an Optimal Utility Threshold Using the ROC Plot<\/p> <p>One of the classic applications of the ROC plot is to encode the efficient frontier of optimal specificity and sensitivity tradeoffs for a given signal detection problem. We will show the classic derivation of how to translate concrete business goals into the ROC framework and then use the ROC plot to pick off the optimal classification threshold for a given problem. I will emphasize discovering utility requirements through iterated negotiation.<\/p> <p>A sneak peek of some of the points can be found here: <a href=\"https://win-vector.com/2020/10/10/how-to-pick-an-optimal-utility-threshold-using-the-roc-plot/\" class=\"linkified\">https://win-vector.com/2020/10/10/how-to-pick-an-optimal-utility-threshold-using-the-roc-plot/<\/a><\/p> <p>#<br/>N Zumel<br/>Squeezing the Most Utility from Your Models<\/p> <p>The ROC concisely expresses all the sensitivity/specificity tradeoffs achievable by a given probability (or other score-returning) model. Generally, one converts such a model into a \"hard\" classifier by picking a decision threshold. A good threshold balances classifier precision/recall or sensitivity/specificity in a way that best meets the project or business needs. Unfortunately, the ROC is not the best visualization for picking the optimal threshold.<\/p> <p>A more direct way to quantify and think about this optimal threshold is the notion of model utility, which maps the performance of a model to some notion of the value achieved by that performance. In this talke, we discuss how to estimate model utility and pick model thresholds for classification problems.<\/p> <p>For an advance peek at some of these ideas see here: <a href=\"https://win-vector.com/2020/10/05/squeezing-the-most-utility-from-your-models/\" class=\"linkified\">https://win-vector.com/2020/10/05/squeezing-the-most-utility-from-your-models/<\/a><\/p> ",
+    "url": "https://www.meetup.com/R-Users/events/274190627/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Melbourne Users of R Network (MelbURN): Data science for social impact: Shiny & gender poverty data case study  [Virtual] , Australia, Australia",
+    "group": "Melbourne Users of R Network (MelbURN)",
+    "start": "2020-11-10",
+    "description": "<p>Data science for social impact: Shiny &amp; gender poverty data case study<\/p> <p>WhyHive is a group of data scientists and technology strategists who are passionate about using data for social impact. In this talk we'll discuss how our social enterprise came to be and some of the startup tools we use to help our work stand out for corporate and NFPs clients. We'll also explore a case study in which we've worked with the International Women's Development Agency to develop a gender poverty data dashboard for policy makers using R Shiny.<\/p> <p>Bio:<br/>Tess Guthrie studied pure mathematics and philosophy, worked as an analyst in the NFP sector and in business development for for-purpose organisations before starting WhyHive in 2018. Since then the team has grown to a core team of ten, and has worked with One Girl Australia, the International Women's Development Agency, She's A Crowd and hosts semesterly interns from Monash University and RMIT.<\/p> <p>The team has a host of experience from corporate, startup and NFP spaces and we're excited to share a case study with you and meet some of Melbourne's most passionate data scientists.<\/p> ",
+    "url": "https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/274269929/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Barcelona R User Group: Barcelona R User Group meetup (online)  [Virtual] , Spain, Europe",
     "group": "Barcelona R User Group",
     "start": "2020-11-04",
@@ -407,6 +431,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Boulder: R Ladies Boulder Meetup #12: Introduction to Flexdashboards  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Boulder",
+    "start": "2020-11-10",
+    "description": "<p>Hi Boulder UseRs! Join us for this month's **Virtual** R Ladies Meetup and join our new local Slack workspace (<a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a>)!<\/p> <p>This month, Hilary Traut will be guiding us through the basics of flexdashboard. Flexdashboards are a widely useful method (based in R Markdown) for presenting interactive analysis reports, usually focusing on graphs or other types of data visuals. Hilary will go over the basic components of a flexdashboard, how to create your first flexdashboard using R Markdown, and ideas for how to use them effectively. After an introduction to the tool, Hilary will guide us through creating a flexdashboard using COVID-19 data.<\/p> <p>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and learn some new techniques to apply in your work!<\/p> <p>We hope you'll also join our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/rladies-boulder/events/274264141/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Philly: Introduction to Flexdashboard and Debugging with Shinyobjects  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Philly",
     "start": "2020-10-21",
@@ -428,6 +460,14 @@
     "start": "2020-10-29",
     "description": "<p>How do you go about learning to use a new package in R? Do you like to watch people code so always turn to Youtube first? Or do you look for tutorials that someone has posted on their blog? Maybe you are a R purist and head to the package documentation?<\/p> <p>I have decided that I want to learn how to deal with dates in R and in scheduling this talk, I am publicly committing to my goal! I am starting now and hopefully by the talk date in October I will have worked it out. If not, I might end up presenting about the process of learning to use a new package in R than how to use `lubridate` per se.<\/p> <p>At this stage, it is a bit unclear what this talk will be, but either way it will be fun!!<\/p> <p>See you in October!<br/>Jen<\/p> ",
     "url": "https://www.meetup.com/rladies-sydney/events/273204898/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Brisbane: Virtual presentations-  Tips and Tricks in R and RStudio  [Virtual] , Australia, Australia",
+    "group": "R-Ladies Brisbane",
+    "start": "2020-11-10",
+    "description": "<p>*What are we going to learn:<br/>In this presentation, we’ll cover some tips in R and some of the best features from the free version of RStudio Desktop. Be ready to take notes on our collected and curated tips, tricks, and shortcuts to quickly turn you into an R/RStudio power user!<\/p> <p>*Who is going to present:<br/>Dr. Paula Andrea Martinez is a research infrastructure officer. Her background is Computer Sciences and Bioinformatics. In her career she helps researchers work more effectively to use High Performance Computing and digital skills. Paula's involvement in research projects associated with extreme data growth give her a clear understanding of research infrastructure services and data-intensive research needs. She is an active collaborator on institutional, national and international committees stimulating effective communication and engagement with key stakeholders.<\/p> <p>* When are we meeting?<br/>The talk will start at 5:00 pm for 1 hour and after we can have a social event for the last 30 minutes. End time 6:30 pm.<\/p> <p>************The presentation will start at 5:00 pm.************<br/>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This will be an interactive ~60 min presentation. If you would like to follow along in RStudio please make sure you have installed the following before the session:<\/p> <p>R - <a href=\"https://cran.r-project.org/bin/windows/base/\" class=\"linkified\">https://cran.r-project.org/bin/windows/base/<\/a><br/>RStudio - <a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a><br/>Required packages: \"tidyverse\", \"janitor\", \"styler\"<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
+    "url": "https://www.meetup.com/rladies-brisbane/events/274221545/",
     "textColor": "#7171fb"
   },
   {
@@ -471,6 +511,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2020-11-10",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcpbnb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R Addicts Paris: Parlons de {dplyr} - évènement en ligne  [Virtual] , France, Europe",
     "group": "R Addicts Paris",
     "start": "2020-10-14",
@@ -511,11 +559,27 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Edinburgh: Coding get-together with a Tidy Tuesday dataset  [Virtual] , United Kingdom, Europe",
+    "group": "R-Ladies Edinburgh",
+    "start": "2020-11-10",
+    "description": "<p>This is a second event in our Tidy Tuesday series: a dedicated time and supportive virtual space for us all to do some coding. We will use that week's Tidy Tuesday dataset to do data exploration, visualisation and analysis. Every participant will be free to take whatever direction they like and the coding will be done largely independently. But fear not, we will help each other when we get stuck and we will share our creations at the end of the event.<\/p> <p>This event is meant for R-Ladies with any level of coding skills: whether you're a beginner or an experienced coder, you'll definitely get an opportunity to practice your skills and learn something new.<\/p> <p>To participate, you need a computer with an installation of R and internet access. The workshop will be happening on Zoom - all attendees will be sent the access password in advance of the event. You can install Zoom on your computer for free if you like, but you can also use it via your internet browser.<\/p> <p>Here is a very rough agenda:<br/>5:30pm Welcome and introductions<br/>5:45pm Get coding<br/>6:30pm Quick check-in<br/>7:15pm Sharing our findings and creations<br/>7:30pm Closing of the event<\/p> <p>To find out more about the Tidy Tuesday initiative, check out <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a> or explore the #TidyTuesday hashtag on Twitter.<\/p> ",
+    "url": "https://www.meetup.com/rladies-edinburgh/events/274363221/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Bucharest: R-Ladies Bucharest Community #12: Text mining cu R - Aurore Paligot  [Virtual] , Romania, Europe",
     "group": "R-Ladies Bucharest",
     "start": "2020-10-20",
     "description": "<p>Continuăm întâlnirile R-Ladies Bucharest cu un subiect mega interesant: Text mining cu R, speaker Aurore Paligot! Ne vedem marți, 20 Octombrie la 7PM CET+1.<br/>Ca de obicei, înregistrarea este gratuită, dar obligatorie prin meetup. Evenimentul va fi în engleză, găzduit pe platforma zoom, iar link-ul de access va fi încărcat în ziua evenimentului.<\/p> <p>----------------------------------<br/>Join our meetup from 20th October, 7PM CET+1 to discover more about R, text mining and Aurore Paligot.<\/p> <p>Aurore Paligot is a full-fledged data analyst and R programmer with experience in machine learning and curiosity in the latest AI advances.<br/>As she describes herself, she thrives when operating at the sweet spot between Tech and Business, \"where the magic happens\".<\/p> <p>Registration is free, but mandatory via meetup. We shall meet on zoom, and the link will be updated on the day of the event. Your participation in this event, should include your approval for participation in this event that will be recorded.<\/p> <p>---------------------------------------------------------------------------------------------<br/>CODE OF CONDUCT<br/>Te rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire.<\/p> <p>Please read our code of conduct before joining our events.<\/p> <p>Code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><br/>---------------------------------------------------------------------------------------------<br/>Acesta este locul cu entuziaști de R unde trebuie să fii!<\/p> ",
     "url": "https://www.meetup.com/rladies-bucharest/events/272961939/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Rotterdam: Quasiquotation: Learning about the bang bang and curly curly slang  [Virtual] , Netherlands, Europe",
+    "group": "R-Ladies Rotterdam",
+    "start": "2020-11-10",
+    "description": "<p>Welcome!<\/p> <p>In our next session Paloma Rojas-Saunero will share the key points on quasiquotation and useful tools from the rlang package. We will also learn about curly-curly, a new operator to make it easier to create functions around #tidyverse pipelines.<\/p> <p>After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles related to it.<\/p> <p>About R-Ladies book club<br/>----------------------<br/>This session is part of the initiative by R-Ladies chapters of the Netherlands who have been hosting a series of events based on Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<\/p> <p>You can find the slides and materials from previous sessions and our agenda at: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>Also feel free to sign up to discuss one of the chapters there!<\/p> <p>About \"Quasiquotation\" (Chapter 19, Advanced R)<br/>----------------------<br/>The package rlang has tools that you can use to capture (quote) unevaluated function arguments. You’ll also learn about quasiquotation, which provides a set of techniques to unquote input to make it possible to easily generate new trees from code fragments.<\/p> <p>Event link<br/>----------------------<br/>We host our events in Jitsi (Note that Jitsi works best with chrome)<\/p> <p><a href=\"https://meet.jit.si/rladies_bangbang\" class=\"linkified\">https://meet.jit.si/rladies_bangbang<\/a><\/p> <p>Code of Conduct<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-rotterdam/events/274362722/",
     "textColor": "#7171fb"
   },
   {
@@ -683,6 +747,14 @@
     "start": "2020-10-13",
     "description": "<p>The content of the meeting on October 13 is not yet fixed, but could cover topics like<\/p> <p>* WEKA: Workbench for Machine Learning<br/>+ How to use WEKA with R<\/p> <p>Other topics in our subseries on \"Machine Learning with R\" could be the 'caret' and 'tidymodels' packages, or Pipelining in 'mlr3'.<\/p> <p>Let us know -- for instance here in the Comments section -- which themes you are interested in, what else should be covered, or if you could contribute, say, in future meetups.<\/p> <p>There will be room for questions, news, and discussions in general.<\/p> <p>Zoom Meeting ID:[masked]<br/>Password:[masked]<\/p> <p>Meeting ID and password will be announced here the day before the meeting.<\/p> <p>PS: Because of the time restrictions with Zoom, we are also considering changing the conference provider to, e.g., JITSI.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/273413787/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R User Group Rhein-Neckar: November Meeting: Aspects of R and Julia  [Virtual] , Germany, Europe",
+    "group": "R User Group Rhein-Neckar",
+    "start": "2020-11-10",
+    "description": "<p>The content of the meeting on November 10 is not yet fixed, but will probably focus on aspects of integrating R and Julia, for instance<\/p> <p>* Calling Julia from R<br/>* Machine Learning with R and Julia<\/p> <p>Participants can look at a short description of how to call Julia functions from R at <a href=\"https://hwborchers.github.io/\" class=\"linkified\">https://hwborchers.github.io/<\/a>. (This page will be updated and expanded before the meeting.)<\/p> <p>TIPS<br/>We will not discuss programming with Julia. If you are interested in seeing some Julia syntax, then a good starting point will be \"Think Julia\" at<br/><a href=\"https://benlauwens.github.io/ThinkJulia.jl/latest/book.html\" class=\"linkified\">https://benlauwens.github.io/ThinkJulia.jl/latest/book.html<\/a><\/p> <p>NOTE<br/>To avoid time restrictions, this video conference will be hosted on JITSI. Point your browser to 'meet.jit.si', enter the Meeting Id in the field below \"Start a new meeting\", press the GO button and you are awaiting approval.<\/p> <p>Jitsi Meeting ID: RMeetupRheinNeckar<br/>Password:[masked]<\/p> <p>Meeting ID and password will be announced half an hour before the meeting starts.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/273958508/",
     "textColor": "#7171fb"
   },
   {
@@ -1054,14 +1126,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Montreal R User Group: [Webinar] How to make any Python-based ML model reproducible  [Virtual] , Canada, US/Canada",
-    "group": "Montreal R User Group",
-    "start": "2020-11-10",
-    "description": "<p>Register here: <a href=\"https://hubs.li/H0zg45_0\" class=\"linkified\">https://hubs.li/H0zg45_0<\/a><\/p> <p>By popular demand, we will be broadcasting our session from AnacondaCON: How to make any Python-based ML model reproducible.<\/p> <p>Join us on Tuesday, November 10 at 2 PM ET, where we will:<br/>- Discuss why model versioning is important and only continues to increase in value<br/>- Present real-world applications where model versioning was able to safeguard against significant fines in regulated industries and save hundreds of researcher-hours<br/>- Show how any data scientist using Python can make their models reproducible by using a simple, open-source tool like ModelDB<\/p> <p>Register here: <a href=\"https://hubs.li/H0zg45_0\" class=\"linkified\">https://hubs.li/H0zg45_0<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/274386191/",
-    "textColor": "blue"
-  },
-  {
     "title": "Montreal R User Group: DSS Retail & E-Commerce  [Virtual] , Canada, US/Canada",
     "group": "Montreal R User Group",
     "start": "2020-11-17",
@@ -1214,14 +1278,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Wiesbaden R User Group: R Coffee Break - Webscraping in R  [Virtual] , Germany, Europe",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-11-11",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Andreas Liebrand uns in dieser RCoffeeBreak eine Einführung ins Webscraping geben wird.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Passwort: tbd<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/274099086/",
-    "textColor": "blue"
-  },
-  {
     "title": "Wiesbaden R User Group: R Coffee Break - sivis ein R-Webscraping-Framework  [Virtual] , Germany, Europe",
     "group": "Wiesbaden R User Group",
     "start": "2020-11-18",
@@ -1270,14 +1326,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Bay Area useR Group (R Programming Language): Nov BARUG Meeting: \"ROC Day\"  [Virtual] , United States, US/Canada",
-    "group": "Bay Area useR Group (R Programming Language)",
-    "start": "2020-11-10",
-    "description": "<p>Agenda:<br/>4:30 Networking<br/>5:00 Announcements<br/>5:05 Joseph Rickert - Some ROC Basics and History<br/>5:20 Mario Inchiosa - ROC curves extended to multiclass classification, and how they do or do not map to the binary case.<br/>5:45 Robert Horton - Six Ways to Think About ROC Curves<br/>6:25 John Mount - How to Pick an Optimal Utility Threshold Using the ROC Plot<br/>6:55 Nina Zumel - Squeezing the Most Utility from Your Models<\/p> <p>#<br/>J Rickert<br/>Some ROC Basics and History<br/>In this very brief introduction, I will provide a little background on the history of ROC curves and introduce the basics.<\/p> <p>#<br/>M Inchiosa<br/>ROC curves extended to multiclass classification, and how they do or do not map to the binary case.<\/p> <p>The ROC curve was originally developed for binary classification, but extensions of the ROC curve to multiclass classification are commonly used, as well. In fact, the R package “multiROC” implements such extensions. We will briefly discuss these extensions and consider the following question: if multiclass classification metrics can be used for problems with n classes, do they apply to the special case of binary classification, i.e. n=2?<\/p> <p>#<br/>R Horton<br/>Six Ways to Think About ROC Curves<br/>We will walk through six ways to understand ROC curves:<\/p> <p>1. The discrete \"Turtle's Eye\" view, where labeled cases are sorted by score, and the path of the curve is determined by the order of positive and negative cases.<\/p> <p>2. The categorical view, where we have to handle tied scores, or when scores put cases in sortable buckets.<\/p> <p>3. The continuous view, where the cumulative distribution function (CDF) for the positive cases is plotted against the CDF for the negative cases.<\/p> <p>4. The ROC curve can be thought of as the limit of the cumulative gain curve (or \"Total Operating Characteristic\" curve) as the prevalence of positive cases goes to zero.<\/p> <p>5. The probabilistic view, where AUC is the probability that a randomly chosen positive case will have a higher score than a randomly chosen negative case.<\/p> <p>6. The ROC curve emerges from a graphical interpretation of the Mann-Whitney Wilcoxon U Test Statistic, which illustrates how AUC relates to this commonly used non-parametric hypothesis test.<\/p> <p>Once we're covered how to think about ROC curves, we'll look at some examples of using them to diagnose issues with machine learning classifiers<\/p> <p>#<br/>J Mount<br/>How to Pick an Optimal Utility Threshold Using the ROC Plot<\/p> <p>One of the classic applications of the ROC plot is to encode the efficient frontier of optimal specificity and sensitivity tradeoffs for a given signal detection problem. We will show the classic derivation of how to translate concrete business goals into the ROC framework and then use the ROC plot to pick off the optimal classification threshold for a given problem. I will emphasize discovering utility requirements through iterated negotiation.<\/p> <p>A sneak peek of some of the points can be found here: <a href=\"https://win-vector.com/2020/10/10/how-to-pick-an-optimal-utility-threshold-using-the-roc-plot/\" class=\"linkified\">https://win-vector.com/2020/10/10/how-to-pick-an-optimal-utility-threshold-using-the-roc-plot/<\/a><\/p> <p>#<br/>N Zumel<br/>Squeezing the Most Utility from Your Models<\/p> <p>The ROC concisely expresses all the sensitivity/specificity tradeoffs achievable by a given probability (or other score-returning) model. Generally, one converts such a model into a \"hard\" classifier by picking a decision threshold. A good threshold balances classifier precision/recall or sensitivity/specificity in a way that best meets the project or business needs. Unfortunately, the ROC is not the best visualization for picking the optimal threshold.<\/p> <p>A more direct way to quantify and think about this optimal threshold is the notion of model utility, which maps the performance of a model to some notion of the value achieved by that performance. In this talke, we discuss how to estimate model utility and pick model thresholds for classification problems.<\/p> <p>For an advance peek at some of these ideas see here: <a href=\"https://win-vector.com/2020/10/05/squeezing-the-most-utility-from-your-models/\" class=\"linkified\">https://win-vector.com/2020/10/05/squeezing-the-most-utility-from-your-models/<\/a><\/p> ",
-    "url": "https://www.meetup.com/R-Users/events/274190627/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Bari: Dati personali e informazioni sensibili: tecniche di data anonymization in R  [Virtual] , Italy, Europe",
     "group": "R-Ladies Bari",
     "start": "2020-11-23",
@@ -1294,6 +1342,14 @@
     "textColor": "blue"
   },
   {
+    "title": "LondonR: LondonR online November 2020: Register via Ti.to for link, United Kingdom, Europe",
+    "group": "LondonR",
+    "start": "2020-11-24",
+    "description": "<p>Hello and welcome to LondonR online! While we cannot safely meet in person we will be hosting online meet ups. So grab a drink and join us on Tuesday 24th November 4.30pm (GMT) for the final meet up of 2020.<\/p> <p>Register here for a ticket: <a href=\"https://ti.to/londonr/londonr-24-nov-2020\" class=\"linkified\">https://ti.to/londonr/londonr-24-nov-2020<\/a><\/p> ",
+    "url": "https://www.meetup.com/LondonR/events/274528768/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Chicago: InspiRing InstRuction: A panel on teaching #rstats for all audiences  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Chicago",
     "start": "2020-11-12",
@@ -1307,14 +1363,6 @@
     "start": "2020-11-18",
     "description": "<p>Hello R-Ladies<\/p> <p>Are you an R beginner wanting to learn more about how to tidy up messy data? We covered in our this hands-on workshop!<\/p> <p>Bruno Grande (he/him) has been training others in the ways of modern R programming since 2015. With a PhD in bioinformatics, he learned (the hard way) how to leverage the tidyverse toolbox to efficiently transform, analyze, and visualize data ranging from messy to tidy. As a Carpentries- and RStudio-certified trainer, he wishes to empower the next generation of researchers and professionals with the same data science skills that continue to bolster his career. He's currently promoting and implementing best practices in open science as a Bioinformatics Engineer at Sage Bionetworks in Seattle, WA.<\/p> <p>Workshop details:<br/>Day and time: Nov 18th, 2020 at 6pm<br/>Webinar link: RSVP to view<\/p> <p>******<br/>About the workshop:<\/p> <p>Do you have a messy dataset you'd like to have Bruno demo in this workshop? If so, we'd like to encourage you to submit your data here:<br/><a href=\"https://forms.gle/wdz4tDW3xaYfmZH28\" class=\"linkified\">https://forms.gle/wdz4tDW3xaYfmZH28<\/a><\/p> <p>Requirements and info for data submission:<br/>- Preferably a data frame, but can be other data formats (e.g. Excel, JSON).<br/>- Compliant with privacy requirements. ( ie No personal IDs, but redacted identifiers are okay)<br/>- Contributors must feel comfortable having their dataset being tidied in front of the workshop audience (and possibly a broader audience on the Internet if the workshop gets recorded).<br/>- Submissions can be anonymous<br/>- Must be submitted by October 31st, 2020.<\/p> <p>General workshop information:<\/p> <p>-Please expect a hands-on session in a friendly and laid-back atmosphere where we all encouraged to learn together.<br/>- All levels are welcome but be prepared that we created this with beginners in mind. You should be familiar with R and RStudio.<br/>- Install R: <a href=\"https://mirror.its.sfu.ca/mirror/CRAN/\" class=\"linkified\">https://mirror.its.sfu.ca/mirror/CRAN/<\/a><br/>- Install RStudio (choose the Desktop version): <a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a><br/>- Install tidyverse package: install.package(\"tidyverse\")<\/p> <p>**********************IMPORTANT************************<\/p> <p>1. Have your computer and a steady internet connection ready<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>3. Who is this allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>See you there!<\/p> <p>Lisa, Jasmine, Lucia, Zubia, and Yuka<\/p> ",
     "url": "https://www.meetup.com/rladies-vancouver/events/274004638/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Boulder: R Ladies Boulder Meetup #12: Introduction to Flexdashboards  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Boulder",
-    "start": "2020-11-10",
-    "description": "<p>Hi Boulder UseRs! Join us for this month's **Virtual** R Ladies Meetup and join our new local Slack workspace (<a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a>)!<\/p> <p>This month, Hilary Traut will be guiding us through the basics of flexdashboard. Flexdashboards are a widely useful method (based in R Markdown) for presenting interactive analysis reports, usually focusing on graphs or other types of data visuals. Hilary will go over the basic components of a flexdashboard, how to create your first flexdashboard using R Markdown, and ideas for how to use them effectively. After an introduction to the tool, Hilary will guide us through creating a flexdashboard using COVID-19 data.<\/p> <p>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and learn some new techniques to apply in your work!<\/p> <p>We hope you'll also join our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-boulder/events/274264141/",
     "textColor": "blue"
   },
   {
@@ -1355,14 +1403,6 @@
     "start": "2020-12-04",
     "description": "<p>What a year!<br/>Although virtual events have been a great learning experience.<br/>For this last event of the year, prepare yourselves to go out!<\/p> <p>* What are we going to do?<br/>This is a networking event! We hope to meet once again in person, get to know each other and have fun together!<br/>As of today, plans are buy your own food and drinks.<br/>If you or your organisation would like to sponsor this event please get in touch!<\/p> <p>NOTE: we need to confirm numbers to the venue by Nov 26th, make sure you click attending before that.<\/p> <p>We have RLadiesGlobal stickers for you!<br/>We will announce the call for our new RLadiesBrisbane Sticker!<\/p> <p>* When are we meeting?<br/>Meet at 5:30 pm<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/274202999/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2020-11-10",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcpbnb/",
     "textColor": "blue"
   },
   {
@@ -1462,19 +1502,19 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Auckland: Code-Along with R-Ladies Canberra   [Virtual] , New Zealand, Australia",
+    "group": "R-Ladies Auckland",
+    "start": "2020-12-03",
+    "description": "<p>R-Ladies Canberra has invited R-Ladies Auckland and several other R-Ladies chapters across Australia and New Zealand to join them in their final event of the year! The event will be an online code-along targeted for less experienced users of R, but all users are welcome to attend.<\/p> <p>Erika Duan will be leading the code-along, introducing data visualisation using ggplot. We'll code for about half an hour, then break out into smaller groups for meet-and-greet, then return to coding for another half hour before closing with a second breakout.<\/p> <p>This meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date. R-Ladies Canberra is looking forward to seeing you there!<\/p> <p>If you have any questions or problems, don't hesitate to contact Izzy Johnson (co-host) through meet-up!<\/p> <p>As with all our meetups, please be aware of and read the Code of Conduct before attending.<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-auckland/events/274521724/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Goiânia: Análise de Dados Epidemiológicos  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies Goiânia",
     "start": "2020-11-28",
     "description": "<p>Participe!<\/p> <p>Link das inscrições: <a href=\"https://www.sympla.com.br/urlAlias/render?alias=cursosonline\" class=\"linkified\">https://www.sympla.com.br/urlAlias/render?alias=cursosonline<\/a><\/p> <p>Siga-nos para mais informações e ficar ligado em nossa organização.<\/p> <p>-Instagram: @rladiesgyn<br/>-Linkedin: R-Ladies GYN<\/p> ",
     "url": "https://www.meetup.com/rladies-goiania/events/274487649/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Edinburgh: Coding get-together with a Tidy Tuesday dataset  [Virtual] , United Kingdom, Europe",
-    "group": "R-Ladies Edinburgh",
-    "start": "2020-11-10",
-    "description": "<p>This is a second event in our Tidy Tuesday series: a dedicated time and supportive virtual space for us all to do some coding. We will use that week's Tidy Tuesday dataset to do data exploration, visualisation and analysis. Every participant will be free to take whatever direction they like and the coding will be done largely independently. But fear not, we will help each other when we get stuck and we will share our creations at the end of the event.<\/p> <p>This event is meant for R-Ladies with any level of coding skills: whether you're a beginner or an experienced coder, you'll definitely get an opportunity to practice your skills and learn something new.<\/p> <p>To participate, you need a computer with an installation of R and internet access. The workshop will be happening on Zoom - all attendees will be sent the access password in advance of the event. You can install Zoom on your computer for free if you like, but you can also use it via your internet browser.<\/p> <p>Here is a very rough agenda:<br/>5:30pm Welcome and introductions<br/>5:45pm Get coding<br/>6:30pm Quick check-in<br/>7:15pm Sharing our findings and creations<br/>7:30pm Closing of the event<\/p> <p>To find out more about the Tidy Tuesday initiative, check out <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a> or explore the #TidyTuesday hashtag on Twitter.<\/p> ",
-    "url": "https://www.meetup.com/rladies-edinburgh/events/274363221/",
     "textColor": "blue"
   },
   {
@@ -1507,14 +1547,6 @@
     "start": "2021-01-14",
     "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/mpjmxrycccbsb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Rotterdam: Quasiquotation: Learning about the bang bang and curly curly slang  [Virtual] , Netherlands, Europe",
-    "group": "R-Ladies Rotterdam",
-    "start": "2020-11-10",
-    "description": "<p>Welcome!<\/p> <p>In our next session Paloma Rojas-Saunero will share the key points on quasiquotation and useful tools from the rlang package. We will also learn about curly-curly, a new operator to make it easier to create functions around #tidyverse pipelines.<\/p> <p>After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles related to it.<\/p> <p>About R-Ladies book club<br/>----------------------<br/>This session is part of the initiative by R-Ladies chapters of the Netherlands who have been hosting a series of events based on Hadley Wickham's Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<\/p> <p>You can find the slides and materials from previous sessions and our agenda at: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>Also feel free to sign up to discuss one of the chapters there!<\/p> <p>About \"Quasiquotation\" (Chapter 19, Advanced R)<br/>----------------------<br/>The package rlang has tools that you can use to capture (quote) unevaluated function arguments. You’ll also learn about quasiquotation, which provides a set of techniques to unquote input to make it possible to easily generate new trees from code fragments.<\/p> <p>Event link<br/>----------------------<br/>We host our events in Jitsi (Note that Jitsi works best with chrome)<\/p> <p><a href=\"https://meet.jit.si/rladies_bangbang\" class=\"linkified\">https://meet.jit.si/rladies_bangbang<\/a><\/p> <p>Code of Conduct<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-rotterdam/events/274362722/",
     "textColor": "blue"
   },
   {
@@ -1638,6 +1670,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Amsterdam: [ONLINE] #IamRemarkable Workshop  [Virtual] , Netherlands, Europe",
+    "group": "R-Ladies Amsterdam",
+    "start": "2020-11-19",
+    "description": "<p>Hi everyone,<\/p> <p>We hope you are well during this time! While we as R-Ladies Amsterdam typically focus on developing hands- on skills- it's also important to learn how to vocalise your developed skills and achievements! As such, we are excited to invite you to attend the #IamRemarkable workshop as part of the #IamRemarkable Week running from 12-19 November. Join us to celebrate the power of diversity and allyship- and get inspired by remarkable stories and improve your confidence and self-promotion skills.<\/p> <p>#IamRemarkable is a Google initiative empowering women and<br/>underrepresented groups to speak openly about their<br/>accomplishments in the workplace and beyond, thereby<br/>breaking modesty norms and glass ceilings. Learn more at<br/>g.co/IamRemarkable<\/p> <p>In this interactive session, you will participate in group<br/>discussions and exercises to develop the confidence and skills to<br/>promote yourself effectively.<\/p> <p>During the 90 min #IamRemarkable workshop we will:<br/>- Share data and research regarding self promotion and<br/>unconscious bias<br/>- Go through the main exercise to help you articulate your<br/>achievements and practice self promotion<br/>- Have a discussion and share take home exercises<br/>Feel free to sign up to discuss one of the chapters there!<\/p> <p>ABOUT Janine<br/>----------------------<br/>Janine is a data scientist and one of the R-Ladies Amsterdam co-founders. Within the data science world she loves the intricacies that come with data science in the medical world, involving messy data (generation) and medical decision making that go beyond the technical nitty gritty. With her background in psychology she is well equipped to thoroughly understand the the requirements that go into a well designed data science project. She entered the world of data science through R- where her love for the language and the community developed. Now she is busy bringing the community in Amsterdam together supporting others in achieving their full programming potential through R.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Just bring yourself! :)<\/p> <p>LINK TO MEETUP<br/>———————————<br/>See on the right<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-amsterdam/events/274527445/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Baltimore: R-Ladies Baltimore -- Mapping Neighborhood Air-Quality with Shiny (Virtual)  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Baltimore",
     "start": "2020-11-17",
@@ -1665,7 +1705,7 @@
     "title": "R-Ladies Ames: Write your CV (resume) using R pagedown!   [Virtual] , United States, US/Canada",
     "group": "R-Ladies Ames",
     "start": "2020-11-12",
-    "description": "<p>In this workshop, we’ll introduce some tips and tricks for building a CV with pagedown. This workshop is expected to be a hands-on workshop . Participants would have a chance to build their own “baby” resume.<\/p> <p>Preparation: It would be helpful if you download the R package<br/>remotes::install_github('rstudio/pagedown')<\/p> <p>Learn more about pagedown: <a href=\"https://pagedown.rbind.io/\" class=\"linkified\">https://pagedown.rbind.io/<\/a><\/p> <p>See you online!<\/p> ",
+    "description": "<p>In this workshop, we’ll introduce some tips and tricks for building a CV with pagedown. This workshop is expected to be a hands-on workshop . Participants would have a chance to build their own “baby” resume.<\/p> <p>Preparation: It would be helpful if you download these two R packages<br/>remotes::install_github('rstudio/pagedown')<br/>install.packages(\"rmarkdown\")<\/p> <p>Learn more about pagedown: <a href=\"https://pagedown.rbind.io/\" class=\"linkified\">https://pagedown.rbind.io/<\/a><\/p> <p>See you online!<\/p> ",
     "url": "https://www.meetup.com/rladies-ames/events/274347021/",
     "textColor": "blue"
   },
@@ -1678,11 +1718,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group Rhein-Neckar: November Meeting: Aspects of R and Julia  [Virtual] , Germany, Europe",
+    "title": "R User Group Rhein-Neckar: November Meeting: Aspects of ML with R and Julia  [Virtual] , Germany, Europe",
     "group": "R User Group Rhein-Neckar",
-    "start": "2020-11-10",
-    "description": "<p>The content of the meeting on November 10 is not yet fixed, but will probably focus on aspects of integrating R and Julia, for instance<\/p> <p>* Calling Julia from R<br/>* Machine Learning with R and Julia<\/p> <p>Participants can look at a short description of how to call Julia functions from R at <a href=\"https://hwborchers.github.io/\" class=\"linkified\">https://hwborchers.github.io/<\/a>. (This page will be updated and expanded before the meeting.)<\/p> <p>TIPS<br/>We will not discuss programming with Julia. If you are interested in seeing some Julia syntax, then a good starting point will be \"Think Julia\" at<br/><a href=\"https://benlauwens.github.io/ThinkJulia.jl/latest/book.html\" class=\"linkified\">https://benlauwens.github.io/ThinkJulia.jl/latest/book.html<\/a><\/p> <p>NOTE<br/>To avoid time restrictions, this video conference will be hosted on JITSI. Point your browser to 'meet.jit.si', enter the Meeting Id in the field below \"Start a new meeting\", press the GO button and you are awaiting approval.<\/p> <p>Jitsi Meeting ID:[masked]<br/>Password:[masked]<\/p> <p>Meeting ID and password will be announced half an hour before the meeting starts.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/273958508/",
+    "start": "2020-11-17",
+    "description": "<p>Due to low participation the \"November Meeting\" of the R User Group Rhein-Neckar got postponed for one week.<\/p> <p>* Aspects of Machine Learning with R and Julia<\/p> <p>TIPS<br/>Participants can look at a short description of how to call Julia functions from R at <a href=\"https://hwborchers.github.io/\" class=\"linkified\">https://hwborchers.github.io/<\/a>. (This page will be updated and expanded before the meeting.)<\/p> <p>We will not discuss programming with Julia. If you are interested in seeing some Julia syntax, a good starting point will be \"Think Julia\" at<br/><a href=\"https://benlauwens.github.io/ThinkJulia.jl/latest/book.html\" class=\"linkified\">https://benlauwens.github.io/ThinkJulia.jl/latest/book.html<\/a><\/p> <p>NOTE<br/>To avoid time restrictions, this video conference will be hosted on JITSI. Point your browser to the link on the right side (visible to those who RSVP), enter your name and join the meeting.<\/p> <p>JITSI Meeting ID: RMeetupRheinNeckar<br/>Password: -no password-<\/p> <p>Please only RSVP \"yes\" if you actually plan to attend.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/274516298/",
     "textColor": "blue"
   },
   {
@@ -1894,11 +1934,27 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Den Bosch: Evaluation - Chp 20 Advanced R - R Ladies Netherlands Boook Club  [Virtual] , Netherlands, Europe",
+    "group": "R-Ladies Den Bosch",
+    "start": "2020-11-24",
+    "description": "<p>Pavitra Chakravarty will take us through the key points of Evaluation, (chapter 20 of Advanced R by Hadley Wickham, <a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>).<\/p> <p>The link to the event meeting will be provided closer to the date.<\/p> <p>See you soon!<\/p> ",
+    "url": "https://www.meetup.com/rladies-den-bosch/events/274529798/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Medellín: Quinto Encuentro R-Ladies Medellín: ConfeMeet 2020  [Virtual] , Colombia, Latin America",
     "group": "R-Ladies Medellín",
     "start": "2020-11-18",
     "description": "<p>Para cerrar nuestros encuentros del 2020, queremos escuchar a los miembros de nuestra comunidad. Por esta razón, hemos organizado un ConfeMeet, un espacio en el que miembros de nuestra comunidad compartirán sus conocimientos y experiencia en el uso de R.<\/p> <p>Les presentamos nuestros invitados para este ConfeMeet 2020:<\/p> <p>Eddy Herrera Daza. Licenciado en Matemáticas Universidad Distrital. Magister en evaluación Universidad Santo Tomás y la Universidad Nacional de Colombia. PhD en Ingeniería Pontificia Universidad Javeriana. Actualmente es profesora de tiempo completo del Departamento de Matemáticas, Facultad de Ciencias, de la Universidad Javeriana y coordina las prácticas profesionales de estudiantes de matemáticas y de ciencias de datos de la Universidad Javeriana.<\/p> <p>Andrés Eslava Daza. Economista y Estadístico de la Universidad Nacional de Colombia. Estudiante de Maestría en Ciencias- Estadística de la Universidad Nacional de Colombia, sede Medellín. Actualmente trabaja en Corona Industrial como científico de datos y en la Oficina de Planeación de la Universidad Nacional de Colombia como desarrollador y consultor de aplicaciones Shiny.<\/p> <p>Fundadoras de R-Ladies Barranquilla. R-Ladies Barranquilla es un capítulo local de la organización R-Ladies Global fundado este año en la ciudad de Barranquilla y que tiene como objetivo promover la diversidad de género dentro de la comunidad que maneja el lenguaje de programación R.<\/p> <p>Nos sentimos muy felices y afortunadas de poder contar con estos invitados en nuestro primer ConfeMeet. El encuentro se llevará a cabo de forma virtual y puedes acceder desde el siguiente enlace:<\/p> <p><a href=\"https://udea.zoom.us/meeting/register/tJYpf-6orz0iGNd1Eg9SjWV-kjsd5sl2UvH2\" class=\"linkified\">https://udea.zoom.us/meeting/register/tJYpf-6orz0iGNd1Eg9SjWV-kjsd5sl2UvH2<\/a><\/p> <p>Fecha: Miércoles 18 de noviembre<br/>Hora: 6:30-8:30 p.m.<\/p> <p>¡Anímate a participar!<\/p> <p>Te esperamos<\/p> ",
     "url": "https://www.meetup.com/rladies-medellin/events/274394232/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Queretaro: Análisis estadísticos de experimentos: diseños factoriales  [Virtual] , Mexico, Latin America",
+    "group": "R-Ladies Queretaro",
+    "start": "2020-11-28",
+    "description": "<p>En está ocasión tendremos a Patricia E. García como invitada de Argentína para darnos el taller de \"Análisis estadísticos de experimentos: diseños factoriales\".<\/p> <p>No faltes! Te esperamos<\/p> ",
+    "url": "https://www.meetup.com/rladies-queretaro/events/274516240/",
     "textColor": "blue"
   },
   {
