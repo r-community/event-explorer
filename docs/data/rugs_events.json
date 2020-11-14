@@ -103,14 +103,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Gradient Boosting Machines - From Zero to Hero - X-Europe Webinars  [Virtual] , Poland, Europe",
-    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
-    "start": "2020-10-14",
-    "description": "<p>Gradient Boosting Machines (GBM): from Zero to Hero (with R and Python code)<\/p> <p>REGISTER HERE: <a href=\"https://gradient-boosting-zero-to-hero.carrd.co/\" class=\"linkified\">https://gradient-boosting-zero-to-hero.carrd.co/<\/a><\/p> <p>This talk will get you started with gradient boosting machines (GBM), a very popular machine learning technique providing state-of-the-art accuracy on numerous business prediction problems. After a quick intro to machine learning and the GBM algorithm, I will show how easy it is to train and then use GBMs in real-life business applications using some the most popular open source implementations (xgboost, lightgbm and h2o). We’ll do all this in both R and Python with only a few lines of code and this talk will be accessible for a wide audience (with limited prior knowledge of machine learning). Finally, in the last part of the talk I will provide plenty of references that can get you to the next level. GBMs are a powerful technique to have in your machine learning toolbox, because despite all the latest hype about deep learning (neural nets) and “AI”, in fact GBMs usually outperform neural networks on structured/tabular data most often encountered in business applications.<\/p> <p>OUR SPEAKER<\/p> <p>Szilard Pafka, PhD<br/>Chief Scientist, Epoch (USA)<\/p> <p>Szilard studied Physics in the 90s and obtained a PhD by using statistical methods to analyze the risk of financial portfolios. He worked in finance, then more than a decade ago moved to become the Chief Scientist of a tech company in Santa Monica, California doing everything data (analysis, modeling, data visualization, machine learning, data infrastructure etc). He is the founder/organizer of several meetups in the Los Angeles area (R, data science etc) and the data science community website datascience.la. He is the author of a well-known machine learning benchmark on github (1000+ stars), a frequent speaker at conferences (keynote/invited at KDD, R-finance, Crunch, eRum and contributed at useR!, PAW, EARL, H2O World, Data Science Pop-up, Dataworks Summit etc.), and he has developed and taught graduate data science and machine learning courses as a visiting professor at two universities (UCLA in California and CEU in Europe).<br/>LinkedIn: <a href=\"https://www.linkedin.com/in/szilard\" class=\"linkified\">https://www.linkedin.com/in/szilard<\/a><br/>Twitter: <a href=\"https://twitter.com/DataScienceLA\" class=\"linkified\">https://twitter.com/DataScienceLA<\/a><br/>Github: <a href=\"https://github.com/szilard\" class=\"linkified\">https://github.com/szilard<\/a><\/p> <p>ABOUT THE X-EUROPE DATA SCIENCE WEBINARS<br/>This is a joint online event of Vienna Data Science Group, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar and Warsaw R Users Group.<\/p> <p>SUPPORTERS<br/>Thank you to Informance GmbH | www.informance.at, contextflow | www.contextflow.com, uni software plus GmbH | www.unisoftwareplus.com, FreeDOM Data | www.freedom-data.com and Gradient Zero | www.gradient0.com for supporting this.<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273793631/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Why R? Webinar platypus - image segmentation & object detection made easy with R  [Virtual] , Poland, Europe",
     "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
     "start": "2020-10-15",
@@ -279,14 +271,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Wiesbaden R User Group: R Coffee Break - tidyverse, ein Überblick  [Virtual] , Germany, Europe",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-10-14",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>In dieser RCoffeeBreak werden wir euch eine kurze Einführung ins tidyverse geben.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Kenncode:[masked]<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/273450386/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Wiesbaden R User Group: R Coffee Break - Text Mining mit tidytext  [Virtual] , Germany, Europe",
     "group": "Wiesbaden R User Group",
     "start": "2020-10-21",
@@ -380,14 +364,6 @@
     "start": "2020-11-09",
     "description": "<p>This month's speaker comes to us from the R Foundation and R Consortium to talk about parallelism in R.<\/p> <p>Thank you to EcoHealth Alliance for providing the Zoom link.<\/p> <p>The Government &amp; Public Sector R Conference is coming December 2-4, 2020. Much like our recent NYR, this is virtual, so anyone around the world can attend. Visit <a href=\"https://rstats.ai/gov/\" class=\"linkified\">https://rstats.ai/gov/<\/a> to learn more and use code nyhackr for a 20% discount on tickets.<\/p> <p>About the Talk:<br/>The ‘future’ package provides a minimal and unifying framework for asynchronous, parallel, and distributed computing in R. It is being used to run R code in parallel on the local computer, on remote machines, in the cloud, and on high-performance computing. Popular packages such as 'shiny’, ‘plumber’, and ‘drake’ use futures internally. I will explain what futures are, discuss common feature requests, recent progress, and what is on the roadmap.<\/p> <p>About Henrik:<br/>Henrik Bengtsson is the author of over 30 R packages on CRAN and Bioconductor, e.g. 'future', 'matrixStats', 'progressr', and 'startup'. His research is on statistics and bioinformatics with an emphasis on high quality, reproducible method development, sustainable implementations, and large-scale processing. He is an Associate Professor in the Department of Epidemiology &amp; Biostatistics at the University of California, San Francisco (UCSF), affiliated with the UCSF Helen Diller Family Comprehensive Cancer Center, and a member of the R Foundation and the R Consortium Infrastructure Steering Committee.<\/p> <p>The talk will begin at 7 PM EST and we will start admitting people to the event shortly before. Since this is completely remote there will be no pizza but everyone is encouraged to have pizza individually.<\/p> ",
     "url": "https://www.meetup.com/nyhackr/events/274200133/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Birmingham R User Group (R Programming Language): [Online] Workshop Generalized Linear Models  [Virtual] , United Kingdom, Europe",
-    "group": "Birmingham R User Group (R Programming Language)",
-    "start": "2020-10-14",
-    "description": "<p>For the October meetup Bodo Winter will be giving a workshop:<\/p> <p>Title: Introduction to generalized linear models with broom<br/>In this workshop, I’ll give a super-quick high-level introduction to the conceptual foundations of (generalized) linear models, followed by a hands-on demonstration of the broom package, and how to process linear models in a tidy work flow. Make sure to have the broom and tidyverse packages installed. A Markdown will be distributed prior to the session.<\/p> <p>See Zoom link below.<br/>Meeting ID:[masked]<br/>Passcode:[masked]<\/p> ",
-    "url": "https://www.meetup.com/BirminghamR/events/273501527/",
     "textColor": "#7171fb"
   },
   {
@@ -508,14 +484,6 @@
     "start": "2020-11-10",
     "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
     "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcpbnb/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R Addicts Paris: Parlons de {dplyr} - évènement en ligne  [Virtual] , France, Europe",
-    "group": "R Addicts Paris",
-    "start": "2020-10-14",
-    "description": "<p>Bonjour à tous !<\/p> <p>Ca faisait longtemps n'est ce pas ? :)<\/p> <p>Mercredi 14 octobre est un jour important, au moins pour 2 choses. La première : c'est l'anniversaire d'hadley wickham, la seconde c'est qu'on va pouvoir se réunir (virtuellement) pour parler {dplyr} avec Romain François. Romain est francophone et travaille chez Rstudio au développement de {dplyr} .<\/p> <p>Pour le lieu, ca sera sur twitch zoom ou youtube ( on fait des essais de fonctionnalité avant de trancher )<\/p> <p>à très bientot.<\/p> ",
-    "url": "https://www.meetup.com/rparis/events/273482496/",
     "textColor": "#7171fb"
   },
   {
@@ -695,14 +663,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Cape Town: Web Scraping with Andrew Collier: Session 2  [Virtual] , South Africa, Africa",
-    "group": "R-Ladies Cape Town",
-    "start": "2020-10-14",
-    "description": "<p>Andrew Collier (Exegetic Analytics, @datawookie) is back to give us a four-week Web Scraping in R course! The term ‘Web Scraping’ refers to the automated gathering of information from websites hosted on the internet. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis. Andrew has recently used web scraping to create the Trundler API and R package: a repository of historical pricing data of goods sold by major local retailers (<a href=\"https://www.trundler.dev/\" class=\"linkified\">https://www.trundler.dev/<\/a>). The possibilities presented by this technology are endless, and we are super excited for this opportunity to learn more!<\/p> <p>Outline<br/>Session 1 (7 October): Introduction - Recording - <a href=\"https://youtu.be/EaWDZUReN9s\" class=\"embedded\">https://youtu.be/EaWDZUReN9s<\/a><\/p> <p>Session 2 (14 October): Locating content with CSS and XPath<br/>Session 3 (21 October): Scraping static sites with {rvest}<br/>Session 4 (28 October): Scraping dynamic sites with Selenium<\/p> <p>These sessions will take place via Zoom at 17:30 sharp and last a maximum of 90 mins. We hope to see you there!<\/p> <p>To join: Use the Zoom link provided - please mute your microphone when joining!<\/p> ",
-    "url": "https://www.meetup.com/rladies-cape-town/events/273586479/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Cape Town: Web Scraping with Andrew Collier: Session 3   [Virtual] , South Africa, Africa",
     "group": "R-Ladies Cape Town",
     "start": "2020-10-21",
@@ -827,6 +787,14 @@
     "start": "2020-11-12",
     "description": "<p>For this meetup Seattle UseR Group is teaming up with Javier Luraschi and Yitao Li from the RStudio mlverse team to talk about Spark and Pins. Since this talk will be hosted online, everyone in the world is welcomed, though it would be great if you registered on meetup.com! This will be an introductory talk from the creators of Spark and Pins.<\/p> <p>Yitao Li, author and maintainer of the #sparklyr package, will present how to use Apache #Spark from R and new advancements in this space. We know we can easily use dplyr with Spark but, have you ever dreamed of using Spark with #tidyr? Well, this talk is for you!<\/p> <p>Javier Luraschi, creator and maintainer of the #pins package, will present how to easily share your #datascience datasets in Amazon S3, Google Cloud, Azure, GitHub, Kaggle, and so on! All with the ease-of-use you expect from using R packages. Certainly, functionality Python and JavaScript users can't even dream of, or can they? Join us in this live stream to figure it all out!<\/p> ",
     "url": "https://www.meetup.com/Seattle-useR/events/274131503/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Seattle useR Group (R Programming Language): Deep Learning with Torch; Scaling Data Science with GPU's  [Virtual] , United States, US/Canada",
+    "group": "Seattle useR Group (R Programming Language)",
+    "start": "2020-11-13",
+    "description": "<p>For this meetup Seattle UseR Group is teaming up with Sigrid Keydana and Daniel Falbel, from the RStudio mlverse team to talk about Deep Learning with Torch. Since this talk will be hosted online, everyone in the world is welcomed, though it would be great if you registered on meetup.com! This will be an introductory talk from the creators of torch and RStudio's AI blog.<\/p> <p>Daniel Falbel, author and maintainer of the #torch package, will present how to use PyTorch from R and new advancements in this space. We know we can use TensorFlow to perform deep learning with R, but torch takes this a step further by providing similar functionality in a native R library using libtorch.<\/p> <p>Sigrid Keydana, author of RStudio AI Blog and creator of the #tfprobability package, will complement this talk with an interview to Daniel to discuss broader topics in Deep Learning including transformational changes in our world that go beyond the technical aspects of this very new discipline.<\/p> ",
+    "url": "https://www.meetup.com/Seattle-useR/events/274132794/",
     "textColor": "#7171fb"
   },
   {
@@ -1190,18 +1158,18 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group - Philippines: {R topic to be announced}, Philippines, Asia",
+    "title": "R User Group - Philippines: #82 Recommender systems part 2 / R mentoring updates  [Virtual] , Philippines, Asia",
     "group": "R User Group - Philippines",
     "start": "2020-11-18",
-    "description": "<p>Please bring a valid ID.<\/p> ",
+    "description": "<p>It was in November last year when Dylan Valerio introduced us to recommender systems, and 1 meetup session was not enough to cover such a wide and complex subject matter that we said we will make it a series. So a year later, here's the part 2 XD<\/p> <p>In the same meetup we will announce our 3rd R mentor joining our program - so hope you stay tuned, and sign up to the sessions!<\/p> <p>==========================<br/>Meeting ID:[masked]<br/>Passcode:[masked]<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybcpbxb/",
     "textColor": "blue"
   },
   {
-    "title": "R User Group - Philippines: {R topic to be announced}, Philippines, Asia",
+    "title": "R User Group - Philippines: #72 Holiday virtual meetup!  [Virtual] , Philippines, Asia",
     "group": "R User Group - Philippines",
     "start": "2020-12-16",
-    "description": "<p>Please bring a valid ID.<\/p> ",
+    "description": "<p>The pandemic won't prevent us from keeping our RUG-holiday tradition so we will continue the fun and games via zoom! :)<\/p> <p>Stay tuned for our holiday program!<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybcqbvb/",
     "textColor": "blue"
   },
@@ -1526,6 +1494,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Bucharest: R-Ladies Bucharest Community #14  [Virtual] , Romania, Europe",
+    "group": "R-Ladies Bucharest",
+    "start": "2020-12-15",
+    "description": "<p>Continuăm întâlnirile R-Ladies Bucharest!<\/p> <p>Ne vedem marți, 15 Decembrie la 7PM CET+1. Mai multe detalii în curând!<\/p> <p>Ca de obicei, înregistrarea este gratuită, dar obligatorie prin meetup. Evenimentul va fi găzduit pe platforma zoom, iar link-ul de access va fi încărcat în ziua evenimentului.<\/p> <p>---------------------------------------------------------------------------------------------<br/>CODE OF CONDUCT<br/>Te rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><br/>---------------------------------------------------------------------------------------------<br/>Acesta este locul cu entuziaști de R unde trebuie să fii!<\/p> ",
+    "url": "https://www.meetup.com/rladies-bucharest/events/273541033/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Columbus",
     "start": "2020-12-10",
@@ -1539,6 +1515,14 @@
     "start": "2021-01-14",
     "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/mpjmxrycccbsb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Columbus",
+    "start": "2021-02-11",
+    "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-columbus/events/mpjmxryccdbpb/",
     "textColor": "blue"
   },
   {
@@ -1665,7 +1649,7 @@
     "title": "R-Ladies Amsterdam: [ONLINE] #IamRemarkable Workshop  [Virtual] , Netherlands, Europe",
     "group": "R-Ladies Amsterdam",
     "start": "2020-11-19",
-    "description": "<p>Hi everyone,<\/p> <p>We hope you are well during this time! While we as R-Ladies Amsterdam typically focus on developing hands- on skills- it's also important to learn how to vocalise your developed skills and achievements! As such, we are excited to invite you to attend the #IamRemarkable workshop as part of the #IamRemarkable Week running from 12-19 November. Join us to celebrate the power of diversity and allyship- and get inspired by remarkable stories and improve your confidence and self-promotion skills.<\/p> <p>#IamRemarkable is a Google initiative empowering women and<br/>underrepresented groups to speak openly about their<br/>accomplishments in the workplace and beyond, thereby<br/>breaking modesty norms and glass ceilings. Learn more at<br/>g.co/IamRemarkable<\/p> <p>In this interactive session, you will participate in group<br/>discussions and exercises to develop the confidence and skills to<br/>promote yourself effectively.<\/p> <p>During the 90 min #IamRemarkable workshop we will:<br/>- Share data and research regarding self promotion and<br/>unconscious bias<br/>- Go through the main exercise to help you articulate your<br/>achievements and practice self promotion<br/>- Have a discussion and share take home exercises<br/>Feel free to sign up to discuss one of the chapters there!<\/p> <p>ABOUT Janine<br/>----------------------<br/>Janine is a data scientist and one of the R-Ladies Amsterdam co-founders. Within the data science world she loves the intricacies that come with data science in the medical world, involving messy data (generation) and medical decision making that go beyond the technical nitty gritty. With her background in psychology she is well equipped to thoroughly understand the the requirements that go into a well designed data science project. She entered the world of data science through R- where her love for the language and the community developed. Now she is busy bringing the community in Amsterdam together supporting others in achieving their full programming potential through R.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Just bring yourself! :)<\/p> <p>LINK TO MEETUP<br/>———————————<br/>See on the right<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "description": "<p>Hi everyone,<\/p> <p>We hope you are well during this time! While we as R-Ladies Amsterdam typically focus on developing hands- on skills- it's also important to learn how to vocalise your developed skills and achievements! As such, we are excited to invite you to attend the #IamRemarkable workshop as part of the #IamRemarkable Week running from 12-19 November. Join us to celebrate the power of diversity and allyship- and get inspired by remarkable stories and improve your confidence and self-promotion skills.<\/p> <p>#IamRemarkable is a Google initiative empowering women and<br/>underrepresented groups to speak openly about their<br/>accomplishments in the workplace and beyond, thereby<br/>breaking modesty norms and glass ceilings. Learn more at<br/>g.co/IamRemarkable<\/p> <p>In this interactive session, you will participate in group<br/>discussions and exercises to develop the confidence and skills to<br/>promote yourself effectively.<\/p> <p>During the 90 min #IamRemarkable workshop we will:<br/>- Share data and research regarding self promotion and<br/>unconscious bias<br/>- Go through the main exercise to help you articulate your<br/>achievements and practice self promotion<br/>- Have a discussion and share take home exercises<br/>Feel free to sign up to discuss one of the chapters there!<\/p> <p>PROGRAMME<br/>---------------------<br/>18.00 - 18.10 Virtual Welcome &amp; R-Ladies introductions<br/>18.10 - 18.20 Introductions<br/>18.20 - 20.00 #IamRemarkable workshop<\/p> <p>ABOUT Janine<br/>----------------------<br/>Janine is a data scientist and one of the R-Ladies Amsterdam co-founders. Within the data science world she loves the intricacies that come with data science in the medical world, involving messy data (generation) and medical decision making that go beyond the technical nitty gritty. With her background in psychology she is well equipped to thoroughly understand the the requirements that go into a well designed data science project. She entered the world of data science through R- where her love for the language and the community developed. Now she is busy bringing the community in Amsterdam together supporting others in achieving their full programming potential through R.<\/p> <p>REQUIREMENTS<br/>----------------------<br/>Just bring yourself! :)<\/p> <p>LINK TO MEETUP<br/>———————————<br/>See on the right<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-amsterdam/events/274527445/",
     "textColor": "blue"
   },
@@ -1691,6 +1675,14 @@
     "start": "2021-01-28",
     "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>The next event is Thursday January 28, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Jocelyn Chavez (<a href=\"https://josschavezf.netlify.app\" class=\"linkified\">https://josschavezf.netlify.app<\/a>) a Ph.D. student at the Biotechnology Institute-UNAM in Mexico! She will give an introduction to the R/Bioconductor (<a href=\"http://bioconductor.org\" class=\"linkified\">http://bioconductor.org<\/a>) ecosystem, using Bioconductor packages, contributing packages, how to get help, attending the annual conference, and also sharing her experience with Bioconductor in general. If you haven't heard of Bioconductor, you can think of it like a cousin to CRAN, but for the analysis of biological data.<\/p> <p>WHO is this for?<br/>- If you are new to R &amp; want to know more about what is Bioconductor!<br/>- If you work with biological data in R, but are unfamiliar with Bioconductor!<br/>- If you are interested contributing to Bioconductor to analyze biological data!<\/p> <p>*If any/all of this is true, this event might be for you!*<\/p> <p>AGENDA<br/>3:00–3:15pm Who we are | Announcements | What's next<br/>3:15–4pm Presentation: An introduction to the R/Bioconductor Ecosystem<br/>4–4:30pm Networking -- Any more Qs?<\/p> <p>Details on the location:<br/>The Zoom information will be sent to those who RSVP the week before the event.<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-baltimore/events/273335104/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Baltimore: R-Ladies Bmore -- Let's get meta: analyzing your R code with tidycode (Virtual)  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Baltimore",
+    "start": "2021-02-11",
+    "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>The next event is Thursday February 11, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Lucy D'Agostino McGowan (<a href=\"https://www.lucymcgowan.com\" class=\"linkified\">https://www.lucymcgowan.com<\/a>) an Assistant Professor in Statistics, Wake Forest University. She will give a presentation on two R packages: matahari (<a href=\"https://github.com/jhudsl/matahari\" class=\"linkified\">https://github.com/jhudsl/matahari<\/a>) and tidycode (<a href=\"https://lucymcgowan.github.io/tidycode/\" class=\"linkified\">https://lucymcgowan.github.io/tidycode/<\/a>). The matahari package is a simple package for tidy logging of everything you type into the R console. The tidycode package allows users to analyze R expressions in a tidy way (i.e. take the code captured from matahari and put it in a tidy table for downstream analysis with the tidyverse).<\/p> <p>WHO is this for?<br/>- If you are new to R &amp; want to see some cool things R can do!<br/>- If you work with messy R expressions and want to know how to tidy them up!<\/p> <p>*If any/all of this is true, this event might be for you!*<\/p> <p>AGENDA<br/>3:00–3:15pm Who we are | Announcements | What's next<br/>3:15–4pm Presentation: Let's get meta: analyzing your R code with tidycode<br/>4–4:30pm Networking -- Any more Qs?<\/p> <p>Details on the location:<br/>The Zoom information will be sent to those who RSVP the week before the event.<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-baltimore/events/273335238/",
     "textColor": "blue"
   },
   {
@@ -1750,14 +1742,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Seattle useR Group (R Programming Language): Deep Learning with Torch; Scaling Data Science with GPU's  [Virtual] , United States, US/Canada",
-    "group": "Seattle useR Group (R Programming Language)",
-    "start": "2020-11-13",
-    "description": "<p>For this meetup Seattle UseR Group is teaming up with Sigrid Keydana and Daniel Falbel, from the RStudio mlverse team to talk about Deep Learning with Torch. Since this talk will be hosted online, everyone in the world is welcomed, though it would be great if you registered on meetup.com! This will be an introductory talk from the creators of torch and RStudio's AI blog.<\/p> <p>Daniel Falbel, author and maintainer of the #torch package, will present how to use PyTorch from R and new advancements in this space. We know we can use TensorFlow to perform deep learning with R, but torch takes this a step further by providing similar functionality in a native R library using libtorch.<\/p> <p>Sigrid Keydana, author of RStudio AI Blog and creator of the #tfprobability package, will complement this talk with an interview to Daniel to discuss broader topics in Deep Learning including transformational changes in our world that go beyond the technical aspects of this very new discipline.<\/p> ",
-    "url": "https://www.meetup.com/Seattle-useR/events/274132794/",
-    "textColor": "blue"
-  },
-  {
     "title": "Köln R User Group: November Virtual R Lightning Talks  [Virtual] , Germany, Europe",
     "group": "Köln R User Group",
     "start": "2020-11-19",
@@ -1771,14 +1755,6 @@
     "start": "2020-12-09",
     "description": "<p>About the instructor: Kaelen is a data scientist at Medidata Solutions where they work as an R programmer on the microservices team. They've also worked at Spring Health, DataCamp, HERE Technologies, and have done a fair amount of R and Shiny consulting on the side. Kaelen has been at various times in their life a: film theorist, preschool teacher, test prep tutor, videographer, and nanny before getting a MS in Biostatistics from LSU Health Sciences Center in 2016 and starting work as a statistician and data scientist. They have a black cat named Scully and enjoy podcasts, aliens, nail polish, and data.<\/p> <p>Workshop description: In this workshop, we'll build and style a simple shiny app. You'll be introduced to both native and add-on Shiny inputs and outputs, with an introduction of reactivity to get you started building reactive functions. We'll cover various htmlWidgets, along with using the shinythemes package to style the app.<\/p> <p>Materials, workshop prep, and Zoom link will be sent out/posted prior to the event!<\/p> ",
     "url": "https://www.meetup.com/rladies-st-louis/events/272801542/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tbilisi: Titanic Challenge (ქართულად)  [Virtual] , Georgia, Asia",
-    "group": "R-Ladies Tbilisi",
-    "start": "2020-11-14",
-    "description": "<p>შეხვედრაზე მარიამ ასათიანი და ვალიდა ფანცულაია Kaggle-ის ტიტანიკის შეჯიბრის (Titanic challenge) მაგალითზე, მანქანური სწავლების საწყისებს გაგვაცნობენ. შეხვედრის პირველი ნახევარი დაეთმობა მონაცემთა ბაზის გაცნობას, ხოლო მეორე ნახევარში შევქმნით მოდელს რომელიც სხვადასხვა პირადი მახასიათებლის დახმარებით გადარჩენილი მგზავრების ვინაობის პროგნოზირების საშუალებას მოგვცემს (survival analysis).<\/p> <p>მარიამი მათემატიკოსი, ვალიდა კი ეკონომისტია. ისინი უძრავი ქონების და საბანკო სფეროებში მუშაობენ, სადაც, ყოველდღიურად აქვთ დიდ მონაცემთა ბაზებთან შეხება.<\/p> <p>სემინარი დაიწყება თბილისის დროით 13.00 საათზე.<\/p> <p>რეგისტრაციის ლინკი:<br/><a href=\"https://docs.google.com/forms/d/1GjOFaFK4-vGjZFCgOgpZ9qy3Y-kOURbr_hC53uJhy7M/\" class=\"linkified\">https://docs.google.com/forms/d/1GjOFaFK4-vGjZFCgOgpZ9qy3Y-kOURbr_hC53uJhy7M/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-tbilisi/events/274382155/",
     "textColor": "blue"
   },
   {
