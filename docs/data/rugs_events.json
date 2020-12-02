@@ -215,6 +215,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Salt Lake City R Users Group: Looking at stop words: why you shouldn't blindly trust model defaults  [Virtual] , United States, US/Canada",
+    "group": "Salt Lake City R Users Group",
+    "start": "2020-12-01",
+    "description": "<p>Our December Meetup will be a remote gathering; it is our September meeting (which was canceled due to the wind storm and power outages) but rescheduled! The Zoom link will be posted the week of the event.<\/p> <p>Removing stop words is a fairly common step in natural language processing, and NLP packages often supply a default list. However, most documentation and tutorials don't explore the nuances of selecting an appropriate list. Defaults for machine learning and modeling can be helpful but may be misleading or wrong. This talk will focus on the importance of checking assumptions and defaults in the software you use.<\/p> <p>Emil Hvitfeldt is a research programmer at University of Southern California, a co-organizer of East Los Angeles R Users Group, and the author of [Supervised Machine Learning for Text Analysis in R](<a href=\"https://smltar.com/\" class=\"linkified\">https://smltar.com/<\/a>) with his coauthor Julia Silge. His interests include developing tools for natural language processing for machine learning models and the use of colors in data visualizations.<\/p> ",
+    "url": "https://www.meetup.com/slc-rug/events/273631590/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Malaysia R User Public Group: confeRence 2020 R Virtual event  [Virtual] , Malaysia, Asia",
     "group": "Malaysia R User Public Group",
     "start": "2020-11-21",
@@ -351,6 +359,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "New York Open Statistical Programming Meetup: Reproducible Computation at Scale in R with Targets  [Virtual] , United States, US/Canada",
+    "group": "New York Open Statistical Programming Meetup",
+    "start": "2020-12-01",
+    "description": "<p>Following up our earlier meetup about drake, we have its creator talking about its successor, targets.<\/p> <p>Thank you to EcoHealth Alliance for providing the Zoom link.<\/p> <p>This meetup is the kickoff to the second 2020 R week with The R Conference for Government &amp; Public Sector on December 2-4. Much like our recent NYR, this is virtual, so anyone around the world can attend. Visit <a href=\"https://rstats.ai/gov/\" class=\"linkified\">https://rstats.ai/gov/<\/a> to learn more and use code nyhackr for a 20% discount on tickets, including workshops.<\/p> <p>About the Talk:<br/>Ambitious workflows in R, such as machine learning analyses, can be difficult to manage. A single round of computation can take several hours to complete, and routine updates to the code and data tend to invalidate hard-earned results. You can enhance the maintainability, hygiene, speed, scale, and reproducibility of such projects with the targets R package. targets resolves the dependency structure of your analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and manages data storage for you. It surpasses the permanent limitations of its predecessor, drake, and provides increased efficiency and a smoother user experience. This talk demonstrates how to create and maintain a Bayesian model validation project using targets-powered automation.<\/p> <p>About Will:<br/>Will is a statistician and software developer. He likes to solve scientific problems and engage with data analysis technologies.<\/p> <p>The talk will begin at 7 PM EST and we will start admitting people to the event shortly before. Since this is completely remote there will be no pizza but everyone is encouraged to have pizza individually.<\/p> ",
+    "url": "https://www.meetup.com/nyhackr/events/274517411/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Birmingham R User Group (R Programming Language): Barcelona R User Group Takeover  [Virtual] , United Kingdom, Europe",
     "group": "Birmingham R User Group (R Programming Language)",
     "start": "2020-11-04",
@@ -407,6 +423,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Montpellier: Lightning Talks: This year I learned ... and it changed my life! R-edition  [Virtual] , France, Europe",
+    "group": "R-Ladies Montpellier",
+    "start": "2020-12-01",
+    "description": "<p>R-Ladies Montpellier in collaboration with R-Ladies Freiburg have the pleasure to invite you to this new online meetup!<\/p> <p>Let's be honest... 2020 has been a rollercoaster -- but surely some good has come out of it! In this R-Ladies year-end Meetup, we'll focus on the positive things we've learned this year in R. And for this, we want to hear from you!<\/p> <p>Whether it's a cool ggplot feature, a newly discovered package, a tip for using R-Studio, or an application of familiar tools to your own project, we know you have something interesting to share! In a 10-minute slot, you can present on anything you've learned this year in R, or walk us through a visualization / piece of code that you're proud of -- all in front of an easy, helpful audience who are there to cheer you on.<\/p> <p>We're hoping to get a range of ladies* from different areas of interest, levels of expertise, and resident countries to join and share their tips with us! If you've never presented before, we want to specifically encourage you to try it out. So don't hesitate to sign up -- we look forward to hearing from you.<\/p> <p>And, as a teaser, topics so far include:<br/>- ...how to make sweet lollipop plots<br/>-... small tricks to make big changes in your R-Studio experience<br/>-... how to make presentations in R<\/p> <p>Sign up for a talk here:<br/><a href=\"https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit<\/a><\/p> <p>We will be sharing the Zoom link soon!<\/p> ",
+    "url": "https://www.meetup.com/rladies-montpellier/events/274646235/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Philly: Your first R package in 1 hour: Tools that make R package development easy  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Philly",
     "start": "2020-11-12",
@@ -460,6 +484,14 @@
     "start": "2020-11-24",
     "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
     "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcpbgc/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2020-12-01",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcqbcb/",
     "textColor": "#7171fb"
   },
   {
@@ -567,6 +599,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Freiburg: Lightning Talks: This year I learned ... and it changed my life! R-edition  [Virtual] , Germany, Europe",
+    "group": "R-Ladies Freiburg",
+    "start": "2020-12-01",
+    "description": "<p>Let's be honest... 2020 has been a rollercoaster -- but surely some good has come out of it! In the R-Ladies Freiburg year-end Meetup, we'll focus on the positive things we've learned this year in R. And for this, we want to hear from you!<\/p> <p>Whether it's a cool ggplot feature, a newly discovered package, a tip for using R-Studio, or an application of familiar tools to your own project, we know you have something interesting to share! In a 10-minute slot, you can present on anything you've learned this year in R, or walk us through a visualization / piece of code that you're proud of -- all in front of an easy, helpful audience who are there to cheer you on.<\/p> <p>We're hoping to get a range of ladies* from different areas of interest, levels of expertise, and resident countries to join and share their tips with us! If you've never presented before, we want to specifically encourage you to try it out. So don't hesitate to sign up -- we look forward to hearing from you.<\/p> <p>So bring a mug of Glühwein (mulled wine, or your beverage of choice) and celebrate a successful year of R with us in a festive, welcoming atmosphere -- see you there!<\/p> <p>We're happy to be joined this evening also by R-Ladies Tunisia and R-Ladies Montpellier!<\/p> <p>And, as a teaser, topics so far include:<br/>- ...how to make sweet lollipop plots<br/>-... small tricks to make big changes in your R-Studio experience<\/p> <p>Sign up for a talk here:<br/><a href=\"https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/274391789/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "AthensR: 1st AthensR meetup (joined with BarcelonaR)  [Virtual] , Greece, Europe",
     "group": "AthensR",
     "start": "2020-11-04",
@@ -620,6 +660,14 @@
     "start": "2020-11-30",
     "description": "<p>Are you an R user who would like to share more online? How about starting a new blog, with R Markdown (Rmd)?<\/p> <p>Maëlle Salmon (<a href=\"https://masalmon.eu/\" class=\"linkified\">https://masalmon.eu/<\/a>), R(esearch) Software Engineer and a proud R-Lady, will be helping us get started!<\/p> <p>In this 2-hour course with live coding, we'll go on two short adventures:<\/p> <p>- setting up a scientific Rmd blog with the Distill framework, and the distill package<\/p> <p>- setting up a scientific Rmd blog with the Hugo website generator and the hugodown package (also quickly presenting blogdown)<\/p> <p>We'll prepare for the adventures by defining what we expect of an Rmd blog. We'll end the course by reflecting on each adventure as well as mentioning important future paths such as how to promote your blog. You should leave the course ready to start an R Markdown blog with your tool of choice, and knowing where to find more resources and help.<\/p> <p>Website: <a href=\"https://rmd-blogging-jozi.netlify.app/\" class=\"linkified\">https://rmd-blogging-jozi.netlify.app/<\/a><\/p> <p>About the speaker:<\/p> <p>Maëlle works remotely from Nancy, France, where she lives with her family.<br/>She is a research software engineer with rOpenSci, besides other projects. In particular, currently, she works on the \"HTTP testing in R\" book thanks to funding from the R Consortium. She created the R-hub blog that features more or less niche topics about R package development, also thanks to funding by the R Consortium.<br/>She also volunteers as an associate editor for rOpenSci's Software Peer Review (peer-review system of R packages), the main manager of R-Ladies Global Twitter account, and a member of the R Weekly team.<\/p> ",
     "url": "https://www.meetup.com/rladies-johannesburg/events/274549377/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Curitiba: word2vec: Onde vivem? O que fazem? O que comem?  [Virtual] , Brazil, Latin America",
+    "group": "R-Ladies Curitiba",
+    "start": "2020-12-01",
+    "description": "<p>Inscreva-se pelo link: <a href=\"https://www.sympla.com.br/word2vec-onde-vivem-o-que-fazem-o-que-comem__1060087\" class=\"linkified\">https://www.sympla.com.br/word2vec-onde-vivem-o-que-fazem-o-que-comem__1060087<\/a><\/p> <p>Aprenda sobre análise de associação de palavras!!!<\/p> ",
+    "url": "https://www.meetup.com/rladies-curitiba/events/274732608/",
     "textColor": "#7171fb"
   },
   {
@@ -949,6 +997,22 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "LA R users group: LA R Users: The Download (Recent Updates in the R Markdown Family)  [Virtual] , United States, US/Canada",
+    "group": "LA R users group",
+    "start": "2020-12-08",
+    "description": "<p>LA R Users Group will have our December meeting online on Zoom (<a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a>).<\/p> <p>**Talk**<\/p> <p>Title: The Download<\/p> <p>Abstract: The R Markdown family of packages has grown a lot over the past few years! While each new package is truly a bundle of joy, the past few months we have worked hard to make our family of existing packages more consistent, supportive, and intuitive. In this talk, I’ll share some of what we are up to lately and what to expect, with highlights from the distill, blogdown, bookdown, and xaringan packages.<\/p> <p>**Speaker**: Alison Hill<\/p> <p>Alison Hill is a data scientist, behavioral scientist, and an award-winning educator. At RStudio, Dr. Hill works to expand how data scientists can communicate when they use RStudio’s tools for collaborating, sharing, and presenting. Alison loves teaching, and has led advanced workshops on data science communication and machine learning at rstudio::conf, R / Medicine, and R in Pharma. She is also an international keynote speaker (<a href=\"https://alison.rbind.io/talks\" class=\"linkified\">https://alison.rbind.io/talks<\/a>), co-developer of the palmerpenguins (<a href=\"https://allisonhorst.github.io/palmerpenguins/\" class=\"linkified\">https://allisonhorst.github.io/palmerpenguins/<\/a>) and distill (<a href=\"https://rstudio.github.io/distill/\" class=\"linkified\">https://rstudio.github.io/distill/<\/a>) R packages, and co-author of the book blogdown: Creating Websites with R Markdown (<a href=\"https://bookdown.org/yihui/blogdown/\" class=\"linkified\">https://bookdown.org/yihui/blogdown/<\/a>)<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>5:20 Open zoom<br/>5:30-6:30 Presentation<br/>~6:30 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://socalr.org/\" class=\"linkified\">https://socalr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
+    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/274931810/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Orange County R Users Group (OCRUG): The Download (Recent Updates in the R Markdown Family)  [Virtual] , United States, US/Canada",
+    "group": "Orange County R Users Group (OCRUG)",
+    "start": "2020-12-08",
+    "description": "<p>Note, this is at an earlier time than normal!<\/p> <p>**Talk**<\/p> <p>Title: The Download<\/p> <p>Abstract: The R Markdown family of packages has grown a lot over the past few years! While each new package is truly a bundle of joy, the past few months we have worked hard to make our family of existing packages more consistent, supportive, and intuitive. In this talk, I’ll share some of what we are up to lately and what to expect, with highlights from the distill, blogdown, bookdown, and xaringan packages.<\/p> <p>**Speaker**: Alison Hill<\/p> <p>Alison Hill is a data scientist, behavioural scientist, and an award-winning educator. At RStudio, Dr. Hill works to expand how data scientists can communicate when they use RStudio’s tools for collaborating, sharing, and presenting. Alison loves teaching and has led advanced workshops on data science communication and machine learning at rstudio::conf, R / Medicine, and R in Pharma. She is also an international keynote speaker (<a href=\"https://alison.rbind.io/talks\" class=\"linkified\">https://alison.rbind.io/talks<\/a>), co-developer of the palmerpenguins (<a href=\"https://allisonhorst.github.io/palmerpenguins/\" class=\"linkified\">https://allisonhorst.github.io/palmerpenguins/<\/a>) and distill (<a href=\"https://rstudio.github.io/distill/\" class=\"linkified\">https://rstudio.github.io/distill/<\/a>) R packages, and co-author of the book blogdown: Creating Websites with R Markdown (<a href=\"https://bookdown.org/yihui/blogdown/\" class=\"linkified\">https://bookdown.org/yihui/blogdown/<\/a>)<\/p> <p>**Schedule**<br/>5:20 Open zoom<br/>5:30-6:30 Presentation<br/>~6:30 Virtual Social<\/p> <p>** ORCUG **<br/>email: [masked]<br/>website: <a href=\"https://ocrug.org\" class=\"linkified\">https://ocrug.org<\/a><br/>GitHub Repo: <a href=\"https://tinyurl.com/ocrug-github\" class=\"linkified\">https://tinyurl.com/ocrug-github<\/a><br/>Slack: <a href=\"https://tinyurl.com/socalrug-slack\" class=\"linkified\">https://tinyurl.com/socalrug-slack<\/a><br/>Slack Signup: <a href=\"https://tinyurl.com/socalrug-slack-signup\" class=\"linkified\">https://tinyurl.com/socalrug-slack-signup<\/a><br/>YouTube: <a href=\"https://tinyurl.com/ocrug-youtube\" class=\"linkified\">https://tinyurl.com/ocrug-youtube<\/a><br/>Twitter (@oc_rug) <a href=\"https://tinyurl.com/ocrug-twitter\" class=\"linkified\">https://tinyurl.com/ocrug-twitter<\/a><br/>Instagram: (oc_rug) <a href=\"https://tinyurl.com/ocrug-instagram\" class=\"linkified\">https://tinyurl.com/ocrug-instagram<\/a><br/>Linkedin: <a href=\"https://www.linkedin.com/company/ocrug/\" class=\"linkified\">https://www.linkedin.com/company/ocrug/<\/a><\/p> <p>All participants agree to abide by the OCRUG's Code of Conduct<br/><a href=\"https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md\" class=\"linkified\">https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md<\/a><\/p> ",
+    "url": "https://www.meetup.com/OC-RUG/events/274932629/",
+    "textColor": "blue"
+  },
+  {
     "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
     "group": "Central Iowa R User Group",
     "start": "2020-12-05",
@@ -1151,7 +1215,7 @@
   {
     "title": "Montreal R User Group: [Webinar] Serverless for ML Inference on Kubernetes: Panacea or Folly?  [Virtual] , Canada, US/Canada",
     "group": "Montreal R User Group",
-    "start": "2020-12-10",
+    "start": "2020-12-15",
     "description": "<p>Register here: <a href=\"https://hubs.li/H0BvQkk0\" class=\"linkified\">https://hubs.li/H0BvQkk0<\/a><\/p> <p>As providers of an end-to-end MLOps platform, we find that autoscaling ML inference is a frequent customer ask. Recently, serverless computing has been touted as the panacea for elastic compute that can provide flexibility and lower operating costs. However, for ML, the need to precisely define hardware configurations and long warm-up times of certain ML models exacerbate the limitations of serverless. To provide the best solution to our customers, we have run extensive benchmarking experiments comparing the performance of serverless and traditional computing for inference workloads running on Kubernetes (with KubeFlow and with the ModelDB MLOps Toolkit). Our experiments have spanned a variety of model types, data modalities, hardware, and workloads. In this talk, we present the results from our benchmarking study and provide a guide to architect your own k8s-based ML inference system.<\/p> <p>Register here: <a href=\"https://hubs.li/H0BvQkk0\" class=\"linkified\">https://hubs.li/H0BvQkk0<\/a><\/p> ",
     "url": "https://www.meetup.com/Montreal-R-User-Group/events/274792221/",
     "textColor": "blue"
@@ -1178,6 +1242,14 @@
     "start": "2021-02-24",
     "description": "<p>Description Coming<\/p> ",
     "url": "https://www.meetup.com/Cleveland-UseR-Group/events/273725112/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Portsmouth R User Group Meetup: Portsmouth R goes viRtual: Covid Special!  [Virtual] , United Kingdom, Europe",
+    "group": "Portsmouth R User Group Meetup",
+    "start": "2020-12-15",
+    "description": "<p>This will be our first virtual meet-up! Please join us on-line for our Covid Special. We have two speakers lined up who will each tell us about what they have been doing during the pandemic.<\/p> <p>Dr Rich Tyler works in Public Health for West Sussex County Council. Rich is a very experienced R user who has used his skills to process data received from multiple sources for the reports he needs to produce frequently.<\/p> <p>Dr Ina Kostakis is Research Fellow in the Centre for Healthcare Modelling and Informatics at the University of Portsmouth. Ina is an experienced modeller but relatively new to R. However, she has picked up the skills quickly and is going to share some recently published research: the performance of the National Early Warning Score (NEWS) &amp; NEWS2 in patients with SARS-CoV-2.<\/p> <p>We plan to start at 5.30pm and the event will last approximately an hour.<\/p> ",
+    "url": "https://www.meetup.com/Portsmouth-R-User-Group/events/274939824/",
     "textColor": "blue"
   },
   {
@@ -1237,14 +1309,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Salt Lake City R Users Group: Looking at stop words: why you shouldn't blindly trust model defaults  [Virtual] , United States, US/Canada",
-    "group": "Salt Lake City R Users Group",
-    "start": "2020-12-01",
-    "description": "<p>Our December Meetup will be a remote gathering; it is our September meeting (which was canceled due to the wind storm and power outages) but rescheduled! The Zoom link will be posted the week of the event.<\/p> <p>Removing stop words is a fairly common step in natural language processing, and NLP packages often supply a default list. However, most documentation and tutorials don't explore the nuances of selecting an appropriate list. Defaults for machine learning and modeling can be helpful but may be misleading or wrong. This talk will focus on the importance of checking assumptions and defaults in the software you use.<\/p> <p>Emil Hvitfeldt is a research programmer at University of Southern California, a co-organizer of East Los Angeles R Users Group, and the author of [Supervised Machine Learning for Text Analysis in R](<a href=\"https://smltar.com/\" class=\"linkified\">https://smltar.com/<\/a>) with his coauthor Julia Silge. His interests include developing tools for natural language processing for machine learning models and the use of colors in data visualizations.<\/p> ",
-    "url": "https://www.meetup.com/slc-rug/events/273631590/",
-    "textColor": "blue"
-  },
-  {
     "title": "Salt Lake City R Users Group: Community Lightning Talks  [Virtual] , United States, US/Canada",
     "group": "Salt Lake City R Users Group",
     "start": "2021-02-09",
@@ -1258,14 +1322,6 @@
     "start": "2020-12-08",
     "description": "<p>Please join us for the 37th R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>Details: Brendan Cullen will showcase some features of RMarkdown that you may not be aware of. He will demonstrate how you can use RMarkdown to improve the presentation of your analyses with R.<\/p> <p>When: December 8th, 2020 @ 6:30-8 PM<\/p> <p>Where: Online: zoom info provided when you respond<\/p> <p>Agenda:<\/p> <p>• Brendan Cullen will lead a discussion around R Markdown features, tips, and tricks<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct\" class=\"linkified\">https://pdxrlang.com/code_of_conduct<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message Marley Buchman in the meetup app, or on Twitter at @pdxrlang<\/p> ",
     "url": "https://www.meetup.com/portland-r-user-group/events/274774392/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Wiesbaden R User Group: R Coffee Break - Parameterschätzungen nichtlinearer Modelle  [Virtual] , Germany, Europe",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-12-02",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Hans Werner Borchers uns in dieser RCoffeeBreak die Parameterschätzungen nichtlinearer Modelle näher bringt.<\/p> <p>'nls()' in Base R ist eine häufig verwendete Funktion zur \"least-squares\" Schätzungen der Parameter eines nichtlinearen Modells; ihre Implementierung hat jedoch schwerwiegende Probleme und Einschränkungen. Wir werden Alternativen erörtern, die in R-Paketen verfügbar sind -- und auch, wie Einschränkungen, z.B.<br/>Positivitätsbedingungen, für die gesuchten Parameter einbezogen werden können.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID: tbd<br/>Passwort: tbd<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/274627449/",
     "textColor": "blue"
   },
   {
@@ -1309,14 +1365,6 @@
     "textColor": "blue"
   },
   {
-    "title": "New York Open Statistical Programming Meetup: Reproducible Computation at Scale in R with Targets  [Virtual] , United States, US/Canada",
-    "group": "New York Open Statistical Programming Meetup",
-    "start": "2020-12-01",
-    "description": "<p>Following up our earlier meetup about drake, we have its creator talking about its successor, targets.<\/p> <p>Thank you to EcoHealth Alliance for providing the Zoom link.<\/p> <p>This meetup is the kickoff to the second 2020 R week with The R Conference for Government &amp; Public Sector on December 2-4. Much like our recent NYR, this is virtual, so anyone around the world can attend. Visit <a href=\"https://rstats.ai/gov/\" class=\"linkified\">https://rstats.ai/gov/<\/a> to learn more and use code nyhackr for a 20% discount on tickets, including workshops.<\/p> <p>About the Talk:<br/>Ambitious workflows in R, such as machine learning analyses, can be difficult to manage. A single round of computation can take several hours to complete, and routine updates to the code and data tend to invalidate hard-earned results. You can enhance the maintainability, hygiene, speed, scale, and reproducibility of such projects with the targets R package. targets resolves the dependency structure of your analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and manages data storage for you. It surpasses the permanent limitations of its predecessor, drake, and provides increased efficiency and a smoother user experience. This talk demonstrates how to create and maintain a Bayesian model validation project using targets-powered automation.<\/p> <p>About Will:<br/>Will is a statistician and software developer. He likes to solve scientific problems and engage with data analysis technologies.<\/p> <p>The talk will begin at 7 PM EST and we will start admitting people to the event shortly before. Since this is completely remote there will be no pizza but everyone is encouraged to have pizza individually.<\/p> ",
-    "url": "https://www.meetup.com/nyhackr/events/274517411/",
-    "textColor": "blue"
-  },
-  {
     "title": "Vienna<-R: BrightonR / ViennaR (this time w zoom link)  [Virtual] , Austria, Europe",
     "group": "Vienna<-R",
     "start": "2020-12-03",
@@ -1330,14 +1378,6 @@
     "start": "2020-12-10",
     "description": "<p>Hello R-Ladies!<\/p> <p>Do you look at your script and see the same code repeated but with one word changed? Do you wish your script could run thousands of tasks while you take a break? Or does your script already run all those tasks but take forever? In this workshop, we tackle some automation functions (for, apply, mutate) that will help you to streamline code and time to accomplish repetitive tasks in R.<\/p> <p>Dr. Kim Dill-McFarland has been teaching data science since her graduate years, including as a teaching fellow at the U. of British Columbia and as a Carpentries certified instructor. She absolutely loves R, using it every day at work as a bioinformatician at the U. of Washington and at home modelling her new kitten's weight gain. Kim strongly believes in open-source tools and the power coding can bring to scientists of all levels and disciplines.<\/p> <p>Workshop details:<br/>Day and time: Dec 10th, 2020 at 6pm<br/>Webinar link: RSVP to view link<\/p> <p>***<br/>General workshop information:<\/p> <p>-Please expect a hands-on session in a friendly and laid-back atmosphere where we all encouraged to learn together.<br/>- All levels!<br/>- Install R: <a href=\"https://mirror.its.sfu.ca/mirror/CRAN/\" class=\"linkified\">https://mirror.its.sfu.ca/mirror/CRAN/<\/a><br/>- Install RStudio (choose the Desktop version): <a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a><br/>- Install tidyverse package with install.packages(\"tidyverse\")<br/>- Install penguin data package with install.packages(\"palmerpenguins\")<br/>- Install multiprocessor packages with install.packages(c(\"foreach\", \"doParallel\"))<\/p> <p>**********************IMPORTANT************************<\/p> <p>1. Have your computer and a steady internet connection ready<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>3. Who is this allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>See you there!<\/p> <p>Lisa, Jasmine, Lucia, Zubia, and Yuka<\/p> ",
     "url": "https://www.meetup.com/rladies-vancouver/events/274737624/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Montpellier: Lightning Talks: This year I learned ... and it changed my life! R-edition  [Virtual] , France, Europe",
-    "group": "R-Ladies Montpellier",
-    "start": "2020-12-01",
-    "description": "<p>R-Ladies Montpellier in collaboration with R-Ladies Freiburg have the pleasure to invite you to this new online meetup!<\/p> <p>Let's be honest... 2020 has been a rollercoaster -- but surely some good has come out of it! In this R-Ladies year-end Meetup, we'll focus on the positive things we've learned this year in R. And for this, we want to hear from you!<\/p> <p>Whether it's a cool ggplot feature, a newly discovered package, a tip for using R-Studio, or an application of familiar tools to your own project, we know you have something interesting to share! In a 10-minute slot, you can present on anything you've learned this year in R, or walk us through a visualization / piece of code that you're proud of -- all in front of an easy, helpful audience who are there to cheer you on.<\/p> <p>We're hoping to get a range of ladies* from different areas of interest, levels of expertise, and resident countries to join and share their tips with us! If you've never presented before, we want to specifically encourage you to try it out. So don't hesitate to sign up -- we look forward to hearing from you.<\/p> <p>And, as a teaser, topics so far include:<br/>- ...how to make sweet lollipop plots<br/>-... small tricks to make big changes in your R-Studio experience<br/>-... how to make presentations in R<\/p> <p>Sign up for a talk here:<br/><a href=\"https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit<\/a><\/p> <p>We will be sharing the Zoom link soon!<\/p> ",
-    "url": "https://www.meetup.com/rladies-montpellier/events/274646235/",
     "textColor": "blue"
   },
   {
@@ -1377,14 +1417,6 @@
     "start": "2020-12-04",
     "description": "<p>What a year!<br/>Although virtual events have been a great learning experience.<br/>For this last event of the year, prepare yourselves to go out!<\/p> <p>* What are we going to do?<br/>This is a networking event! We hope to meet once again in person, get to know each other and have fun together!<br/>As of today, plans are buy your own food and drinks.<br/>If you or your organisation would like to sponsor this event please get in touch!<\/p> <p>NOTE: we need to confirm numbers to the venue by Nov 26th, make sure you click attending before that.<\/p> <p>We have RLadiesGlobal stickers for you!<br/>We will announce the call for our new RLadiesBrisbane Sticker!<\/p> <p>* When are we meeting?<br/>Meet at 5:30 pm<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>*********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/274202999/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2020-12-01",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcqbcb/",
     "textColor": "blue"
   },
   {
@@ -1620,14 +1652,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Freiburg: Lightning Talks: This year I learned ... and it changed my life! R-edition  [Virtual] , Germany, Europe",
-    "group": "R-Ladies Freiburg",
-    "start": "2020-12-01",
-    "description": "<p>Let's be honest... 2020 has been a rollercoaster -- but surely some good has come out of it! In the R-Ladies Freiburg year-end Meetup, we'll focus on the positive things we've learned this year in R. And for this, we want to hear from you!<\/p> <p>Whether it's a cool ggplot feature, a newly discovered package, a tip for using R-Studio, or an application of familiar tools to your own project, we know you have something interesting to share! In a 10-minute slot, you can present on anything you've learned this year in R, or walk us through a visualization / piece of code that you're proud of -- all in front of an easy, helpful audience who are there to cheer you on.<\/p> <p>We're hoping to get a range of ladies* from different areas of interest, levels of expertise, and resident countries to join and share their tips with us! If you've never presented before, we want to specifically encourage you to try it out. So don't hesitate to sign up -- we look forward to hearing from you.<\/p> <p>So bring a mug of Glühwein (mulled wine, or your beverage of choice) and celebrate a successful year of R with us in a festive, welcoming atmosphere -- see you there!<\/p> <p>We're happy to be joined this evening also by R-Ladies Tunisia and R-Ladies Montpellier!<\/p> <p>And, as a teaser, topics so far include:<br/>- ...how to make sweet lollipop plots<br/>-... small tricks to make big changes in your R-Studio experience<\/p> <p>Sign up for a talk here:<br/><a href=\"https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/274391789/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Baltimore: R-Ladies Baltimore -- Reticulate RStudio and your R code with Python (Virtual)  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Baltimore",
     "start": "2020-12-17",
@@ -1649,14 +1673,6 @@
     "start": "2021-02-11",
     "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>The next event is Thursday February 11, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Lucy D'Agostino McGowan (<a href=\"https://www.lucymcgowan.com\" class=\"linkified\">https://www.lucymcgowan.com<\/a>) an Assistant Professor in Statistics, Wake Forest University. She will give a presentation on two R packages: matahari (<a href=\"https://github.com/jhudsl/matahari\" class=\"linkified\">https://github.com/jhudsl/matahari<\/a>) and tidycode (<a href=\"https://lucymcgowan.github.io/tidycode/\" class=\"linkified\">https://lucymcgowan.github.io/tidycode/<\/a>). The matahari package is a simple package for tidy logging of everything you type into the R console. The tidycode package allows users to analyze R expressions in a tidy way (i.e. take the code captured from matahari and put it in a tidy table for downstream analysis with the tidyverse).<\/p> <p>WHO is this for?<br/>- If you are new to R &amp; want to see some cool things R can do!<br/>- If you work with messy R expressions and want to know how to tidy them up!<\/p> <p>*If any/all of this is true, this event might be for you!*<\/p> <p>AGENDA<br/>3:00–3:15pm Who we are | Announcements | What's next<br/>3:15–4pm Presentation: Let's get meta: analyzing your R code with tidycode<br/>4–4:30pm Networking -- Any more Qs?<\/p> <p>Details on the location:<br/>The Zoom information will be sent to those who RSVP the week before the event.<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-baltimore/events/273335238/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Curitiba: word2vec: Onde vivem? O que fazem? O que comem?  [Virtual] , Brazil, Latin America",
-    "group": "R-Ladies Curitiba",
-    "start": "2020-12-01",
-    "description": "<p>Inscreva-se pelo link: <a href=\"https://www.sympla.com.br/word2vec-onde-vivem-o-que-fazem-o-que-comem__1060087\" class=\"linkified\">https://www.sympla.com.br/word2vec-onde-vivem-o-que-fazem-o-que-comem__1060087<\/a><\/p> <p>Aprenda sobre análise de associação de palavras!!!<\/p> ",
-    "url": "https://www.meetup.com/rladies-curitiba/events/274732608/",
     "textColor": "blue"
   },
   {
@@ -1992,6 +2008,22 @@
     "start": "2020-12-05",
     "description": "<p>• CONTEÚDO<br/>Este encontro tem como objetivo fazer uma introdução ao Shiny, passando por aplicações, especificidades e extensões. Em formato de estudo de caso, a segunda parte será uma aplicação da ferramenta para explorar possíveis caminhos de utilização e customização.<\/p> <p>• PALESTRANTE<br/>Marina Muradian<br/>Bacharel em Administração de Empresas pelo Insper (2012) e Mestre em Administração pela Faculdade de Economia, Administração e Contabilidade da Universidade de São Paulo (2016). Atualmente, é Doutoranda em Business Economics pelo Insper com área de pesquisa em Marketing Analytics e atua como professora das disciplinas de Data Visualization e Marketing Analytics do Programa Avançado em Data Science do Insper – Instituto de Ensino e Pesquisa em São Paulo.<\/p> <p>_____________________________________________<br/>Por favor leia todas as informações abaixo!<\/p> <p>• PÚBLICO-ALVO<br/>Pessoas que se identificam como minoria de gênero (mulher trans ou cis, homem trans, pessoa não-binária, queer).<\/p> <p>• LOCAL DO EVENTO:<br/>Canal das R-Ladies São Paulo no Youtube<br/><a href=\"https://bit.ly/rladiesp-youtube/\" class=\"linkified\">https://bit.ly/rladiesp-youtube/<\/a><\/p> <p>• O QUE PRECISO FAZER PARA PARTICIPAR?<br/>Se inscrever pelo site do Meetup gratuitamente, incluindo seu nome completo e email - esses dados não serão divulgados publicamente.<\/p> <p>• CÓDIGO DE CONDUTA<br/>Disponível aqui: <a href=\"https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#Portuguese\" class=\"linkified\">https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#Portuguese<\/a><\/p> <p>Qualquer pessoa que violar ou houver previamente violado o código de conduta desta comunidade terá sua entrada proibida, será expulsa/o e/ou estará sujeita/o à ação que a pessoa organizadora achar mais apropriada, independente de inscrição no evento, ser membro do MeetUp ou qualquer outra condição.<\/p> <p>_____________________________________________<br/>• SOBRE AS R-LADIES<br/>R-Ladies é uma organização que promove a diversidade de gênero na comunidade da linguagem R. Nosso principal objetivo é promover a linguagem computacional estatística R compartilhando conhecimento, assim, quem tiver interesse na linguagem será bem-vinda, independente do nível de conhecimento. Nosso principal público-alvo são as pessoas que se identificam com o gênero feminino, portanto, mulheres cis, mulheres trans, bem como pessoas não-binárias e queer.<\/p> <p>_____________________________________________<br/>O evento é gratuito, e organizado com muito carinho, ajude a espalhar a palavra, compartilhe com outras ladies :)<\/p> ",
     "url": "https://www.meetup.com/rladies-sao-paulo/events/274890852/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Milan: 2020 GoodRbye!  [Virtual] , Italy, Europe",
+    "group": "R-Ladies Milan",
+    "start": "2020-12-15",
+    "description": "<p>Unisciti a noi per l'ultimo evento dell'anno targato RLadies Italy!<\/p> <p>Festeggeremo insieme i risultati ottenuti finora con le speakers che ci hanno supportato e parleremo dei prossimi eventi in programma nel 2021!!!!!<\/p> <p>Ci sarà anche un mini \"pub quiz\" virtuale con dei premi in palio per la RLady che ne saprà di più su R, RLadies global e RLadies Italy.<br/>Non vediamo l'ora di premiare la 'miglior' RLady dell'anno!!<\/p> <p>Vi proponiamo anche un sondaggio di fine anno per raccogliere feedback che ci aiuteranno a migliorare e creare una community ancora più attiva nel prossimi mesi.<br/>Link sondaggio: <a href=\"https://forms.gle/c1MQE8z94FQozfJH7\" class=\"linkified\">https://forms.gle/c1MQE8z94FQozfJH7<\/a><\/p> <p>Non perdere quest'occasione per festeggiare con noi e fare un brindisi a questa nuova community che sta crescendo a vista d'occhio!<\/p> <p>Agenda:<br/>- RLadies Italy Intro<br/>- Roundtable speakers<br/>- Piani per il prossimo anno<br/>- Q&amp;A<br/>- Quiz Time!<br/>Vi aspettiamo!<\/p> <p>Interested to give a talk or collaborate with us on an event? Reach us!<\/p> ",
+    "url": "https://www.meetup.com/rladies-milan/events/274928575/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies New York: End-of-Year Celebration for Women and Gender Minorities  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies New York",
+    "start": "2020-12-08",
+    "description": "<p>[Please note: At the request of members of our community for an R-Ladies space exclusively for minority genders, this event is limited to those who identify as such (including but not limited to women, trans men, non-binary, and gender nonconforming individuals). Male allies have been great supporters of our chapter and the R-Ladies mission to promote gender diversity in the R Community -- for which we are grateful! -- and we believe the best way male allies can support us this month is by honoring the need for and benefit of such a space.]<\/p> <p>Happy Holidays! To close out 2020, we are thrilled to host a virtual version of our annual end-of-year celebration and social! We'll utilize breakout rooms to allow participants to connect (or re-connect) with other members of our community in smaller groups.<\/p> <p>*IMPORTANT* To RSVP for this event, you must complete and submit this Google form: <a href=\"https://forms.gle/v3eEg4nXSzH9s5D4A\" class=\"linkified\">https://forms.gle/v3eEg4nXSzH9s5D4A<\/a> While you may RSVP via Meetup to let others know you plant to attend, Zoom link information will only be shared via email with those who register through the form.<\/p> <p>Agenda:<br/>7-7:10: Welcome and R-Ladies NYC Announcements<br/>7:10-8:30: Breakout room chats (3-5 people, and we'll provide some topics to inspire conversation!)<\/p> ",
+    "url": "https://www.meetup.com/rladies-newyork/events/274929711/",
     "textColor": "blue"
   },
   {
