@@ -127,14 +127,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Montreal R User Group: IM DATA [virtual]  [Virtual] , Canada, US/Canada",
-    "group": "Montreal R User Group",
-    "start": "2020-11-02",
-    "description": "<p>Register here: <a href=\"https://bit.ly/3fvWAzT\" class=\"linkified\">https://bit.ly/3fvWAzT<\/a><\/p> <p>Join us for Innovative Methods with Data Science and AI. RMDS’s annual conference has officially transitioned into a virtual experience, allowing for two days of groundbreaking content from experts in the field of data science, AI, machine learning and more.<\/p> <p>This multi-track conference will focus on three main areas:<\/p> <p>- Innovative Methods with Data Science and AI<br/>- Data and AI for COVID-19 and Healthcare<br/>- AI, Machine Learning and Deep Learning.<\/p> <p>Register here: <a href=\"https://bit.ly/3fvWAzT\" class=\"linkified\">https://bit.ly/3fvWAzT<\/a><\/p> <p>Interested in speaking? Apply here: <a href=\"https://bit.ly/2BcwLXp\" class=\"linkified\">https://bit.ly/2BcwLXp<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/271541248/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Montreal R User Group: [Webinar] How to make any Python-based ML model reproducible  [Virtual] , Canada, US/Canada",
     "group": "Montreal R User Group",
     "start": "2020-11-10",
@@ -268,6 +260,14 @@
     "start": "2020-11-25",
     "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Sebastian Pfitzner uns in dieser in dieser R Coffee Break Julia, die Programmiersprache, vorstellt.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Passwort:[masked]<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/273005547/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break - Parameterschätzungen nichtlinearer Modelle  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2020-12-02",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Hans Werner Borchers uns in dieser RCoffeeBreak die Parameterschätzungen nichtlinearer Modelle näher bringt.<\/p> <p>'nls()' in Base R ist eine häufig verwendete Funktion zur \"least-squares\" Schätzungen der Parameter eines nichtlinearen Modells; ihre Implementierung hat jedoch schwerwiegende Probleme und Einschränkungen. Wir werden Alternativen erörtern, die in R-Paketen verfügbar sind -- und auch, wie Einschränkungen, z.B.<br/>Positivitätsbedingungen, für die gesuchten Parameter einbezogen werden können.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Passwort:[masked]<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/274627449/",
     "textColor": "#7171fb"
   },
   {
@@ -853,14 +853,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | 建立 Data Pipeline 的基本原則與痛點, Taiwan, Asia",
-    "group": "Taiwan R User Group / MLDM Monday",
-    "start": "2020-11-02",
-    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：建立 Data Pipeline 的基本原則與痛點<br/>講題介紹：<br/>Data pipeline 是一個包括資料處理邏輯以及系統架構的領域。需要根據業務需求擬定要搜集的資料、根據資料量還有資料複雜度來設計管線系統、根據業務邏輯來規劃不同的資料處理流程。本次講題將會介紹基本管線系統的設計、以及規劃資料處理流程時需要注意的原則與雷點。<\/p> <p>講者介紹：Bryan Yang<br/>在團隊內做各種打雜扛轎，幫助團隊成員產生更多價值。<\/p> ",
-    "url": "https://www.meetup.com/Taiwan-R/events/273939818/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | Hardness of Nearest Neighbor Search, Taiwan, Asia",
     "group": "Taiwan R User Group / MLDM Monday",
     "start": "2020-11-09",
@@ -1000,7 +992,7 @@
     "title": "LA R users group: LA R Users: The Download (Recent Updates in the R Markdown Family)  [Virtual] , United States, US/Canada",
     "group": "LA R users group",
     "start": "2020-12-08",
-    "description": "<p>LA R Users Group will have our December meeting online on Zoom (<a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a>).<\/p> <p>**Talk**<\/p> <p>Title: The Download<\/p> <p>Abstract: The R Markdown family of packages has grown a lot over the past few years! While each new package is truly a bundle of joy, the past few months we have worked hard to make our family of existing packages more consistent, supportive, and intuitive. In this talk, I’ll share some of what we are up to lately and what to expect, with highlights from the distill, blogdown, bookdown, and xaringan packages.<\/p> <p>**Speaker**: Alison Hill<\/p> <p>Alison Hill is a data scientist, behavioral scientist, and an award-winning educator. At RStudio, Dr. Hill works to expand how data scientists can communicate when they use RStudio’s tools for collaborating, sharing, and presenting. Alison loves teaching, and has led advanced workshops on data science communication and machine learning at rstudio::conf, R / Medicine, and R in Pharma. She is also an international keynote speaker (<a href=\"https://alison.rbind.io/talks\" class=\"linkified\">https://alison.rbind.io/talks<\/a>), co-developer of the palmerpenguins (<a href=\"https://allisonhorst.github.io/palmerpenguins/\" class=\"linkified\">https://allisonhorst.github.io/palmerpenguins/<\/a>) and distill (<a href=\"https://rstudio.github.io/distill/\" class=\"linkified\">https://rstudio.github.io/distill/<\/a>) R packages, and co-author of the book blogdown: Creating Websites with R Markdown (<a href=\"https://bookdown.org/yihui/blogdown/\" class=\"linkified\">https://bookdown.org/yihui/blogdown/<\/a>)<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>5:20 Open zoom<br/>5:30-6:30 Presentation<br/>~6:30 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://socalr.org/\" class=\"linkified\">https://socalr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
+    "description": "<p>LA R Users Group will have our December meeting online on Zoom (<a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a>).<\/p> <p>**Talk**<\/p> <p>Title: The Download<\/p> <p>Abstract: The R Markdown family of packages has grown a lot over the past few years! While each new package is truly a bundle of joy, the past few months we have worked hard to make our family of existing packages more consistent, supportive, and intuitive. In this talk, I’ll share some of what we are up to lately and what to expect, with highlights from the distill, blogdown, bookdown, and xaringan packages.<\/p> <p>**Speaker**: Alison Hill<\/p> <p>Alison Hill is a data scientist, behavioral scientist, and an award-winning educator. At RStudio, Dr. Hill works to expand how data scientists can communicate when they use RStudio’s tools for collaborating, sharing, and presenting. Alison loves teaching, and has led advanced workshops on data science communication and machine learning at rstudio::conf, R / Medicine, and R in Pharma. She is also an international keynote speaker (<a href=\"https://alison.rbind.io/talks\" class=\"linkified\">https://alison.rbind.io/talks<\/a>), co-developer of the palmerpenguins (<a href=\"https://allisonhorst.github.io/palmerpenguins/\" class=\"linkified\">https://allisonhorst.github.io/palmerpenguins/<\/a>) and distill (<a href=\"https://rstudio.github.io/distill/\" class=\"linkified\">https://rstudio.github.io/distill/<\/a>) R packages, and co-author of the book blogdown: Creating Websites with R Markdown (<a href=\"https://bookdown.org/yihui/blogdown/\" class=\"linkified\">https://bookdown.org/yihui/blogdown/<\/a>)<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**Schedule**<br/>5:20 Open zoom<br/>5:30-6:30 Presentation<br/>~7:20 Virtual Social<\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://socalr.org/\" class=\"linkified\">https://socalr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
     "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/274931810/",
     "textColor": "blue"
   },
@@ -1349,6 +1341,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Bay Area useR Group (R Programming Language): December BARUG Meetup  [Virtual] , United States, US/Canada",
+    "group": "Bay Area useR Group (R Programming Language)",
+    "start": "2020-12-15",
+    "description": "<p>Come join us for the last BARUG meetup of 2020. Our speakers include long time BARUG members and frequent speakers John-Mark Agosta and Norm Matloff, and first time speaker Paromita Dubey, Stanford Statistics Department Stein Fellow.<\/p> <p>Agenda:<br/>5:00 Networking<br/>5:30 Announcements<br/>5:40 John-Mark Agosta: Using PCA for Anomaly Detection<br/>6:00 Paromita Dubey: TBD<br/>6:30 Norm Matloff: The Notion of Double Descent<\/p> <p>#####<br/>Norm Matloff<br/>The Notion of Double Descent<\/p> <p>The notion of double descent, which has come into prominence in the last few years, is something I regard as genuinely new and very relevant, shedding important light on the central issue of model overfitting.<\/p> <p>In this talk, I’ll explain the idea, and illustrate it using code from my regtools R package. (Have a look at Norm's Post (<a href=\"https://matloff.wordpress.com/2020/11/11/the-notion-of-double-descent/#comments\" class=\"linkified\">https://matloff.wordpress.com/2020/11/11/the-notion-of-double-descent/#comments<\/a>) to prepare for the talk.<\/p> ",
+    "url": "https://www.meetup.com/R-Users/events/274946927/",
+    "textColor": "blue"
+  },
+  {
     "title": "Barcelona R User Group: Online event organised by: Brighton R  [Virtual] , Spain, Europe",
     "group": "Barcelona R User Group",
     "start": "2020-12-03",
@@ -1373,6 +1373,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Campus useR Group Frankfurt: December meeting: ♪ Tidy night, holy night ♪  [Virtual] , Germany, Europe",
+    "group": "Campus useR Group Frankfurt",
+    "start": "2020-12-10",
+    "description": "<p>It's this time of the year again! Grab your laptop, some cookies and a cup of mulled wine, and join us in another group coding activity.<\/p> <p>For our December meetup, we decided to tackle a Tidy Tuesday (<a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>) challenge again. We'll probably go with the latest challenge published, but might also pick a past one if we feel like it.<\/p> <p>As always, our meeting is open to useRs of all backgrounds and at all levels of expertise. There is always something new to learn for everyone.<\/p> ",
+    "url": "https://www.meetup.com/r-frankfurt/events/274964766/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Vancouver: Automating tasks in R to streamline your workflow  [Virtual] , Canada, US/Canada",
     "group": "R-Ladies Vancouver",
     "start": "2020-12-10",
@@ -1394,14 +1402,6 @@
     "start": "2021-01-13",
     "description": "<p>This introduction to Shiny Dashboards is for people who are interested in creating multi-Shiny app dashboards in R using the “shinydashboard” package. Topics such as reactivity, appearance (i.e. dashboard themes), profiling, and deployment will be covered. Over the course of the workshop, users will learn how to go from a raw data file to a working multi-app dashboard that can be updated based on user input.<\/p> <p>The workshop will be suitable for beginner to intermediate R users or for those who are new to dashboard and app development. Former experience with Shiny is not necessary for this workshop. Some familiarity with R and/or data visualization methods would be helpful and assumed but not required, so novice users are encouraged to attend.<\/p> <p>Speaker<\/p> <p>Anastasia Lucas is a data analyst working in biomedical informatics and computational genomics research at the University of Pennsylvania’s Perelman School of Medicine. Her work in R mainly focuses on statistical analysis, package development, and data visualization.<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/268783210/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Sydney: ggplot Code Along w R-Ladies AUS/NZ  [Virtual] , Australia, Australia",
-    "group": "R-Ladies Sydney",
-    "start": "2020-12-03",
-    "description": "<p>art by @allison_horst<\/p> <p>We are super excited to join with R-Ladies Canberra and other chapters across Australia and New Zealand for a ggplot code along on Dec 3. This event is targeted for less experienced users of R, but all users are welcome to attend.<\/p> <p>Erika Duan will be leading the code-along, introducing data visualisation using ggplot. We'll code for about half an hour, then break out into smaller groups for meet-and-greet, then return to coding for another half hour before closing with a second breakout.<\/p> <p>Come along, learn some viz skills and meet R-Ladies from far and wide!<\/p> ",
-    "url": "https://www.meetup.com/rladies-sydney/events/274568708/",
     "textColor": "blue"
   },
   {
@@ -1516,11 +1516,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Auckland: Code-Along with R-Ladies Canberra   [Virtual] , New Zealand, Australia",
-    "group": "R-Ladies Auckland",
-    "start": "2020-12-03",
-    "description": "<p>R-Ladies Canberra has invited R-Ladies Auckland and several other R-Ladies chapters across Australia and New Zealand to join them in their final event of the year! The event will be an online code-along targeted for less experienced users of R, but all users are welcome to attend.<\/p> <p>Erika Duan will be leading the code-along, introducing data visualisation using ggplot. We'll code for about half an hour, then break out into smaller groups for meet-and-greet, then return to coding for another half hour before closing with a second breakout.<\/p> <p>This meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date. R-Ladies Canberra is looking forward to seeing you there!<\/p> <p>If you have any questions or problems, don't hesitate to contact Izzy Johnson (co-host) through meet-up!<\/p> <p>As with all our meetups, please be aware of and read the Code of Conduct before attending.<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-auckland/events/274521724/",
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2021-03-02",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvryccfbdb/",
     "textColor": "blue"
   },
   {
@@ -1604,6 +1604,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Melbourne: End of Year Celebration!, Australia, Australia",
+    "group": "R-Ladies Melbourne",
+    "start": "2020-12-14",
+    "description": "<p>Merry Christmas Everyone!<\/p> <p>To celebrate the end of 2020 please join us on December 14th for our annual Christmas networking event!<\/p> <p>This will be an in-person event held outside at the Fitzroy Gardens. We'll meet at 5pm at Cook's Cottage, please bring a picnic rug if you have one.<\/p> <p>In line with COVID restrictions we are capping this event at 50 people, so be sure to respond quickly if you would like to attend.<\/p> <p>We're looking forward to seeing you there!<\/p> <p>From all the R-Ladies organisers, we hope everyone has a safe and happy holiday season!<\/p> ",
+    "url": "https://www.meetup.com/rladies-melbourne/events/274913689/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
     "group": "R-Ladies Montreal",
     "start": "2020-12-17",
@@ -1652,10 +1660,18 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Amsterdam: Automatic & Explainable Machine Learning in R with H2O  [Virtual] , Netherlands, Europe",
+    "group": "R-Ladies Amsterdam",
+    "start": "2020-12-17",
+    "description": "<p>Hi, everybody!<br/>We hope that you and your family are doing well. We are super excited to have Erin, co-founder of R-Ladies global, founder of the Women in Machine Learning and Data Science and Chief Machine Learning Scientist at H2O.ai to bring you a workshop on Automatic and Explainable Machine Learning in R with H2O!<\/p> <p>DESCRIPTION<br/>----------------------<\/p> <p>H2O is an open source, distributed machine learning platform is designed to scale to very large datasets. H2O AutoML provides an easy-to-use interface which automates data pre-processing, training and tuning a large selection of candidate models from a single function, `h2o.automl()`. The result of the AutoML run is a \"leaderboard\" of H2O models, which can be then be explained automatically using the H2O Explainability interface.<\/p> <p>The models can be explained individually, and also compared as a group and both global (model-wise) and local (row-wise) explainations are available. The `h2o.explain()` function generates a list of explanations – individual units of explanation such as a Partial Dependence plot or a Variable Importance plot. Most of the explanations are visual – these plots can also be created by individual utility functions outside the `h2o.explain()` function. The visualization engine used in the R interface is the ggplot2 package and in Python, we use matplotlib.<\/p> <p>R code with a full demo will be provided, which can be used to automatically train and explain models on your own dataset.<\/p> <p>PROGRAMME<br/>----------------------<br/>[masked] Virtual Welcome<br/>19.05- 20.30 Talk &amp; Q&amp;A<\/p> <p>ABOUT ERIN<br/>----------------------<br/><a href=\"https://www.linkedin.com/in/erin-ledell/\" class=\"linkified\">https://www.linkedin.com/in/erin-ledell/<\/a><br/>Erin LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. At H2O.ai, she leads the H2O AutoML project and her current research focus is automated machine learning. Before joining H2O.ai, she was the Principal Data Scientist at Wise.io (acquired by GE) and Marvin Mobile Security (acquired by Veracode), the founder of DataScientific, Inc. and a software engineer. She is also founder of the Women in Machine Learning and Data Science (WiMLDS) organization (wimlds.org) and co-founder of R-Ladies Global (rladies.org). Erin received her Ph.D. in Biostatistics with a Designated Emphasis in Computational Science and Engineering from University of California, Berkeley and has a B.S. and M.A. in Mathematics.<\/p> <p>CODE OF CONDUCT<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.<\/p> ",
+    "url": "https://www.meetup.com/rladies-amsterdam/events/274961085/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Baltimore: R-Ladies Baltimore -- Reticulate RStudio and your R code with Python (Virtual)  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Baltimore",
-    "start": "2020-12-17",
-    "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>The next event is Thursday December 17, 2020 from 3-4:30pm (virtual meetup on Zoom). We are so excited to welcome Tiffany Timbers (<a href=\"https://www.tiffanytimbers.com\" class=\"linkified\">https://www.tiffanytimbers.com<\/a>) from the Department of Statistics and a Co-Director for the Master of Data Science program (Vancouver Option) at the University of British Columbia! She will presenting on how to leverage Python within R and RStudio using the reticulate (<a href=\"https://rstudio.github.io/reticulate/\" class=\"linkified\">https://rstudio.github.io/reticulate/<\/a>) R package!<\/p> <p>WHO is this for?<br/>- If you are new to R &amp; but curious about Python!<br/>- If you analyze data in R, but on the job market and need to learn how to leverage wonderful Python libraries!<br/>- If you use R and collaborate with other researchers who use Python and are looking for strategies on how to collaborate and write code together!<\/p> <p>*If any/all of this is true, this event might be for you!*<\/p> <p>AGENDA<br/>3:00–3:15pm Who we are | Announcements | What's next<br/>3:15–4pm Presentation: Reticulate RStudio and your R code with Python<br/>4–4:30pm Networking -- Any more Qs?<\/p> <p>Details on the location:<br/>The Zoom information will be sent to those who RSVP the week before the event.<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
+    "start": "2020-12-16",
+    "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>The next event is Wednesday December 16, 2020 from 3-4:30pm (virtual meetup on Zoom). We are so excited to welcome Tiffany Timbers (<a href=\"https://www.tiffanytimbers.com\" class=\"linkified\">https://www.tiffanytimbers.com<\/a>) from the Department of Statistics and a Co-Director for the Master of Data Science program (Vancouver Option) at the University of British Columbia! She will presenting on how to leverage Python within R and RStudio using the reticulate (<a href=\"https://rstudio.github.io/reticulate/\" class=\"linkified\">https://rstudio.github.io/reticulate/<\/a>) R package!<\/p> <p>WHO is this for?<br/>- If you are new to R &amp; but curious about Python!<br/>- If you analyze data in R, but on the job market and need to learn how to leverage wonderful Python libraries!<br/>- If you use R and collaborate with other researchers who use Python and are looking for strategies on how to collaborate and write code together!<\/p> <p>*If any/all of this is true, this event might be for you!*<\/p> <p>AGENDA<br/>3:00–3:15pm Who we are | Announcements | What's next<br/>3:15–4pm Presentation: Reticulate RStudio and your R code with Python<br/>4–4:30pm Networking -- Any more Qs?<\/p> <p>Details on the location:<br/>The Zoom information will be sent to those who RSVP the week before the event.<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-baltimore/events/273328125/",
     "textColor": "blue"
   },
@@ -1676,11 +1692,19 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Canberra: RLadies Canberra Code-along part 1  [Virtual] , Australia, Australia",
-    "group": "R-Ladies Canberra",
-    "start": "2020-12-03",
-    "description": "<p>RLadies Canberra is pleased to announce an online code-along for their final event in a very eventful year! RLadies from across Australia and New Zealand have been invited through their local groups. This event is targeted for less experienced users of R, but all users are welcome to attend.<\/p> <p>Erika Duan will be leading the code-along, introducing data visualisation using ggplot. We'll code for about half an hour, then break out into smaller groups for meet-and-greet, then return to coding for another half hour before closing with a second breakout.<\/p> <p>The event is online, and once you RSVP you will be sent a Zoom link. RLadies Canberra is looking forward to seeing you there!<\/p> ",
-    "url": "https://www.meetup.com/rladies-canberra/events/274501759/",
+    "title": "R-Ladies San Diego: R-Ladies Year End Social  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies San Diego",
+    "start": "2020-12-16",
+    "description": "<p>Whew! What a year!<br/>Here's hoping you are up for a Zoom social because we miss you all! Bring your favorite beverage to your local couch and get ready to hang out, play some games and plan for next year.<br/>Agenda:<br/>6:00 - 6:45 Re-intros. We really do want to know \"How are you?\"<br/>7:00 - 8:00 A game :)<br/>8:00 - 8:30 Discussion around R-Ladies 2021. Bring some ideas!<\/p> <p>We will send out the zoom link closer to the event.<br/>Cheers!<\/p> ",
+    "url": "https://www.meetup.com/rladies-san-diego/events/274952774/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Santa Barbara: R-Ladies SB 1st Annual Ugly Plot Contest  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Santa Barbara",
+    "start": "2020-12-16",
+    "description": "<p>Hi R-Ladies SB and beyond,<\/p> <p>Please join us for some end-of-the-year holiday cheer as we embark on our first annual Ugly Plot Contest! This will be an evening of collaborative coding with the intention of making the ugliest plot possible by demonstrating ways NOT to display your data. As a bonus, creators of the ugliest plots will be mailed R-Ladies SB hex stickers :D<\/p> <p>To make these plots, we’ll be using a data set about holiday sweaters, taken from a survey of folks all around the world - however, we’d love your data too! If you have a moment, please fill out this survey about your holiday sweater(s), and your data will be featured in our contest:<\/p> <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd37uWHUgp-Gd5833ECGXdszKLBV6kpdpigT-yIMTXkCwyKXg/viewform?usp=sf_link\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSd37uWHUgp-Gd5833ECGXdszKLBV6kpdpigT-yIMTXkCwyKXg/viewform?usp=sf_link<\/a><\/p> <p>Please also feel free to share this survey with friends/family/colleagues (the more data, the better!).<\/p> <p>Survey notes:<br/>- If you are lucky enough to have MORE THAN ONE sweater, please fill out this form once for each sweater you have!! #tidydata<br/>- If you have a sweater, please fill out every question! 'No' responses are useful.<br/>- If you DON'T have a holiday sweater, you can leave the rest blank<\/p> <p>Instructions for installing R/RStudio or setting up Git/GitHub can be found near the bottom of our GitHub’s README (<a href=\"https://github.com/rladies/meetup-presentations_santabarbara/blob/gh-pages/README.md\" class=\"linkified\">https://github.com/rladies/meetup-presentations_santabarbara/blob/gh-pages/README.md<\/a>), and the Zoom link will become available upon RSVPing. We’ll make these ugly sweater data available as we get a bit closer to the event.<\/p> <p>Looking forward to seeing you!<\/p> <p>The R-Ladies SB organizers<\/p> ",
+    "url": "https://www.meetup.com/rladies-santa-barbara/events/274923365/",
     "textColor": "blue"
   },
   {
@@ -1688,6 +1712,13 @@
     "group": "MünsteR (R Users Group)",
     "start": "2020-12-03",
     "url": "https://www.meetup.com/Munster-R-Users-Group/events/274802537/",
+    "textColor": "blue"
+  },
+  {
+    "title": "MünsteR (R Users Group): Shared Meetup: Portsmouth R goes viRtual: Covid Special!, Germany, Europe",
+    "group": "MünsteR (R Users Group)",
+    "start": "2020-12-15",
+    "url": "https://www.meetup.com/Munster-R-Users-Group/events/274960674/",
     "textColor": "blue"
   },
   {
@@ -2032,6 +2063,14 @@
     "start": "2020-12-14",
     "description": "<p>Monday, Dec 14th will be the first meeting of our virtual R 4 DS study group. During the first meeting we'll get started on the first chapter of R4DS (access the free textbook here <a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>) and set up a rotating lead for each chapter/set of exercises. We plan to meet twice a week (each Monday and Wednesday) for approximately 30 minutes to cover the key exercises of each chapter. All are welcome.<\/p> ",
     "url": "https://www.meetup.com/rladies-lexington-park/events/273936812/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Ankara: R ile Zaman Serileri Analizi ve ggplot ile Veri Görselleştirme  [Virtual] , Turkey, Europe",
+    "group": "R-Ladies Ankara",
+    "start": "2020-12-10",
+    "description": "<p>Katılım 100 kişi ile sınırlıdır.<br/>Etkinlik ücretsizdir.<br/>Kayıtlar form aracılığıyla yapılacaktır.<\/p> <p>Kayıtlar için:<br/><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdGGt5yaRzTePMdcCt4IROIBDmd4TR3TAipMg7T_St6cSjXig/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdGGt5yaRzTePMdcCt4IROIBDmd4TR3TAipMg7T_St6cSjXig/viewform<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-ankara/events/274965088/",
     "textColor": "blue"
   },
   {
