@@ -1094,6 +1094,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
+    "group": "Central Iowa R User Group",
+    "start": "2021-03-06",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrryccfbjb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Greater Toronto Area (GTA) R User Group: December 2020: Our First Virtual Meetup  [Virtual] , Canada, US/Canada",
     "group": "Greater Toronto Area (GTA) R User Group",
     "start": "2020-12-09",
@@ -1564,6 +1572,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Goiânia: Mineração de Texto  [Virtual] , Brazil, Latin America",
+    "group": "R-Ladies Goiânia",
+    "start": "2020-12-12",
+    "description": "<p>Participe!<\/p> <p>Link das inscrições: <a href=\"https://www.sympla.com.br/urlAlias/render?alias=cursosonline\" class=\"linkified\">https://www.sympla.com.br/urlAlias/render?alias=cursosonline<\/a><\/p> <p>Siga-nos para mais informações e ficar ligado em nossa organização.<\/p> <p>-Instagram: @rladiesgyn<br/>-Linkedin: R-Ladies GYN<\/p> ",
+    "url": "https://www.meetup.com/rladies-goiania/events/275028688/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Montevideo: Personalizá tus gráficas con ggplot2  [Virtual] , Uruguay, Latin America",
     "group": "R-Ladies Montevideo",
     "start": "2020-12-09",
@@ -1919,14 +1935,6 @@
     "start": "2020-12-16",
     "description": "<p>Join us for lunch time lightning talks exploring our favorite data visualizations of 2020. Sign up to present here (<a href=\"https://forms.gle/iANLN28nNvZCwV1q8\" class=\"linkified\">https://forms.gle/iANLN28nNvZCwV1q8<\/a>).<\/p> <p>Many of us participate in TidyTuesday, a weekly social data project in R (<a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>). Present your favorite project from this year's TidyTuesday's data sets, or another data set you found interesting in 2020.<\/p> <p>If you want to learn more about TidyTuesday or get help with a project, we'll host \"office hours\" the week before on our R-Ladies Slack channel. Please message the meeting host if you need to be invited to the Slack channel.<\/p> <p>Office hours: 12-1pm on December 8th and 9th.<\/p> ",
     "url": "https://www.meetup.com/rladies-seattle/events/274993848/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | A Model of Inductive Bias Learning, Taiwan, Asia",
-    "group": "Taiwan R User Group / MLDM Monday",
-    "start": "2020-12-07",
-    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：A Model of Inductive Bias Learning<br/>講題介紹：<\/p> <p>大部分的Deep Learning問題，都逃脫不了Multiclass Classification及Transfer Learning這兩種。例如，你訓練一個 MNIST Toy Example ，總共有十個類別，就是 Multiclass Classification 的問題。如果你用了 ImageNet Pre-trained Model，就是用了 Transfer Learning 。其實， Multiclass Classification 及 Transfer Learning 都屬於 Inductive Bias Learning。那什麼是 Inductive Bias Learning 呢？就是這些問題的 Inductive Bias ，也就是Low-level feature，不是人工先定義好的，而是從訓練中學習到的。<\/p> <p>你也許會有這樣的疑問，為什麼一起訓練多個 Class 的分類，或是使用了 Transfer Learning，可以使每個類別所使用的 Training Data 減少？是因為這些 low-level feature 的共用，可以降低 Model Complexity ？本次主題主要是講解這篇 paper：A Model of Inductive Bias Learning [ <a href=\"https://arxiv.org/abs/1106.0245\" class=\"linkified\">https://arxiv.org/abs/1106.0245<\/a> ]。內容是定義了 Inductive Bias Learning 這個學習方式，以及它的的數學理論，以及它是如何降低 Model Complexity。不過由於這篇paper 是在 Deep Learning 盛行之前所發表的，它有許多內容是無法適用於現在的 Deep Learning，我也會補充另一篇將 Inductive Bias Learning 推廣到 Deep Learning 的 paper:<br/>Meta-Learning_by_Adjusting_Priors_Based_on_Extended_PAC-Bayes_Theory [<a href=\"https://arxiv.org/abs/1711.01244\" class=\"linkified\">https://arxiv.org/abs/1711.01244<\/a>] 。<\/p> <p>slides:<br/><a href=\"https://drive.google.com/file/d/15wVxn3qGUmKagSWRwdtp0BHVjjnTQS9C/view?usp=sharing\" class=\"linkified\">https://drive.google.com/file/d/15wVxn3qGUmKagSWRwdtp0BHVjjnTQS9C/view?usp=sharing<\/a><\/p> <p>講者介紹：Mark Chang<\/p> <p>AI 工程師，也是 AI youtuber，直播主。主要興趣是推廣 Machine Learning 和 Deep Learning 的數學理論。相較於憑直覺或籠統的說法，使用嚴謹的數學理論，來解釋 Machine Learning 和 Deep Learning 遇到的各種情況，可以讓 AI 不再那麼黑箱，減少運算資源浪費及避免錯誤的決策。頻道：<a href=\"https://www.youtube.com/channel/UCckNPGDL21aznRhl3EijRQw?view_as=subscriber\" class=\"embedded\">https://www.youtube.com/channel/UCckNPGDL21aznRhl3EijRQw?view_as=subscriber<\/a><\/p> ",
-    "url": "https://www.meetup.com/Taiwan-R/events/273954352/",
     "textColor": "blue"
   },
   {
