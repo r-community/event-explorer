@@ -56,6 +56,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "St. Petersburg R User Group: SPbR #17. International  [Virtual] , Russia, Europe",
+    "group": "St. Petersburg R User Group",
+    "start": "2020-12-11",
+    "description": "<p>Вы этот раз мы соберемся онлайн вместе с нашими друзьями из Applied R Munich.<\/p> <p>С организацией трансляции нам в очередной раз помогает JetBrains. Спасибо им за это.<\/p> <p>Поговорим про использовании R в лингвистике, Fuzzy Matching и машинном обучении в R. Все доклады будут на английском.<\/p> <p>Анонсы докладов:<\/p> <p>Speaker 1:<br/>Anton Antonov, dxFeed Solutions GmbH,<br/>R in linguistic studies<br/>I have always known that linguistics and mathematics have a lot in common. Still, I was surprised to discover the true extent of that similarity. The complexity, the aesthetics, seemingly impossible problems that are resolved by establishing intrinsic relations between abstract objects... Finally, the helpfulness of R in dealing with these challenges.<br/>In this obviously non-serious talk, I will be speaking about my amateurish attempts at passing a particularly complex online course in linguistics using only my head, a pen, a sheet of paper, and R.<\/p> <p>Speaker 2:<br/>Alexey Osipov, Sidenis,<br/>Linking via Fuzzy Matching<br/>Quite often we have to link datasets by text fields, in which the same information is represented in different ways.<br/>We will consider several test cases for the problem of linking various datasets:<\/p> <p>linking of datasets by text fields with meaningful information,<br/>linking of datasets with short text fields with non-meaningful information (e.g., company names),<br/>linking of a dataset with unstructured text with a dataset with non-meaningful information (e.g., company names).<br/>We will discuss the theory, look into the relevant R packages, and outline the applications in insurance.<br/>Speaker 3:<br/>Martin Binder, creator of the mlr3piplines package,<br/>mlr3: Machine Learning, Pipelines, and AutoML in R<br/>One of R's strong points for data science is the availability of many different machine learning algorithms and implementations. This diversity, however, comes at the cost of inconsistent APIs, which often require writing custom glue code for everyday tasks such as resampling or data preprocessing. 'mlr3' and accompanying packages remedy this by offering a uniform interface to many machine learning methods, while at the same time providing a broad range of further functionality.<br/>We will present the possibilities offered by 'mlr3': From basics like model fitting and inference, over model performance evaluation, benchmarking, and hyperparameter tuning, to the capability to build complex data pre- and post-processing pipelines with simple building blocks and a natural data flow paradigm. Finally, we will provide links to further resources on how mlr3 can be used most effectively.<\/p> ",
+    "url": "https://www.meetup.com/St-Petersburg-R-User-Group/events/275060789/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Greater Toronto Area (GTA) R User Group: December 2020: Our First Virtual Meetup  [Virtual] , Canada, US/Canada",
     "group": "Greater Toronto Area (GTA) R User Group",
     "start": "2020-12-09",
@@ -160,11 +168,19 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Meetup de Grupo de Usuarios de R de Málaga: Taller virtual: \"Regex in R (and other languages)\"  [Virtual] , Spain, Europe",
-    "group": "Meetup de Grupo de Usuarios de R de Málaga",
-    "start": "2020-11-11",
-    "description": "<p>Hola, continuamos con las actividades del grupo, tras un tiempo de parada. Haremos un taller<\/p> <p>Miércoles 11 de noviembre a las 20:00. La duración será de una hora y media aproximadamente.<\/p> <p>Título: Regex in R (and other languages)<\/p> <p>Autor: Denis Mongin es Post-doctoral Fellow y estadístico en la Universidad de Ginebra, y en los Hospitales Universitarios de Ginebra. Utiliza R en casos reales y eminentemente prácticos.<\/p> <p>Resumen: Si trabajas con datos, debes conocer las expresiones regulares. No es conveniente, debes. Te harán la vida mucho más fácil. Ven y aprende cómo extraer datos reales de cadenas de texto ruidosas o con errores: un poco de teoría, bastantes ejemplos y muchas oportunidades de practicar.<\/p> <p>Enlace del cartel (difundid la charla, reenviando este correo y/o el enlace):<\/p> <p><a href=\"https://drive.google.com/file/d/1cFf49-tq5Ukp8rEO3K8lPjX8x4uveoTN/view?usp=sharing\" class=\"linkified\">https://drive.google.com/file/d/1cFf49-tq5Ukp8rEO3K8lPjX8x4uveoTN/view?usp=sharing<\/a><\/p> <p>Como siempre, si conocéis a alguien que se apuntó antes en el grupo de usuarios pero no está en Meetup, por favor, indicarle que a partir de ahora trabajamos para coordinarnos usando Meetup.<\/p> <p>Manda esta información a interesados en nuestro grupo. Enlace de cartel del grupo de R:<\/p> <p><a href=\"https://drive.google.com/file/d/1YjmB79A7rASn6ib0YsJH8D6qXnR_XFvc/view?usp=sharing\" class=\"linkified\">https://drive.google.com/file/d/1YjmB79A7rASn6ib0YsJH8D6qXnR_XFvc/view?usp=sharing<\/a><\/p> <p>(difundir el cartel del grupo)<\/p> <p>¡Un saludo!<\/p> ",
-    "url": "https://www.meetup.com/Meetup-de-Grupo-de-Usuarios-de-R-de-Malaga/events/274429580/",
+    "title": "Montreal R User Group: DSS virtual: Finance, Technology & Travel  [Virtual] , Canada, US/Canada",
+    "group": "Montreal R User Group",
+    "start": "2020-12-08",
+    "description": "<p>APPLYING AI &amp; MACHINE LEARNING TO FINANCE, TECHNOLOGY &amp; TRAVEL<\/p> <p>Register here: <a href=\"https://www.datascience.salon/travel-finance-and-technology/\" class=\"linkified\">https://www.datascience.salon/travel-finance-and-technology/<\/a><\/p> <p>Registration includes:<br/>- 25+ sessions with live Q&amp;A<br/>- Networking and breakout sessions including Meditation and industry-focused Coffee Chats<br/>- One year access to DSS Insider, including all sessions from previous DSS events<br/>- Access to DSS Slack channel and event app to connect with fellow attendees<\/p> <p>To register or for more information about DSS: Travel, Finance &amp; Technology, click here: <a href=\"https://www.datascience.salon/travel-finance-and-technology/\" class=\"linkified\">https://www.datascience.salon/travel-finance-and-technology/<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/274231184/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Applied R Munich: Applied R Christmas Edition: Our first Online & International Meetup  [Virtual] , Germany, Europe",
+    "group": "Applied R Munich",
+    "start": "2020-12-11",
+    "description": "<p>## Applied R Munich Christmas Edition<\/p> <p>This year's Applied R Munich Christmas Edition will be held online as a joint Meetup with our friends from the St. Petersburg R User Group.<\/p> <p>Thanks to JetBrains for the support in organizing the virtual event.<\/p> <p>Please, don't hesitate to contact us at [masked] (or via Twitter <a href=\"https://twitter.com/applied_r\" class=\"linkified\">https://twitter.com/applied_r<\/a>) if your company would be willing to host one of our next meetups or if you have an interesting talk about an R related topic that you would like to present in a Meetup.<\/p> <p>## Agenda for the Meetup<\/p> <p>### 1. Talk: 16:00 Anton Antonov, dxFeed Solutions GmbH, R in linguistic studies<\/p> <p>I have always known that linguistics and mathematics have a lot in common. Still I was surprised to discover the true extent of that similarity. The complexity, the aesthetics, seemingly impossible problems that are resolved by establishing intrinsic relations between abstract objects... Finally, the helpfulness of R in dealing with these challenges.<\/p> <p>In this obviously non-serious talk I will be speaking about my amateurish attempts at passing a particularly complex online course in linguistics using only my head, a pen, a sheet of paper and R.<\/p> <p>### 2. Talk: 16:30 Alexey Osipov, Sidenis, Linking via Fuzzy Matching.<\/p> <p>Quite often we have to link datasets by text fields, in which the same information is represented in different ways.<\/p> <p>We will consider several test cases for the problem of linking of various datasets:<\/p> <p>1) linking of datasets by text fields with meaningful information,<\/p> <p>2) linking of datasets with short text fields with non-meaningful information (e.g., company names),<\/p> <p>3) linking of a dataset with unstructured text with a dataset with non-meaningful information (e.g., company names).<\/p> <p>We will discuss the theory, look into the relevant R packages, and outline the applications in insurance.<\/p> <p>### 3. Talk: 17:00 Martin Binder, developer of mlr3pipelines, mlr3: Machine Learning, Pipelines and AutoML in R<\/p> <p>One of R's strong points for data science is the availability of many different machine learning algorithms and implementations. This diversity, however, comes at the cost of inconsistent APIs, which often require writing custom glue code for everyday tasks such as resampling or data preprocessing. 'mlr3' and accompanying packages remedy this by offering a uniform interface to many machine learning methods, while at the same time providing a broad range of further functionality.<\/p> <p>We will present the possibilities offered by 'mlr3': From basics like model fitting and inference, over model performance evaluation, benchmarking and hyperparameter tuning, to the capability to build complex data pre- and post-processing pipelines with simple building blocks and a natural data flow paradigm. Finally, we will provide links to further resources on how mlr3 can be used most effectively.<\/p> ",
+    "url": "https://www.meetup.com/Applied-R-Munich/events/275061865/",
     "textColor": "#7171fb"
   },
   {
@@ -255,6 +271,13 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R User Group - Singapore (RUGS): Webinar: Find out how you can kickstart your dream career in AI today!, Singapore, Asia",
+    "group": "R User Group - Singapore (RUGS)",
+    "start": "2020-12-11",
+    "url": "https://www.meetup.com/R-User-Group-SG/events/275089186/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Portland R User Group: aggregate: meet, greet, learn, collaborate  [Virtual] , United States, US/Canada",
     "group": "Portland R User Group",
     "start": "2020-11-17",
@@ -268,14 +291,6 @@
     "start": "2020-12-08",
     "description": "<p>Please join us for the 37th R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>Details: Brendan Cullen will showcase some features of RMarkdown that you may not be aware of. He will demonstrate how you can use RMarkdown to improve the presentation of your analyses with R.<\/p> <p>When: December 8th, 2020 @ 6:30-8 PM<\/p> <p>Where: Online: zoom info provided when you respond<\/p> <p>Agenda:<\/p> <p>• Brendan Cullen will lead a discussion around R Markdown features, tips, and tricks<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct\" class=\"linkified\">https://pdxrlang.com/code_of_conduct<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message Marley Buchman in the meetup app, or on Twitter at @pdxrlang<\/p> ",
     "url": "https://www.meetup.com/portland-r-user-group/events/274774392/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Wiesbaden R User Group: R Coffee Break - Webscraping in R  [Virtual] , Germany, Europe",
-    "group": "Wiesbaden R User Group",
-    "start": "2020-11-11",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Andreas Liebrand uns in dieser RCoffeeBreak eine Einführung ins Webscraping geben wird.<\/p> <p>Natürlich freuen uns auch schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Kenncode:[masked]<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/274099086/",
     "textColor": "#7171fb"
   },
   {
@@ -340,6 +355,14 @@
     "start": "2020-12-03",
     "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<\/p> <p>Brighton R<\/p> <p>Sign up to our event on Eventbrite - <a href=\"https://www.eventbrite.co.uk/e/brighton-r-december-meetup-tickets-128100579281\" class=\"linkified\">https://www.eventbrite.co.uk/e/brighton-r-december-meetup-tickets-128100579281<\/a><\/p> <p>We’re a friendly group of local R professionals, meeting regularly to share stories and what inspires us - working in the R environment.<br/>We do this all through a range of informal talks, with the conversation continuing in the bar afterwards. We are open to all skill levels whether you are just curious, an early learner or advanced user.<\/p> <p>We have two fantastic speakers for the final BrightonR of 2020 - and indeed our first year of operation:<\/p> <p>David Goody, Department for Education - How R Shiny Apps Drive Operational Decision Making<\/p> <p>Robert Duff, Transport for London - Streamlining the reporting of ridership figures with R<\/p> ",
     "url": "https://www.meetup.com/BarcelonaR/events/274828622/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Barcelona R User Group: Online event organised by: Applied R Munich & St. Petersburg R User Group  [Virtual] , Spain, Europe",
+    "group": "Barcelona R User Group",
+    "start": "2020-12-11",
+    "description": "<p>Hello everyone! We would like to invite you to join a fellow R groups event organised online. Please see event details below:<\/p> <p>Topics:<br/>- R in linguistic studies<br/>- Linking via Fuzzy Matching<br/>- Machine Learning, Pipelines and AutoML in R<\/p> <p>## Applied R Munich Christmas Edition<\/p> <p>This year's Applied R Munich Christmas Edition will be held online as a joint Meetup with our friends from the St. Petersburg R User Group.<\/p> <p>Thanks to JetBrains for the support in organizing the virtual event.<\/p> <p>Please, don't hesitate to contact us at [masked] (or via Twitter <a href=\"https://twitter.com/applied_r\" class=\"linkified\">https://twitter.com/applied_r<\/a>) if your company would be willing to host one of our next meetups or if you have an interesting talk about an R related topic that you would like to present in a Meetup.<\/p> <p>## Agenda for the Meetup<\/p> <p>### 1. Talk: 16:00 Anton Antonov, dxFeed Solutions GmbH, R in linguistic studies<\/p> <p>I have always known that linguistics and mathematics have a lot in common. Still I was surprised to discover the true extent of that similarity. The complexity, the aesthetics, seemingly impossible problems that are resolved by establishing intrinsic relations between abstract objects... Finally, the helpfulness of R in dealing with these challenges.<\/p> <p>In this obviously non-serious talk I will be speaking about my amateurish attempts at passing a particularly complex online course in linguistics using only my head, a pen, a sheet of paper and R.<\/p> <p>### 2. Talk: 16:30 Alexey Osipov, Sidenis, Linking via Fuzzy Matching.<\/p> <p>Quite often we have to link datasets by text fields, in which the same information is represented in different ways.<\/p> <p>We will consider several test cases for the problem of linking of various datasets:<\/p> <p>1) linking of datasets by text fields with meaningful information,<\/p> <p>2) linking of datasets with short text fields with non-meaningful information (e.g., company names),<\/p> <p>3) linking of a dataset with unstructured text with a dataset with non-meaningful information (e.g., company names).<\/p> <p>We will discuss the theory, look into the relevant R packages, and outline the applications in insurance.<\/p> <p>### 3. Talk: 17:00 Martin Binder, developer of mlr3pipelines, mlr3: Machine Learning, Pipelines and AutoML in R<\/p> <p>One of R's strong points for data science is the availability of many different machine learning algorithms and implementations. This diversity, however, comes at the cost of inconsistent APIs, which often require writing custom glue code for everyday tasks such as resampling or data preprocessing. 'mlr3' and accompanying packages remedy this by offering a uniform interface to many machine learning methods, while at the same time providing a broad range of further functionality.<\/p> <p>We will present the possibilities offered by 'mlr3': From basics like model fitting and inference, over model performance evaluation, benchmarking and hyperparameter tuning, to the capability to build complex data pre- and post-processing pipelines with simple building blocks and a natural data flow paradigm. Finally, we will provide links to further resources on how mlr3 can be used most effectively.<\/p> ",
+    "url": "https://www.meetup.com/BarcelonaR/events/275097739/",
     "textColor": "#7171fb"
   },
   {
@@ -939,11 +962,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies St. Louis: Virtual Workshop: Intro to Network Analysis with R  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies St. Louis",
-    "start": "2020-11-11",
-    "description": "<p>About the instructor: Join Dr. Maria C. Ramos, a Visiting Research Fellow at Duke Network Analysis Center (www.mariacramos.com), for her workshop on network analysis. Maria Ramos is a social scientist and networks scholar. She recently obtained a PhD in Sociology from Duke University and is now a Visiting Research Fellow at Duke Network Analysis Center. Maria’s research portfolio is diverse and interdisciplinary. Her current projects employ network science to understand HIV prevention, social-ecological systems, collaboration within organizations, and networks of beliefs and mental models. Maria regularly consults with organizations and research teams interested in leveraging network analysis to solve applied problems. She is also an avid R user and loves developing and teaching R workshops and tutorials.<\/p> <p>Workshop description: We live in an interconnected world: from the Web, transportation systems, and disease spread to our friendships and families, many aspects of our lives consist of interdependencies and connections among entities. Network analysis provides a framework and a set of tools for studying systems and patterns of relationships. This workshop will provide a gentle introduction to network analysis' concepts, methods, and applications. We will begin with an overview of the networks approach and its applications in various disciplines. Through hands-on activities, we will visualize networks and assess their general structure using different indices. We will also identify subgroups and key players. By the end of the workshop, participants will be able to examine networks and characterize their properties using R.<\/p> <p>PLEASE NOTE: We will be automatically recording this event. If you do *not* wish to be recorded, please be sure to keep your video/camera turned OFF.<\/p> ",
-    "url": "https://www.meetup.com/rladies-st-louis/events/272779608/",
+    "title": "R-Ladies CDMX: Exploración proyecciones de población y construcción de pirámides  [Virtual] , Mexico, Latin America",
+    "group": "R-Ladies CDMX",
+    "start": "2020-12-11",
+    "description": "<p>Taller impartido por Ana Escoto (FCPyS-UNAM)<br/>Se discutirán opciones para explorar las proyecciones de población de Conapo y hacer pirámides con ellas y otras aplicaciones para visualizar los estimados poblacionales.<\/p> ",
+    "url": "https://www.meetup.com/rladies-cdmx/events/274899909/",
     "textColor": "#7171fb"
   },
   {
@@ -1139,14 +1162,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Meetup de Grupo de Usuarios de R de Málaga: Taller virtual: \"Regex in R (and other languages)\"  [Virtual] , Spain, Europe",
-    "group": "Meetup de Grupo de Usuarios de R de Málaga",
-    "start": "2020-11-11",
-    "description": "<p>Hola, continuamos con las actividades del grupo, tras un tiempo de parada. Haremos un taller<\/p> <p>Miércoles 11 de noviembre a las 20:00. La duración será de una hora y media aproximadamente.<\/p> <p>Título: Regex in R (and other languages)<\/p> <p>Autor: Denis Mongin es Post-doctoral Fellow y estadístico en la Universidad de Ginebra, y en los Hospitales Universitarios de Ginebra. Utiliza R en casos reales y eminentemente prácticos.<\/p> <p>Resumen: Si trabajas con datos, debes conocer las expresiones regulares. No es conveniente, debes. Te harán la vida mucho más fácil. Ven y aprende cómo extraer datos reales de cadenas de texto ruidosas o con errores: un poco de teoría, bastantes ejemplos y muchas oportunidades de practicar.<\/p> <p>Enlace del cartel (difundid la charla, reenviando este correo y/o el enlace):<\/p> <p><a href=\"https://drive.google.com/file/d/1cFf49-tq5Ukp8rEO3K8lPjX8x4uveoTN/view?usp=sharing\" class=\"linkified\">https://drive.google.com/file/d/1cFf49-tq5Ukp8rEO3K8lPjX8x4uveoTN/view?usp=sharing<\/a><\/p> <p>Como siempre, si conocéis a alguien que se apuntó antes en el grupo de usuarios pero no está en Meetup, por favor, indicarle que a partir de ahora trabajamos para coordinarnos usando Meetup.<\/p> <p>Manda esta información a interesados en nuestro grupo. Enlace de cartel del grupo de R:<\/p> <p><a href=\"https://drive.google.com/file/d/1YjmB79A7rASn6ib0YsJH8D6qXnR_XFvc/view?usp=sharing\" class=\"linkified\">https://drive.google.com/file/d/1YjmB79A7rASn6ib0YsJH8D6qXnR_XFvc/view?usp=sharing<\/a><\/p> <p>(difundir el cartel del grupo)<\/p> <p>¡Un saludo!<\/p> ",
-    "url": "https://www.meetup.com/Meetup-de-Grupo-de-Usuarios-de-R-de-Malaga/events/274429580/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R User Group Eindhoven: Introduction to Shiny for Interactive Web Apps in R  [Virtual] , Netherlands, Europe",
     "group": "R User Group Eindhoven",
     "start": "2020-12-13",
@@ -1259,14 +1274,6 @@
     "textColor": "blue"
   },
   {
-    "title": "St. Petersburg R User Group: SPbR #17. International  [Virtual] , Russia, Europe",
-    "group": "St. Petersburg R User Group",
-    "start": "2020-12-11",
-    "description": "<p>Вы этот раз мы соберемся онлайн вместе с нашими друзьями из Applied R Munich.<\/p> <p>С организацией трансляции нам в очередной раз помогает JetBrains. Спасибо им за это.<\/p> <p>Поговорим про использовании R в лингвистике, Fuzzy Matching и машинном обучении в R. Все доклады будут на английском.<\/p> <p>Анонсы докладов:<\/p> <p>Speaker 1:<br/>Anton Antonov, dxFeed Solutions GmbH,<br/>R in linguistic studies<br/>I have always known that linguistics and mathematics have a lot in common. Still, I was surprised to discover the true extent of that similarity. The complexity, the aesthetics, seemingly impossible problems that are resolved by establishing intrinsic relations between abstract objects... Finally, the helpfulness of R in dealing with these challenges.<br/>In this obviously non-serious talk, I will be speaking about my amateurish attempts at passing a particularly complex online course in linguistics using only my head, a pen, a sheet of paper, and R.<\/p> <p>Speaker 2:<br/>Alexey Osipov, Sidenis,<br/>Linking via Fuzzy Matching<br/>Quite often we have to link datasets by text fields, in which the same information is represented in different ways.<br/>We will consider several test cases for the problem of linking various datasets:<\/p> <p>linking of datasets by text fields with meaningful information,<br/>linking of datasets with short text fields with non-meaningful information (e.g., company names),<br/>linking of a dataset with unstructured text with a dataset with non-meaningful information (e.g., company names).<br/>We will discuss the theory, look into the relevant R packages, and outline the applications in insurance.<br/>Speaker 3:<br/>Martin Binder, creator of the mlr3piplines package,<br/>mlr3: Machine Learning, Pipelines, and AutoML in R<br/>One of R's strong points for data science is the availability of many different machine learning algorithms and implementations. This diversity, however, comes at the cost of inconsistent APIs, which often require writing custom glue code for everyday tasks such as resampling or data preprocessing. 'mlr3' and accompanying packages remedy this by offering a uniform interface to many machine learning methods, while at the same time providing a broad range of further functionality.<br/>We will present the possibilities offered by 'mlr3': From basics like model fitting and inference, over model performance evaluation, benchmarking, and hyperparameter tuning, to the capability to build complex data pre- and post-processing pipelines with simple building blocks and a natural data flow paradigm. Finally, we will provide links to further resources on how mlr3 can be used most effectively.<\/p> ",
-    "url": "https://www.meetup.com/St-Petersburg-R-User-Group/events/275060789/",
-    "textColor": "blue"
-  },
-  {
     "title": "Berlin R Users Group: Portsmouth R goes viRtual: Covid Special!  [Virtual] , Germany, Europe",
     "group": "Berlin R Users Group",
     "start": "2020-12-15",
@@ -1331,15 +1338,7 @@
     "textColor": "blue"
   },
   {
-    "title": "Applied R Munich: Applied R Christmas Edition: Our first Online & International Meetup  [Virtual] , Germany, Europe",
-    "group": "Applied R Munich",
-    "start": "2020-12-11",
-    "description": "<p>## Applied R Munich Christmas Edition<\/p> <p>This year's Applied R Munich Christmas Edition will be held online as a joint Meetup with our friends from the St. Petersburg R User Group.<\/p> <p>Thanks to JetBrains for the support in organizing the virtual event.<\/p> <p>Please, don't hesitate to contact us at [masked] (or via Twitter <a href=\"https://twitter.com/applied_r\" class=\"linkified\">https://twitter.com/applied_r<\/a>) if your company would be willing to host one of our next meetups or if you have an interesting talk about an R related topic that you would like to present in a Meetup.<\/p> <p>## Agenda for the Meetup<\/p> <p>### 1. Talk: 16:00 Anton Antonov, dxFeed Solutions GmbH, R in linguistic studies<\/p> <p>I have always known that linguistics and mathematics have a lot in common. Still I was surprised to discover the true extent of that similarity. The complexity, the aesthetics, seemingly impossible problems that are resolved by establishing intrinsic relations between abstract objects... Finally, the helpfulness of R in dealing with these challenges.<\/p> <p>In this obviously non-serious talk I will be speaking about my amateurish attempts at passing a particularly complex online course in linguistics using only my head, a pen, a sheet of paper and R.<\/p> <p>### 2. Talk: 16:30 Alexey Osipov, Sidenis, Linking via Fuzzy Matching.<\/p> <p>Quite often we have to link datasets by text fields, in which the same information is represented in different ways.<\/p> <p>We will consider several test cases for the problem of linking of various datasets:<\/p> <p>1) linking of datasets by text fields with meaningful information,<\/p> <p>2) linking of datasets with short text fields with non-meaningful information (e.g., company names),<\/p> <p>3) linking of a dataset with unstructured text with a dataset with non-meaningful information (e.g., company names).<\/p> <p>We will discuss the theory, look into the relevant R packages, and outline the applications in insurance.<\/p> <p>### 3. Talk: 17:00 Martin Binder, developer of mlr3pipelines, mlr3: Machine Learning, Pipelines and AutoML in R<\/p> <p>One of R's strong points for data science is the availability of many different machine learning algorithms and implementations. This diversity, however, comes at the cost of inconsistent APIs, which often require writing custom glue code for everyday tasks such as resampling or data preprocessing. 'mlr3' and accompanying packages remedy this by offering a uniform interface to many machine learning methods, while at the same time providing a broad range of further functionality.<\/p> <p>We will present the possibilities offered by 'mlr3': From basics like model fitting and inference, over model performance evaluation, benchmarking and hyperparameter tuning, to the capability to build complex data pre- and post-processing pipelines with simple building blocks and a natural data flow paradigm. Finally, we will provide links to further resources on how mlr3 can be used most effectively.<\/p> ",
-    "url": "https://www.meetup.com/Applied-R-Munich/events/275061865/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Hong Kong R User Group: 18 Dec Free AI workshop  [Virtual] , Hong Kong SAR China, Asia",
+    "title": "Hong Kong R User Group: 18 Dec Free AI workshop (Professor Thad Starner)  [Virtual] , Hong Kong SAR China, Asia",
     "group": "Hong Kong R User Group",
     "start": "2020-12-18",
     "description": "<p>Details and registration: <a href=\"https://syuconference.wixsite.com/mysite\" class=\"linkified\">https://syuconference.wixsite.com/mysite<\/a><\/p> ",
@@ -1499,14 +1498,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Barcelona R User Group: Online event organised by: Applied R Munich & St. Petersburg R User Group  [Virtual] , Spain, Europe",
-    "group": "Barcelona R User Group",
-    "start": "2020-12-11",
-    "description": "<p>Hello everyone! We would like to invite you to join a fellow R groups event organised online. Please see event details below:<\/p> <p>Topics:<br/>- R in linguistic studies<br/>- Linking via Fuzzy Matching<br/>- Machine Learning, Pipelines and AutoML in R<\/p> <p>## Applied R Munich Christmas Edition<\/p> <p>This year's Applied R Munich Christmas Edition will be held online as a joint Meetup with our friends from the St. Petersburg R User Group.<\/p> <p>Thanks to JetBrains for the support in organizing the virtual event.<\/p> <p>Please, don't hesitate to contact us at [masked] (or via Twitter <a href=\"https://twitter.com/applied_r\" class=\"linkified\">https://twitter.com/applied_r<\/a>) if your company would be willing to host one of our next meetups or if you have an interesting talk about an R related topic that you would like to present in a Meetup.<\/p> <p>## Agenda for the Meetup<\/p> <p>### 1. Talk: 16:00 Anton Antonov, dxFeed Solutions GmbH, R in linguistic studies<\/p> <p>I have always known that linguistics and mathematics have a lot in common. Still I was surprised to discover the true extent of that similarity. The complexity, the aesthetics, seemingly impossible problems that are resolved by establishing intrinsic relations between abstract objects... Finally, the helpfulness of R in dealing with these challenges.<\/p> <p>In this obviously non-serious talk I will be speaking about my amateurish attempts at passing a particularly complex online course in linguistics using only my head, a pen, a sheet of paper and R.<\/p> <p>### 2. Talk: 16:30 Alexey Osipov, Sidenis, Linking via Fuzzy Matching.<\/p> <p>Quite often we have to link datasets by text fields, in which the same information is represented in different ways.<\/p> <p>We will consider several test cases for the problem of linking of various datasets:<\/p> <p>1) linking of datasets by text fields with meaningful information,<\/p> <p>2) linking of datasets with short text fields with non-meaningful information (e.g., company names),<\/p> <p>3) linking of a dataset with unstructured text with a dataset with non-meaningful information (e.g., company names).<\/p> <p>We will discuss the theory, look into the relevant R packages, and outline the applications in insurance.<\/p> <p>### 3. Talk: 17:00 Martin Binder, developer of mlr3pipelines, mlr3: Machine Learning, Pipelines and AutoML in R<\/p> <p>One of R's strong points for data science is the availability of many different machine learning algorithms and implementations. This diversity, however, comes at the cost of inconsistent APIs, which often require writing custom glue code for everyday tasks such as resampling or data preprocessing. 'mlr3' and accompanying packages remedy this by offering a uniform interface to many machine learning methods, while at the same time providing a broad range of further functionality.<\/p> <p>We will present the possibilities offered by 'mlr3': From basics like model fitting and inference, over model performance evaluation, benchmarking and hyperparameter tuning, to the capability to build complex data pre- and post-processing pipelines with simple building blocks and a natural data flow paradigm. Finally, we will provide links to further resources on how mlr3 can be used most effectively.<\/p> ",
-    "url": "https://www.meetup.com/BarcelonaR/events/275097739/",
-    "textColor": "blue"
-  },
-  {
     "title": "Barcelona R User Group: Online event organised by: Portsmouth R (Topic: COVID analysis)  [Virtual] , Spain, Europe",
     "group": "Barcelona R User Group",
     "start": "2020-12-15",
@@ -1536,6 +1527,22 @@
     "start": "2020-12-19",
     "description": "<p>Querida comunidad,<\/p> <p>Los invitamos a este taller abierto en donde hablaremos de Visualización de Datos con Patricia Loto quién es Licenciada en Sistemas de Información y actualmente cursa la Diplomatura en Ciencias de Datos, Aprendizaje Automático y sus Aplicaciones en la UNC.<br/>Co-fundadora y co-organizadora de R-LadiesRciaCtes.<br/>Colaboradora en Metadocencia e Instructora por The Carpentries.<\/p> <p>Te esperamos en el taller!!<br/>Enviaremos el link a las personas registradas :)<\/p> ",
     "url": "https://www.meetup.com/rladies-la-paz/events/275056537/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Vienna<-R: Portsmouth R: Covid Special -> shared by ViennaR  [Virtual] , Austria, Europe",
+    "group": "Vienna<-R",
+    "start": "2020-12-15",
+    "description": "<p>In our series of events shared from other R User Groups (via \"GlobalR\") - this will be PortsmouthR FIRST virtual meet-up! Sorry about the short notice.<br/>So feel free to join them on-line for a COVID special!<br/>They have two speakers lined up who will tell us about what they have been doing during the pandemic.<\/p> <p>Dr Rich Tyler, who works in Public Health for West Sussex County Council. Rich is a very experienced R user who has used his skills to process data received from multiple sources for the reports he needs to produce frequently.<\/p> <p>Dr Ina Kostakis, who is Research Fellow in the Centre for Healthcare Modelling and Informatics at the University of Portsmouth. Ina is an experienced modeller but relatively new to R. However, she has picked up the skills quickly and is going to share some recently published research: the performance of the National Early Warning Score (NEWS) &amp; NEWS2 in patients with SARS-CoV-2.<\/p> <p>Plan is to start at 5.30pm (GMT ie 6.30 Vienna time); the event will last approximately an hour.<\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/275124865/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Stockholm R useR group (SRUG): Bayesian Multilevel Modeling with {brms}  [Virtual] , Sweden, Europe",
+    "group": "Stockholm R useR group (SRUG)",
+    "start": "2021-01-14",
+    "description": "<p>The {brms} package provides an interface to fit Bayesian generalized (non-)linear multivariate multilevel models using Stan, a C++ package for performing full Bayesian inference (see <a href=\"https://mc-stan.org/\" class=\"linkified\">https://mc-stan.org/<\/a>). The formula syntax is very similar to that of the {lme4} package to provide a familiar and simple interface for performing regression analyses. A wide range of response distributions are supported, allowing users to fit – among others – linear, robust linear, count data, survival, response times, ordinal, zero-inflated, and even self-defined mixture models all in a multilevel context. Further modeling options include non-linear and smooth terms, auto-correlation structures, censored data, missing value imputation, and quite a few more. In addition, all parameters of the response distribution can be predicted in order to perform distributional regression. Multivariate models, i.e., models with multiple response variables, can be fit as well. Prior specifications are flexible and explicitly encourage users to apply prior distributions that reflect their beliefs. Model fits can easily be assessed and compared with posterior predictive checks, cross-validation, and Bayes factors.<\/p> <p>[Bio]<br/>Paul is a statistician currently working as an Independent Junior Research Group Leader at the Cluster of Excellence SimTech at the University of Stuttgart (Germany). He is the author of the R package {brms} and member of the Stan Development Team. Previously, he studied Psychology and Mathematics at the Universities of Münster and Hagen (Germany) and did his PhD in Münster about optimal design and Bayesian data analysis. He has also worked as a Postdoctoral researcher at the Department of Computer Science at Aalto University (Finland).<\/p> <p>[About]<br/>This event is organized by the Oslo useR! Group and will be co-hosted by the Skåne useR! Group, the Copenhagen useR! Group, and the Stockholm useR! Group.<\/p> ",
+    "url": "https://www.meetup.com/StockholmR/events/275124227/",
     "textColor": "blue"
   },
   {
@@ -1695,6 +1702,14 @@
     "start": "2021-02-11",
     "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/mpjmxryccdbpb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Columbus",
+    "start": "2021-03-11",
+    "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-columbus/events/mpjmxryccfbpb/",
     "textColor": "blue"
   },
   {
@@ -1921,6 +1936,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Dublin R: Why R? Webinars  [Virtual] , Ireland, Europe",
+    "group": "Dublin R",
+    "start": "2021-03-11",
+    "description": "<p>- channel: youtube.com/c/WhyRFoundationVideos<br/>- date: every Thursday 7:00 pm (Irish Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- MC: Lais Carvalho &amp; Guests<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Description:<\/p> ",
+    "url": "https://www.meetup.com/DublinR/events/jtbhcsyccfbpb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Canberra R Users Group: AlphaZetta Global Analytics Summit - Sydney 2021, Australia, Australia",
     "group": "Canberra R Users Group",
     "start": "2021-03-05",
@@ -1934,14 +1957,6 @@
     "start": "2021-01-06",
     "description": "<p>At this virtual meetup, R-Ladies RTP member Melissa Wong (she/her), will introduce some R packages (rstanarm, rethinking, and possibly brms) for Bayesian models that are a bit easier to get started with than rstan. Melissa will include examples of both a simple linear regression and a semi-parametric regression in all packages, and talk about what she found to be a beginner-friendly path to work up to using rstan directly.<\/p> <p>Melissa's Bio: I'm a Senior Engineer with The Johns Hopkins University Applied Physics Laboratory. I started my career as a software and systems engineer. Since finishing my M.S. in Statistics I've become interested in learning more about Bayesian methods and causal inference.<\/p> <p>Special thanks to Melissa for suggesting, developing, and leading this meetup!<\/p> <p>What do I bring?<br/>Please login to Zoom using a laptop or computer with the capabilities to run R and RStudio. We encourage attendees to install or update their versions of R and RStudio as well as their R packages. To update your R Packages in RStudio go to Tools &gt; \"Check for package updates...\". Here are links to free downloads for R (<a href=\"https://cran.r-project.org/\" class=\"linkified\">https://cran.r-project.org/<\/a>) and RStudio (<a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a>). Downloading and installing both of these programs before this meetup will help us keep on schedule and make sure you learn the most you can while at the meetup event.<\/p> <p>Who is this event for?<br/>Beginners are welcome and encouraged to join this event but please install the most recent version of both R and RStudio on your laptop before attending this meetup event. See information above for instructions.<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
     "url": "https://www.meetup.com/rladies-rtp/events/275013392/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies CDMX: Exploración proyecciones de población y construcción de pirámides  [Virtual] , Mexico, Latin America",
-    "group": "R-Ladies CDMX",
-    "start": "2020-12-11",
-    "description": "<p>Taller impartido por Ana Escoto (FCPyS-UNAM)<br/>Se discutirán opciones para explorar las proyecciones de población de Conapo y hacer pirámides con ellas y otras aplicaciones para visualizar los estimados poblacionales.<\/p> ",
-    "url": "https://www.meetup.com/rladies-cdmx/events/274899909/",
     "textColor": "blue"
   },
   {
