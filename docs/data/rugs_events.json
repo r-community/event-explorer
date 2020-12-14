@@ -8,6 +8,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R User Group Eindhoven: Introduction to Shiny for Interactive Web Apps in R  [Virtual] , Netherlands, Europe",
+    "group": "R User Group Eindhoven",
+    "start": "2020-12-13",
+    "description": "<p>Shiny combines the computational power of R with the interactivity of the modern web.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Eindhoven/events/275021732/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Orange County R Users Group (OCRUG): The Download (Recent Updates in the R Markdown Family)  [Virtual] , United States, US/Canada",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2020-12-08",
@@ -898,14 +906,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Seattle useR Group (R Programming Language): Deep Learning with Torch; Scaling Data Science with GPU's  [Virtual] , United States, US/Canada",
-    "group": "Seattle useR Group (R Programming Language)",
-    "start": "2020-11-13",
-    "description": "<p>For this meetup Seattle UseR Group is teaming up with Sigrid Keydana and Daniel Falbel, from the RStudio mlverse team to talk about Deep Learning with Torch. Since this talk will be hosted online, everyone in the world is welcomed, though it would be great if you registered on meetup.com! This will be an introductory talk from the creators of torch and RStudio's AI blog.<\/p> <p>Daniel Falbel, author and maintainer of the #torch package, will present how to use PyTorch from R and new advancements in this space. We know we can use TensorFlow to perform deep learning with R, but torch takes this a step further by providing similar functionality in a native R library using libtorch.<\/p> <p>Sigrid Keydana, author of RStudio AI Blog and creator of the #tfprobability package, will complement this talk with an interview to Daniel to discuss broader topics in Deep Learning including transformational changes in our world that go beyond the technical aspects of this very new discipline.<\/p> ",
-    "url": "https://www.meetup.com/Seattle-useR/events/274132794/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Köln R User Group: November Virtual R Lightning Talks  [Virtual] , Germany, Europe",
     "group": "Köln R User Group",
     "start": "2020-11-19",
@@ -1122,14 +1122,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R User Group Eindhoven: Introduction to Shiny for Interactive Web Apps in R  [Virtual] , Netherlands, Europe",
-    "group": "R User Group Eindhoven",
-    "start": "2020-12-13",
-    "description": "<p>Shiny combines the computational power of R with the interactivity of the modern web.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Eindhoven/events/275021732/",
-    "textColor": "blue"
-  },
-  {
     "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
     "group": "Central Iowa R User Group",
     "start": "2020-12-19",
@@ -1226,6 +1218,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
+    "group": "Central Iowa R User Group",
+    "start": "2021-03-13",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrryccfbrb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Berlin R Users Group: Portsmouth R goes viRtual: Covid Special!  [Virtual] , Germany, Europe",
     "group": "Berlin R Users Group",
     "start": "2020-12-15",
@@ -1269,7 +1269,7 @@
     "title": "Greater Boston useR Group (R Programming Language): December useR Meetup  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2020-12-15",
-    "description": "<p>We have 3 confirmed lightning presentations for December's meetup!<br/>Additional details to be provided.<\/p> <p>Talk 1:<br/>Title: Advancing pre-clinical research with R and cloud computing<br/>Presented by Nobal Dhruw, Sabu George, Shashank Jatav<\/p> <p>Abstract:<br/>R has been the popular tool of choice for performing bioinformatics analysis by researchers in the drug discovery space given the availability of many open-source packages and libraries in the public domain. These open-source tools enable researchers to analyze and generate insights from their biomedical data. Typically, the analysis and the consumption of insights is done via an interactive web interface powered by shiny, an R package to build web-apps. However, our experience developing traditional shiny apps for biological (omics) data analysis, has exposed to us problems related to the handling of voluminous datasets, and the associated computationally expensive jobs, typical characteristics of biological data. Then, there is also the problem of workflow customisability, as a shiny app is often built to cater to one specific use case. But it is often desired to have a certain degree of flexibility and customisability in-built into the system, which would allow the end-users themselves to create their own workflow by stitching together the atomic components. Here, we describe how we have leveraged cloud computing services to mitigate these issues and create an infrastructure which would enable the bioinformaticians to perform data analysis in an easy and intuitive manner, and at the same time giving them the liberty to package their R code as a custom component, without having to worry about how to make their code production-ready. Our infrastructure platform manages the allocation of machine resources required to execute the component.<\/p> <p>Bio:<br/>Nobal Dhruw (Sr. Data Scientist, Elucidata)<br/>Sabu George (Tech Lead, Elucidata)<br/>Shashank Jatav (Sr. Data Scientist, Elucidata)<\/p> <p>Talk #2:<br/>R and SQLite: A Winning Combination<br/>Presented by Bryan Cafferky<\/p> <p>R is an awesome data analysis language. SQLite is the most popular relational database on the planet. Why not use them together? In this presentation, Bryan will explain how persisting data to a SQLite database with R can greatly enhance your data analysis and machine learning development. Best of all, it's easy to use. Join us for this fun and practical presentation.<\/p> <p>Bio:<br/>Bryan is the author of the book Master Azure Databricks Step by Step available on Amazon and the creator of a popular data engineering and artificial intelligence YouTube training channel. He had decades of experience in multiple industries and was a Microsoft Worldwide Learning Data Science content creator. He authored Pro PowerShell for Database Developers published by Apress. Bryan is currently a Data and AI consultant and frequently speaks on technical subjects. His a past Microsoft Data Platform and Cloud MVP. He leads the Rhode Island Business Intelligence Virtual User Group <a href=\"https://www.meetup.com/The-RI-Microsoft-BIUG/\" class=\"linkified\">https://www.meetup.com/The-RI-Microsoft-BIUG/<\/a>. Bryan's YouTube channel can be found at <a href=\"https://www.youtube.com/c/BryanCafferky\" class=\"embedded\">https://www.youtube.com/c/BryanCafferky<\/a><\/p> <p>Talk #3<br/>Presented by Mara Averick<\/p> ",
+    "description": "<p>We have 3 confirmed lightning presentations for December's meetup!<br/>Additional details to be provided.<\/p> <p>Talk 1:<br/>Title: Advancing pre-clinical research with R and cloud computing<br/>Presented by Nobal Dhruw, Sabu George, Shashank Jatav<\/p> <p>Abstract:<br/>R has been the popular tool of choice for performing bioinformatics analysis by researchers in the drug discovery space given the availability of many open-source packages and libraries in the public domain. These open-source tools enable researchers to analyze and generate insights from their biomedical data. Typically, the analysis and the consumption of insights is done via an interactive web interface powered by shiny, an R package to build web-apps. However, our experience developing traditional shiny apps for biological (omics) data analysis, has exposed to us problems related to the handling of voluminous datasets, and the associated computationally expensive jobs, typical characteristics of biological data. Then, there is also the problem of workflow customisability, as a shiny app is often built to cater to one specific use case. But it is often desired to have a certain degree of flexibility and customisability in-built into the system, which would allow the end-users themselves to create their own workflow by stitching together the atomic components. Here, we describe how we have leveraged cloud computing services to mitigate these issues and create an infrastructure which would enable the bioinformaticians to perform data analysis in an easy and intuitive manner, and at the same time giving them the liberty to package their R code as a custom component, without having to worry about how to make their code production-ready. Our infrastructure platform manages the allocation of machine resources required to execute the component.<\/p> <p>Bio:<br/>Nobal Dhruw (Sr. Data Scientist, Elucidata)<br/>Sabu George (Tech Lead, Elucidata)<br/>Shashank Jatav (Sr. Data Scientist, Elucidata)<\/p> <p>Talk #2:<br/>R and SQLite: A Winning Combination<br/>Presented by Bryan Cafferky<\/p> <p>R is an awesome data analysis language. SQLite is the most popular relational database on the planet. Why not use them together? In this presentation, Bryan will explain how persisting data to a SQLite database with R can greatly enhance your data analysis and machine learning development. Best of all, it's easy to use. Join us for this fun and practical presentation.<\/p> <p>Bio:<br/>Bryan is the author of the book Master Azure Databricks Step by Step available on Amazon and the creator of a popular data engineering and artificial intelligence YouTube training channel. He had decades of experience in multiple industries and was a Microsoft Worldwide Learning Data Science content creator. He authored Pro PowerShell for Database Developers published by Apress. Bryan is currently a Data and AI consultant and frequently speaks on technical subjects. His a past Microsoft Data Platform and Cloud MVP. He leads the Rhode Island Business Intelligence Virtual User Group <a href=\"https://www.meetup.com/The-RI-Microsoft-BIUG/\" class=\"linkified\">https://www.meetup.com/The-RI-Microsoft-BIUG/<\/a>. Bryan's YouTube channel can be found at <a href=\"https://www.youtube.com/c/BryanCafferky\" class=\"embedded\">https://www.youtube.com/c/BryanCafferky<\/a><\/p> <p>Talk #3<br/>What's new in dbplyr 2.0.0?!<br/>Presented by Mara Averick<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/274719609/",
     "textColor": "blue"
   },
@@ -1330,6 +1330,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Ann Arbor R User Group: January Meeting (Topic TBD)  [Virtual] , United States, US/Canada",
+    "group": "Ann Arbor R User Group",
+    "start": "2021-01-14",
+    "description": "<p>We will have our monthly meeting on the second Thursday of the month, as usual. Speakers are welcome! Share some R knowledge with the group!<\/p> ",
+    "url": "https://www.meetup.com/Ann-Arbor-R-User-Group/events/275157776/",
+    "textColor": "blue"
+  },
+  {
     "title": "IndyUseR Group: Monthly Meetup - Topic TBD, United States, US/Canada",
     "group": "IndyUseR Group",
     "start": "2020-12-15",
@@ -1365,7 +1373,7 @@
     "title": "R User Group - Philippines: #83 Holiday virtual meetup!  [Virtual] , Philippines, Asia",
     "group": "R User Group - Philippines",
     "start": "2020-12-16",
-    "description": "<p>The pandemic won't prevent us from keeping our RUG-holiday tradition so we will continue the fun and games via zoom! :)<\/p> <p>Stay tuned for our holiday program!<\/p> ",
+    "description": "<p>The pandemic won't prevent us from keeping our RUG-holiday tradition so we will continue the fun and games via zoom! :)<\/p> <p>Stay tuned for our holiday program!<\/p> <p>==================<br/>Meeting ID:[masked]<br/>Passcode:[masked]<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprybcqbvb/",
     "textColor": "blue"
   },
@@ -1649,6 +1657,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Rotterdam: Microbenchmarking: measuring and improving R code performance  [Virtual] , Netherlands, Europe",
+    "group": "R-Ladies Rotterdam",
+    "start": "2020-12-22",
+    "description": "<p>Welcome!<\/p> <p>We are so thrilled to have Semiramis Castro as our speaker in our last event of the year. In this session we will discuss the core concepts about Microbenchmarking - that is, how to measure and improve performance of R code. We will base this session on chapter 23 and 24 of the Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>) by Hadley Wickham.<\/p> <p>About R-Ladies NL book club<br/>----------------------<br/>This is the grand finale of a series of events based on Hadley Wickham's Advanced R book, hosted by R-Ladies chapters of the Netherlands.<\/p> <p>You can find the slides and materials from previous sessions at: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>About Semiramis<br/>----------------------<br/>Semiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.<\/p> <p>Event link<br/>----------------------<br/>We host our events in Jitsi (Note that Jitsi works best with chrome)<\/p> <p>Link will be posted here on the day of the event<\/p> <p>Code of Conduct<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-rotterdam/events/275171538/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
     "group": "R-Ladies Montreal",
     "start": "2020-12-17",
@@ -1694,6 +1710,14 @@
     "start": "2021-02-18",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
     "url": "https://www.meetup.com/rladies-montreal/events/bfrjgryccdbxb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Lima: ¡Meetup de fin de año!  [Virtual] , Peru, Latin America",
+    "group": "R-Ladies Lima",
+    "start": "2020-12-15",
+    "description": "<p>¡Atención R-Ladies y Aliados!<br/>Queremos cerrar este 2020 con un meetup especial .<br/>En esta ocasión nos acompañará una gran amiga y una súper crack de la estadística: Evelyn Gutiérrez, estudiante de Doctorado en Ingeniería, Bioingeniería e ingeniería Biomédica, Mg. en Estadística e Ingeniera Estadística, con quién conversaremos sobre su experiencia de hacer un Sandwich PhD en Francia y Perú, y sobre su trayectoria como investigadora en Computer Vision for Biomedical applications. Evelyn tiene proyectos sobre el uso de modelos para monitorear la evolución de heridas crónicas, la prevalencia de enfermedades bajo un enfoque bayesiano y el desarrollo de herramientas para el análisis y visualización de datos.<\/p> <p>También tendremos el lanzamiento de un nuevo capítulo de R-Ladies en nuestro país. ¿adivinan de dónde es? ¿será Ica o Huánuco o Cusco?<\/p> <p>Será un evento para compartir y aprender en comunidad.<br/>*********<br/>Agenda:<br/>*********<br/>- Presentación R-Ladies Lima<br/>- Entrevista a Evelyn Gutiérrez:<br/>\"Mi experiencia de hacer un Sandwich PhD: Perú-Francia\"<br/>- Resumen de actividades del año y planes para el 2021.<br/>- Lanzamiento de un Nuevo Capítulo de R-Ladies en Perú.<br/>- Saludos y consejos de la comunidad latinoamericana de R.<br/>- Palabras de cierre.<br/>¡Te esperamos!<\/p> <p>***IMPORTANTE***<br/>Para participar, dale \"Asistiré\" en este evento.<br/>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. Estaremos enviando un correo desde meetup con el link de zoom horas antes del evento. Para ello recuerda tener activado las notificaciones por correo en Meetup. Si tienes alguna duda nos pueden escribir.<\/p> <p>• Pregunta frecuente:<br/>P: ¿Los chicos son bienvenidos a las reuniones de R-Ladies Lima?<br/>R: Sí, los chicos son bienvenidos a cualquiera de nuestros eventos. Puedes revisar nuestro código de conducta global aquí: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-lima/events/275150650/",
     "textColor": "blue"
   },
   {
@@ -1773,6 +1797,14 @@
     "start": "2020-12-26",
     "description": "<p>Watch a movie on zoom with RLadiesDC.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/274731745/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Happy hour and year in review  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2020-12-29",
+    "description": "<p>What a year it's been! Please join us to celebrate it's completion. We will have a slideshow to commemorate our chapters accomplishments this year. There will be time to discuss personal accomplishments and to collectively dream about things we'd like to see in the future.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/275174364/",
     "textColor": "blue"
   },
   {
@@ -1904,14 +1936,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | 高效率多目標最佳化及應用 , Taiwan, Asia",
-    "group": "Taiwan R User Group / MLDM Monday",
-    "start": "2020-12-14",
-    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<\/p> <p>講題：高效率多目標最佳化及應用<br/>Multi-objective optimization and applications<\/p> <p>講題介紹：<br/>隨著機器學習的演進，現在有很多強大的模型可以在很多應用中學的很好。但是往往在應用上，我們無法直接把這些模型直接使用。因為他們可能太大或是在某些地方特別容易犯錯。結果就是工程師們會花很多時間解決這些問題。在這個演講裡，我們討論如何把以上問題，以及其他現實問題寫成一個多目標最佳化的問題。然而，這些問題很難被快速解決。所以討論一些工具來有效率解決這些問題，包含強化學習，演化演算法等等。<\/p> <p>講者介紹：<br/>Henry 現在在Google Research當Tech Lead，做AutoML相關研究。<\/p> <p>(講者位於美國，十二月將到香港一個月，本次分享，講者將用連線進行。)<\/p> ",
-    "url": "https://www.meetup.com/Taiwan-R/events/274001434/",
-    "textColor": "blue"
-  },
-  {
     "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | Recommendation Systems in Real Life, Taiwan, Asia",
     "group": "Taiwan R User Group / MLDM Monday",
     "start": "2020-12-21",
@@ -1979,7 +2003,7 @@
     "title": "R-Ladies Lexington Park: R4 Data Science Study Group  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Lexington Park",
     "start": "2020-12-14",
-    "description": "<p>Monday, Dec 14th will be the first meeting of our virtual R 4 DS study group. During the first meeting we'll get started on the first chapter of R4DS (access the free textbook here <a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>) and set up a rotating lead for each chapter/set of exercises. We plan to meet twice a week (each Monday and Wednesday) for approximately 30 minutes to cover the key exercises of each chapter. All are welcome.<\/p> ",
+    "description": "<p>Monday, Dec 14th will be the first meeting of our virtual R4DS study group. During the first meeting we'll review exercises for the first three chapters (through the end of Data Visualization) of R4DS (access the free, online textbook here <a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>). Please remember to sign up to lead the study group through a set of exercises. We plan to meet twice a week (each Monday and Wednesday) for approximately 30 minutes to cover the key exercises of each chapter. All are welcome.<\/p> ",
     "url": "https://www.meetup.com/rladies-lexington-park/events/273936812/",
     "textColor": "blue"
   },
