@@ -588,6 +588,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2020-12-22",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcqbdc/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Auckland: Code-Along with R-Ladies Canberra   [Virtual] , New Zealand, Australia",
     "group": "R-Ladies Auckland",
     "start": "2020-12-03",
@@ -673,6 +681,14 @@
     "start": "2020-12-10",
     "description": "<p>This month we will take a short break from tidymodels and talk about containerization with Docker!<\/p> <p>Dr. Stephanie LaHaye will introduce us to the world of Docker and will highlight the key reasons why Docker is an excellent and integral tool for anyone aiming to make their code more reproducible and shareable, and why it is essential when sharing to users in outside environments. We will learn how to launch Docker, check for images on our local systems, push and pull from Docker Hub, create a basic Dockerfile, and finally use it to run an Rscript.<\/p> <p>Before the presentation, please install Docker by following the instructions for<br/>- mac (<a href=\"https://docs.docker.com/mac/step_one/\" class=\"linkified\">https://docs.docker.com/mac/step_one/<\/a>)<br/>- linux (<a href=\"https://docs.docker.com/linux/step_one/\" class=\"linkified\">https://docs.docker.com/linux/step_one/<\/a>)<br/>- windows (<a href=\"https://docs.docker.com/get-started/\" class=\"linkified\">https://docs.docker.com/get-started/<\/a>)<\/p> <p>Stephanie will be presenting from her Mac and she will be using Mac Docker Desktop (<a href=\"https://docs.docker.com/docker-for-mac/install/\" class=\"linkified\">https://docs.docker.com/docker-for-mac/install/<\/a>).<\/p> <p>You can find the meetup materials at: <a href=\"https://github.com/sdl002/R_Docker_Intro\" class=\"linkified\">https://github.com/sdl002/R_Docker_Intro<\/a><\/p> <p>Stephanie is a Senior Bioinformatics Scientist at the Institute for Genomic Medicine at Nationwide Children’s Hospital in Columbus, Ohio. She attended Michigan State University for her undergraduate work where she received a bachelor of science in Genomics and Molecular Genetics and a bachelor of science in Human Biology. She then attended the Ohio State University for her PhD in Molecular Genetics, where she focused on cardiovascular genomics research. After graduate school Stephanie did a postdoc at the Institute for Genomic Medicine, focusing on the development of automated pipelines using serverless technology to handle next generation sequencing data for pediatric cancer patients.<br/>___________________________________________________________________________________<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/mpjmxrybcqbnb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Rotterdam: Microbenchmarking: measuring and improving R code performance  [Virtual] , Netherlands, Europe",
+    "group": "R-Ladies Rotterdam",
+    "start": "2020-12-22",
+    "description": "<p>Welcome!<\/p> <p>We are so thrilled to have Semiramis Castro as our speaker in our last event of the year. In this session we will discuss the core concepts about Microbenchmarking - that is, how to measure and improve performance of R code. We will base this session on chapter 23 and 24 of the Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>) by Hadley Wickham.<\/p> <p>About R-Ladies NL book club<br/>----------------------<br/>This is the grand finale of a series of events based on Hadley Wickham's Advanced R book, hosted by R-Ladies chapters of the Netherlands.<\/p> <p>You can find the slides and materials from previous sessions at: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>About Semiramis<br/>----------------------<br/>Semiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.<\/p> <p>Event link<br/>----------------------<br/>We host our events in Jitsi (Note that Jitsi works best with chrome)<\/p> <p>Link: <a href=\"https://meet.jit.si/rladies_bookclub_performance\" class=\"linkified\">https://meet.jit.si/rladies_bookclub_performance<\/a><\/p> <p>Code of Conduct<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-rotterdam/events/275171538/",
     "textColor": "#7171fb"
   },
   {
@@ -1040,14 +1056,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies São Paulo: [MeetUp Online] People Analytics a Ciência de dados no RH  [Virtual] , Brazil, Latin America",
-    "group": "R-Ladies São Paulo",
-    "start": "2020-11-22",
-    "description": "<p>O People Analytics é a inovação de Recursos Humanos: desenvolve a área para o futuro diário! Reconhece que as pessoas são o bem mais importante da empresa, mensurando dados como comportamento e desempenho para saber o que os tornam mais engajados, produtivos e felizes, através de métricas e indicadores. Traz o uso da ciência e o rigor científico para dentro do RH, assegurando que estamos embasados em dados e não somente em intuições e opiniões. People Analytics é a análise de pessoas através de dados e em seu nível avançado de maturidade. Neste encontro será abordado como utilizar o R como ferramentas de apoio para o negócio, com foco em entender melhor a organização e melhorar a gestão de pessoas.<\/p> <p>Público-alvo: pessoas que se identificam como minoria de gênero (mulher trans ou cis, homem trans, pessoa não-binária, queer).<\/p> <p>Por favor leia todas as informações abaixo!<br/>• LOCAL DO EVENTO: YOUTUBE<\/p> <p>• O QUE PRECISO FAZER PARA PARTICIPAR?<br/>Se inscrever pelo site do Meetup gratuitamente, incluindo seu nome completo e email - esses dados não serão divulgados publicamente.<\/p> <p>• CÓDIGO DE CONDUTA<br/>Disponível aqui: <a href=\"https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#Portuguese\" class=\"linkified\">https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#Portuguese<\/a><\/p> <p>Qualquer pessoa que violar ou houver previamente violado o código de conduta desta comunidade terá sua entrada proibida, será expulsa/o e/ou estará sujeita/o à ação que a pessoa organizadora achar mais apropriada, independente de inscrição no evento, ser membro do MeetUp ou qualquer outra condição.<br/>_____________________________________________<br/>• PALESTRANTES<br/>SABRINA VASCONCELLOS<br/>Graduada em administração, pós graduada em RH pela PUC e ciência de dados pelo Mackenzie. Possui experiência na área de inovação em gestão de pessoas e estruturação da metodologia de People Analytics em empresas de grande porte como IBM, Stefanini, Keyrus, atualmente na startup sim;paul, professora de Python, People Analytics, palestrante e coach em hackathon. Apaixonada por gente, tecnologia, inovação e diversidade.<br/>_____________________________________________<br/>• SOBRE AS R-LADIES<br/>R-Ladies é uma organização que promove a diversidade de gênero na comunidade da linguagem R. Nosso principal objetivo é promover a linguagem computacional estatística R compartilhando conhecimento, assim, quem tiver interesse na linguagem será bem-vinda, independente do nível de conhecimento. Nosso principal público-alvo são as pessoas que se identificam com o gênero feminino, portanto, mulheres cis, mulheres trans, bem como pessoas não-binárias e queer. _____________________________________________<br/>O evento é gratuito, mas as vagas são limitadas. Seja consciente e só se inscreva se puder comparecer ao evento.<\/p> ",
-    "url": "https://www.meetup.com/rladies-sao-paulo/events/274649434/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies São Paulo: [MeetUp Online] Visualização Interativa de Dados – uma aplicação usando Shiny  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies São Paulo",
     "start": "2020-12-05",
@@ -1240,6 +1248,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Greater Boston useR Group (R Programming Language): Virtual January useR Group  [Virtual] , United States, US/Canada",
+    "group": "Greater Boston useR Group (R Programming Language)",
+    "start": "2021-01-06",
+    "description": "<p>Looking forward to our January useR Group meetup with a preview of the rstudio::global(2021) event on January 21st!!<\/p> <p>Agenda:<br/>*please note times below are ET<\/p> <p>12:00 - 12:10 - Set-up and virtual hellos / introductions<br/>12:10 - 12:40 - The dynamic duo: SQL &amp; R by Irene Steves<br/>This will be a rstudio::global pre-recorded presentation followed by a live Q &amp; A session with Irene<br/>12:40 - 12:55 - rstudio::global(2021) preview and Q &amp; A - by Curtis Kephart<br/>12:55 - 1:00 - Closing remarks and any additional questions<\/p> <p>The dynamic duo: SQL &amp; R / Presented by Irene Steves<br/>Irene Steves is a data scientist @ Riskified<br/>---------------------------------------------------------------------------------------<br/>There’s a point in every data wrangler’s career in which their full dataset can no longer fit into just CSV files, and the journey to database-world begins. I reached this point about two years ago, when I transitioned from ecological research to the world of eCommerce fraud prevention. My calls to read_csv became scarcer as I came to rely more and more on databases. In this talk, I’ll demonstrate how I incorporate R and SQL into my daily workflow, aided by features in RStudio IDE . I’ll also discuss our company’s “riskiconn” package for handling database connections and queries, and how this package was a key tool during our migration to a new database service.<\/p> <p>rstudio::global(2021) preview / Presented by Curtis Kephart<br/>Curtis Kephart is an Economist and Community Organizer @ RStudio<br/>---------------------------------------------------------------------------------------<br/>rstudio::global(2021) is a free, virtual event on all things R &amp; RStudio. It's hosted over 24-hours, giving people at different timezones a number of options to conveniently engage – with a number of talks and community-engagement events we hope you'll enjoy.<br/>It starts on 21st January 2021 @ 4:00 PM GMT.<br/>Learn more about rstudio::global(2021) and register at global.rstudio.com<\/p> ",
+    "url": "https://www.meetup.com/Boston-useR/events/275318502/",
+    "textColor": "blue"
+  },
+  {
     "title": "CopenhagenR - useR Group: Bayesian Multilevel Modeling with {brms}  [Virtual] , Denmark, Europe",
     "group": "CopenhagenR - useR Group",
     "start": "2021-01-14",
@@ -1392,6 +1408,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Barcelona R User Group: Barcelona R User Group meetup (online) + rstudio::global(2021) preview  [Virtual] , Spain, Europe",
+    "group": "Barcelona R User Group",
+    "start": "2021-01-11",
+    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce the next online meetup event and the first in 2021 with an exciting collaboration with the folks at RStudio!<\/p> <p>See the agenda below (times in CET / UTC +1):<\/p> <p>6:15 - 6:30 - Set up (systems check) and virtual hellos<br/>6:30 - 7:30 - Workshop*: Introduction to Machine Learning - by Nicolas Attalides<br/>7:30 - 8:00 - \"Big pharmacy data: Using R to help turn data over to the public\" - by Andrew Ba Tran - (rstudio::global pre-recorded presentation followed by live Q &amp; A session with Andrew)<br/>8:00 - 8:15 - rstudio::global(2021) preview and Q &amp; A - by Curtis Kephart<br/>8:15 - 8:30: Online socialising<\/p> <p>*The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!<\/p> <p>Big pharmacy data: Using R to help turn data over to the public<br/>---------------------------------------------------------------------------------------<br/>This talk will go over how The Washington Post used R to analyze hundreds of gigs of data from the DEA as part of its investigation into the opioid epidemic.<br/>* Dealing with big data in R with doparallel<br/>* Exploratory visualizations and mapping with various packages like RLeaflet and geofacet<br/>* Making an API with janitor for easier data distribution<br/>* Making an R package on top of the API for documentation and vignettes<br/>* Inspiring the creation of a Python library on top of the API to access ARCOS data<br/>* Updating the package so that all parts of the data can be used that will hopefully inspire others to go further than the Post<br/>&gt; Andrew Ba Tran &lt;- is a Data Reporter at The Washington Post<\/p> <p>rstudio::global(2021) is a free, virtual event on all things R &amp; RStudio.<br/>---------------------------------------------------------------------------------------<br/>It's hosted over 24-hours – giving people at different timezones a number of options to conveniently engage – with a number of talks and community-engagement events we hope you'll enjoy. It starts on 21st January 2021 @ 4:00 PM GMT.<br/>Learn more about rstudio::global(2021) and register at global.rstudio.com<br/>&gt; Curtis Kephart &lt;- is an Economist and Community Organizer at RStudio<\/p> ",
+    "url": "https://www.meetup.com/BarcelonaR/events/275252135/",
+    "textColor": "blue"
+  },
+  {
     "title": "Barcelona R User Group: Online event by: Oslo useR! Group (Bayesian Multilevel Modeling with {brms})  [Virtual] , Spain, Europe",
     "group": "Barcelona R User Group",
     "start": "2021-01-14",
@@ -1427,16 +1451,8 @@
     "title": "R-Ladies Philly: Introduction to R dashboard development with Shiny Dashboard  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Philly",
     "start": "2021-01-13",
-    "description": "<p>This introduction to Shiny Dashboards is for people who are interested in creating multi-Shiny app dashboards in R using the “shinydashboard” package. Topics such as reactivity, appearance (i.e. dashboard themes), profiling, and deployment will be covered. Over the course of the workshop, users will learn how to go from a raw data file to a working multi-app dashboard that can be updated based on user input.<\/p> <p>The workshop will be suitable for beginner to intermediate R users or for those who are new to dashboard and app development. Former experience with Shiny is not necessary for this workshop. Some familiarity with R and/or data visualization methods would be helpful and assumed but not required, so novice users are encouraged to attend.<\/p> <p>Speaker<\/p> <p>Anastasia Lucas is a data analyst working in biomedical informatics and computational genomics research at the University of Pennsylvania’s Perelman School of Medicine. Her work in R mainly focuses on statistical analysis, package development, and data visualization.<\/p> ",
+    "description": "<p>This introduction to Shiny Dashboards is for people who are interested in creating multi-Shiny app dashboards in R using the “shinydashboard” package. Topics such as reactivity, appearance (i.e. dashboard themes), profiling, and deployment will be covered. Over the course of the workshop, users will learn how to go from a raw data file to a working multi-app dashboard that can be updated based on user input.<\/p> <p>The workshop will be suitable for beginner to intermediate R users or for those who are new to dashboard and app development. Former experience with Shiny is not necessary for this workshop. Some familiarity with R and/or data visualization methods would be helpful and assumed but not required, so novice users are encouraged to attend.<\/p> <p>Speaker<\/p> <p>Anastasia Lucas is a data analyst working in biomedical informatics and computational genomics research at the University of Pennsylvania’s Perelman School of Medicine. Her work in R mainly focuses on statistical analysis, package development, and data visualization.<\/p> <p>Online Meetup Capacity: 100 attendees<\/p> <p>Please note that the meetup link can support up to 100 attendees. While we won't cap the number of RSVPs, we encourage you to be on time to secure a spot. We are planning to record the meetup, and will share it on our YouTube channel when the recording is available.<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/268783210/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2020-12-22",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/ddfsvrybcqbdc/",
     "textColor": "blue"
   },
   {
@@ -1557,14 +1573,6 @@
     "start": "2021-03-11",
     "description": "<p>In this session, Genelle will talk about Shiny Apps.<br/>She will share and walk us through several Shiny apps she built.<\/p> <p>This will be a virtual even please see the meeting information below:<\/p> <p>Join Zoom Meeting<br/><a href=\"https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\" class=\"linkified\">https://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09<\/a><\/p> <p>Meeting ID:[masked]<br/>Password: rladies<\/p> <p>Join by SIP<br/>[masked]@zoomcrc.com<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/mpjmxryccfbpb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Rotterdam: Microbenchmarking: measuring and improving R code performance  [Virtual] , Netherlands, Europe",
-    "group": "R-Ladies Rotterdam",
-    "start": "2020-12-22",
-    "description": "<p>Welcome!<\/p> <p>We are so thrilled to have Semiramis Castro as our speaker in our last event of the year. In this session we will discuss the core concepts about Microbenchmarking - that is, how to measure and improve performance of R code. We will base this session on chapter 23 and 24 of the Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>) by Hadley Wickham.<\/p> <p>About R-Ladies NL book club<br/>----------------------<br/>This is the grand finale of a series of events based on Hadley Wickham's Advanced R book, hosted by R-Ladies chapters of the Netherlands.<\/p> <p>You can find the slides and materials from previous sessions at: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>About Semiramis<br/>----------------------<br/>Semiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.<\/p> <p>Event link<br/>----------------------<br/>We host our events in Jitsi (Note that Jitsi works best with chrome)<\/p> <p>Link: <a href=\"https://meet.jit.si/rladies_bookclub_performance\" class=\"linkified\">https://meet.jit.si/rladies_bookclub_performance<\/a><\/p> <p>Code of Conduct<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-rotterdam/events/275171538/",
     "textColor": "blue"
   },
   {
@@ -1716,6 +1724,14 @@
     "start": "2020-12-29",
     "description": "<p>What a year it's been! Please join us to celebrate it's completion. We will have a slideshow to commemorate our chapters accomplishments this year. There will be time to discuss personal accomplishments and to collectively dream about things we'd like to see in the future.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/275174364/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Tidy Tuesday with R-Ladies DC  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2021-01-05",
+    "description": "<p>R-Ladies DC is trying something new!<\/p> <p>Tidy Tuesday (<a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>) is an open-source weekly data science adventure through all things R and tidyverse. (<a href=\"https://www.tidyverse.org/\" class=\"linkified\">https://www.tidyverse.org/<\/a>)<\/p> <p>We will be coming together on the first Tuesday of 2021 (Jan. 5) over the lunch hour for a virtual coding hang-out! Bring your lunch (or not), and your desire to use &amp; learn tools from the tidyverse.<\/p> <p>This will be an independent, free-flowing, and fun event! There's no pressure to code during the hour if you don't want to. Since this is a new type of R-Ladies DC event, we will playing things by ear a bit for this first time as we hammer out the specifics of what we want these hangouts to look like.<\/p> <p>You can eat your lunch, or not, and you can code, or not. Simply be curious about data, and come as you R!<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/275319489/",
     "textColor": "blue"
   },
   {
