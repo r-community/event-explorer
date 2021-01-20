@@ -1,13 +1,5 @@
 [
   {
-    "title": "R User Group Eindhoven: Customizing Reactivity in Shiny  [Virtual] , Netherlands, Europe",
-    "group": "R User Group Eindhoven",
-    "start": "2020-12-20",
-    "description": "<p>Shiny packages in R enables R users to develop interactive web apps from R. In the previous session, we introduced the fundamentals of building shiny apps. In this session, we will discuss how to customize reactions.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Eindhoven/events/275197021/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "CaRdiff - the Cardiff R User Group: Online event organised by Barcelona R  [Virtual] , United Kingdom, Europe",
     "group": "CaRdiff - the Cardiff R User Group",
     "start": "2021-01-11",
@@ -157,6 +149,14 @@
     "start": "2021-01-14",
     "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<\/p> <p>Details<br/>[About]<br/>This event is organized by the Oslo useR! Group (<a href=\"https://www.meetup.com/Oslo-useR-Group/\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/<\/a>) and will be co-hosted by the Skåne useR! Group (<a href=\"https://www.meetup.com/Skane-R-User-Group/\" class=\"linkified\">https://www.meetup.com/Skane-R-User-Group/<\/a>), the Copenhagen useR! Group (<a href=\"https://www.meetup.com/CopenhagenR-useR-Group/\" class=\"linkified\">https://www.meetup.com/CopenhagenR-useR-Group/<\/a>), and the Stockholm useR! Group (<a href=\"https://www.meetup.com/StockholmR/\" class=\"linkified\">https://www.meetup.com/StockholmR/<\/a>).<\/p> <p>[Abstract]<br/>The {brms} package provides an interface to fit Bayesian generalized (non-)linear multivariate multilevel models using Stan, a C++ package for performing full Bayesian inference (see <a href=\"https://mc-stan.org/\" class=\"linkified\">https://mc-stan.org/<\/a>). The formula syntax is very similar to that of the {lme4} package to provide a familiar and simple interface for performing regression analyses. A wide range of response distributions are supported, allowing users to fit – among others – linear, robust linear, count data, survival, response times, ordinal, zero-inflated, and even self-defined mixture models all in a multilevel context. Further modeling options include non-linear and smooth terms, auto-correlation structures, censored data, missing value imputation, and quite a few more. In addition, all parameters of the response distribution can be predicted in order to perform distributional regression. Multivariate models, i.e., models with multiple response variables, can be fit as well. Prior specifications are flexible and explicitly encourage users to apply prior distributions that reflect their beliefs. Model fits can easily be assessed and compared with posterior predictive checks, cross-validation, and Bayes factors.<\/p> <p>[Bio]<br/>Paul is a statistician currently working as an Independent Junior Research Group Leader at the Cluster of Excellence SimTech at the University of Stuttgart (Germany). He is the author of the R package {brms} and member of the Stan Development Team. Previously, he studied Psychology and Mathematics at the Universities of Münster and Hagen (Germany) and did his PhD in Münster about optimal design and Bayesian data analysis. He has also worked as a Postdoctoral researcher at the Department of Computer Science at Aalto University (Finland).<\/p> ",
     "url": "https://www.meetup.com/Portsmouth-R-User-Group/events/275691254/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "IndyUseR Group: Planning and rstudio::global(2021) Preview  [Virtual] , United States, US/Canada",
+    "group": "IndyUseR Group",
+    "start": "2021-01-19",
+    "description": "<p>This month we'll do our yearly planning meeting to map out the topics we want to cover over the next 12 meetings. Have a topic you are interested in learning more about? Make sure to let us know in this meeting so we can get it covered. Also, if you are interested in giving a talk, we are always looking for and appreciate you sharing your expertise.<\/p> <p>Later this week, rstudio::global(2021) will also be happening. We'll do a little preview of this virtual conference. Find our more information at <a href=\"https://global.rstudio.com\" class=\"linkified\">https://global.rstudio.com<\/a><\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Planning and rstudio::global(2021) Preview<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>Participate over video chat! This meeting will be completely virtual. We'll release the Zoom Meeting chat link as we approach the event date.<\/p> <p>Venue and light snacks graciously provided by Onebridge (<a href=\"https://onebridge.tech\" class=\"linkified\">https://onebridge.tech<\/a>) and the R Consortium (<a href=\"https://www.r-consortium.org/\" class=\"linkified\">https://www.r-consortium.org/<\/a>)<\/p> <p>Zoom meeting info:<\/p> <p>Topic: IndyUseR Jan 2021 Meetup<br/>Time: Jan 19,[masked]:30 PM Indiana (East)<\/p> <p>Join Zoom Meeting<br/><a href=\"https://us02web.zoom.us/j/84947587559\" class=\"linkified\">https://us02web.zoom.us/j/84947587559<\/a><\/p> <p>Meeting ID:[masked]<br/>One tap mobile<br/>[masked],,[masked]# US (Chicago)<br/>[masked],,[masked]# US (New York)<\/p> <p>Dial by your location<br/>[masked] US (Chicago)<br/>[masked] US (New York)<br/>[masked] US (Washington D.C)<br/>[masked] US (Houston)<br/>[masked] US (San Jose)<br/>[masked] US (Tacoma)<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://us02web.zoom.us/u/kegDFCa44Z\" class=\"linkified\">https://us02web.zoom.us/u/kegDFCa44Z<\/a><\/p> ",
+    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprycccbzb/",
     "textColor": "#7171fb"
   },
   {
@@ -336,6 +336,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2021-01-19",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsycccbzb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Edinburgh: Always look on the bright side of plots w/ Kara Woo & rstudio::global(2021)  [Virtual] , United Kingdom, Europe",
     "group": "R-Ladies Edinburgh",
     "start": "2021-01-14",
@@ -381,6 +389,14 @@
     "start": "2020-12-22",
     "description": "<p>Welcome!<\/p> <p>We are so thrilled to have Semiramis Castro as our speaker in our last event of the year. In this session we will discuss the core concepts about Microbenchmarking - that is, how to measure and improve performance of R code. We will base this session on chapter 23 and 24 of the Advanced R book (<a href=\"https://adv-r.hadley.nz/\" class=\"linkified\">https://adv-r.hadley.nz/<\/a>) by Hadley Wickham.<\/p> <p>About R-Ladies NL book club<br/>----------------------<br/>This is the grand finale of a series of events based on Hadley Wickham's Advanced R book, hosted by R-Ladies chapters of the Netherlands.<\/p> <p>You can find the slides and materials from previous sessions at: <a href=\"https://github.com/rladiesnl/book_club\" class=\"linkified\">https://github.com/rladiesnl/book_club<\/a><\/p> <p>About Semiramis<br/>----------------------<br/>Semiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.<\/p> <p>Event link<br/>----------------------<br/>We host our events in Jitsi (Note that Jitsi works best with chrome)<\/p> <p>Link: <a href=\"https://meet.jit.si/rladies_bookclub_performance\" class=\"linkified\">https://meet.jit.si/rladies_bookclub_performance<\/a><\/p> <p>Code of Conduct<br/>----------------------------<br/>We expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-rotterdam/events/275171538/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Irvine: R-Ladies Irvine & WiMLDS Seattle: When Climate Science Meets Data Science  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Irvine",
+    "start": "2021-01-19",
+    "description": "<p># Schedule<br/>Tuesday, January 19th, 5:30-7:30pm (Pacific)<br/>5:30 - Welcome and Announcements<br/>5:50 - Using Machine Learning and Dispersion Modeling to Predict Emissions<br/>6:20 - Q&amp;A for Using Machine Learning and Dispersion Modeling to Predict Emissions<br/>6:35 - NASA Climate Data<br/>6:50 - Q&amp;A for NASA Climate Data<br/>7:00 - Networking<br/>7:30 - Meeting Adjourned<\/p> <p># Using Machine Learning and Dispersion Modeling to Predict Emissions<br/>Speaker: Varsha Gopalakrishnan, PhD<br/>Senior Consultant, Ramboll<\/p> <p>Bio: Varsha is an environmental researcher and data scientist specializing in air quality, climate change assessment and sustainability science. She is passionate about using innovation and technology to tackle issues related to climate change and food security. She obtained her Ph.D. in Chemical Engineering from The Ohio State University, and is currently a Senior Air Quality Scientist at Ramboll, San Francisco. She is originally from Chennai, India.<\/p> <p>Abstract: Several communities in the Bay Area are disproportionately impacted by poor air quality. Some cities have established community air monitoring programs to monitor air pollution concentrations in real-time to determine impacts to communities from various pollution sources in the area. Varsha’s talk will focus on a novel methodology developed in her work at Ramboll to determine distinct sources of emissions in the area using a combination of ambient air monitoring data, machine learning, and air dispersion modeling. The talk will focus on the results of the study and how the study provides communities an independent way to monitor emissions from nearby pollution sources.<\/p> <p># NASA Climate Data<br/>Speaker: Alyssa Columbus<br/>NASA Datanaut<\/p> <p>Bio: Alyssa Columbus is a member of the Spring 2018 Class of NASA Datanauts, and her technical guides, tutorials, and articles have been featured by leading organizations, including Forbes, Microsoft, and the Association for Computing Machinery (ACM). Columbus is the founder of R-Ladies Irvine and is an advocate of technological innovation, open-source software, and diversity in STEM.<\/p> <p>Abstract: NASA offers thousands of open datasets to the public that document everything from planets and stars to oceans and atmospheres. This presentation will give a brief overview of open NASA climate data and how anyone can get involved with NASA's climate-related citizen science projects.<\/p> <p># Meeting Materials<br/>All meeting materials will be sent to registered attendees after the event.<\/p> ",
+    "url": "https://www.meetup.com/rladies-irvine/events/275473956/",
     "textColor": "#7171fb"
   },
   {
@@ -444,6 +460,14 @@
     "group": "MünsteR (R Users Group)",
     "start": "2021-01-14",
     "url": "https://www.meetup.com/Munster-R-Users-Group/events/275227184/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R User Group Rhein-Neckar: January 2021 Meeting: Starting another online year  [Virtual] , Germany, Europe",
+    "group": "R User Group Rhein-Neckar",
+    "start": "2021-01-19",
+    "description": "<p>This is the first of probably many more online user group meetings this year. The agenda is not fixed, but could include items such as<\/p> <p>* Discuss next meetings: dates, topics, lightning talks, etc.<br/>* Lightning talks: distill package, vote package, ...<br/>* R news, e.g. interesting packages, videos, or blog posts<br/>* Question(s): E.g., how to find challenging datasets<\/p> <p>See <a href=\"https://github.com/hwborchers/RUG-Rhein-Neckar/wiki\" class=\"linkified\">https://github.com/hwborchers/RUG-Rhein-Neckar/wiki<\/a> for more information about this group and our activities in 2020. Besides that you will find package tips, proposed themes, R news, and recommended readings.<\/p> <p>Suggestions of topics we could deal with this year are welcome. 'Lightning Talks' of 10-15 minutes and only very few (or no) slides are a good possibility, for example pointing out a package you would like to recommend or learn more about.<\/p> <p>NOTE<br/>To avoid time restrictions, this video conference will be hosted on JITSI.<\/p> <p>To attend use the \"online event\" link on the right side, visible to those who responded \"yes\" (RSVP), enter your name and join the meeting.<br/>Please only RSVP if you actually plan to attend.<\/p> <p>#JITSI Meeting ID: [masked]<br/>#Password: no password<\/p> <p>#The JITSI Meeting ID will be visible for all attendees, and the link under #\"Online event\" on the right can be clicked to join the meeting.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/275536615/",
     "textColor": "#7171fb"
   },
   {
@@ -532,6 +556,14 @@
     "start": "2021-01-06",
     "description": "<p>At this virtual meetup, R-Ladies RTP member Melissa Wong (she/her), will introduce some R packages (rstanarm, rethinking, and possibly brms) for Bayesian models that are a bit easier to get started with than rstan. Melissa will include examples of both a simple linear regression and a semi-parametric regression in all packages, and talk about what she found to be a beginner-friendly path to work up to using rstan directly.<\/p> <p>Melissa's Bio: I'm a Senior Engineer with The Johns Hopkins University Applied Physics Laboratory. I started my career as a software and systems engineer. Since finishing my M.S. in Statistics I've become interested in learning more about Bayesian methods and causal inference.<\/p> <p>Special thanks to Melissa for suggesting, developing, and leading this meetup!<\/p> <p>What do I bring?<br/>Please login to Zoom using a laptop or computer with the capabilities to run R and RStudio. We encourage attendees to install or update their versions of R and RStudio as well as their R packages. To update your R Packages in RStudio go to Tools &gt; \"Check for package updates...\". Here are links to free downloads for R (<a href=\"https://cran.r-project.org/\" class=\"linkified\">https://cran.r-project.org/<\/a>) and RStudio (<a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a>). Downloading and installing both of these programs before this meetup will help us keep on schedule and make sure you learn the most you can while at the meetup event.<\/p> <p>Who is this event for?<br/>Beginners are welcome and encouraged to join this event but please install the most recent version of both R and RStudio on your laptop before attending this meetup event. See information above for instructions.<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
     "url": "https://www.meetup.com/rladies-rtp/events/275013392/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies St. Louis: Building Highly Personalized Shiny Apps  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies St. Louis",
+    "start": "2021-01-19",
+    "description": "<p>We will go over different tips and tricks to personalize shinyapps. From custom styling to custom shiny components, no more: \"I built a shiny app but it looks like a Shiny App\"<\/p> <p>Juan Pablo is a data scientist and founder of Datasketch. He has worked with multiple governmental and non-governmental organizations in Latin America to analyze, explore and visualize various sources of information for the public good. Through his platform <a href=\"http://datasketch.co\" class=\"linkified\">http://datasketch.co<\/a> he creates web-based tools for the democratization of data science. Juan Pablo has an MSc in Information Technology from ETH Zurich, in 2012 he was appointed Network Fellow at Harvard University for one of his Big Data solutions to fight corruption.<\/p> <p>You can find the data and materials for the event here:<br/><a href=\"https://github.com/datasketch/rladies-stl-personalized-shiny-apps\" class=\"linkified\">https://github.com/datasketch/rladies-stl-personalized-shiny-apps<\/a><\/p> <p>We'll see you there!<\/p> ",
+    "url": "https://www.meetup.com/rladies-st-louis/events/275416262/",
     "textColor": "#7171fb"
   },
   {
@@ -847,14 +879,6 @@
     "textColor": "blue"
   },
   {
-    "title": "IndyUseR Group: Planning and rstudio::global(2021) Preview, United States, US/Canada",
-    "group": "IndyUseR Group",
-    "start": "2021-01-19",
-    "description": "<p>This month we'll do our yearly planning meeting to map out the topics we want to cover over the next 12 meetings. Have a topic you are interested in learning more about? Make sure to let us know in this meeting so we can get it covered. Also, if you are interested in giving a talk, we are always looking for and appreciate you sharing your expertise.<\/p> <p>Later this week, rstudio::global(2021) will also be happening. We'll do a little preview of this virtual conference. Find our more information at <a href=\"https://global.rstudio.com\" class=\"linkified\">https://global.rstudio.com<\/a><\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Planning and rstudio::global(2021) Preview<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>Participate over video chat! This meeting will be completely virtual. We'll release the Zoom Meeting chat link as we approach the event date.<\/p> <p>Venue and light snacks graciously provided by Onebridge (<a href=\"https://onebridge.tech\" class=\"linkified\">https://onebridge.tech<\/a>) and the R Consortium (<a href=\"https://www.r-consortium.org/\" class=\"linkified\">https://www.r-consortium.org/<\/a>)<\/p> ",
-    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprycccbzb/",
-    "textColor": "blue"
-  },
-  {
     "title": "IndyUseR Group: Monthly Meetup - Topic TBD, United States, US/Canada",
     "group": "IndyUseR Group",
     "start": "2021-02-16",
@@ -892,14 +916,6 @@
     "start": "2021-03-20",
     "description": "<p>The topic of this month's meetup will be decided as the time approaches near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) organizer's preference (in that order)<\/p> <p>Please contact the organizers, if you would like to present in our meetup on any topic related to data science.<\/p> ",
     "url": "https://www.meetup.com/TRUgroup/events/275252501/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R User Group - Philippines: #84 R for chemistRy / quick survey of R in schools  [Virtual] , Philippines, Asia",
-    "group": "R User Group - Philippines",
-    "start": "2021-01-20",
-    "description": "<p>Let's welcome the new year with new speaker at RUG (but definitely not new to R) Prof. Chester C. Deocaris, Assistant. Prof at the Dept. of Physical Sciences and Research Faculty at the Research Management Office at PUP!<\/p> <p>He had been using R for almost 14 years already (!) and currrently teaching \"Statistical Methods in Chemistry\" at PUP for Chem undergrads. He is also one of the authors and maintainer of PUPAIM (ver2 March 2020 in CRAN) (ver 1 Feb 2019 in CRAN), and will share their team's experience in creating this package, among others!<\/p> <p>This talk hopefully opens our discussion on how we can help support the learning of R at the academe, to better prepare the future workforce for one of the most popular programming languages for data analysis and data science work. RSVP now and please invite your friends in the academe!<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Philippines/events/fgbjprycccbbc/",
     "textColor": "blue"
   },
   {
@@ -943,6 +959,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Oslo useR! Group: {ggstatsplot}: An R Package for {ggplot2}-Based Plots With Statistical Details  [Virtual] , Norway, Europe",
+    "group": "Oslo useR! Group",
+    "start": "2021-02-18",
+    "description": "<p>[Abstract]<br/>{ggstatsplot} is an extension of the {ggplot2} package for creating<br/>graphics with details from statistical tests, included in the information-rich plots themselves.<br/>In a typical exploratory data analysis workflow, data visualization and statistical modeling are two different phases: visualization informs modeling, and modeling in turn can suggest a different visualization method, and so on and so forth.<br/>The central idea of {ggstatsplot} is simple: combine these two phases into one in the form of graphics with statistical details, which makes data exploration simpler and faster!<\/p> <p>[Bio]<br/>Indrajeet Patil is a Postdoctoral Researcher at the Center for Humans and Machines, Max Planck Institute for Human Development, Berlin. He has a Ph.D. in cognitive neuroscience and specializes in investigating the psychological and neural basis of moral judgment and decision-making. He is also an active R package developer and part of the {easystats} team.<\/p> ",
+    "url": "https://www.meetup.com/Oslo-useR-Group/events/275861577/",
+    "textColor": "blue"
+  },
+  {
     "title": "R User Group - Singapore (RUGS): Robotics Process Automation (RPA) for Everyone using TagUI, Singapore, Asia",
     "group": "R User Group - Singapore (RUGS)",
     "start": "2021-01-28",
@@ -958,11 +982,19 @@
     "textColor": "blue"
   },
   {
-    "title": "Wiesbaden R User Group: R Coffee Break - withr  [Virtual] , Germany, Europe",
+    "title": "Wiesbaden R User Group: R Coffee Break - paws: AWS & R  [Virtual] , Germany, Europe",
     "group": "Wiesbaden R User Group",
-    "start": "2021-01-20",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Søren Schaffstein uns das Paket withr vorstellen wird. Hier schonmal der Link zum Paket: <a href=\"https://withr.r-lib.org/\" class=\"linkified\">https://withr.r-lib.org/<\/a><\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/275722781/",
+    "start": "2021-01-27",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass David Kretch uns das Paket paws vorstellen wird. Das Paket ist ein Interface für AWS (Amazon Web Services) in R. David ist der Maintainer und einer der Entwickler des Pakets. Hier schonmal der Link zum Paket: <a href=\"https://cran.r-project.org/web/packages/paws/index.html\" class=\"linkified\">https://cran.r-project.org/web/packages/paws/index.html<\/a><\/p> <p>Die R Coffee Break wird in Englisch stattfinden.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/275860720/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break - Modellvergleich mittels Likelihood Ratio Test (LRT) - Teil 2  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-02-03",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Diese R Coffee Break ist eine Fortsetzung vom 13. Januar 2021: Modellvergleich mittels Likelihood Ratio Test (LRT) am Beispiel der logistischen Regression. Das Ganze wird mit base-R erklärt.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/275722887/",
     "textColor": "blue"
   },
   {
@@ -1051,14 +1083,6 @@
     "start": "2021-02-18",
     "description": "<p>DESCRIPTION:<br/>This panel and discussion event will be focused on R instruction. As a learner, what are some recommended resources for developing my R skills? As an instructor, how can I make my materials and presentations more effective? How can I gain experience teaching R?<\/p> <p>Our expert panelists will share their perspectives on learning and teaching R.<\/p> <p>More information coming soon...<\/p> <p>TENTATIVE AGENDA:<br/>[masked]pm: Arrivals<br/>[masked]pm: Introduction<br/>[masked]pm: Panel presentations<br/>[masked]pm: Discussion and Q&amp;A<\/p> <p>ABOUT OUR PANELISTS:<br/>Coming soon...<\/p> <p>Please note that the virtual meeting can support up to 100 attendees. While we won't cap the number of RSVPs, we encourage you to be on time to secure a spot.<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/275334017/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2021-01-19",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsycccbzb/",
     "textColor": "blue"
   },
   {
@@ -1230,14 +1254,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Irvine: R-Ladies Irvine & WiMLDS Seattle: When Climate Science Meets Data Science  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Irvine",
-    "start": "2021-01-19",
-    "description": "<p># Schedule<br/>Tuesday, January 19th, 5:30-7:30pm (Pacific)<br/>5:30 - Welcome and Announcements<br/>5:45 - Using Machine Learning and Dispersion Modeling to Predict Emissions<br/>6:20 - Q&amp;A for Using Machine Learning and Dispersion Modeling to Predict Emissions<br/>6:30 - Accelerating Climate-Smart Agriculture with Data Science<br/>7:05 - Q&amp;A for Accelerating Climate-Smart Agriculture with Data Science<br/>7:15 - Networking<br/>7:30 - Meeting Adjourned<\/p> <p># Using Machine Learning and Dispersion Modeling to Predict Emissions<br/>Speaker: Varsha Gopalakrishnan, PhD<br/>Senior Consultant, Ramboll<\/p> <p>Bio: Varsha is an environmental researcher and data scientist specializing in air quality, climate change assessment and sustainability science. She is passionate about using innovation and technology to tackle issues related to climate change and food security. She obtained her Ph.D. in Chemical Engineering from The Ohio State University, and is currently a Senior Air Quality Scientist at Ramboll, San Francisco. She is originally from Chennai, India.<\/p> <p>Abstract: Several communities in the Bay Area are disproportionately impacted by poor air quality. Some cities have established community air monitoring programs to monitor air pollution concentrations in real-time to determine impacts to communities from various pollution sources in the area. Varsha’s talk will focus on a novel methodology developed in her work at Ramboll to determine distinct sources of emissions in the area using a combination of ambient air monitoring data, machine learning, and air dispersion modeling. The talk will focus on the results of the study and how the study provides communities an independent way to monitor emissions from nearby pollution sources.<\/p> <p># Accelerating Climate-Smart Agriculture with Data Science<br/>Speaker: Patti Carroll, PhD<br/>Lead Data Scientist, Sustainability at the Climate Corporation<\/p> <p>Bio: Patti Carroll is Lead Data Scientist on the Sustainability team at the Climate Corporation. She earned her PhD in Astronomy from the University of Washington before she joined Climate in 2016. Passionate about data science for social good, she has worked to develop models for crop disease risk to support the responsible use of fungicides, models to identify chronically low-productivity zones for conversion to wildlife habitat, and has most recently led the development of new data and model pipelines to support the development of agricultural carbon markets.<\/p> <p>Abstract: At the Climate Corporation, our mission is to help all the world's farmers sustainably increase productivity with data science and digital tools. While productivity is traditionally measured by crop yield, yield is strongly dependent on environmental conditions. Our strategy to sustainably increase productivity must consider the realities of climate change and the reality of agriculture as a significant source of greenhouse gas emissions. In this talk I will introduce the concept of Carbon Farming, the Bayer Carbon Initiative, and how we are using Data Science to accelerate and scale the adoption of Climate smart agricultural practices.<\/p> <p># Meeting Materials<br/>All meeting materials will be sent to registered attendees after the event.<\/p> ",
-    "url": "https://www.meetup.com/rladies-irvine/events/275473956/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
     "group": "R-Ladies Montreal",
     "start": "2021-01-21",
@@ -1398,6 +1414,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Taipei: [2021 Feb] Voice of Data 如何為你手中的數據發聲, Taiwan, Asia",
+    "group": "R-Ladies Taipei",
+    "start": "2021-02-22",
+    "description": "<p>[Code of Conduct]<br/>基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：<br/>• 座位請優先保留給女生<br/>• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀<br/>• 發言的機會請優先留給女生<br/>※ 2021 年起嚴格實施 !!!!!!!!!!!!!<\/p> <p>[因應疫情相關措施]<br/>• 活動期間請全程戴口罩<br/>• 視疫情狀況, 必要時將採實名制參加<br/>※ 若無法配合將無法進入活動場地<\/p> <p>[Agenda]<br/>• 19:30 ~ 19:40 (10 mins) 入場<br/>• 19:40 ~ 20:40 (60 mins) 主議程: Voice of Data @Sally<br/>• 20:40 ~ 21:10 (30 mins) 與 Rladies 們聊聊天 -- 讓我們一起規劃未來的 Meetup<br/>• 21:10 ~ 自由交流時間<\/p> <p>[Talk Information]<br/>• Voice of Data 如何為你手中的數據發聲<br/>不管是數據分析師、工程師或科學家，在數據團隊建立或轉職初期，甚至是在安插在其他部門內的數據分析工作者，都將面臨來自四面八方的期待，期待你透過分析工具及模型來「點石成金」。但真實情況是你會面臨數據缺失、老闆非技術研究出身、上台報告時台下聽不懂、研究開發資源不到位、講了建議後執行團隊不理你等等情況。<br/>這個演講將融匯 Sally 在美國及中國遇到文化衝擊的小故事及解決方案，希望帶給在職場上為數據發聲的工作者，能更有勇氣與影響力。<\/p> <p>• 與 Rladies 們聊聊天 -- 讓我們一起規劃未來的 Meetup<br/>2020 因為疫情我們休息了一整年, 2021 我們決定重出江湖<br/>但我們想藉由久違付出的這次, 跟大家一起討論未來 Meetup 的方向和形式<br/>希望有大家的參與可以讓舊朋友和新朋友們都可以更融入 R-Ladies Taipei<\/p> <p>[Speaker Information]<br/>• Sally<br/>從百貨採購轉跳成數據分析師與科學家的 Sally，在數據職涯中歷經美國與中國企業文化，橫跨金融、醫藥、音樂娛樂與數位教育等產業，做過分析及建置數據產品開發團隊。<br/>目前在台灣美商 Viewsonic 做數據科學家。<\/p> <p>[Host Information]<br/>• Kristen Chan： 活動主持人、聯絡講者<br/>• Summit Suen：聯絡講者、活動場地<\/p> <p>[地點] Dcard<br/>地址: 臺北市大安區光復南路 102 號 14 樓<br/>(在 Dcard 14F 辦公室 不要走錯!!!!)<\/p> <p>[Event Tags]<br/>#RladiesTaipei<\/p> ",
+    "url": "https://www.meetup.com/rladies-taipei/events/275622681/",
+    "textColor": "blue"
+  },
+  {
     "title": "EdinbR: The Edinburgh R Usergroup: January 2021 meeting: partially ordered sets and reactivity in Shiny apps  [Virtual] , United Kingdom, Europe",
     "group": "EdinbR: The Edinburgh R Usergroup",
     "start": "2021-01-20",
@@ -1406,11 +1430,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group Rhein-Neckar: January 2021 Meeting: Starting another online year  [Virtual] , Germany, Europe",
+    "title": "R User Group Rhein-Neckar: February 2021 Meeting  [Virtual] , Germany, Europe",
     "group": "R User Group Rhein-Neckar",
-    "start": "2021-01-19",
-    "description": "<p>This is the first of probably many more online user group meetings this year. The agenda is not fixed, but could include items such as<\/p> <p>* Discuss next meetings: dates, topics, lightning talks, etc.<br/>* Lightning talks: distill package, vote package, ...<br/>* R news, e.g. interesting packages, videos, or blog posts<br/>* Question(s): E.g., how to find challenging datasets<\/p> <p>See <a href=\"https://github.com/hwborchers/RUG-Rhein-Neckar/wiki\" class=\"linkified\">https://github.com/hwborchers/RUG-Rhein-Neckar/wiki<\/a> for more information about this group and our activities in 2020. Besides that you will find package tips, proposed themes, R news, and recommended readings.<\/p> <p>Suggestions of topics we could deal with this year are welcome. 'Lightning Talks' of 10-15 minutes and only very few (or no) slides are a good possibility, for example pointing out a package you would like to recommend or learn more about.<\/p> <p>JITSI Meeting ID: [masked]<br/>Password: no password<\/p> <p>The JITSI Meeting ID will be visible for all attendees, and the link under \"Online event\" on the right can be clicked to join the meeting.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/275536615/",
+    "start": "2021-02-16",
+    "description": "<p>The agenda is not fixed, but could include items such as<\/p> <p>* Lighning talks: Distill package, vote package, ...<br/>* Introduction to 'tidymodels'<br/>* R news, e.g., new packages, videos, or blog posts<\/p> <p>Suggestions of topics would be welcome. 'Lightning Talks' of 7-10 minutes and only very few (or no) slides are a good possibility, e.g. pointing out a package you would like to recommend or learn more about.<\/p> <p>To avoid time restrictions, this video conference will be hosted on JITSI. To attend click the \"online event\" link on the right side, visible to all attendees, enter your name and join the meeting.<\/p> <p>Please only RSVP if you actually plan to attend.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/275861984/",
     "textColor": "blue"
   },
   {
@@ -1558,11 +1582,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies St. Louis: Building Highly Personalized Shiny Apps  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies St. Louis",
-    "start": "2021-01-19",
-    "description": "<p>We will go over different tips and tricks to personalize shinyapps. From custom styling to custom shiny components, no more: \"I built a shiny app but it looks like a Shiny App\"<\/p> <p>Juan Pablo is a data scientist and founder of Datasketch. He has worked with multiple governmental and non-governmental organizations in Latin America to analyze, explore and visualize various sources of information for the public good. Through his platform <a href=\"http://datasketch.co\" class=\"linkified\">http://datasketch.co<\/a> he creates web-based tools for the democratization of data science. Juan Pablo has an MSc in Information Technology from ETH Zurich, in 2012 he was appointed Network Fellow at Harvard University for one of his Big Data solutions to fight corruption.<\/p> <p>You can find the data and materials for the event here:<br/><a href=\"https://github.com/datasketch/rladies-stl-personalized-shiny-apps\" class=\"linkified\">https://github.com/datasketch/rladies-stl-personalized-shiny-apps<\/a><\/p> <p>We'll see you there!<\/p> ",
-    "url": "https://www.meetup.com/rladies-st-louis/events/275416262/",
+    "title": "R-Ladies Madison: Rstudio Global: Your Public Garden   [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Madison",
+    "start": "2021-01-21",
+    "description": "<p>Join us for a Keynote watch-along. RstudioConf is global this year with dual times for night owls and morning larks. Registration is free at <a href=\"https://global.rstudio.com/student/catalog\" class=\"linkified\">https://global.rstudio.com/student/catalog<\/a><\/p> <p>The link to enroll in the watch-along and the Q &amp; A afterward<br/><a href=\"https://global.rstudio.com/student/page/40643\" class=\"linkified\">https://global.rstudio.com/student/page/40643<\/a><br/><a href=\"https://global.rstudio.com/student/page/41079\" class=\"linkified\">https://global.rstudio.com/student/page/41079<\/a><\/p> <p>Zoom details will be sent out the day of.<\/p> ",
+    "url": "https://www.meetup.com/R-Ladies-Madison/events/275863914/",
     "textColor": "blue"
   },
   {
@@ -1643,6 +1667,14 @@
     "start": "2021-01-21",
     "description": "<p>In questo evento noi saremo ospitati da SheTech, unisciti a noi per scoprire:<\/p> <p>* Cosa vuol dire essere una Data Scientist? Com'è la sua giornata tipo e quali sono le diverse sfide che affronta e i progetti a cui lavora?<\/p> <p>* Perchè non esiste un solo modo o un solo ruolo nel mondo della data science &amp; analytics.<\/p> <p>*Perchè è importante avere un approccio data-driven, diversità e inclusione nel settore.<\/p> <p>Registerazione: <a href=\"https://www.eventbrite.it/e/biglietti-50-shades-of-data-science-135999527247\" class=\"linkified\">https://www.eventbrite.it/e/biglietti-50-shades-of-data-science-135999527247<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-milan/events/275664527/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Milan: LinkedIn & le sue (quasi) infinite potenzialità  [Virtual] , Italy, Europe",
+    "group": "R-Ladies Milan",
+    "start": "2021-02-02",
+    "description": "<p>Ciao a tutti!<br/>In questo evento faremo qualcosa di veramente diverso.<br/>Vogliamo tenere un workshop su come utilizzare Linkedin in modo efficiente e su come creare un miglior Personal Branding.<br/>Potrai quindi imparare come:<br/>* Aumentare il numero di contatti<br/>* Cercare lavoro e creare alert<br/>* Gruppi su LinkedIn: questi sconosciuti<br/>* Postare contenuti su LinkedIn<br/>* Netiquette<br/>Non ci sarà solo una parte teorica ma anche esercizi pratici da seguire per apprendere tecniche efficaci.<br/>La nostra straordinaria speaker per questo workshop è Sabrina Pittaluga.<br/>Sabrina attualmente ricopre il ruolo di Talent Research Lead per l'area CEMA (Central and Eastern Europe, Middle East and Africa) presso l'ufficio di Milano di BCG – Boston Consulting Group. Le attività che segue includono Sourcing &amp; recruiting di posizioni senior e Market Intelligence.<br/>Don't hesitate to join us, looking forward to hearing you all!<\/p> ",
+    "url": "https://www.meetup.com/rladies-milan/events/275850692/",
     "textColor": "blue"
   },
   {
