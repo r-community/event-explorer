@@ -192,14 +192,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Greater Boston useR Group (R Programming Language): Virtual January useR Group  [Virtual] , United States, US/Canada",
-    "group": "Greater Boston useR Group (R Programming Language)",
-    "start": "2021-01-06",
-    "description": "<p>Looking forward to our January useR Group meetup with a preview of the rstudio::global(2021) event on January 21st!!<\/p> <p>Agenda:<br/>*please note times below are ET<\/p> <p>12:00 - 12:10 - Set-up and virtual hellos / introductions<br/>12:10 - 12:40 - The dynamic duo: SQL &amp; R by Irene Steves<br/>This will be a rstudio::global pre-recorded presentation followed by a live Q &amp; A session with Irene<br/>12:40 - 12:55 - rstudio::global(2021) preview and Q &amp; A - by Curtis Kephart<br/>12:55 - 1:00 - Closing remarks and any additional questions<\/p> <p>The dynamic duo: SQL &amp; R / Presented by Irene Steves<br/>Irene Steves is a data scientist @ Riskified<br/>---------------------------------------------------------------------------------------<br/>There’s a point in every data wrangler’s career in which their full dataset can no longer fit into just CSV files, and the journey to database-world begins. I reached this point about two years ago, when I transitioned from ecological research to the world of eCommerce fraud prevention. My calls to read_csv became scarcer as I came to rely more and more on databases. In this talk, I’ll demonstrate how I incorporate R and SQL into my daily workflow, aided by features in RStudio IDE . I’ll also discuss our company’s “riskiconn” package for handling database connections and queries, and how this package was a key tool during our migration to a new database service.<\/p> <p>rstudio::global(2021) preview / Presented by Curtis Kephart<br/>Curtis Kephart is an Economist and Community Organizer @ RStudio<br/>---------------------------------------------------------------------------------------<br/>rstudio::global(2021) is a free, virtual event on all things R &amp; RStudio. It's hosted over 24-hours, giving people at different timezones a number of options to conveniently engage – with a number of talks and community-engagement events we hope you'll enjoy.<br/>It starts on 21st January 2021 @ 4:00 PM GMT.<br/>Learn more about rstudio::global(2021) and register at global.rstudio.com<\/p> ",
-    "url": "https://www.meetup.com/Boston-useR/events/275318502/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "CopenhagenR - useR Group: Bayesian Multilevel Modeling with {brms}  [Virtual] , Denmark, Europe",
     "group": "CopenhagenR - useR Group",
     "start": "2021-01-14",
@@ -516,14 +508,6 @@
     "start": "2021-01-14",
     "description": "<p>The {brms} package provides an interface to fit Bayesian generalized (non-)linear multivariate multilevel models using Stan, a C++ package for performing full Bayesian inference (see <a href=\"https://mc-stan.org/\" class=\"linkified\">https://mc-stan.org/<\/a>). The formula syntax is very similar to that of the {lme4} package to provide a familiar and simple interface for performing regression analyses. A wide range of response distributions are supported, allowing users to fit – among others – linear, robust linear, count data, survival, response times, ordinal, zero-inflated, and even self-defined mixture models all in a multilevel context. Further modeling options include non-linear and smooth terms, auto-correlation structures, censored data, missing value imputation, and quite a few more. In addition, all parameters of the response distribution can be predicted in order to perform distributional regression. Multivariate models, i.e., models with multiple response variables, can be fit as well. Prior specifications are flexible and explicitly encourage users to apply prior distributions that reflect their beliefs. Model fits can easily be assessed and compared with posterior predictive checks, cross-validation, and Bayes factors.<\/p> <p>[Bio]<br/>Paul is a statistician currently working as an Independent Junior Research Group Leader at the Cluster of Excellence SimTech at the University of Stuttgart (Germany). He is the author of the R package {brms} and member of the Stan Development Team. Previously, he studied Psychology and Mathematics at the Universities of Münster and Hagen (Germany) and did his PhD in Münster about optimal design and Bayesian data analysis. He has also worked as a Postdoctoral researcher at the Department of Computer Science at Aalto University (Finland).<\/p> <p>[About]<br/>This event is organized by the Oslo useR! Group and will be co-hosted by the Skåne useR! Group, the Copenhagen useR! Group, and the Stockholm useR! Group.<\/p> ",
     "url": "https://www.meetup.com/StockholmR/events/275124227/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Campus useR Group Frankfurt: January meeting: Academic writing with R  [Virtual] , Germany, Europe",
-    "group": "Campus useR Group Frankfurt",
-    "start": "2021-01-06",
-    "description": "<p>We hit 2021 running with a session on academic writing with R.<br/>There are layers to unpack: RMarkdown, LaTeX, Citations, .*down$ packages and custom templates... In a freestyle format, we share our workflows, questions, ideas, best practices and train-wreck experiences with compiling sleek scientific papers from R. What's keeping *you* from publishing your reproducible research with R?<\/p> <p>As always, useRs of all walks of life and at all levels of expertise are invited to participate. Learning R is not a competition. Come join us!<\/p> ",
-    "url": "https://www.meetup.com/r-frankfurt/events/275175891/",
     "textColor": "#7171fb"
   },
   {
@@ -918,14 +902,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies RTP: Introduction to R Packages for Bayesian Models  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies RTP",
-    "start": "2021-01-06",
-    "description": "<p>At this virtual meetup, R-Ladies RTP member Melissa Wong (she/her), will introduce some R packages (rstanarm, rethinking, and possibly brms) for Bayesian models that are a bit easier to get started with than rstan. Melissa will include examples of both a simple linear regression and a semi-parametric regression in all packages, and talk about what she found to be a beginner-friendly path to work up to using rstan directly.<\/p> <p>Melissa's Bio: I'm a Senior Engineer with The Johns Hopkins University Applied Physics Laboratory. I started my career as a software and systems engineer. Since finishing my M.S. in Statistics I've become interested in learning more about Bayesian methods and causal inference.<\/p> <p>Special thanks to Melissa for suggesting, developing, and leading this meetup!<\/p> <p>What do I bring?<br/>Please login to Zoom using a laptop or computer with the capabilities to run R and RStudio. We encourage attendees to install or update their versions of R and RStudio as well as their R packages. To update your R Packages in RStudio go to Tools &gt; \"Check for package updates...\". Here are links to free downloads for R (<a href=\"https://cran.r-project.org/\" class=\"linkified\">https://cran.r-project.org/<\/a>) and RStudio (<a href=\"https://www.rstudio.com/products/rstudio/download/#download\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/#download<\/a>). Downloading and installing both of these programs before this meetup will help us keep on schedule and make sure you learn the most you can while at the meetup event.<\/p> <p>Who is this event for?<br/>Beginners are welcome and encouraged to join this event but please install the most recent version of both R and RStudio on your laptop before attending this meetup event. See information above for instructions.<\/p> <p>Where will it take place?<br/>**Please join us online via Zoom.** A link to join will be provided when you RSVP.<\/p> <p>All events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.<\/p> ",
-    "url": "https://www.meetup.com/rladies-rtp/events/275013392/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Madison: Rstudio Global: Your Public Garden   [Virtual] , United States, US/Canada",
     "group": "R-Ladies Madison",
     "start": "2021-01-21",
@@ -1094,6 +1070,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Bamako Data Science: Application de machine learning avec Python (2)  [Virtual] , Mali, Africa",
+    "group": "Bamako Data Science",
+    "start": "2021-02-05",
+    "description": "<p>Après l'excéllente présentation donnée par Aïssata Cissé en Octobre, nous allons, cette semaine, faire notre retour à Python.<br/>Bréhima Koné, informaticien, va, à son tour, nous montrer une application de machine learning dans Python.<br/>Avec Aïssata, nous nous intéressions au secteur du transport.<br/>Cette fois-ci, le regard sera tourné vers la finance.<br/>Bréhima nous parlera des services d'abonnement à la carte bancaire.<br/>Si vous êtes dans la finance, vous voudriez entendre ce qu'il a à dire.<br/>Si vous êtes détenteur de cartes bancaires...vous avez encore plus de raison d'être là!<\/p> <p>Comme d'habitude, sur Zoom à partir de 4:30 PM GMT.<\/p> <p>Cheers,<br/>Fousseynou<\/p> ",
+    "url": "https://www.meetup.com/Bamako-Data-Science/events/276104508/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "LA R users group: [OCRUG X-Post] Modeling Normally Distributed Data with Repeated Measures  [Virtual] , United States, US/Canada",
     "group": "LA R users group",
     "start": "2021-02-09",
@@ -1227,14 +1211,6 @@
     "start": "2021-02-18",
     "description": "<p>This event is organized by the Oslo useR! meetup group: <a href=\"https://www.meetup.com/Oslo-useR-Group/events/275861577\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/events/275861577<\/a><\/p> <p>[Abstract]<br/>{ggstatsplot} is an extension of the {ggplot2} package for creating<br/>graphics with details from statistical tests, included in the information-rich plots themselves.<br/>In a typical exploratory data analysis workflow, data visualization and statistical modeling are two different phases: visualization informs modeling, and modeling in turn can suggest a different visualization method, and so on and so forth.<br/>The central idea of {ggstatsplot} is simple: combine these two phases into one in the form of graphics with statistical details, which makes data exploration simpler and faster!<\/p> <p>[Bio]<br/>Indrajeet Patil is a Postdoctoral Researcher at the Center for Humans and Machines, Max Planck Institute for Human Development, Berlin. He has a Ph.D. in cognitive neuroscience and specializes in investigating the psychological and neural basis of moral judgment and decision-making. He is also an active R package developer and part of the {easystats} team.<\/p> ",
     "url": "https://www.meetup.com/Berlin-R-Users-Group/events/276189735/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Workshop: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR  [Virtual] , Poland, Europe",
-    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
-    "start": "2021-02-06",
-    "description": "<p>RLadies Tunis Workshop<br/><a href=\"https://www.meetup.com/rladies-tunis/events/276066018\" class=\"linkified\">https://www.meetup.com/rladies-tunis/events/276066018<\/a><\/p> <p>We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a workshop which will cover the RNA-seq analysis.<\/p> <p>The ability to easily and efficiently analyse RNA-sequencing data is a key strength of the Bioconductor project. Starting with counts summarised at the gene-level, a typical analysis involves pre-processing, exploratory data analysis, differential expression testing and pathway analysis with the results obtained informing future experiments and validation studies. In this workflow article, we analyse RNA-sequencing data from the mouse mammary gland, demonstrating use of the popular edgeR package to import, organise, filter and normalise the data, followed by the limma package with its voom method, linear modelling and empirical Bayes moderation to assess differential expression and perform gene set testing. This pipeline is further enhanced by the Glimma package which enables interactive exploration of the results so that individual samples and genes can be examined by the user. The complete analysis offered by these three packages highlights the ease with which researchers can turn the raw counts from an RNA-sequencing experiment into biological insights using Bioconductor (<a href=\"https://f1000research.com/articles/5-1408\" class=\"linkified\">https://f1000research.com/articles/5-1408<\/a>).<\/p> <p>Date/Time : Februrary 6th, 2021 from 10:00 AM to 12:15 PM GMT+1<br/>Place : Zoom <a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a><\/p> <p>▶️ Trainer : Xueyi Dong<br/>▶️ About Xueyi Dong (<a href=\"https://github.com/XueyiDong\" class=\"linkified\">https://github.com/XueyiDong<\/a>) :<br/>Xueyi Dong is a PhD candidate at Walter and Eliza Hall Institute of Medical Research, Melbourne, Australia. She loves to share her experiences with RNA-seq data analysis. Xueyi has translated the analysis workflow package RNAseq123 (<a href=\"https://bioconductor.org/packages/release/workflows/html/RNAseq123.html\" class=\"linkified\">https://bioconductor.org/packages/release/workflows/html/RNAseq123.html<\/a>) into Mandarin, and she has taught the workshop on different events using both English and Mandarin.<\/p> <p>In order to attend the event, please fill out this form 👉<br/><a href=\"https://tinyurl.com/y6s3xt9p\" class=\"linkified\">https://tinyurl.com/y6s3xt9p<\/a><\/p> <p>We will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later.<\/p> <p>We look forward to e-meeting you!<\/p> <p>If you have any questions, please don't hesitate to contact us ⬇️<\/p> <p>▪️ Email : [masked]<br/>▪️ LinkedIn : <a href=\"https://tinyurl.com/y8hlt5np\" class=\"linkified\">https://tinyurl.com/y8hlt5np<\/a><br/>▪️ Meetup : <a href=\"https://www.meetup.com/rladies-tunis/\" class=\"linkified\">https://www.meetup.com/rladies-tunis/<\/a><br/>▪️ Twitter : <a href=\"https://twitter.com/RLadiesTunis\" class=\"linkified\">https://twitter.com/RLadiesTunis<\/a><br/>▪️ Instagram : <a href=\"https://www.instagram.com/rladiestunis/\" class=\"linkified\">https://www.instagram.com/rladiestunis/<\/a><br/>▪️ YouTube_Channel : <a href=\"https://tinyurl.com/ycm48c6w\" class=\"linkified\">https://tinyurl.com/ycm48c6w<\/a><br/>▪️ Github : <a href=\"https://github.com/rladiestunis\" class=\"linkified\">https://github.com/rladiestunis<\/a><br/>▪️ Facebook : <a href=\"https://www.facebook.com/RLadiesTunis/\" class=\"linkified\">https://www.facebook.com/RLadiesTunis/<\/a><\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276154000/",
     "textColor": "blue"
   },
   {
@@ -1427,6 +1403,14 @@
     "start": "2021-02-18",
     "description": "<p>[Abstract]<br/>{ggstatsplot} is an extension of the {ggplot2} package for creating<br/>graphics with details from statistical tests, included in the information-rich plots themselves.<br/>In a typical exploratory data analysis workflow, data visualization and statistical modeling are two different phases: visualization informs modeling, and modeling in turn can suggest a different visualization method, and so on and so forth.<br/>The central idea of {ggstatsplot} is simple: combine these two phases into one in the form of graphics with statistical details, which makes data exploration simpler and faster!<\/p> <p>[Bio]<br/>Indrajeet Patil is a Postdoctoral Researcher at the Center for Humans and Machines, Max Planck Institute for Human Development, Berlin. He has a Ph.D. in cognitive neuroscience and specializes in investigating the psychological and neural basis of moral judgment and decision-making. He is also an active R package developer and part of the {easystats} team.<\/p> ",
     "url": "https://www.meetup.com/Oslo-useR-Group/events/275861577/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Portland R User Group: aggregate: meet, greet, learn, collaborate  [Virtual] , United States, US/Canada",
+    "group": "Portland R User Group",
+    "start": "2021-02-16",
+    "description": "<p>Please join us for the 38th R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>Details: Jim Tyhurst will provide a short demonstration of the 10 git commands and associated GitHub workflows that are essential for you to collaborate on a project hosted on GitHub.com. Having seen this done once, you will be able to go back through any of the popular, free online Git tutorials to pick up the details.<\/p> <p>If you frequently delete a local clone of a GitHub repository and clone the original again, because your local repository is hopelessly \"broken\" when you try to synchronize with your colleagues' changes ... This discussion is for you!<\/p> <p>If you have lost work in the past, so now you do not trust Git to manage your revisions ... This discussion is for you!<\/p> <p>If you have played with Git a little, but you do not know how to make a Pull Request to contribute to a collaborative project ... This discussion is for you! A Q&amp;A session will follow<\/p> <p>When: February 16th, 2021 @ 6:30-8 PM<\/p> <p>Where: Online: zoom info provided when you respond<\/p> <p>Agenda:<\/p> <p>• Jim Tyhurst will do a short demonstration of git commands.<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct\" class=\"linkified\">https://pdxrlang.com/code_of_conduct<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message Marley Buchman in the meetup app, or on Twitter at @pdxrlang<\/p> ",
+    "url": "https://www.meetup.com/portland-r-user-group/events/276194867/",
     "textColor": "blue"
   },
   {
@@ -2036,6 +2020,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Dublin R: Why R? Webinars  [Virtual] , Ireland, Europe",
+    "group": "Dublin R",
+    "start": "2021-05-06",
+    "description": "<p>- channel: youtube.com/c/WhyRFoundationVideos<br/>- date: every Thursday 7:00 pm (Irish Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- MC: Lais Carvalho &amp; Guests<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Description:<\/p> ",
+    "url": "https://www.meetup.com/DublinR/events/jtbhcsycchbjb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Bogotá R Users Group: Big Data con R: sparklyr y sparkR  [Virtual] , Colombia, Latin America",
     "group": "Bogotá R Users Group",
     "start": "2021-02-11",
@@ -2164,6 +2156,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Dallas: Data Storytelling with Amber Thomas  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Dallas",
+    "start": "2021-03-16",
+    "description": "<p>For the March 16th edition of our R-Ladies Dallas webinar series, we are excited to welcome Amber Thomas as our guest speaker. Amber will introduce the topic of data storytelling.<\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>Session title: Data Storytelling<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>Abstract:<\/p> <p>Bio:<\/p> <p>Twitter: twitter.com/ProQuesAsker<\/p> <p>Website: amber.rbind.io<\/p> <p>*************************************************************************<\/p> <p>You are encouraged to click the link below to keep up with the group project and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>*************************************************************************<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dallas/events/276204618/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies New York: R-Ladies Book Club  [Virtual] , United States, US/Canada",
     "group": "R-Ladies New York",
     "start": "2021-02-27",
@@ -2177,14 +2177,6 @@
     "start": "2021-03-16",
     "description": "<p>Alastair Rushworth (Tesco Bank)<\/p> ",
     "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/275548174/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Bamako Data Science: Application de machine learning avec Python (2)  [Virtual] , Mali, Africa",
-    "group": "Bamako Data Science",
-    "start": "2021-02-05",
-    "description": "<p>Après l'excéllente présentation donnée par Aïssata Cissé en Octobre, nous allons, cette semaine, faire notre retour à Python.<br/>Bréhima Koné, informaticien, va, à son tour, nous montrer une application de machine learning dans Python.<br/>Avec Aïssata, nous nous intéressions au secteur du transport.<br/>Cette fois-ci, le regard sera tourné vers la finance.<br/>Bréhima nous parlera des services d'abonnement à la carte bancaire.<br/>Si vous êtes dans la finance, vous voudriez entendre ce qu'il a à dire.<br/>Si vous êtes détenteur de cartes bancaires...vous avez encore plus de raison d'être là!<\/p> <p>Comme d'habitude, sur Zoom à partir de 4:30 PM GMT.<\/p> <p>Cheers,<br/>Fousseynou<\/p> ",
-    "url": "https://www.meetup.com/Bamako-Data-Science/events/276104508/",
     "textColor": "blue"
   }
 ]
