@@ -568,6 +568,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2021-03-02",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccfbdb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Goiânia: RStudio e suas funcionalidades  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies Goiânia",
     "start": "2021-02-20",
@@ -757,6 +765,14 @@
     "start": "2021-02-25",
     "description": "<p>Alison Hill (I think her unofficial nickname is RMarkdown Whisperer) is going to talk to us on another of her strengths. Making things beautiful, and informative. She's going to do her \"Take a Sad Plot &amp; Make it Better\" talk, for us. In this talk, Alison will discuss one plot’s life cycle, from a sad Powerpoint slide to the finished product made with the ggplot2 package in R, and what she learnt from it.<\/p> <p>Alison doesn't need much introduction, she'll be the main search result if you're looking for RMarkdown info, xaringan inspiration, blogging and teaching online using R, among many other topics! Read about her here: <a href=\"https://alison.rbind.io/about/\" class=\"linkified\">https://alison.rbind.io/about/<\/a>. If you're on Twitter, you'd learn a lot by following <a href=\"https://twitter.com/apreshill\" class=\"linkified\">https://twitter.com/apreshill<\/a>.<\/p> <p>Aside: Also have a look at Hugo Apéro, for some inspiration on building a presence online (<a href=\"https://hugo-apero.netlify.app/\" class=\"linkified\">https://hugo-apero.netlify.app/<\/a>).<\/p> ",
     "url": "https://www.meetup.com/rladies-johannesburg/events/276492467/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Canberra: Joint R-Ladies Canberra and SSA Canberra event  [Virtual] , Australia, Australia",
+    "group": "R-Ladies Canberra",
+    "start": "2021-03-02",
+    "description": "<p>Welcome back to 2021. We will kick start our 2021 R-Ladies Canberra series with a joint meeting with SSA Canberra. Please register as per below to receive the Zoom link.<\/p> <p>Date: Tuesday 2 March 2021<br/>Time: 5:30pm – 6:00pm AEDT : Zoom meeting opens for pre-seminar mingling<br/>6:00pm – 6:45pm AEDT : Presentation<\/p> <p>RSVP: Please register in advance for this meeting at <a href=\"https://anu.zoom.us/meeting/register/tZErfu2ppjguG90C-xLADEVg1bvoYnEd_4WU\" class=\"linkified\">https://anu.zoom.us/meeting/register/tZErfu2ppjguG90C-xLADEVg1bvoYnEd_4WU<\/a>. After registering, you will receive a confirmation email containing information about how to join the meeting. If you have any questions, please feel free to contact [masked].<\/p> <p>About the dinner: On the evening of 2 March at 7:30pm, there will be dinner at Madam Lu Malaysian Restaurant, 20/42 West Row, Canberra City (no website, but reviews available by Google search). For safety and determining numbers for the booking, if you wish to attend this dinner, please<br/>1. Enter your details here: <a href=\"https://docs.google.com/spreadsheets/d/1tQgomRy2VN7q-VD6oKVey2W-APzqRcs7qFB_o6JtqN4/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1tQgomRy2VN7q-VD6oKVey2W-APzqRcs7qFB_o6JtqN4/edit?usp=sharing<\/a><br/>2. Reply to this email ([masked]) to confirm<\/p> <p>Talk details<br/>Speaker: Gordana Popovic, University of New South Wales<\/p> <p>Topic: How to see the forest from the trees: Removing pesky artefacts from discrete data for better visualisation<\/p> <p>Abstract: Data sometimes have artefacts which obscure the patterns we are interested in visualising. You may have come across this when trying to interpret a residual plot from a logistic regression. For discrete data, these are not really artefacts, they are properties of the distribution of the data, like mean-variance relationships and lots of zeros. Generalised linear models and their extensions model the distribution of the data, including these properties, and so are a good way to remove them, to better see the patterns we are actually interested in. I will talk though some concepts and lots of examples of how we can use models to get the best out of our visualisations of discrete multivariate data in R.<\/p> <p>Biography: Gordana is a statistical consultant and research fellow at UNSW Sydney, with research interests in modelling and visualising multivariate discrete data in ecology. In her spare time, Gordana can be found hiking or ocean swimming (poorly but enthusiastically).<\/p> <p>Website link: <a href=\"https://statsoc.org.au/event-4144562?CalendarViewType=1&amp;SelectedDate=2/15/2021\" class=\"linkified\">https://statsoc.org.au/event-4144562?CalendarViewType=1&amp;SelectedDate=2/15/2021<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-canberra/events/276509700/",
     "textColor": "#7171fb"
   },
   {
@@ -1251,6 +1267,22 @@
     "textColor": "blue"
   },
   {
+    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Connecting Bioconductor to other bioinformatics tools using Rcwl  [Virtual] , Poland, Europe",
+    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
+    "start": "2021-03-05",
+    "description": "<p>We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a new workshop about connecting Bioconductor to other bioinformatics tools using Rcwl: Application in sc-RNAseqdata.<\/p> <p>Date/Time: Saturday, March 5, 2021 from 5:30 PM to 7:45 PM (GMT+1)<br/>Place: Zoom <a href=\"https://zoom.us/download\" class=\"linkified\">https://zoom.us/download<\/a><\/p> <p>▶️ Invited trainer: Dr. Qian Liu<br/>▶️ About Dr. Qian Liu:<br/>Dr. Qian Liu joined the Department of Biostatistics &amp; Bioinformatics faculty at Roswell Park Comprehensive Cancer Center as an Assistant Professor of Oncology in October 2019. Prior to that, she was a post-doc affiliate supervised by Dr. Martin Morgan, in the Bioconductor Core Team. She has earned her PhD in Biostatistics, Master in Biostistics, and Biochemistry &amp; Molecular Biology, and BA in BioEngineering. Dr. Liu is currently a CTSI scholar funded by the Buffalo Translational Consortium (BTC) Scholar Program.<\/p> <p>The workshop (<a href=\"https://liubuntu.github.io/Bioc2020RCWL/\" class=\"linkified\">https://liubuntu.github.io/Bioc2020RCWL/<\/a>) will use real scRNA-seq data to demonstrate the usage of Rcwl and RcwlPipelines in doing the pre-processing and touch some downstream statistical analysis of scRNA-seq data.<\/p> <p>In order to attend the event, please fill out this form 👉 <a href=\"https://tinyurl.com/y8ymbk3j\" class=\"linkified\">https://tinyurl.com/y8ymbk3j<\/a><\/p> <p>We will send you the Zoom link and the enter passcode a few hours before the training session. Please check out your email later.<\/p> <p>Don't forget to add the meetup to your calendar so that you get a reminder about it.<\/p> <p>We look forward to welcoming you!<\/p> <p>If you have any questions, please don't hesitate to contact us ⬇️<\/p> <p>▪️ Email : [masked]<br/>▪️ LinkedIn : <a href=\"https://tinyurl.com/y8hlt5np\" class=\"linkified\">https://tinyurl.com/y8hlt5np<\/a><br/>▪️ Meetup : <a href=\"https://www.meetup.com/rladies-tunis/\" class=\"linkified\">https://www.meetup.com/rladies-tunis/<\/a><br/>▪️ Twitter : <a href=\"https://twitter.com/RLadiesTunis\" class=\"linkified\">https://twitter.com/RLadiesTunis<\/a><br/>▪️ Instagram : <a href=\"https://www.instagram.com/rladiestunis/\" class=\"linkified\">https://www.instagram.com/rladiestunis/<\/a><br/>▪️ YouTube_Channel : <a href=\"https://tinyurl.com/ycm48c6w\" class=\"linkified\">https://tinyurl.com/ycm48c6w<\/a><br/>▪️ Github : <a href=\"https://github.com/rladiestunis\" class=\"linkified\">https://github.com/rladiestunis<\/a><br/>▪️ Facebook : <a href=\"https://www.facebook.com/RLadiesTunis/\" class=\"linkified\">https://www.facebook.com/RLadiesTunis/<\/a><\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276696980/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): X-Europe Webinar #16 - Machine learning in drug discovery  [Virtual] , Poland, Europe",
+    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
+    "start": "2021-03-10",
+    "description": "<p>MEETUP DESCRIPTION<\/p> <p>Drug discovery R&amp;D is still a huge challenge for the pharmaceutical industry. It is expensive, has a high percentage of failure in programmes and this translates into a high societal cost. In this talk, we will give an overview of the world of how the BenevolentAI platform is trying to improve and speed up the process of drug discovery by using machine learning in different areas, focusing more in the area of chemistry.<\/p> <p>### REGISTRATION INFO<\/p> <p>--&gt;&gt;&gt; Registration link: <a href=\"https://ml-in-drug.carrd.co/\" class=\"linkified\">https://ml-in-drug.carrd.co/<\/a> &lt;&lt;&lt;--<br/>Please also RSVP here on the Meetup Page.<\/p> <p>### Our Speaker<\/p> <p>Ana Solaguren-Beascoa Negre<\/p> <p><a href=\"https://www.researchgate.net/profile/Ana-Solaguren-Beascoa\" class=\"linkified\">https://www.researchgate.net/profile/Ana-Solaguren-Beascoa<\/a><\/p> <p>Ana studied physics at University of Barcelona and did her PhD in theoretical particle physics at the TUM - max plank institut fuer physik. She has been living in London for over 4.5 years and working as a data scientist for 3.5 years. She spent 2.5 years working in a fintech and about a year ago she moved to benevolent AI.<\/p> <p>### ABOUT THE X-EUROPE DATA SCIENCE WEBINARS<\/p> <p>X-Europe Webinar Series is a joint online event of Vienna Data Science Group, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar, Warsaw R Users Group, PyData Slovakia, and Data Scientists Ireland.<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276696951/",
+    "textColor": "blue"
+  },
+  {
     "title": "Montreal R User Group: [Webinar] Using & Expanding the NLP Models Hub  [Virtual] , Canada, US/Canada",
     "group": "Montreal R User Group",
     "start": "2021-03-10",
@@ -1387,11 +1419,11 @@
     "textColor": "blue"
   },
   {
-    "title": "Wiesbaden R User Group: R Coffee Break: Kuhn-Tucker &  Multiple Discrete-Continuous Extreme Value Models  [Virtual] , Germany, Europe",
-    "group": "Wiesbaden R User Group",
-    "start": "2021-03-03",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Patrick Lloyd-Smith sein CRAN-Paket rmdcev vorstellt. Das Paket schätzt und simuliert Kuhn-Tucker-Nachfragemodelle mit individueller Heterogenität. Hier ist der Link zum Paket auf CRAN: <a href=\"https://cran.r-project.org/package=rmdcev\" class=\"linkified\">https://cran.r-project.org/package=rmdcev<\/a><br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/276324273/",
+    "title": "Portland R User Group: aggregate: meet, greet, learn, collaborate  [Virtual] , United States, US/Canada",
+    "group": "Portland R User Group",
+    "start": "2021-03-15",
+    "description": "<p>Please join us for the 40th R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>When: February 23rd, 2021 @ 6:30-8 PM<\/p> <p>Where: Online: zoom info provided soon (provided after you join).<\/p> <p>Agenda:<\/p> <p>• No topic this time around, we'll discuss R issues<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code_of_conduct\" class=\"linkified\">https://pdxrlang.com/code_of_conduct<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message Marley Buchman in the meetup app, or on Twitter at @pdxrlang<\/p> ",
+    "url": "https://www.meetup.com/portland-r-user-group/events/276692700/",
     "textColor": "blue"
   },
   {
@@ -1499,19 +1531,18 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Xalapa: ¿Cómo abrir un capítulo de R-Ladies?, Mexico, Latin America",
+    "group": "R-Ladies Xalapa",
+    "start": "2021-03-20",
+    "url": "https://www.meetup.com/rladies-xalapa/events/276705725/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Brisbane: Using R to analyse step count data: common pitfalls and how to get over them  [Virtual] , Australia, Australia",
     "group": "R-Ladies Brisbane",
     "start": "2021-03-31",
     "description": "<p>*What are we going to learn:<br/>Interested in analysing health data (like step count)? Not sure how to go about it using R? This talk will cover some common issues researchers and data scientists might encounter when dealing with longitudinal step count data and how R can be used to help with the analysis.<\/p> <p>*Who is going to present:<br/>Ly is a Digital Health Scientist and Consultant. Ly is passionate about helping people lead a healthy and happy life. Her current PhD research at Macquarie University leverages how to use AI &amp; mobile technologies to promote healthy behaviour (like physical activity). Ly is a big fan of R and Github, and her favourite packages are ggplot2 and dplyr. Ly loves to share her love of R and learn about it with other people. While Ly is not busy with her R codes, she likes to hang out with her plant babies (all 56 of them) or doing some embroidery.<\/p> <p>* When are we meeting?<br/>The talk will start at 5:00 pm for approximately 1.5 hours.<\/p> <p>************The presentation will start at 5:00 pm********************<br/>* Where are we meeting?<br/>We will meet virtually using Zoom, the link will be visible to people who RSVP.<\/p> <p>* What else is needed?<br/>This will be an interactive ~90 min presentation. If you would like to follow along in RStudio please make sure you have installed the following before the session:<\/p> <p>R - <a href=\"https://cran.r-project.org/bin/windows/base/\" class=\"linkified\">https://cran.r-project.org/bin/windows/base/<\/a><br/>RStudio - <a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a><br/>Required packages: \" dplyr \", ggplot2\" and \" RMarkdown \"<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/276526742/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2021-03-02",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccfbdb/",
     "textColor": "blue"
   },
   {
@@ -1840,6 +1871,14 @@
     "start": "2021-04-26",
     "description": "<p>[Code of Conduct]<br/>基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：<br/>• 座位請優先保留給女生<br/>• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀<br/>• 發言的機會請優先留給女生<br/>※ 2021 年起嚴格實施 !!!!!!!!!!!!! (因為我們缺講者...)<\/p> <p>[因應疫情相關措施]<br/>• 活動期間請全程戴口罩<br/>• 視疫情狀況, 必要時將採實名制參加<br/>※ 若無法配合將無法進入活動場地<\/p> <p>[Agenda]<br/>• 19:30 ~ 19:40 (10 mins) 入場<br/>• 19:40 ~ 20:40 (60 mins) 主議程:行銷文科生做資料 @Pei<br/>• 20:40 ~ 自由交流時間<\/p> <p>[Talk Information]<br/>• 行銷文科生做資料<br/>TBA<\/p> <p>[Speaker Information]<br/>• Pei<\/p> <p>[Host Information]<br/>• Kristen Chan： 活動主持人、聯絡講者<br/>• Angie：活動場地<br/>• Sylvia：活動場地<\/p> <p>[地點] DigiBlock C &lt;暫訂&gt;<br/>地址: 103 台北市大同區承德路三段287號<br/>(捷運圓山站附近)<\/p> <p>[Event Tags]<br/>#RladiesTaipei<\/p> ",
     "url": "https://www.meetup.com/rladies-taipei/events/276578596/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R en Rosario: Radios censales y otras yerbas  [Virtual] , Argentina, Latin America",
+    "group": "R en Rosario",
+    "start": "2021-03-18",
+    "description": "<p>R en Rosario presenta \"Radios censales y otras yerbas\", un taller donde vamos a aprender sobre mapas, proyecciones y tipos de datos geográficos de la mano de Lautaro Cantar (<a href=\"https://lautarocantar.com/\" class=\"linkified\">https://lautarocantar.com/<\/a>).<\/p> <p>Para los ejemplos de aplicación utilizaremos los radios censales definidos por el Instituto Nacional de Estadística y Censos de Argentina (INDEC), a través de dos paquetes de R especializados en creación y visualización de mapas interactivos: sf y leaflet.<\/p> <p>Lautaro Cantar es Lic. en Economía y Magíster en Urban Informatics. Actualmente se desempeña como Analista de Datos en Swiss Medical Group y como Docente en la Universidad de San Andrés.<\/p> ",
+    "url": "https://www.meetup.com/R-en-Rosario/events/276711685/",
     "textColor": "blue"
   },
   {
