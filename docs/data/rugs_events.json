@@ -272,19 +272,19 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Dallas R Users Group: How to get Rich and Famous with R  [Virtual] , United States, US/Canada",
-    "group": "Dallas R Users Group",
-    "start": "2021-02-15",
-    "description": "<p>Welcome back event that will feature a co-meetup with R-Ladies Dallas.<\/p> <p>What we will be learning<br/>- Numerai Data Challenge<br/>- h2o.ai model framework<br/>- Evaluate prediction models<br/>- Submitting predictions to Numerai<\/p> <p>We look forward to starting up our meetups again with the future. Please join the Dallas RUG discussion on Slack. Learn, share, network with fellow Dallas R users.<\/p> <p><a href=\"https://join.slack.com/t/dallasr/shared_invite/zt-lo7bbbb7-tstNAhbG1brVIklVC7AA2A\" class=\"linkified\">https://join.slack.com/t/dallasr/shared_invite/zt-lo7bbbb7-tstNAhbG1brVIklVC7AA2A<\/a><\/p> <p>More information about Dallas R Users group here<br/><a href=\"https://dallasrug.github.io/hosting/\" class=\"linkified\">https://dallasrug.github.io/hosting/<\/a><\/p> ",
-    "url": "https://www.meetup.com/Dallas-R-Users-Group/events/276105118/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R User Group - Philippines: #85 Visualizing Data in R using PCA / 2021 Meetup topics!  [Virtual] , Philippines, Asia",
     "group": "R User Group - Philippines",
     "start": "2021-02-17",
     "description": "<p>Joe Brillantes, RUG co-organizer, will share this topic with all of us, which he took up as a mentoring session topic last year with his mentees. We hope this also gives you an idea of what topics may be covered during mentoring sessions, and how they are customized to what attendees need.<\/p> <p>We'll also be sharing a list of topics for succeeding meetups that we'd like to schedule together with you - so hope you'll be there to help us choose!<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/dnmkdsyccdbwb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R User Group - Philippines: #86 Getting started on R - Women's POV on women's history month!  [Virtual] , Philippines, Asia",
+    "group": "R User Group - Philippines",
+    "start": "2021-03-17",
+    "description": "<p>To celebrate women's history month, we at RUG-PH will put the spotlight on our women R practitioners who have pursued a career in tech and use R to hopefully inspire more women to embark on the same journey!<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Philippines/events/dnmkdsyccfbwb/",
     "textColor": "#7171fb"
   },
   {
@@ -341,6 +341,14 @@
     "start": "2021-03-10",
     "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>In dieser RCoffeeBreak werden wir uns mit Sentiment-Analysen beschäftigen. Ausgehend von einer sehr enfachen Analyse zeigen wir Fallstricke auf. Dann zeigen wir, wie es besser geht.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link:[masked]<br/>Kenncode:[masked]<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/276753462/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break: imputeTS: Umgang mit fehlenden Werten in Zeitreihen  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-03-17",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Steffen Moritz sein CRAN-Paket imputeTS vorstellt. Das Paket bietet verschiedene Verfahren zum Ersetzen fehlender Werte in univariaten Zeitreihen. Hier ist der Link zum Paket auf CRAN: <a href=\"https://cran.r-project.org/package=imputeTS\" class=\"linkified\">https://cran.r-project.org/package=imputeTS<\/a><\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link:[masked]<br/>Kenncode:[masked]<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/276436505/",
     "textColor": "#7171fb"
   },
   {
@@ -576,6 +584,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Philly: 2021 Datathon Kickoff: Exploring Judicial Patterns  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Philly",
+    "start": "2021-03-17",
+    "description": "<p>Join us for a 6-week datathon focused on exploring judicial patterns in Philadelphia courts! We have partnered with the Judge Accountability Table (JAT; <a href=\"https://judgeaccountabilitytable.org/about/\" class=\"linkified\">https://judgeaccountabilitytable.org/about/<\/a>) to help them explore, stratify, and visualize a complex dataset related to public court dockets for defendants in Philadelphia County, Pennsylvania. We will be working on a deidentified subset of these data in order to:<\/p> <p>- better understand the judicial system through data<br/>- hone our data science and R skills (there will be ways to contribute for people of all levels of experience with R)<br/>- get our hands dirty and our heads spinning with rich and messy real-world data (spoiler alert: we will not be analyzing sepal.length and petal.width)<br/>- work together, network, and make (new) friends in the data world!<br/>- have fun nerding out together over data :)<\/p> <p>The repository for the datathon can be found here:<br/><a href=\"https://github.com/rladiesPHL/2021_datathon\" class=\"linkified\">https://github.com/rladiesPHL/2021_datathon<\/a><\/p> <p>Approximate Agenda:<\/p> <p>6:10 - 6:55: Introduction to R-Ladies Philly and our datathons; JAT presentation to contextualize the problem and the research needs; Q&amp;A with JAT<br/>6:55 - 7:00 Break<br/>7:00 - 7:20 Logistics &amp; Data Overview<br/>7:20 - 8:00 Breakout into rooms, work kickoff<\/p> <p>How to prepare:<\/p> <p>- make sure you have Zoom version 5.3 or higher (required for breakout rooms!)<br/>- install R &amp; Rstudio (<a href=\"https://rstudio-education.github.io/hopr/starting.html\" class=\"linkified\">https://rstudio-education.github.io/hopr/starting.html<\/a>)<br/>- set up a GitHub account (<a href=\"https://github.com/join\" class=\"linkified\">https://github.com/join<\/a>) and familiarize yourself with Git concepts (<a href=\"https://happygitwithr.com/index.html\" class=\"linkified\">https://happygitwithr.com/index.html<\/a>)<br/>- join the R-Ladies Philly slack (<a href=\"https://bit.ly/join-rladies-slack-2020\" class=\"linkified\">https://bit.ly/join-rladies-slack-2020<\/a>) and then join the #2021_datathon channel<\/p> <p>See you there!<\/p> ",
+    "url": "https://www.meetup.com/rladies-philly/events/276365040/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Tucson AZ",
     "start": "2021-02-16",
@@ -744,6 +760,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Freiburg: {Part 3: Wrangling} From Zero to (s)Hero: Multi-part intro to R  [Virtual] , Germany, Europe",
+    "group": "R-Ladies Freiburg",
+    "start": "2021-03-17",
+    "description": "<p>Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%&gt;%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?<\/p> <p>If you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.<\/p> <p>Over the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!<\/p> <p>This is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.<\/p> <p>January 20th {Part 1}: The R &amp; R-Studio ABCs (packages, files, data types &amp; basic data exploration)<br/>February 17th {Part 2}: Tidy data &amp; introduction to data wrangling (tibbles, renaming, reordering, subsetting)<br/>March 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)<br/>April 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)<br/>May 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)<\/p> <p>Please install R and R-Studio before joining: <a href=\"https://rstudio-education.github.io/hopr/starting.html\" class=\"linkified\">https://rstudio-education.github.io/hopr/starting.html<\/a><\/p> <p>Image by the amazing @allison_horst: <a href=\"https://github.com/allisonhorst/stats-illustrations\" class=\"linkified\">https://github.com/allisonhorst/stats-illustrations<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/275193793/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "AthensR: Online event: Workshop Generalized Linear Models Part 2  [Virtual] , Greece, Europe",
     "group": "AthensR",
     "start": "2021-02-17",
@@ -861,6 +885,14 @@
     "start": "2021-02-17",
     "description": "<p>Hi everyone!<\/p> <p>The second session of 2021 will be on February 17th, join us from 5.30pm online! As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>Our online meetings are kindly being enabled by Red Hat (<a href=\"https://www.redhat.com/\" class=\"linkified\">https://www.redhat.com/<\/a>). In order to join us you need to register with MeetUp (<a href=\"https://www.meetup.com/EdinbR/\" class=\"linkified\">https://www.meetup.com/EdinbR/<\/a>).<\/p> <p>Our speakers are Dave Evans and Eric Nantz.<\/p> <p>* **Dave Evans** (<a href=\"https://twitter.com/dlesomewhere\" class=\"linkified\">https://twitter.com/dlesomewhere<\/a>) was the first data scientist at FreeAgent and currently leads the data science and analytics teams. Before joining FreeAgent, Dave worked at the University of California, San Diego and CERN.<\/p> <p>* **Eric Nantz** (<a href=\"https://twitter.com/theRcast\" class=\"linkified\">https://twitter.com/theRcast<\/a>) is a principal research scientist at a large life sciences company, creating innovative analytical pipelines and capabilities supporting study designs and analyses. Outside of his day job, Eric is passionate about connecting with the R community as the creator/host of the R-Podcast, Shiny Developer Series, and the recently-launched R Weekly Highlights podcast.<\/p> <p>---<\/p> <p>## The unintended consequences of machine learning: detecting nonsense with a markov model<\/p> <p>### Dave Evans<br/>In this talk I'll discuss how I created a transition matrix from character data to filter fraudulent signups to our web application and illustrate how using machine learning can easily introduce unwanted biases.<\/p> <p>---<\/p> <p>## The New Roads Leading to Shiny Nirvana<\/p> <p>### Eric Nantz<\/p> <p>Since its first release over eight years ago, the R community has progressively created amazing web-based applications with the Shiny package. In practically every R conference or user meetup, we see amazing examples of how Shiny is changing the landscape of data exploration and sophisticated production pipelines. Have you ever wondered just how these amazing applications came to be, and what tools you can use to carve your own Shiny journey? In this talk I will shine a spotlight on the latest books addressing best practices in application development, and how they opened tremendous possibilities in both my professional and open-source Shiny projects.<\/p> <p>---<\/p> <p>See you there!<\/p> <p>/federico<\/p> ",
     "url": "https://www.meetup.com/EdinbR/events/276266162/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "EdinbR: The Edinburgh R Usergroup: March 2021: diabetes on social media and styling interactive outputs  [Virtual] , United Kingdom, Europe",
+    "group": "EdinbR: The Edinburgh R Usergroup",
+    "start": "2021-03-17",
+    "description": "<p>Hi everyone!<\/p> <p>The third session of 2021 will be on March 17th, join us from 5.30pm online! As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>Our online meetings are kindly being enabled by Red Hat (<a href=\"https://www.redhat.com/\" class=\"linkified\">https://www.redhat.com/<\/a>). In order to join us you need to register with MeetUp (<a href=\"https://www.meetup.com/EdinbR/\" class=\"linkified\">https://www.meetup.com/EdinbR/<\/a>).<\/p> <p>Our speakers are Mirjam Eiswirth and Elliot Meador.<\/p> <p>* **Mirjam Eiswirth** (<a href=\"https://twitter.com/@MirjamIce\" class=\"linkified\">https://twitter.com/@MirjamIce<\/a>) is a postdoctoral researcher at the sociolinguistics lab at the University of Duisburg-Essen. Before moving to Germany, she finished her PhD in Linguistics and English Language at the University of Edinburgh. She mostly works on variation and change in language in interaction.<\/p> <p>* **Elliot Meador** (<a href=\"https://www.thedeltanomics.com\" class=\"linkified\">https://www.thedeltanomics.com<\/a>) is a computational social scientist and data scientist working as a research fellow within the Rural Policy Centre at SRUC in Edinburgh, UK. His work focuses on mapping rural resilience in Scotland and understanding how policy impacts community resilience. Elliot’s research also looks at how information on sustainable agriculture practices is shared between farmers and how this influences behaviour change related to sustainable development.<\/p> <p>---<\/p> <p>## Do people with Type 1 Diabetes talk and tweet about the same things?<\/p> <p>### Mirjam Eiswirth<br/>In this presentation I explore ways of comparing a set of transcribed conversational data with a set of data from Twitter. I specifically look at 24 hours of recordings of talk about Type 1 Diabetes relative to Tweets within the context of the diabetes online community. This comparison allows us to assess how representative the concerns raised in the conversations are of the world-wide discourses around Type 1 Diabetes on English-language Twitter, and in how far they are specific to the participants or to the location these participants are from.<\/p> <p>---<\/p> <p>## Does it have to look like a 90’s website? Introduction to CSS and HTML for styling interactive outputs in R<\/p> <p>### Elliot Meador<\/p> <p>In this talk we will review some easy wins when it comes to styling interactive outputs in R, including Shiny web applications and flexdashboards. Specifically, we’ll discuss Cascading Style Sheets (CSS) and how they can be used to add some pizazz to the base Shiny and flexdashboards. We will then discuss layouts and workflows that are best suited for styling your interactive R outputs.<\/p> <p>---<\/p> <p>See you there!<\/p> <p>/federico<\/p> ",
+    "url": "https://www.meetup.com/EdinbR/events/276812210/",
     "textColor": "#7171fb"
   },
   {
@@ -1001,6 +1033,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Bogotá R Users Group: RLadies: Cómo hacer mapas con Highcharter  [Virtual] , Colombia, Latin America",
+    "group": "Bogotá R Users Group",
+    "start": "2021-03-17",
+    "description": "<p>En esta sesión de R, hablaremos sobre como realizar de forma simple y rápida mapas geográficos con la librería de visualización Highcharter y con el wrapper de esta librería Hgchmagic.<br/>Prerrequisitos: Instalar R, Rstudio, y de paquetes, instalar y tener descargados: devtools, Tidyverse y Highcharter.<\/p> <p>Camila Achuri es Estadística de la Universidad Santo Tomás y actualmente estudia una Maestría en Diseño Interactivo de la Universidad De Buenos Aires.<\/p> <p>Imparte: Camila Achuri<br/>Fecha: Miércoles, 17 de marzo<br/>Hora: 5:00 a 6:30 pm<\/p> <p>Por favor llene este formulario para recibir el link de zoom: <a href=\"https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true\" class=\"linkified\">https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true<\/a><\/p> ",
+    "url": "https://www.meetup.com/Bogota-R-Users-Group/events/276947876/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies RTP: [ONLINE] #tidytuesday Work Group  [Virtual] , United States, US/Canada",
     "group": "R-Ladies RTP",
     "start": "2021-02-17",
@@ -1046,14 +1086,6 @@
     "start": "2021-03-16",
     "description": "<p>Come learn how to make beautiful slides with {xaringan} and deploy them! Silvia Canelón and Katie Jolly will be presenting.<\/p> <p>If you're new to R-Ladies Seattle, please review the R-Ladies code of conduct:<\/p> <p>The leadership, mentoring &amp; teaching roles within this Community are held exclusively by minority genders (majority gender speakers may be allowed/invited as one-off guests in exceptional circumstances at the leadership team's discretion). Due to unexpected demand, we have opened learning participation to all genders, dependent on initial and on-going vetting by the leadership team. However, the stated priority of the R-Ladies communities is the development &amp; support specifically of those identifying as a minority gender, and we, therefore, reserve the right to guard this interest through whatever measures the leadership team deem appropriate. Anyone involved with R-Ladies Seattle is expected to fully respect each other, the mandate of this community, and the goodwill on which R-Ladies is founded, or face expulsion/a penalty of any form, at the discretion of the leadership team. Full community guidelines are found here: <a href=\"https://github.com/rladies/starter-kit/wiki\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki<\/a> ...<\/p> ",
     "url": "https://www.meetup.com/rladies-seattle/events/276570832/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday on ClubHouse   [Virtual] , Taiwan, Asia",
-    "group": "Taiwan R User Group / MLDM Monday",
-    "start": "2021-02-15",
-    "description": "<p>ClubHouse Link:<br/><a href=\"https://www.joinclubhouse.com/event/MKb4L26N\" class=\"linkified\">https://www.joinclubhouse.com/event/MKb4L26N<\/a><\/p> <p>歡迎老朋友們年假一起上線聊聊，<br/>本次主題為：分享一個自己遇過真實生活中最難解的 ML 問題<\/p> ",
-    "url": "https://www.meetup.com/Taiwan-R/events/276346564/",
     "textColor": "#7171fb"
   },
   {
@@ -1113,14 +1145,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Dallas: \"How to get Rich and Famous with R\" with Larry D'Agostino  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Dallas",
-    "start": "2021-02-15",
-    "description": "<p>On February 15, R-Ladies Dallas and the Dallas R User Group are teaming up to present a special jointly hosted meetup event. Our guest speaker will be Larry D'Agostino, accomplished data science professional, experienced R user, and founder of the Dallas R User Group.<\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>Session title: How to get Rich and Famous with R<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>Abstract: In this talk, Larry will introduce the popular h2o.ai modeling framework and show how you can use it for building and evaluating prediction models. He will also discuss the Numerai Data Challenge and discuss how you can submit your own predictions to Numerai.<\/p> <p>Bio: Larry is an R enthusiast who founded Dallas R Users over 10 years ago. He uses R in his daily work. He is happy to learn and share his knowledge with R with the Dallas community.<\/p> <p>Twitter: @larrydag<\/p> <p>LinkedIn: <a href=\"https://www.linkedin.com/in/larrydagostino/\" class=\"linkified\">https://www.linkedin.com/in/larrydagostino/<\/a><\/p> <p>*************************************************************************<\/p> <p>You are encouraged to click the link below to keep up with the group project and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>*************************************************************************<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dallas/events/276047577/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Dallas: \"Creating gorgeous tables using the gt package\" with Pavitra Chakravarty  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Dallas",
     "start": "2021-03-01",
@@ -1142,14 +1166,6 @@
     "start": "2021-03-10",
     "description": "<p>We are celebrating International Women's Day at our Data Talks event!<\/p> <p>At Data Talks you'll get to hear the most fascinating speeches from data professionals.<\/p> <p>***<\/p> <p>Program:<\/p> <p>- Athanasia Monika Mowinckel, Staff Scientist, Centre for Lifespan Changes in Brain and Cognition - \"Make something random, learn something useful\"<\/p> <p>- Cansu Kavili, Site Reliability Engineer, Red Hat - \"DevOps for Data Science\"<\/p> <p>- Erlin Gulbenkoglu, Data Scientist, Rovio - \"Explaining the ML model predictions\"<\/p> <p>- Caitlin Hudon, Lead Data Scientist, OnlineMedEd - \"The Juice and the Squeeze: how to get more out of your ML models\".<br/>***<\/p> <p>See you in March!<\/p> ",
     "url": "https://www.meetup.com/rladies-helsinki/events/276364069/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Dublin: Intro to machine learning  [Virtual] , Ireland, Europe",
-    "group": "R-Ladies Dublin",
-    "start": "2021-02-15",
-    "description": "<p>Join us for an intro session to machine learning.<\/p> <p>Machine Learning is a branch of artificial intelligence focussed on building algorithms that learn from previous data in order to make predictions and decisions based on new data. This talk will cover the basic theory of machine learning and introduce both supervised methods and unsupervised methods such as K-means clustering, KNN classification, logistic regression, decision trees and random forests.<\/p> <p>Grab a snack and a drink and dial in on Monday, 15th February, at 5:15PM (GMT)<\/p> <p>5:15-5:20 Welcome<br/>5:20-5:30 Introductions<br/>5:30-7:00 Talk and QA: Intro to machine learning by Fiona Murphy<\/p> <p>Our speaker Fiona has been working in data analytics for 3 years, starting off her career in a consulting analytics role at EY and about to begin her next chapter as a customer data analyst at Conjura. She graduated from University College Dublin in 2017 with a Bachelor of Science in Statistics and is currently completing a part time master's in Data Analytics with UCD. Fiona specialises in extracting meaningful insights from data using predictive analytics and machine learning methods.<\/p> <p>See you on the Internet :)<br/>Jo, Paola and Sapna<\/p> ",
-    "url": "https://www.meetup.com/rladies-dublin/events/276245838/",
     "textColor": "#7171fb"
   },
   {
@@ -1246,6 +1262,14 @@
     "start": "2021-02-18",
     "description": "<p>En esta sesión de RLadies hablaremos sobre agrupamiento de datos (clustering) que básicamente consiste en encontrar sub-grupos o patrones no tan evidentes en un conjunto de datos. Los métodos de agrupamiento son ampliamente usados en áreas como la medicina, el marketing, el análisis de redes, la psicología, entre otras.<br/>La mayoría de los métodos convencionales de agrupamiento parten de una definición de distancia (o similitud) entre observaciones, pero ¿existe una única manera de comparar observaciones? ¿Cómo podemos elegir el método de agrupamiento más apropiado? ¿Cómo saber en cuántos grupos dividir nuestros datos?<\/p> <p>En esta sesión abordaremos estas preguntas, mientras exploramos diferentes librerías en R que nos pueden iluminar el camino para encontrar las respuestas.<\/p> <p>Prerrequisitos: Tener instalado RStudio y estas librerías: dplyr, ggplot2, NbClust, factoextra<\/p> <p>Imparte: Diana Giraldo<br/>Matemática y magíster en Ingeniería biomédica<br/>Día: Jueves 18 de febrero de 5:30 a 7:30 pm<\/p> <p>Link de inscripción para enviarles el link de zoom: <a href=\"https://docs.google.com/forms/d/1FgMZ5rBBGQkl1VLxZWkGbWm29-dpnFwpA4ShjaEbg5E/viewform?edit_requested=true\" class=\"linkified\">https://docs.google.com/forms/d/1FgMZ5rBBGQkl1VLxZWkGbWm29-dpnFwpA4ShjaEbg5E/viewform?edit_requested=true<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-bogota/events/276387786/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Bogotá: Cómo hacer mapas con Highcharter  [Virtual] , Colombia, Latin America",
+    "group": "R-Ladies Bogotá",
+    "start": "2021-03-17",
+    "description": "<p>En esta sesión de R Ladies, hablaremos sobre como realizar de forma simple y rápida mapas geográficos con la librería de visualización Highcharter y con el wrapper de Hgchmagic.<\/p> <p>Prerrequisitos: Instalar R, Rstudio y tener descargados: devtools, Tidyverse y Highcharter.<\/p> <p>Formulario de inscripción para enviar link de zoom: <a href=\"https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true\" class=\"linkified\">https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-bogota/events/276894096/",
     "textColor": "#7171fb"
   },
   {
@@ -1449,6 +1473,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): X-Europe Webinar #17 - Apache Arrow & Flight on Data Lakes  [Virtual] , Poland, Europe",
+    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
+    "start": "2021-03-24",
+    "description": "<p>MEETUP DESCRIPTION<\/p> <p>In an effort to be data driven, many organizations are looking to democratize data. However, they often struggle with increasingly larger data volumes, reverting back to bottlenecking data access to manage large numbers of data engineering requests and rising data warehousing costs. To address this, a next-gen cloud data lake architecture has emerged that brings together the best attributes of the data warehouse and the data lake. This new open data architecture is built to maximize data access with minimal data movement and no data copies.<\/p> <p>- How “no data copy” approach dramatically streamlines data workflows while reducing security and governance overhead<br/>- Why agile development concepts, when applied to the data tier, can dramatically increase data engineering agility<br/>- How to separate compute and data by preserving data in open file and table formats<br/>- How a next-generation cloud data lake architecture brings together the best attributes of data warehouse and data lakes to truly democratize data<\/p> <p>### REGISTRATION INFO<\/p> <p>--&gt;&gt;&gt; Registration link: <a href=\"https://apache-arrow-datalake.carrd.co/\" class=\"linkified\">https://apache-arrow-datalake.carrd.co/<\/a> &lt;&lt;&lt;--<br/>Please also RSVP here on the Meetup Page.<\/p> <p>### Our Speaker<\/p> <p>Viktor Kessler<br/>LinkedIn: <a href=\"https://www.linkedin.com/in/viktor-kessler/\" class=\"linkified\">https://www.linkedin.com/in/viktor-kessler/<\/a><br/>Twitter: <a href=\"https://twitter.com/ViktorKessler\" class=\"linkified\">https://twitter.com/ViktorKessler<\/a><\/p> <p>Viktor Kessler is Senior Solutions Architect at Dremio and a ex-MongoDB Senior Solutions Architect.<\/p> <p>### ABOUT THE X-EUROPE DATA SCIENCE WEBINARS<\/p> <p>X-Europe Webinar Series is a joint online event of Vienna Data Science Group, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar, Warsaw R Users Group, PyData Slovakia, and Data Scientists Ireland.<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/277005628/",
+    "textColor": "blue"
+  },
+  {
     "title": "Greater Boston useR Group (R Programming Language): Cross-Post / Making the shift from excel to R: perspectives from the back-office  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2021-03-30",
@@ -1521,6 +1553,14 @@
     "textColor": "blue"
   },
   {
+    "title": "IndyUseR Group: Monthly Meetup - Topic TBD, United States, US/Canada",
+    "group": "IndyUseR Group",
+    "start": "2021-06-15",
+    "description": "<p>Join us as we explore the features and packages of the R programming language. All skill levels are welcomed. We are still putting together details for this particular meeting, but if have a topic you would like to talk about, please let us know!<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentations<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>Can't make the meeting in person? Participate over video chat. We'll release the Zoom Meeting chat link as we approach the event date.<\/p> <p>Venue and light snacks graciously provided by Onebridge (onebridge.tech)<\/p> ",
+    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbpryccjbtb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Trenton R Users (TRU): Meetup for Mar - 2021  [Virtual] , United States, US/Canada",
     "group": "Trenton R Users (TRU)",
     "start": "2021-03-20",
@@ -1582,6 +1622,14 @@
     "start": "2021-04-14",
     "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Margot Selosse das CRAN-Paket ordinalClust vorstellt. Das Paket bietet einen Modellbasierten Ansatz für Datenklassifizierung, Clustering und Co-Clustering ordinaler Daten. Hier ist der Link zum Paket auf CRAN: <a href=\"https://cran.r-project.org/package=ordinalClust\" class=\"linkified\">https://cran.r-project.org/package=ordinalClust<\/a><br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/276753368/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break -  Fable: Vorhersagemodelle für tidy-Zeitreihen  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-04-28",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Haseeb Mahmud uns das CRAN-Paket Fable vorstellt. Fable ist eine Sammlung von uni- und multivariaten Zeitreihen-Prognose-Modellen. Das Framework hat Funktionen zum Visualisieren und Kombinieren von Modellen und nutzt den Tidyverse Workflow. Hier der Link zum CRAN-Paket: <a href=\"https://CRAN.R-project.org/package=fable\" class=\"linkified\">https://CRAN.R-project.org/package=fable<\/a><br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277005266/",
     "textColor": "blue"
   },
   {
@@ -1729,19 +1777,19 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Philly: 2021 Datathon Kickoff: Exploring Judicial Patterns  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Philly",
-    "start": "2021-03-17",
-    "description": "<p>Join us for a 6-week datathon focused on exploring judicial patterns in Philadelphia courts! We have partnered with the Judge Accountability Table (JAT; <a href=\"https://judgeaccountabilitytable.org/about/\" class=\"linkified\">https://judgeaccountabilitytable.org/about/<\/a>) to help them explore, stratify, and visualize a complex dataset related to public court dockets for defendants in Philadelphia County, Pennsylvania. We will be working on a deidentified subset of these data in order to:<\/p> <p>- better understand the judicial system through data<br/>- hone our data science and R skills (there will be ways to contribute for people of all levels of experience with R)<br/>- get our hands dirty and our heads spinning with rich and messy real-world data (spoiler alert: we will not be analyzing sepal.length and petal.width)<br/>- work together, network, and make (new) friends in the data world!<br/>- have fun nerding out together over data :)<\/p> <p>The repository for the datathon can be found here:<br/><a href=\"https://github.com/rladiesPHL/2021_datathon\" class=\"linkified\">https://github.com/rladiesPHL/2021_datathon<\/a><\/p> <p>Approximate Agenda:<\/p> <p>6:10 - 6:55: Introduction to R-Ladies Philly and our datathons; JAT presentation to contextualize the problem and the research needs; Q&amp;A with JAT<br/>6:55 - 7:00 Break<br/>7:00 - 7:20 Logistics &amp; Data Overview<br/>7:20 - 8:00 Breakout into rooms, work kickoff<\/p> <p>How to prepare:<\/p> <p>- make sure you have Zoom version 5.3 or higher (required for breakout rooms!)<br/>- install R &amp; Rstudio (<a href=\"https://rstudio-education.github.io/hopr/starting.html\" class=\"linkified\">https://rstudio-education.github.io/hopr/starting.html<\/a>)<br/>- set up a GitHub account (<a href=\"https://github.com/join\" class=\"linkified\">https://github.com/join<\/a>) and familiarize yourself with Git concepts (<a href=\"https://happygitwithr.com/index.html\" class=\"linkified\">https://happygitwithr.com/index.html<\/a>)<br/>- join the R-Ladies Philly slack (<a href=\"https://bit.ly/join-rladies-slack-2020\" class=\"linkified\">https://bit.ly/join-rladies-slack-2020<\/a>) and then join the #2021_datathon channel<\/p> <p>See you there!<\/p> ",
-    "url": "https://www.meetup.com/rladies-philly/events/276365040/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Philly: 2021 Datathon Conclusion: Exploring Judicial Patterns  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Philly",
     "start": "2021-04-28",
     "description": "<p>The 2021 RLadies Philly hackathon is focused on exploring judicial patterns in Philadelphia courts. Our partner, the Judge Accountability Table (JAT), has provided a subset of deidentified data related to public court dockets for defendants in Philadelphia County, Pennsylvania, to enable participants to hone thier data science skills by:<\/p> <p>- Exploring and describing this rich, messy data more completely<br/>- Stratifying data (e.g., comparing simple, low-severity charges with one another and complex, violent crime allegations with one another)<br/>- Answering specific questions, or discovering what additional work or information would be required to be able to answer these questions<br/>- Analyzing sparsity / missingness and discovering what the public interest is in ensuring freedom of information<br/>- Understanding predictive factors in carceral outcomes (e.g. does age / sex / race correlate with bail amount?)<\/p> <p>At this meetup, groups will present their results and discuss their experiences.<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/276365054/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Philly: R-Ladies Lightning Talks: How You Use R  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Philly",
+    "start": "2021-06-15",
+    "description": "<p>Join R-Ladies Philadelphia for an inspirational online event to hear from our members about how they use R!<\/p> <p>Lightning talks are short 5-10 minute presentations that aim to inform and engage. We are hosting a series of lightning talks on a range of topics highlighting the breadth of use cases our members solve using R and the packages they love.<\/p> <p>Agenda:<br/>6:00 - 6:10 - Join online and welcome<br/>6:10 - 6:45 - First set of talks<br/>6:45 - 7:00 - Short break (opportunity to chat with each other and speakers)<br/>7:00 - 7:30 - Second set of talks and closing remarks<\/p> <p>Call for speakers:<br/>If you would like to present a lightning talk, please fill out the form here:<br/><a href=\"https://forms.gle/WEU9LLTDBqCXXC7T9\" class=\"linkified\">https://forms.gle/WEU9LLTDBqCXXC7T9<\/a><\/p> <p>Some ideas for topics include presentations on the research you have performed using R, a guide to an R package that you love, or techniques and methods that use R.<br/>If you are interested, the R-Ladies organizing team will be available to provide feedback on talk content and slides before the event.<\/p> <p>To celebrate the diversity of the R community, we are prioritizing speakers who identify as a minority gender in the R community (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).<\/p> ",
+    "url": "https://www.meetup.com/rladies-philly/events/276190525/",
     "textColor": "blue"
   },
   {
@@ -1872,6 +1920,22 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2021-06-15",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccjbtb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Auckland: Creating Tables for R Markdown with kableExtra, New Zealand, Australia",
+    "group": "R-Ladies Auckland",
+    "start": "2021-04-08",
+    "description": "<p>Join us for an in-person meetup to learn about creating tables for reports in R Markdown, hosted by Izzy Johnson!<\/p> <p>All levels of R users (including beginners!) are welcome.<\/p> <p>Time: 6:00 arrival for a 6:30pm start and 7:45pm finish.<\/p> <p>What to bring: Yourself! Optionally you can bring a laptop with R installed if you'd like to code along with the presentation.<\/p> <p>Plots are great, but sometimes tables can be a useful way to display data as well. Izzy will talk briefly about a few ways to create tables to display data in R, and then walk though how the kableExtra package can help customise your tables, and make them look cleaner and easier to read when creating reports and summaries in R Markdown.<\/p> <p>This meeting will be hosted by Xero, on Saint Georges Bay Road in Parnell.<\/p> <p>If you have any questions or problems, don't hesitate to contact Izzy Johnson through meet-up!<\/p> <p>As with all our meetups, please be aware of and read the Code of Conduct before attending.<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-auckland/events/276942471/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Goiânia: Dplyr & Tidyr: A dupla implacável  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies Goiânia",
     "start": "2021-03-21",
@@ -1973,14 +2037,6 @@
     "start": "2021-05-20",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
     "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrycchbbc/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Freiburg: {Part 3: Wrangling} From Zero to (s)Hero: Multi-part intro to R  [Virtual] , Germany, Europe",
-    "group": "R-Ladies Freiburg",
-    "start": "2021-03-17",
-    "description": "<p>Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%&gt;%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?<\/p> <p>If you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.<\/p> <p>Over the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!<\/p> <p>This is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.<\/p> <p>January 20th {Part 1}: The R &amp; R-Studio ABCs (packages, files, data types &amp; basic data exploration)<br/>February 17th {Part 2}: Tidy data &amp; introduction to data wrangling (tibbles, renaming, reordering, subsetting)<br/>March 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)<br/>April 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)<br/>May 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)<\/p> <p>Please install R and R-Studio before joining: <a href=\"https://rstudio-education.github.io/hopr/starting.html\" class=\"linkified\">https://rstudio-education.github.io/hopr/starting.html<\/a><\/p> <p>Image by the amazing @allison_horst: <a href=\"https://github.com/allisonhorst/stats-illustrations\" class=\"linkified\">https://github.com/allisonhorst/stats-illustrations<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/275193793/",
     "textColor": "blue"
   },
   {
@@ -2117,14 +2173,6 @@
     "start": "2021-03-18",
     "description": "<p>R en Rosario presenta \"Radios censales y otras yerbas\", un taller donde vamos a aprender sobre mapas, proyecciones y tipos de datos geográficos de la mano de Lautaro Cantar (<a href=\"https://lautarocantar.com/\" class=\"linkified\">https://lautarocantar.com/<\/a>).<\/p> <p>Para los ejemplos de aplicación utilizaremos los radios censales definidos por el Instituto Nacional de Estadística y Censos de Argentina (INDEC), a través de dos paquetes de R especializados en creación y visualización de mapas interactivos: sf y leaflet.<\/p> <p>Lautaro Cantar es Lic. en Economía y Magíster en Urban Informatics. Actualmente se desempeña como Analista de Datos en Swiss Medical Group y como Docente en la Universidad de San Andrés.<\/p> ",
     "url": "https://www.meetup.com/R-en-Rosario/events/276711685/",
-    "textColor": "blue"
-  },
-  {
-    "title": "EdinbR: The Edinburgh R Usergroup: March 2021: diabetes on social media and styling interactive outputs  [Virtual] , United Kingdom, Europe",
-    "group": "EdinbR: The Edinburgh R Usergroup",
-    "start": "2021-03-17",
-    "description": "<p>Hi everyone!<\/p> <p>The third session of 2021 will be on March 17th, join us from 5.30pm online! As usual, the meeting will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>Our online meetings are kindly being enabled by Red Hat (<a href=\"https://www.redhat.com/\" class=\"linkified\">https://www.redhat.com/<\/a>). In order to join us you need to register with MeetUp (<a href=\"https://www.meetup.com/EdinbR/\" class=\"linkified\">https://www.meetup.com/EdinbR/<\/a>).<\/p> <p>Our speakers are Mirjam Eiswirth and Elliot Meador.<\/p> <p>* **Mirjam Eiswirth** (<a href=\"https://twitter.com/@MirjamIce\" class=\"linkified\">https://twitter.com/@MirjamIce<\/a>) is a postdoctoral researcher at the sociolinguistics lab at the University of Duisburg-Essen. Before moving to Germany, she finished her PhD in Linguistics and English Language at the University of Edinburgh. She mostly works on variation and change in language in interaction.<\/p> <p>* **Elliot Meador** (<a href=\"https://www.thedeltanomics.com\" class=\"linkified\">https://www.thedeltanomics.com<\/a>) is a computational social scientist and data scientist working as a research fellow within the Rural Policy Centre at SRUC in Edinburgh, UK. His work focuses on mapping rural resilience in Scotland and understanding how policy impacts community resilience. Elliot’s research also looks at how information on sustainable agriculture practices is shared between farmers and how this influences behaviour change related to sustainable development.<\/p> <p>---<\/p> <p>## Do people with Type 1 Diabetes talk and tweet about the same things?<\/p> <p>### Mirjam Eiswirth<br/>In this presentation I explore ways of comparing a set of transcribed conversational data with a set of data from Twitter. I specifically look at 24 hours of recordings of talk about Type 1 Diabetes relative to Tweets within the context of the diabetes online community. This comparison allows us to assess how representative the concerns raised in the conversations are of the world-wide discourses around Type 1 Diabetes on English-language Twitter, and in how far they are specific to the participants or to the location these participants are from.<\/p> <p>---<\/p> <p>## Does it have to look like a 90’s website? Introduction to CSS and HTML for styling interactive outputs in R<\/p> <p>### Elliot Meador<\/p> <p>In this talk we will review some easy wins when it comes to styling interactive outputs in R, including Shiny web applications and flexdashboards. Specifically, we’ll discuss Cascading Style Sheets (CSS) and how they can be used to add some pizazz to the base Shiny and flexdashboards. We will then discuss layouts and workflows that are best suited for styling your interactive R outputs.<\/p> <p>---<\/p> <p>See you there!<\/p> <p>/federico<\/p> ",
-    "url": "https://www.meetup.com/EdinbR/events/276812210/",
     "textColor": "blue"
   },
   {
@@ -2277,14 +2325,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Bogotá R Users Group: RLadies: Cómo hacer mapas con Highcharter  [Virtual] , Colombia, Latin America",
-    "group": "Bogotá R Users Group",
-    "start": "2021-03-17",
-    "description": "<p>En esta sesión de R, hablaremos sobre como realizar de forma simple y rápida mapas geográficos con la librería de visualización Highcharter y con el wrapper de esta librería Hgchmagic.<br/>Prerrequisitos: Instalar R, Rstudio, y de paquetes, instalar y tener descargados: devtools, Tidyverse y Highcharter.<\/p> <p>Camila Achuri es Estadística de la Universidad Santo Tomás y actualmente estudia una Maestría en Diseño Interactivo de la Universidad De Buenos Aires.<\/p> <p>Imparte: Camila Achuri<br/>Fecha: Miércoles, 17 de marzo<br/>Hora: 5:00 a 6:30 pm<\/p> <p>Por favor llene este formulario para recibir el link de zoom: <a href=\"https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true\" class=\"linkified\">https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true<\/a><\/p> ",
-    "url": "https://www.meetup.com/Bogota-R-Users-Group/events/276947876/",
-    "textColor": "blue"
-  },
-  {
     "title": "Bogotá R Users Group: Aprende a personalizar Shinyapps  [Virtual] , Colombia, Latin America",
     "group": "Bogotá R Users Group",
     "start": "2021-03-18",
@@ -2397,6 +2437,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Cuernavaca: Meetup: Tidyverse  [Virtual] , Mexico, Latin America",
+    "group": "R-Ladies Cuernavaca",
+    "start": "2021-03-24",
+    "description": "<p>Bienvenidxs! Este meetup está dirigido a personas con conocimientos básicos de R que deseen aprender a utilizar el paquete tidyverse.<\/p> <p>REQUERIMIENTOS DE SOFTWARE<br/>+ Tener instalado R &gt;= 4.0<br/>+ Tener instalado RStudio &gt;= 1.4<br/>+ Instalar el paquete de R: tidyverse<\/p> <p>Puedes usar este comando para su instalación:<br/>install.packages(\"tidyverse\", dependencies = TRUE)<\/p> <p>CÓDIGO DE CONDUCTA<br/>Recuerda leer y atender nuestro código de conducta disponible en <a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a> o <a href=\"https://rladiesmx.netlify.app/codigo_de_conducta/\" class=\"linkified\">https://rladiesmx.netlify.app/codigo_de_conducta/<\/a><\/p> <p>PATROCINADORES<br/>Agradecemos a nuestros patrocinadores: R Consortium y Red Mexicana de Bioinformática<\/p> ",
+    "url": "https://www.meetup.com/rladies-cuernavaca/events/277003169/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Medellín: Sexto Encuentro R-Ladies Medellín: Procesamiento de datos con dplyr  [Virtual] , Colombia, Latin America",
     "group": "R-Ladies Medellín",
     "start": "2021-03-24",
@@ -2413,11 +2461,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Bogotá: Cómo hacer mapas con Highcharter  [Virtual] , Colombia, Latin America",
-    "group": "R-Ladies Bogotá",
-    "start": "2021-03-17",
-    "description": "<p>En esta sesión de R Ladies, hablaremos sobre como realizar de forma simple y rápida mapas geográficos con la librería de visualización Highcharter y con el wrapper de Hgchmagic.<\/p> <p>Prerrequisitos: Instalar R, Rstudio y tener descargados: devtools, Tidyverse y Highcharter.<\/p> <p>Formulario de inscripción para enviar link de zoom: <a href=\"https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true\" class=\"linkified\">https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-bogota/events/276894096/",
+    "title": "R-Ladies Concepción: Introducción a Tidymodels (parte 2): modelos mixtos  [Virtual] , Chile, Latin America",
+    "group": "R-Ladies Concepción",
+    "start": "2021-03-19",
+    "description": "<p>¡Hola!<\/p> <p>Esta segunda parte del taller de introducción a Tidymodels estará a cargo de Alejandra Tapia Silva y estará dirigida a personas nuevas en el modelado con efectos mixtos. Cubrirá aspectos introductorios de este tema esperando que sea un punto de partida para el uso de estos modelos con R y {tidymodels}. No se utilizan fórmulas matemáticas, en un intento de hacerlo amigable e intuitivo y así poder dar atención a una audiencia más amplia.<br/>Para aprovechar mejor este taller, es necesario tener algo de experiencia con análisis exploratorio de datos y modelos lineales, de tal manera de poder transitar sin mucho obstáculo teórico por cada una de las etapas del modelamiento con efectos mixtos. Además, es necesario contar con conocimientos iniciales de algunos paquetes del tidyverse (como {readr} y {dplyr}).<\/p> <p>- REQUERIMIENTOS<\/p> <p>Además de {tidyverse} y {tidymodels}, que utilizamos en la primera parte de este taller, es necesario instalar los siguientes paquetes:<\/p> <p>&gt; install.packages(c(\"broom.mixed\",\"lme4\",\"lmerTest\"))<\/p> <p>Luego del taller se dejarán referencias para quienes tengan interés en una explicación más detallada sobre modelos mixtos y {tidymodels}, de tal manera que cuando comiencen a usar estas herramientas con sus propios datos dispongan de mayor información. El material del taller quedará disponible en <a href=\"https://github.com/alejandraandrea/slides-xaringan-mixed-models\" class=\"linkified\">https://github.com/alejandraandrea/slides-xaringan-mixed-models<\/a><\/p> <p>- CÓDIGO DE CONDUCTA<\/p> <p>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡Te esperamos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-concepcion/events/277011724/",
     "textColor": "blue"
   }
 ]
