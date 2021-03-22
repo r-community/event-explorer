@@ -496,14 +496,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Santiago: Expresiones regulares para la limpieza y transformación de datos (parte 2)  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Santiago",
-    "start": "2021-02-19",
-    "description": "<p>Este viernes 19 de febrero realizaremos la segunda sesión del taller \"Expresiones regulares para la limpieza y transformación de datos\". El taller estará a cargo de Stephanie Orellana (<a href=\"https://twitter.com/sporella\" class=\"linkified\">https://twitter.com/sporella<\/a>) y Riva Quiroga (<a href=\"https://twitter.com/rivaquiroga\" class=\"linkified\">https://twitter.com/rivaquiroga<\/a>).<\/p> <p>- SOBRE EL TALLER<br/>Este taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.<br/>En esta segunda sesión, profundizaremos en los contenidos vistos en la primera y además veremos cómo podemos utilizar expresiones regulares para limpiar un archivo PDF.<\/p> <p>- REQUERIMIENTOS<br/>Si no participaste en la primera parte del taller, te sugerimos revisar el video y los materiales, ya que los ejercicios que realizaremos son una continuación de lo visto en ese día: <a href=\"https://github.com/rladieschile/taller-regex-2021/blob/main/README.md\" class=\"linkified\">https://github.com/rladieschile/taller-regex-2021/blob/main/README.md<\/a><br/>Para este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {pdftools}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").<br/>El taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-scl/events/276417898/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Santiago: Introducción a Tidymodels (parte 1)  [Virtual] , Chile, Latin America",
     "group": "R-Ladies Santiago",
     "start": "2021-03-12",
@@ -596,6 +588,14 @@
     "start": "2021-03-06",
     "description": "<p>Heey, tudo bem?<\/p> <p>Estamos muito felizes com a sua participação.<\/p> <p>Aproveite o curso. Aproveite essa oportunidade! Este evento foi pensado com muito carinho para você.<\/p> <p>O que você vai aprender?<\/p> <p>Em construção.<\/p> <p>Quais pacotes vão ser utilizados ?<\/p> <p>Em construção.<\/p> <p>Sobre o Projeto Enigma<\/p> <p>O projeto Enigma busca tornar visível o papel feminino na área da computação, resgatando as contribuições significativas de algumas mulheres de uma forma diferenciada, que provoque o pensamento do fruidor. Não pretende-se reproduzir as visibilidades que estas personagens já têm, mas fazer uma provocação, desacomodando o pensamento para que as invisibilidades, que ainda persistem, se tornem visíveis. As doações serão voltadas a reforma de artigos doados ao projeto como computadores, teclados e entre outros objetos do universo computacional.<\/p> <p>Para saber mais sobre este projeto lindo acesse <a href=\"https://www.ufrgs.br/enigma/\" class=\"linkified\">https://www.ufrgs.br/enigma/<\/a><\/p> <p>E aí? Topa?<\/p> <p>Link de inscrição: <a href=\"https://www.sympla.com.br/introducao-ao-r__1136808\" class=\"linkified\">https://www.sympla.com.br/introducao-ao-r__1136808<\/a><\/p> <p>Dúvidas frequentes:<\/p> <p>CERTIFICADOS! - O certificado de 4h do evento será enviado para o seu e-mail. Caso você não receba ao final do evento, escreva para [masked].<\/p> <p>MATERIAIS! - Os materiais utilizados no nosso curso (apresentação, scripts) serão disponibilizados através do nosso GitHub .<\/p> <p>Dicas importantes para melhor aproveitamento do evento<\/p> <p>(1°) Procure conectar o seu computador no cabo de rede, evitando instabilidades na transmissão;<br/>(2°) Pré-configure a sua câmera e microfone antes de entrar no evento pois será útil para as interações com a professora em caso de dúvidas!<br/>(3°) Prepare seu ambiente, aquela caneca de café, garrafa de água e os fones de ouvido, melhores companheiros para se concentrar e mergulhar de cabeça nessa experiência!<br/>(4°) Não guarde esse conhecimento apenas para você, compartilhe com seus amigos e redes sociais marcando a gente no instagram @rladiesgyn.<\/p> <p>Você faz parte desse compromisso<\/p> <p>Lembre-se que o Código de Conduta também se estende à versão online de nossos eventos e não será tolerada qualquer forma de assédios ou intimidações de qualquer participante, seja audiência, palestrantes, colaboradores, ou quaisquer membros da comunidade.<\/p> <p>A gente brilha TOGETHER!<\/p> ",
     "url": "https://www.meetup.com/rladies-goiania/events/276651659/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Goiânia: Dplyr & Tidyr: A dupla implacável  [Virtual] , Brazil, Latin America",
+    "group": "R-Ladies Goiânia",
+    "start": "2021-03-21",
+    "description": "<p>Heey, tudo bem?<\/p> <p>Estamos muito felizes com a sua participação.<\/p> <p>Aproveite o curso. Aproveite essa oportunidade! Este evento foi pensado com muito carinho para você.<\/p> <p>O que você vai aprender?<\/p> <p>Você vai aprender a utilizar as diversas funções de manipulação de dados do pacote DPLYR e a criar dados organizados com o pacote TIDYR. Essa dupla de pacotes é SENSACIONAL!<\/p> <p>Quais pacotes vão ser utilizados ?<\/p> <p>library(tidyverse)<br/>library(dplyr)<br/>library(tidyr)<\/p> <p>Sobre o Projeto Enigma<\/p> <p>O projeto Enigma busca tornar visível o papel feminino na área da computação, resgatando as contribuições significativas de algumas mulheres de uma forma diferenciada, que provoque o pensamento do fruidor. Não pretende-se reproduzir as visibilidades que estas personagens já têm, mas fazer uma provocação, desacomodando o pensamento para que as invisibilidades, que ainda persistem, se tornem visíveis. As doações serão voltadas a reforma de artigos doados ao projeto como computadores, teclados e entre outros objetos do universo computacional.<\/p> <p>Para saber mais sobre este projeto lindo acesse <a href=\"https://www.ufrgs.br/enigma/\" class=\"linkified\">https://www.ufrgs.br/enigma/<\/a><\/p> <p>E aí? Topa?<\/p> <p>Link de inscrição: <a href=\"https://www.sympla.com.br/dplyr--tidyr-a-dulpa-implacavel__1153806\" class=\"linkified\">https://www.sympla.com.br/dplyr--tidyr-a-dulpa-implacavel__1153806<\/a><\/p> <p>Dúvidas frequentes:<\/p> <p>CERTIFICADOS! - O certificado de 4h do evento será enviado para o seu e-mail. Caso você não receba ao final do evento, escreva para [masked].<\/p> <p>MATERIAIS! - Os materiais utilizados no nosso curso (apresentação, scripts) serão disponibilizados através do nosso GitHub .<\/p> <p>Dicas importantes para melhor aproveitamento do evento<\/p> <p>(1°) Procure conectar o seu computador no cabo de rede, evitando instabilidades na transmissão;<br/>(2°) Pré-configure a sua câmera e microfone antes de entrar no evento pois será útil para as interações com a professora em caso de dúvidas!<br/>(3°) Prepare seu ambiente, aquela caneca de café, garrafa de água e os fones de ouvido, melhores companheiros para se concentrar e mergulhar de cabeça nessa experiência!<br/>(4°) Não guarde esse conhecimento apenas para você, compartilhe com seus amigos e redes sociais marcando a gente no instagram @rladiesgyn.<\/p> <p>Você faz parte desse compromisso<\/p> <p>Lembre-se que o Código de Conduta também se estende à versão online de nossos eventos e não será tolerada qualquer forma de assédios ou intimidações de qualquer participante, seja audiência, palestrantes, colaboradores, ou quaisquer membros da comunidade.<\/p> <p>A gente brilha TOGETHER!<\/p> ",
+    "url": "https://www.meetup.com/rladies-goiania/events/276829458/",
     "textColor": "#7171fb"
   },
   {
@@ -708,14 +708,6 @@
     "start": "2021-03-18",
     "description": "<p>## Abstract<\/p> <p>officeverse : a set of packages to ease the production of Word and PowerPoint documents<\/p> <p>The officer package has been developed to facilitate the production of Word documents and PowerPoint presentations with R.<\/p> <p>The initial project was to offer an alternative solution to SAS ODS for tabular and graphical reports produced in Word for one of my clients. The range of functionalities has expanded and some very interesting extensions have been created. There is the officedown package that increases the layout capabilities of R Markdown when the output is Word, the rvg package to create editable vector graphics, the flextable package to make nice tables.<\/p> <p>In this presentation, you will see how to use the package to produce PowerPoint presentations and Word documents. Its role as a foundation for other packages and new documentation will be discussed. It will also be an opportunity for David to present the officedown package for the first time.<\/p> <p>## Speaker<\/p> <p>David Gohel is the founder of ArData, a French company providing R expertise, R training and consulting in data sciences. He is the author of R packages, most popular are officer, flextable, rvg and ggiraph.<\/p> <p>He is a data scientist and software engineer. His professional experiences led him to face many challenges related to the data of organizations, which he has always managed with solutions involving R software.<\/p> ",
     "url": "https://www.meetup.com/AthensR/events/276494023/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Valparaíso: Expresiones regulares para la limpieza y transformación de datos (parte 2)  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Valparaíso",
-    "start": "2021-02-19",
-    "description": "<p>Este viernes 19 de febrero realizaremos la segunda sesión del taller \"Expresiones regulares para la limpieza y transformación de datos\". El taller estará a cargo de Stephanie Orellana (<a href=\"https://twitter.com/sporella\" class=\"linkified\">https://twitter.com/sporella<\/a>) y Riva Quiroga (<a href=\"https://twitter.com/rivaquiroga\" class=\"linkified\">https://twitter.com/rivaquiroga<\/a>).<\/p> <p>- SOBRE EL TALLER<br/>Este taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.<br/>En esta segunda sesión, profundizaremos en los contenidos vistos en la primera y además veremos cómo podemos utilizar expresiones regulares para limpiar un archivo PDF.<\/p> <p>- REQUERIMIENTOS<br/>Si no participaste en la primera parte del taller, te sugerimos revisar el video y los materiales, ya que los ejercicios que realizaremos son una continuación de lo visto ese día: <a href=\"https://github.com/rladieschile/taller-regex-2021/blob/main/README.md\" class=\"linkified\">https://github.com/rladieschile/taller-regex-2021/blob/main/README.md<\/a><br/>Para este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {pdftools}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").<br/>El taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-valparaiso/events/276417878/",
     "textColor": "#7171fb"
   },
   {
@@ -977,14 +969,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies CDMX: Expresiones regulares para la limpieza y transformación de datos (parte 2)  [Virtual] , Mexico, Latin America",
-    "group": "R-Ladies CDMX",
-    "start": "2021-02-19",
-    "description": "<p>Este viernes 19 de febrero realizaremos la segunda sesión del taller \"Expresiones regulares para la limpieza y transformación de datos\". El taller estará a cargo de Stephanie Orellana (<a href=\"https://twitter.com/sporella\" class=\"linkified\">https://twitter.com/sporella<\/a>) y Riva Quiroga (<a href=\"https://twitter.com/rivaquiroga\" class=\"linkified\">https://twitter.com/rivaquiroga<\/a>).<br/>- SOBRE EL TALLER<br/>Este taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.<br/>En esta segunda sesión, profundizaremos en los contenidos vistos en la primera y además veremos cómo podemos utilizar expresiones regulares para limpiar un archivo PDF.<br/>- REQUERIMIENTOS<br/>Si no participaste en la primera parte del taller, te sugerimos revisar el video y los materiales, ya que los ejercicios que realizaremos son una continuación de lo visto en esa sesión: <a href=\"https://github.com/rladieschile/taller-regex-2021/blob/main/README.md\" class=\"linkified\">https://github.com/rladieschile/taller-regex-2021/blob/main/README.md<\/a><br/>Para este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {pdftools}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").<br/>El taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.<br/>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-cdmx/events/276447103/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies St. Louis:  Plotting vaccination intention: An intro to data viz in R with ggplot2  [Virtual] , United States, US/Canada",
     "group": "R-Ladies St. Louis",
     "start": "2021-03-09",
@@ -1134,14 +1118,6 @@
     "start": "2021-03-10",
     "description": "<p>¡Rladies Querétaro te invita a aprender ggplot2!<\/p> <p>Con la participación de Judith Pérez Granado quien es estudiante de doctorado en el programa de Research Programme on Biomedical Informatics (GRIB) del Hospital del Mar Medical Research Institute (IMIM) (<a href=\"http://www.imim.es/\" class=\"linkified\">http://www.imim.es/<\/a>) and the Department of Experimental and Health Sciences of the Universitat Pompeu Fabra (UPF) (<a href=\"http://www.upf.edu/\" class=\"linkified\">http://www.upf.edu/<\/a>).<\/p> ",
     "url": "https://www.meetup.com/rladies-queretaro/events/276714809/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Concepción: Expresiones regulares para la limpieza y transformación de datos (parte 2)  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Concepción",
-    "start": "2021-02-19",
-    "description": "<p>Este viernes 19 de febrero realizaremos la segunda sesión del taller \"Expresiones regulares para la limpieza y transformación de datos\". El taller estará a cargo de Stephanie Orellana (<a href=\"https://twitter.com/sporella\" class=\"linkified\">https://twitter.com/sporella<\/a>) y Riva Quiroga (<a href=\"https://twitter.com/rivaquiroga\" class=\"linkified\">https://twitter.com/rivaquiroga<\/a>).<br/>- SOBRE EL TALLER<br/>Este taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.<br/>En esta segunda sesión, profundizaremos en los contenidos vistos en la primera sesión y además veremos cómo podemos utilizar expresiones regulares para limpiar un archivo PDF.<br/>- REQUERIMIENTOS<br/>Si no participaste en la primera parte del taller, te sugerimos revisar el video y los materiales, ya que los ejercicios que realizaremos son una continuación de lo visto en esa sesión: <a href=\"https://github.com/rladieschile/taller-regex-2021/blob/main/README.md\" class=\"linkified\">https://github.com/rladieschile/taller-regex-2021/blob/main/README.md<\/a><br/>Para este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {pdftools}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").<br/>El taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.<br/>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-concepcion/events/276437931/",
     "textColor": "#7171fb"
   },
   {
@@ -1337,6 +1313,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
+    "group": "Central Iowa R User Group",
+    "start": "2021-06-19",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrryccjbzb/",
+    "textColor": "blue"
+  },
+  {
     "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Evan Odell - Analysing Political Speeches in R - some approaches  [Virtual] , Poland, Europe",
     "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
     "start": "2021-03-22",
@@ -1518,6 +1502,14 @@
     "start": "2021-04-28",
     "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Haseeb Mahmud uns das CRAN-Paket Fable vorstellt. Fable ist eine Sammlung von uni- und multivariaten Zeitreihen-Prognose-Modellen. Das Framework hat Funktionen zum Visualisieren und Kombinieren von Modellen und nutzt den Tidyverse Workflow. Hier der Link zum CRAN-Paket: <a href=\"https://CRAN.R-project.org/package=fable\" class=\"linkified\">https://CRAN.R-project.org/package=fable<\/a><br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277005266/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break -  Xplortext  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-05-05",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Ramón Alvarez Esteban und Mónica Bécue uns ihr CRAN-Paket Xplortext vorstellen. Xplortext bietet eine Reihe von Funktionen für multivariate Erkundungsstatistiken zu Textdaten. Nähere Informationen sind unter <a href=\"https://xplortext.unileon.es/?page_id=1139\" class=\"linkified\">https://xplortext.unileon.es/?page_id=1139<\/a> und <a href=\"https://CRAN.R-project.org/package=Xplortext\" class=\"linkified\">https://CRAN.R-project.org/package=Xplortext<\/a> zu finden.<br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277083818/",
     "textColor": "blue"
   },
   {
@@ -1838,14 +1830,6 @@
     "start": "2021-04-08",
     "description": "<p>Join us for an in-person meetup to learn about creating tables for reports in R Markdown, hosted by Izzy Johnson!<\/p> <p>All levels of R users (including beginners!) are welcome.<\/p> <p>Time: 6:00 arrival for a 6:30pm start and 7:45pm finish.<\/p> <p>What to bring: Yourself! Optionally you can bring a laptop with R installed if you'd like to code along with the presentation.<\/p> <p>Plots are great, but sometimes tables can be a useful way to display data as well. Izzy will talk briefly about a few ways to create tables to display data in R, and then walk though how the kableExtra package can help customise your tables, and make them look cleaner and easier to read when creating reports and summaries in R Markdown.<\/p> <p>This meeting will be hosted by Xero, on Saint Georges Bay Road in Parnell.<\/p> <p>If you have any questions or problems, don't hesitate to contact Izzy Johnson through meet-up!<\/p> <p>As with all our meetups, please be aware of and read the Code of Conduct before attending.<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-auckland/events/276942471/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Goiânia: Dplyr & Tidyr: A dupla implacável  [Virtual] , Brazil, Latin America",
-    "group": "R-Ladies Goiânia",
-    "start": "2021-03-21",
-    "description": "<p>Heey, tudo bem?<\/p> <p>Estamos muito felizes com a sua participação.<\/p> <p>Aproveite o curso. Aproveite essa oportunidade! Este evento foi pensado com muito carinho para você.<\/p> <p>O que você vai aprender?<\/p> <p>Você vai aprender a utilizar as diversas funções de manipulação de dados do pacote DPLYR e a criar dados organizados com o pacote TIDYR. Essa dupla de pacotes é SENSACIONAL!<\/p> <p>Quais pacotes vão ser utilizados ?<\/p> <p>library(tidyverse)<br/>library(dplyr)<br/>library(tidyr)<\/p> <p>Sobre o Projeto Enigma<\/p> <p>O projeto Enigma busca tornar visível o papel feminino na área da computação, resgatando as contribuições significativas de algumas mulheres de uma forma diferenciada, que provoque o pensamento do fruidor. Não pretende-se reproduzir as visibilidades que estas personagens já têm, mas fazer uma provocação, desacomodando o pensamento para que as invisibilidades, que ainda persistem, se tornem visíveis. As doações serão voltadas a reforma de artigos doados ao projeto como computadores, teclados e entre outros objetos do universo computacional.<\/p> <p>Para saber mais sobre este projeto lindo acesse <a href=\"https://www.ufrgs.br/enigma/\" class=\"linkified\">https://www.ufrgs.br/enigma/<\/a><\/p> <p>E aí? Topa?<\/p> <p>Link de inscrição: <a href=\"https://www.sympla.com.br/dplyr--tidyr-a-dulpa-implacavel__1153806\" class=\"linkified\">https://www.sympla.com.br/dplyr--tidyr-a-dulpa-implacavel__1153806<\/a><\/p> <p>Dúvidas frequentes:<\/p> <p>CERTIFICADOS! - O certificado de 4h do evento será enviado para o seu e-mail. Caso você não receba ao final do evento, escreva para [masked].<\/p> <p>MATERIAIS! - Os materiais utilizados no nosso curso (apresentação, scripts) serão disponibilizados através do nosso GitHub .<\/p> <p>Dicas importantes para melhor aproveitamento do evento<\/p> <p>(1°) Procure conectar o seu computador no cabo de rede, evitando instabilidades na transmissão;<br/>(2°) Pré-configure a sua câmera e microfone antes de entrar no evento pois será útil para as interações com a professora em caso de dúvidas!<br/>(3°) Prepare seu ambiente, aquela caneca de café, garrafa de água e os fones de ouvido, melhores companheiros para se concentrar e mergulhar de cabeça nessa experiência!<br/>(4°) Não guarde esse conhecimento apenas para você, compartilhe com seus amigos e redes sociais marcando a gente no instagram @rladiesgyn.<\/p> <p>Você faz parte desse compromisso<\/p> <p>Lembre-se que o Código de Conduta também se estende à versão online de nossos eventos e não será tolerada qualquer forma de assédios ou intimidações de qualquer participante, seja audiência, palestrantes, colaboradores, ou quaisquer membros da comunidade.<\/p> <p>A gente brilha TOGETHER!<\/p> ",
-    "url": "https://www.meetup.com/rladies-goiania/events/276829458/",
     "textColor": "blue"
   },
   {
@@ -2215,6 +2199,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Tbilisi: R-Ladies Tbilisi Bookclub Launch  [Virtual] , Georgia, Asia",
+    "group": "R-Ladies Tbilisi",
+    "start": "2021-03-28",
+    "description": "<p>R-Ladies Tbilisi is launching a bookclub (online). Our first book is Hadley Wickham's and Garret Grolemund's \"R for Data Science\" <a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>.<\/p> <p>The idea is to go through this book so that each chapter will be read<br/>and presented by a certain person. Besides presentation and discussion, we will go through the exercises at the end of each chapter together.<\/p> <p>Our first meeting will be on Sunday, March 28 from 3pm Tbilisi time. We will introduce the idea of the bookclub and discuss the next steps. Also, we will introduce the first chapter of the book. You are welcome to attend!<\/p> <p>Please RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):<br/><a href=\"https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/\" class=\"linkified\">https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-tbilisi/events/277086364/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Seattle: git through April: Command line git  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Seattle",
     "start": "2021-04-02",
@@ -2255,11 +2247,27 @@
     "textColor": "blue"
   },
   {
-    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | Big Data Analytics and Machine Learning Systems ..., Taiwan, Asia",
+    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | 數據驅動架構站（戰？）起來, Taiwan, Asia",
     "group": "Taiwan R User Group / MLDM Monday",
-    "start": "2021-03-22",
-    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<br/>三創 ACCUPASS 活動報名連結：<a href=\"https://www.accupass.com/event/2103100948521457641701\" class=\"linkified\">https://www.accupass.com/event/2103100948521457641701<\/a><\/p> <p>講題：Big Data Analytics and Machine Learning Systems: The Apache Way<\/p> <p>講題介紹：這個talk分上下兩部分。前面偏技術性，我會以兩個專案Apache Ozone以及Apache Submarine分享Big Data Analytics Systems以及Machine Learning Systems開發最新的現況。Ozone是個專門設計給Big data workload儲存大量資料的object store, Submarine 是個開源的機器學習平台。<\/p> <p>後半部偏軟性，作為Apache Hadoop VP，我會分享這幾年在世界open source環境參與的心得，以及這幾年在台灣推動open source開發、建立社群的心得。<\/p> <p>講者介紹：Wei-Chiu currently serves as the VP of Apache Hadoop. He joined Cloudera in 2015 as a software engineer, where he leads the development of Cloudera’s distributed storage system: the Hadoop Distributed File System (HDFS).<\/p> <p>He is an active committer and Project Management Committee member in various Apache open source projects, including Apache Hadoop, HBase and Submarine and Ozone.<br/>Wei-Chiu received his Ph.D. in Computer Science from Purdue University for his research in distributed systems and programming models.<\/p> ",
-    "url": "https://www.meetup.com/Taiwan-R/events/276807336/",
+    "start": "2021-03-29",
+    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<br/>活動通報名連結：<\/p> <p>講題：數據驅動架構站（戰？）起來<br/>（Panel Dicussion 關於 DataOps &amp; ModelOps）<\/p> <p>講題介紹：<br/>延續上次沒談完的議題，<br/><a href=\"https://www.meetup.com/Taiwan-R/events/274758436/\" class=\"linkified\">https://www.meetup.com/Taiwan-R/events/274758436/<\/a><br/>繼續討論 Data Pipelines &amp; DataOps &amp; ModelOps 相關議題！<\/p> <p>講者介紹：<br/>主持人：Chia-Chi Chang<br/>與談人：<br/>Li-Wei Yang<br/>Joseph Yen<br/>Chun-Ting Kuo<br/>Ryan<\/p> ",
+    "url": "https://www.meetup.com/Taiwan-R/events/277082009/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | 不平衡數據之機器學習分析流程：Python 程式手把手實作, Taiwan, Asia",
+    "group": "Taiwan R User Group / MLDM Monday",
+    "start": "2021-04-12",
+    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<br/>三創 ACCUPASS 活動報名連結：<\/p> <p>講題：不平衡數據之機器學習分析流程：Python 程式手把手實作<\/p> <p>講題介紹：<br/>本講次與同好們分享不平衡數據之機器學習標準作業流程與 Python 程式之基礎實作 (主要使用 imbalanced-learn 套件)。<\/p> <p>講者介紹：Prof. EC Lee<br/>李宜熹 (一位喜歡做很多不同事務且向社群夥伴學習的人)<br/>東吳大學財務工程與精算數學系專任助理教授<br/>東吳大學精算大數據研究中心委員<br/>國立政治大學金融科技研究中心數位金融創新實驗室首席副執行長<br/>國立政治大學金融科技研究中心 AI 創新實驗室副執行長<br/>中華民國運動賽事分析師協會常務監事<br/>南寶樹脂工廠股份有限公司 (股票代碼：4766) 獨立董事<\/p> ",
+    "url": "https://www.meetup.com/Taiwan-R/events/277082073/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Taiwan R User Group / MLDM Monday: MLDM Monday @ 三創育成 | TBD (可能與機器人相關主題), Taiwan, Asia",
+    "group": "Taiwan R User Group / MLDM Monday",
+    "start": "2021-04-26",
+    "description": "<p>本次聚會地點於三創育成基金會（11F）場地<br/>三創 ACCUPASS 活動報名連結：<\/p> <p>講題：TBD (可能與機器人相關主題)<\/p> <p>講題介紹：TBD (可能與機器人相關主題)<\/p> <p>講者介紹：陳嘉葳<\/p> ",
+    "url": "https://www.meetup.com/Taiwan-R/events/277082078/",
     "textColor": "blue"
   },
   {
