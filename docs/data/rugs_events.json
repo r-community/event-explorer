@@ -160,6 +160,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Montreal R User Group: Healthcare NLP Summit  [Virtual] , Canada, US/Canada",
+    "group": "Montreal R User Group",
+    "start": "2021-04-06",
+    "description": "<p>Register here: <a href=\"https://www.nlpsummit.org/healthcare-2021\" class=\"linkified\">https://www.nlpsummit.org/healthcare-2021<\/a><\/p> <p>The NLP Summit for Healthcare is an industry-wide online conference about applied natural language processing in the healthcare industry. During this two-day event, you'll hear from teams who are leading the Healthcare NLP space at Google, Roche, Merck, Cigna, Change Healthcare, IQVIA, Curai, CMU, Stanford, Berkeley, and many more!<\/p> <p>Free registration is required to secure your access to the keynotes, breakout sessions from industry leaders, and Q&amp;A with speakers.<\/p> <p>Register here: <a href=\"https://www.nlpsummit.org/healthcare-2021\" class=\"linkified\">https://www.nlpsummit.org/healthcare-2021<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/276132925/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Montreal R User Group: Building a Modern Data Platform Webinar Series  [Virtual] , Canada, US/Canada",
     "group": "Montreal R User Group",
     "start": "2021-04-06",
@@ -216,11 +224,27 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "AalborgRUG: Graphical models with sparse conditional probability tables in R  [Virtual] , Denmark, Europe",
+    "group": "AalborgRUG",
+    "start": "2021-04-07",
+    "description": "<p>Password to the zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
+    "url": "https://www.meetup.com/AalborgRUG/events/277173904/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Salt Lake City R Users Group: The Magical Code Menu in RStudio  [Virtual] , United States, US/Canada",
     "group": "Salt Lake City R Users Group",
     "start": "2021-03-10",
     "description": "<p>Our March Meetup will be a remote gathering; the Zoom link will be posted the week of the event, and the passcode is[masked].<\/p> <p>For many R users, RStudio is just an excellent environment to write their code. Compared to the Rgui program included with the R installer, RStudio offers a clean, organized way to write code, view results, and organize their projects. However, RStudio offers many more features to help you out. In this presentation we're going to do a deep dive into the 'Code' menu which has many tools for writing cleaner, more reusable code and making certain tedious tasks easy. The end goal is to write better, more reusable code with less work.<\/p> <p>Kenneth Fairchild is a Senior Consultant at Sawtooth Software where he specializes in Conjoint market research surveys. Kenneth's R interests are in automatic tasks, optimizing workflows, and generating high-quality deliverables for end-clients.<\/p> ",
     "url": "https://www.meetup.com/slc-rug/events/275753774/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Salt Lake City R Users Group: Stacked Ensemble Modeling with Tidy Data Principles  [Virtual] , United States, US/Canada",
+    "group": "Salt Lake City R Users Group",
+    "start": "2021-04-07",
+    "description": "<p>Our April Meetup will be a remote gathering; the Zoom link will be posted the week of the event, and the passcode is[masked].<\/p> <p>Stacked ensemble modeling is a statistical modeling technique that involves training a model to combine the outputs of many constituent models. The technique has been shown to increase predictive performance in a variety of settings. This talk will introduce {stacks}, a free and open-source R software package for stacked ensemble modeling that aligns with tidy data principles. The package’s functionality is closely aligned with the {tidymodels}, a collection of packages providing a unified interface to diverse statistical modeling techniques.<\/p> <p>Simon Couch is a developer on open source R packages for statistical modeling. He is currently an undergraduate studying statistics at Reed College and formerly an intern at RStudio. Simon was awarded the 2021 John M. Chambers Statistical Software Award for {stacks}.<\/p> ",
+    "url": "https://www.meetup.com/slc-rug/events/275790402/",
     "textColor": "#7171fb"
   },
   {
@@ -325,6 +349,14 @@
     "start": "2021-03-25",
     "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>This event is organized by the Oslo useR! Group<\/p> <p>[Abstract]<br/>In this talk, Cédric presents his favorite tips and tricks with regard to the {ggplot2} package, covering {ggplot2} functionality to improve the design of your graph as well as a collection of interesting extension packages. He is going to cover a diverse collection of tips so hopefully everyone, no matter if beginner or an experienced {ggplot2} user, will learn something helpful!<\/p> <p>After the presentation, there will be a live-coding part where you can follow along Cédric in creating an beautiful graph. To follow along, please have the following packages installed:<\/p> <p>install.packages(c(\"tidyverse\", \"systemfonts\", \"scico\", \"ggtext\", \"ggforce\", \"ggdist\", \"magick\", \"patchwork\"))<\/p> <p>Note: This is an extended version of the {ggplot2} talk that Cédric gave recently at the Outlier Conference.<\/p> <p>[Bio]<br/>Cédric is a computational ecologist by training and a data visualization designer by heart with more than 10 years of hypothesis-driven research experience. For all his projects, no matter if scientific, client or personal projects, he uses {ggplot2} to create powerful and aesthetically pleasing visualizations.<\/p> <p>[About]<br/>This event is organized by the Oslo useR! Group (<a href=\"https://www.meetup.com/Oslo-useR-Group/\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/<\/a>) and will be co-hosted by the Skåne useR! Group (<a href=\"https://www.meetup.com/Skane-R-User-Group/\" class=\"linkified\">https://www.meetup.com/Skane-R-User-Group/<\/a>).<\/p> ",
     "url": "https://www.meetup.com/BarcelonaR/events/276587201/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Barcelona R User Group: Online event by Aalborg RUG - Graphical models w sparse cond. prob. tables in R  [Virtual] , Spain, Europe",
+    "group": "Barcelona R User Group",
+    "start": "2021-04-07",
+    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>Password to the zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
+    "url": "https://www.meetup.com/BarcelonaR/events/277405753/",
     "textColor": "#7171fb"
   },
   {
@@ -437,6 +469,14 @@
     "start": "2021-03-25",
     "description": "<p>[Abstract]<br/>In this talk, Cédric presents his favorite tips and tricks with regard to the {ggplot2} package, covering {ggplot2} functionality to improve the design of your graph as well as a collection of interesting extension packages. He is going to cover a diverse collection of tips so hopefully everyone, no matter if beginner or an experienced {ggplot2} user, will learn something helpful!<\/p> <p>After the presentation, there will be a live-coding part where you can follow along Cédric in creating an beautiful graph. To follow along, please have the following packages installed:<\/p> <p>install.packages(c(\"tidyverse\", \"systemfonts\", \"scico\", \"ggtext\", \"ggforce\", \"ggdist\", \"magick\", \"patchwork\"))<\/p> <p>Note: This is an extended version of the {ggplot2} talk that Cédric gave recently at the Outlier Conference.<\/p> <p>[Bio]<br/>Cédric is a computational ecologist by training and a data visualization designer by heart with more than 10 years of hypothesis-driven research experience. For all his projects, no matter if scientific, client or personal projects, he uses {ggplot2} to create powerful and aesthetically pleasing visualizations.<\/p> <p>[About]<br/>This event is organized by the Oslo useR! Group (<a href=\"https://www.meetup.com/Oslo-useR-Group/\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/<\/a>) and will be co-hosted by the Skåne useR! Group (<a href=\"https://www.meetup.com/Skane-R-User-Group/\" class=\"linkified\">https://www.meetup.com/Skane-R-User-Group/<\/a>).<\/p> ",
     "url": "https://www.meetup.com/ViennaR/events/276613445/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Vienna<-R: Aalborg RUG / ViennaR: Graphical models w sparse cond. prob. tables in R  [Virtual] , Austria, Europe",
+    "group": "Vienna<-R",
+    "start": "2021-04-07",
+    "description": "<p>Password to this zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/277380561/",
     "textColor": "#7171fb"
   },
   {
@@ -827,14 +867,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Washington D.C.: International Women's Day Celebration: Data science for social equality  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Washington D.C.",
-    "start": "2021-03-08",
-    "description": "<p>Abstract: Our society remains profoundly unequal. This talk presents vignettes about how data science can be used to combat inequality, focusing on public health and healthcare as application areas.<\/p> <p>Bio: Emma Pierson is a senior researcher at Microsoft Research and an incoming assistant professor of computer science at Cornell Tech. She develops data science and machine learning methods to study inequality and healthcare. Her work has been recognized by a Rhodes Scholarship, Hertz Fellowship, Rising Star in EECS, and Forbes 30 Under 30 in Science. She has written for The New York Times, FiveThirtyEight, The Atlantic, The Washington Post, Wired, and various other publications.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dc/events/275983647/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Washington D.C.: Books In Bars - Data Feminism  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Washington D.C.",
     "start": "2021-03-26",
@@ -976,6 +1008,14 @@
     "start": "2021-04-02",
     "description": "<p>Join us over lunch @ noon for 4 hands-on workshops using version control with git and GitHub.<\/p> <p>**This week**<\/p> <p>Command line git with Kim Dill-McFarland, Katie Jolly, Jenny Smith<\/p> <p>**Content**<\/p> <p>Working in command line git to make repositories, track files, and review versions. This content is based on the Carpentries 'Version control with git' (<a href=\"http://swcarpentry.github.io/git-novice/\" class=\"linkified\">http://swcarpentry.github.io/git-novice/<\/a>)<\/p> <p>All workshop materials can be found at <a href=\"https://github.com/kdillmcfarland/2021-04-02-r-ladies-seattle-online/tree/gh-pages/_episodes/R-ladies\" class=\"linkified\">https://github.com/kdillmcfarland/2021-04-02-r-ladies-seattle-online/tree/gh-pages/_episodes/R-ladies<\/a><\/p> <p>**Audience**<\/p> <p>This workshop is meant for novice git users and no prior experience is required. Priority registration will be given to those 1) attending all 4 sessions and 2) local Washington R-Ladies members.<\/p> <p>We will be working in command line so those without experience may wish to review basic Unix commands (recommend lessons 1-3 at <a href=\"http://swcarpentry.github.io/shell-novice/\" class=\"linkified\">http://swcarpentry.github.io/shell-novice/<\/a>)<\/p> <p>**Prior to the workshop**<\/p> <p>To prepare for this session:<br/>- Install git <a href=\"https://git-scm.com/downloads\" class=\"linkified\">https://git-scm.com/downloads<\/a><br/>- Make a GitHub account <a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a><\/p> <p>Or to prepare for all sessions:<br/>- Install git <a href=\"https://git-scm.com/downloads\" class=\"linkified\">https://git-scm.com/downloads<\/a><br/>- Make a GitHub account <a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a><br/>- Install GitHub Desktop <a href=\"https://desktop.github.com/\" class=\"linkified\">https://desktop.github.com/<\/a><br/>- Install R <a href=\"https://www.r-project.org/\" class=\"linkified\">https://www.r-project.org/<\/a><br/>- Install RStudio (free) <a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a><\/p> <p>If you have issues with install, an instructor will be on the event Zoom 30 minutes prior to the workshop<\/p> ",
     "url": "https://www.meetup.com/rladies-seattle/events/276835949/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Seattle: How to Give a Good Conference or Meetup Talk  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Seattle",
+    "start": "2021-04-07",
+    "description": "<p>Join us for a discussion about coming up with, designing, and delivering a good talk!<\/p> <p>Goals:<br/>Help R-Ladies see themselves as experts and speakers<br/>Demystify the process of applying to speak at conferences<br/>Provide tips and resources for speaking at different types of events and formats<br/>Alert R-Ladies Seattle members and others to upcoming opportunities<br/>Have more people speak at R-Ladies!<\/p> <p>Guests:<br/>Dr. Kate Hertweck, Bioinformatics Training Manager at Fred Hutch<br/>Dr. Marie Vendettuoli, Senior Statistical Programmer at Fred Hutch<br/>Kara Woo, Kara Woo, Senior Data Science Engineer at InsightRX<\/p> <p>Tech support:<br/>Monica Gerber, R-Ladies Seattle Co-Organizer<br/>Katie Jolly, R-Ladies Seattle Co-Organizer<\/p> <p>Moderator:<br/>Isabella Velásquez, R-Ladies Seattle Co-Organizer<\/p> ",
+    "url": "https://www.meetup.com/rladies-seattle/events/276427163/",
     "textColor": "#7171fb"
   },
   {
@@ -1427,22 +1467,6 @@
     "textColor": "blue"
   },
   {
-    "title": "AalborgRUG: Graphical models with sparse conditional probability tables in R  [Virtual] , Denmark, Europe",
-    "group": "AalborgRUG",
-    "start": "2021-04-07",
-    "description": "<p>Password to the zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
-    "url": "https://www.meetup.com/AalborgRUG/events/277173904/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Salt Lake City R Users Group: Stacked Ensemble Modeling with Tidy Data Principles  [Virtual] , United States, US/Canada",
-    "group": "Salt Lake City R Users Group",
-    "start": "2021-04-07",
-    "description": "<p>Our April Meetup will be a remote gathering; the Zoom link will be posted the week of the event, and the passcode is[masked].<\/p> <p>Stacked ensemble modeling is a statistical modeling technique that involves training a model to combine the outputs of many constituent models. The technique has been shown to increase predictive performance in a variety of settings. This talk will introduce {stacks}, a free and open-source R software package for stacked ensemble modeling that aligns with tidy data principles. The package’s functionality is closely aligned with the {tidymodels}, a collection of packages providing a unified interface to diverse statistical modeling techniques.<\/p> <p>Simon Couch is a developer on open source R packages for statistical modeling. He is currently an undergraduate studying statistics at Reed College and formerly an intern at RStudio. Simon was awarded the 2021 John M. Chambers Statistical Software Award for {stacks}.<\/p> ",
-    "url": "https://www.meetup.com/slc-rug/events/275790402/",
-    "textColor": "blue"
-  },
-  {
     "title": "Salt Lake City R Users Group: Data Science Portfolios 101  [Virtual] , United States, US/Canada",
     "group": "Salt Lake City R Users Group",
     "start": "2021-05-05",
@@ -1520,14 +1544,6 @@
     "start": "2021-04-29",
     "description": "<p>Hello everyone. We're pleased to announce that the next meeting of the Atlanta R Users Group will take place on Thursday, April 29th at 7:30PM. Our main speaker will give a presentation about interactive data applications with Shiny.<\/p> <p>This meeting will be a virtual meeting, so if you RSVP you'll receive the information necessary to join the Zoom videoconference on the 29th.<\/p> <p>regards,<\/p> <p>Len Greski<\/p> ",
     "url": "https://www.meetup.com/R-Users-Atlanta/events/277365883/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Barcelona R User Group: Online event by Aalborg RUG - Graphical models w sparse cond. prob. tables in R  [Virtual] , Spain, Europe",
-    "group": "Barcelona R User Group",
-    "start": "2021-04-07",
-    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>Password to the zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
-    "url": "https://www.meetup.com/BarcelonaR/events/277405753/",
     "textColor": "blue"
   },
   {
@@ -1611,22 +1627,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Vienna<-R: Aalborg RUG / ViennaR: Graphical models w sparse cond. prob. tables in R  [Virtual] , Austria, Europe",
-    "group": "Vienna<-R",
-    "start": "2021-04-07",
-    "description": "<p>Password to this zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/277380561/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Vienna<-R: BrightonR / ViennaR - April Meetup [w a focus on {golem} Shiny applications]  [Virtual] , Austria, Europe",
-    "group": "Vienna<-R",
-    "start": "2021-04-08",
-    "description": "<p>BrightonR this time hosts Chris Beeley, Senior Data Scientist at Nottinghamshire Healthcare NHS Trust, who will speak about the working practices that have evolved at Nottinghamshire Healthcare NHS Trust that are focused on allowing a group of data scientists to collaborate on Shiny applications, ensuring that the code that they write is robust, error free, and easily deployable.<br/>Shiny applications are produced according to best practice as defined by the {golem} package, and the modularity inherent in that approach is key to making the applications robust as well as allowing the git and GitHub based collaboration to work effectively.<\/p> <p>A number of examples of modular and {golem} based development will be discussed, including some of technical hurdles and challenges faced by developers who are beginning to use Shiny modules, and some of the advanced features of Shiny and {golem} that can make building robust and scalable applications easier.<\/p> <p>Pls sign up at EventBrite:<br/><a href=\"https://www.eventbrite.co.uk/e/brighton-r-april-meetup-tickets-146323695111\" class=\"linkified\">https://www.eventbrite.co.uk/e/brighton-r-april-meetup-tickets-146323695111<\/a><\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/277302969/",
-    "textColor": "blue"
-  },
-  {
     "title": "Vienna<-R: R Lille / ViennaR - A Journey To Transparency And Reproducibility  [Virtual] , Austria, Europe",
     "group": "Vienna<-R",
     "start": "2021-04-15",
@@ -1648,6 +1648,14 @@
     "start": "2021-04-23",
     "description": "<p>Details<br/>R-Ladies East Lansing and R-Ladies Chicago are co-hosting \"Fun with R,\" where members share fun R packages! Talks can include topics such as chess w/ R, music w/ R, Rcade games, and other fun packages.<\/p> <p>Interested in giving a Lightning Talk? Submit a 10-minute talk description using this form: <a href=\"https://forms.gle/jnQrYSnimLvehRuD9\" class=\"linkified\">https://forms.gle/jnQrYSnimLvehRuD9<\/a><\/p> <p>======================================<br/>Register to receive the event Zoom link<br/>======================================<br/>Spring 2021 RLEL/RLC event registration link:<br/><a href=\"https://forms.gle/ZLo6XEUVrz9eCLrQ8\" class=\"linkified\">https://forms.gle/ZLo6XEUVrz9eCLrQ8<\/a><\/p> <p>========<br/>AGENDA<br/>========<br/>- Intro<br/>- Lightning Talks<br/>- Q&amp;A | Discussion<\/p> <p>=====<br/>TIME<br/>=====<br/><a href=\"https://www.timeanddate.com/worldclock/fixedtime.html?msg=RLEL%2FRLC%3A+Fun+with+R&amp;iso=20210423T13&amp;p1=77&amp;ah=1&amp;am=30\" class=\"linkified\">https://www.timeanddate.com/worldclock/fixedtime.html?msg=RLEL%2FRLC%3A+Fun+with+R&amp;iso=20210423T13&amp;p1=77&amp;ah=1&amp;am=30<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-chicago/events/276798462/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Vancouver: Programming with Tidyverse functions  [Virtual] , Canada, US/Canada",
+    "group": "R-Ladies Vancouver",
+    "start": "2021-04-28",
+    "description": "<p>Hello R-Ladies!<\/p> <p>Join us on April 28th for a workshop on Tidyverse functions!<\/p> <p>Event Description: Tidyverse functions were designed for their ease of use by humans, and are best known and used in interactive R coding, or as part of a literate code document (e.g., R Markdown) or script, where they are run in the global environment (i.e., not inside a function). Here they feel easy to use and powerful, as you can access things like column names as if they were available to you as objects themselves. However, this ease of use by humans is a trade off for “more work required” when you want to start programming with these. For example, when using them inside functions. In this short workshop, we will introduce what makes programming with Tidyverse functions challenging and how we can rise up to meet these challenges.<\/p> <p>**This workshop assumes you have used 2-3 Tidyverse functions and know how to write a function in R. (See below for resources) ***<\/p> <p>About the Speaker: Dr. Tiffany Timbers is an Assistant Professor of Teaching in the Department of Statistics and a Co-Director for the Master of Data Science program (Vancouver Option) at the University of British Columbia. In these roles, she teaches and develops curriculum around the responsible application of Data Science to solve real-world problems. One of her favourite courses she teaches is a graduate course on collaborative software development, which focuses on teaching how to create R and Python packages using modern tools and workflows.<\/p> <p>Workshop details:<br/>Date and time: April 28th, 2021 at 6:00pm<br/>Webinar link: RSVP to view link<br/>Note: Meeting password is embedded in the link after ?pwd<br/>If you have trouble getting into the meeting, please message Jasmine<\/p> <p>***<br/>General workshop information:<\/p> <p>-Please expect a hands-on session in a friendly and laid-back atmosphere where we all encouraged to learn together.<br/>- This workshop assumes you have used 2-3 Tidyverse functions and know how to write a function in R. Follow the links below for a refresher:<br/>- Yuka Takemon's Base R functions tutorial (<a href=\"https://www.yukatakemon.com/post/rladies-functions/rladies-building-functions/\" class=\"linkified\">https://www.yukatakemon.com/post/rladies-functions/rladies-building-functions/<\/a>)<br/>- Alison Horst's dplyr dplyr tutorial (<a href=\"https://allisonhorst.shinyapps.io/dplyr-learnr/\" class=\"linkified\">https://allisonhorst.shinyapps.io/dplyr-learnr/<\/a>)<\/p> <p>**********************IMPORTANT************************<\/p> <p>1. Have your computer and a steady internet connection ready<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>3. Who is this allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>See you there!<\/p> <p>Yuka, Jasmine, Lisa, and Sayemin<\/p> ",
+    "url": "https://www.meetup.com/rladies-vancouver/events/277407941/",
     "textColor": "blue"
   },
   {
@@ -1803,18 +1811,18 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Auckland: Creating Tables for R Markdown with kableExtra, New Zealand, Australia",
-    "group": "R-Ladies Auckland",
-    "start": "2021-04-08",
-    "description": "<p>Join us for an in-person meetup to learn about creating tables for reports in R Markdown, hosted by Izzy Johnson!<\/p> <p>All levels of R users (including beginners!) are welcome.<\/p> <p>Time: 6:00 arrival for a 6:30pm start and 7:45pm finish.<\/p> <p>What to bring: Yourself! Optionally you can bring a laptop with R installed if you'd like to code along with the presentation.<\/p> <p>Plots are great, but sometimes tables can be a useful way to display data as well. Izzy will talk briefly about a few ways to create tables to display data in R, and then walk though how the kableExtra package can help customise your tables, and make them look cleaner and easier to read when creating reports and summaries in R Markdown.<\/p> <p>This meeting will be hosted by Xero, on Saint Georges Bay Road in Parnell.<\/p> <p>If you have any questions or problems, don't hesitate to contact Izzy Johnson through meet-up!<\/p> <p>As with all our meetups, please be aware of and read the Code of Conduct before attending.<br/><a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-auckland/events/276942471/",
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2021-07-06",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsycckbjb/",
     "textColor": "blue"
   },
   {
     "title": "R-Ladies Columbus: R-Ladies Columbus Monthly Meetup  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Columbus",
     "start": "2021-04-08",
-    "description": "<p>Subject: TBD<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>Genelle will walk us through the steps she took to move her existing blog into a blogdown site using RStudio, blogdown, and GitHub.<\/p> <p>Some resources:<\/p> <p>Basic instructions: <a href=\"https://bookdown.org/yihui/blogdown/\" class=\"linkified\">https://bookdown.org/yihui/blogdown/<\/a><br/>Find a theme you like: <a href=\"https://themes.gohugo.io/\" class=\"linkified\">https://themes.gohugo.io/<\/a><br/>If you're using Netlify: <a href=\"https://docs.netlify.com/configure-builds/common-configurations/\" class=\"linkified\">https://docs.netlify.com/configure-builds/common-configurations/<\/a><\/p> <p>Further Reading:<\/p> <p>What to know before you adopt Hugo/blogdown, by Maëlle Salmon: <a href=\"https://masalmon.eu/2020/02/29/hugo-maintenance/\" class=\"linkified\">https://masalmon.eu/2020/02/29/hugo-maintenance/<\/a><\/p> <p>Up &amp; running with blogdown in 2021, by Alison Hill: <a href=\"https://alison.rbind.io/post/new-year-new-blogdown/\" class=\"linkified\">https://alison.rbind.io/post/new-year-new-blogdown/<\/a><\/p> <p>Changing your blogdown workflow, by Dr. Mowinckel: <a href=\"https://drmowinckels.io/blog/2020-05-25-changing-you-blogdown-workflow/\" class=\"linkified\">https://drmowinckels.io/blog/2020-05-25-changing-you-blogdown-workflow/<\/a><\/p> <p>Writing a blogdown post for the ages, by Claus Wilke: <a href=\"https://clauswilke.com/blog/2020/09/08/a-blogdown-post-for-the-ages/\" class=\"linkified\">https://clauswilke.com/blog/2020/09/08/a-blogdown-post-for-the-ages/<\/a><\/p> <p>R-Ladies Columbus blogdown<br/>Thu, Feb 11,[masked]:00 PM - 8:00 PM (EST)<br/>Please join my meeting from your computer, tablet or smartphone.<br/><a href=\"https://global.gotomeeting.com/join/861878989\" class=\"linkified\">https://global.gotomeeting.com/join/861878989<\/a><br/>You can also dial in using your phone.<br/>(For supported devices, tap a one-touch number below to join instantly.)<br/>United States: +1 (786)[masked]<br/>- One-touch: tel:[masked],,[masked]#<\/p> <p>Access Code:[masked]<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
+    "description": "<p>This month we will be hearing about a wide range of practical applications of R in the agronomy field!<\/p> <p>Dr. Marin Harbur will be introduce her work with machine learning and Shiny applications. She will then provide an introduction to the use of spatial statistics in R. This will include map projections, the spatial features (sf) package, and kriging (interpolating) data using stars datasets. She will also show how to present spatial data using the leaflet package.<\/p> <p>Marin is a Senior Data Analyst at Winfield United, the crop inputs division of Land O Lakes. She is also an Assistant Teaching Professor in the Department of Agronomy at Iowa State University, where she teaches Agronomy 513, Quantitative Methods in Agronomy. She graduated from Iowa State in 2003, where she co-majored in Crop Production and Physiology and Ecology and Evolutionary Biology. Marin lives in Lima Ohio with her wife, Kathleen, and two sons.<\/p> <p>R-Ladies provides a harassment-free space to all who are interested to share and learn about R!*<\/p> <p>Are you a woman or gender-non-conforming person interested in speaking? Please message the organizers!<br/>___________________________________________________________________________________<\/p> <p>We are holding our meetups remotely until further notice.<\/p> <p>* R-Ladies Global Code of Conduct: <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-columbus/events/276735319/",
     "textColor": "blue"
   },
@@ -1923,6 +1931,14 @@
     "textColor": "blue"
   },
   {
+    "title": "AthensR: Get Your Results Faster With {future} [useR! Oslo]  [Virtual] , Greece, Europe",
+    "group": "AthensR",
+    "start": "2021-04-15",
+    "description": "<p>[Abstract]<br/>The {future} package offers a unifying framework to distributed computing in R. It lets you run exactly the same code – and achieve exactly the same results – sequentially on your laptop, in parallel on your laptop, in the cloud, or on large computing clusters. In this talk, Øystein will highlight various ways {future} lets you do your data science tasks more efficiently, from file system operations and preparation of large datasets to statistics and machine learning tasks like cross-validation, bootstrapping, and simulations. He'll focus particularly on functional programming with {future.apply} and {furrr} in parallel on a decent laptop, but will also touch upon cloud and cluster computing and package development.<\/p> <p>[Bio]<br/>Øystein Sørensen is an Associate Professor in Statistics at the Department of Psychology, University of Oslo (UiO). He works on both applied data analysis projects within cognitive neuroscience as well as development of new statistical tools, typically involving generalized additive models, and he is the author of four R packages. He received his PhD from the UiO in 2014, after which he worked as a data scientist in Storebrand and NextBridge analytics prior to joining UiO in 2018. His homepage is <a href=\"https://osorensen.rbind.io/\" class=\"linkified\">https://osorensen.rbind.io/<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/AthensR/events/277429851/",
+    "textColor": "blue"
+  },
+  {
     "title": "AthensR: My Journey To Transparency And Reproducibility [R Lille]   [Virtual] , Greece, Europe",
     "group": "AthensR",
     "start": "2021-04-15",
@@ -1941,8 +1957,8 @@
   {
     "title": "R-Ladies Chennai: \"Classification and Regression Trees\" with Praveena Mathews  [Virtual] , India, Asia",
     "group": "R-Ladies Chennai",
-    "start": "2021-04-10",
-    "description": "<p>\"Classification and Regression Trees\" with Praveena Mathews<\/p> <p>For the April 10th meetup of R-Ladies Chennai, we are looking forward to introducing classification and regression trees and showing you how you can easily create professional, detailed visualizations of these trees for data analysis with a few fun lines of code.<\/p> ",
+    "start": "2021-04-24",
+    "description": "<p>\"Classification and Regression Trees\" with Praveena Mathews<\/p> <p>For the April 24th meetup of R-Ladies Chennai, we are looking forward to introducing classification and regression trees and showing you how you can easily create professional, detailed visualizations of these trees for data analysis with a few fun lines of code.<\/p> ",
     "url": "https://www.meetup.com/rladies-chennai/events/277027899/",
     "textColor": "blue"
   },
@@ -2142,14 +2158,6 @@
     "start": "2021-04-09",
     "description": "<p>R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (<a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>).<\/p> <p>On April 9, Eka Oshkhereli will present the book's Chapter 3 up to and including subsection 3.6. This is on data visualisation. <a href=\"https://r4ds.had.co.nz/data-visualisation.html\" class=\"linkified\">https://r4ds.had.co.nz/data-visualisation.html<\/a><\/p> <p>Please read the sections 3.1 - 3.6 to be better prepared for the session and exercises. We will go through the exercises together. We start at 19.30 Tbilisi time!<\/p> <p>Please RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):<br/><a href=\"https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/\" class=\"linkified\">https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-tbilisi/events/277234340/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Seattle: How to Give a Good Conference or Meetup Talk  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Seattle",
-    "start": "2021-04-07",
-    "description": "<p>Join us for a discussion about coming up with, designing, and delivering a good talk!<\/p> <p>Goals:<br/>Help R-Ladies see themselves as experts and speakers<br/>Demystify the process of applying to speak at conferences<br/>Provide tips and resources for speaking at different types of events and formats<br/>Alert R-Ladies Seattle members and others to upcoming opportunities<br/>Have more people speak at R-Ladies!<\/p> <p>Guests:<br/>Dr. Kate Hertweck, Bioinformatics Training Manager at Fred Hutch<br/>Dr. Marie Vendettuoli, Senior Statistical Programmer at Fred Hutch<br/>Kara Woo, Kara Woo, Senior Data Science Engineer at InsightRX<\/p> <p>Tech support:<br/>Monica Gerber, R-Ladies Seattle Co-Organizer<br/>Katie Jolly, R-Ladies Seattle Co-Organizer<\/p> <p>Moderator:<br/>Isabella Velásquez, R-Ladies Seattle Co-Organizer<\/p> ",
-    "url": "https://www.meetup.com/rladies-seattle/events/276427163/",
     "textColor": "blue"
   },
   {
