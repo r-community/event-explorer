@@ -168,14 +168,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "IndyUseR Group: Turning Data Frames into Publication Ready Tables - Rich Iannone  [Virtual] , United States, US/Canada",
-    "group": "IndyUseR Group",
-    "start": "2021-03-16",
-    "description": "<p>In R we can do a lot with data tables. There are plenty of ways to import tabular data and then transform it for our needs. Lately, there’s been an explosion of new R packages that allow us to take these data tables and make them presentable in publication contexts. A package Rich Iannone has been working on, called gt, is great for taking a data frame and making it look good (and more like a table you’d find on the web or in print). Rich will show us some examples of how the gt package works, where it works well, and where other packages might do better for specific needs. This introduction will help prepare you to try out gt and some of the other table-making packages in the R ecosystem.<\/p> <p>All skill levels are welcomed!<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Turning Data Frames into Publication Ready Tables with Rich Iannone<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>This meetup will be a virtual event, so join us over video chat. We'll release the Zoom Meeting chat link as we approach the event date.<\/p> <p>Support provided by the R Consortium (<a href=\"https://www.r-consortium.org/\" class=\"linkified\">https://www.r-consortium.org/<\/a>)<\/p> <p>Zoom Meeting Info<\/p> <p>Topic: IndyUser March 2021 meetup<br/>Time: Mar 16,[masked]:30 PM Indiana (East)<\/p> <p>Join Zoom Meeting<br/><a href=\"https://us02web.zoom.us/j/84128185466\" class=\"linkified\">https://us02web.zoom.us/j/84128185466<\/a><\/p> <p>Meeting ID:[masked]<br/>One tap mobile<br/>[masked],,[masked]# US (Chicago)<br/>[masked],,[masked]# US (New York)<\/p> <p>Dial by your location<br/>[masked] US (Chicago)<br/>[masked] US (New York)<br/>[masked] US (Washington DC)<br/>[masked] US (Houston)<br/>[masked] US (San Jose)<br/>[masked] US (Tacoma)<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://us02web.zoom.us/u/kmkJAKfkY\" class=\"linkified\">https://us02web.zoom.us/u/kmkJAKfkY<\/a><\/p> ",
-    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbpryccfbvb/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Trenton R Users (TRU): Meetup for Mar - 2021  [Virtual] , United States, US/Canada",
     "group": "Trenton R Users (TRU)",
     "start": "2021-03-20",
@@ -200,6 +192,22 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "AalborgRUG: Online event by [useR! Oslo]: Get Your Results Faster With {future}  [Virtual] , Denmark, Europe",
+    "group": "AalborgRUG",
+    "start": "2021-04-15",
+    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>Host link: <a href=\"https://www.meetup.com/Oslo-useR-Group/events/277150580\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/events/277150580<\/a><\/p> <p>[Abstract]<br/>The {future} package offers a unifying framework to distributed computing in R. It lets you run exactly the same code – and achieve exactly the same results – sequentially on your laptop, in parallel on your laptop, in the cloud, or on large computing clusters. In this talk, Øystein will highlight various ways {future} lets you do your data science tasks more efficiently, from file system operations and preparation of large datasets to statistics and machine learning tasks like cross-validation, bootstrapping, and simulations. He'll focus particularly on functional programming with {future.apply} and {furrr} in parallel on a decent laptop, but will also touch upon cloud and cluster computing and package development.<\/p> <p>[Bio]<br/>Øystein Sørensen is an Associate Professor in Statistics at the Department of Psychology, University of Oslo (UiO). He works on both applied data analysis projects within cognitive neuroscience as well as development of new statistical tools, typically involving generalized additive models, and he is the author of four R packages. He received his PhD from the UiO in 2014, after which he worked as a data scientist in Storebrand and NextBridge analytics prior to joining UiO in 2018. His homepage is <a href=\"https://osorensen.rbind.io/\" class=\"linkified\">https://osorensen.rbind.io/<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/AalborgRUG/events/277538499/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "AalborgRUG: Online event by R Lille - My Journey To Transparency And Reproducibility, Denmark, Europe",
+    "group": "AalborgRUG",
+    "start": "2021-04-15",
+    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> <p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> ",
+    "url": "https://www.meetup.com/AalborgRUG/events/277538530/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Salt Lake City R Users Group: Stacked Ensemble Modeling with Tidy Data Principles  [Virtual] , United States, US/Canada",
     "group": "Salt Lake City R Users Group",
     "start": "2021-04-07",
@@ -213,6 +221,14 @@
     "start": "2021-03-25",
     "description": "<p>[Abstract]<br/>In this talk, Cédric presents his favorite tips and tricks with regard to the {ggplot2} package, covering {ggplot2} functionality to improve the design of your graph as well as a collection of interesting extension packages. He is going to cover a diverse collection of tips so hopefully everyone, no matter if beginner or an experienced {ggplot2} user, will learn something helpful!<\/p> <p>After the presentation, there will be a live-coding part where you can follow along Cédric in creating an beautiful graph. To follow along, please have the following packages installed:<\/p> <p>install.packages(c(\"tidyverse\", \"systemfonts\", \"scico\", \"ggtext\", \"ggforce\", \"ggdist\", \"magick\", \"patchwork\"))<\/p> <p>Note: This is an extended version of the {ggplot2} talk that Cédric gave recently at the Outlier Conference.<\/p> <p>[Bio]<br/>Cédric is a computational ecologist by training and a data visualization designer by heart with more than 10 years of hypothesis-driven research experience. For all his projects, no matter if scientific, client or personal projects, he uses {ggplot2} to create powerful and aesthetically pleasing visualizations.<\/p> <p>[About]<br/>This event is organized by the Oslo useR! Group and will be co-hosted by the Skåne useR! Group (<a href=\"https://www.meetup.com/Skane-R-User-Group/\" class=\"linkified\">https://www.meetup.com/Skane-R-User-Group/<\/a>).<\/p> ",
     "url": "https://www.meetup.com/Oslo-useR-Group/events/276513178/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Oslo useR! Group: Get Your Results Faster With {future}  [Virtual] , Norway, Europe",
+    "group": "Oslo useR! Group",
+    "start": "2021-04-15",
+    "description": "<p>[Abstract]<br/>The {future} package offers a unifying framework to distributed computing in R. It lets you run exactly the same code – and achieve exactly the same results – sequentially on your laptop, in parallel on your laptop, in the cloud, or on large computing clusters. In this talk, Øystein will highlight various ways {future} lets you do your data science tasks more efficiently, from file system operations and preparation of large datasets to statistics and machine learning tasks like cross-validation, bootstrapping, and simulations. He'll focus particularly on functional programming with {future.apply} and {furrr} in parallel on a decent laptop, but will also touch upon cloud and cluster computing and package development.<\/p> <p>[Bio]<br/>Øystein Sørensen is an Associate Professor in Statistics at the Department of Psychology, University of Oslo (UiO). He works on both applied data analysis projects within cognitive neuroscience as well as development of new statistical tools, typically involving generalized additive models, and he is the author of four R packages. He received his PhD from the UiO in 2014, after which he worked as a data scientist in Storebrand and NextBridge analytics prior to joining UiO in 2018. His homepage is <a href=\"https://osorensen.rbind.io/\" class=\"linkified\">https://osorensen.rbind.io/<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/Oslo-useR-Group/events/277150580/",
     "textColor": "#7171fb"
   },
   {
@@ -253,14 +269,6 @@
     "start": "2021-03-25",
     "description": "<p>Hello everyone. Thanks to everyone who attended the February meeting, where Rob Gordon discussed HTML scraping, and John Hackett provided an overview of ODBC with R. Our next meeting will be on March 25th, where we plan to have two presentations of 20 - 30 minutes each.<\/p> <p>Speakers for March:<br/>- \"Reproducibility with the Rmarkdown/Knitr Ecosystem\", by Melinda Higgins, Research Professor at Emory's Office of Nursing Research<br/>- \"Debugging an R Program - Monte Carlo Simulations of Bernoulli Trials\" by Leonard Greski, principal consultant at Leading Agile<\/p> <p>Content from past meetings is available at <a href=\"https://atl-r-users.github.io/communications/\" class=\"linkified\">https://atl-r-users.github.io/communications/<\/a><\/p> <p>Speaker Bios:<\/p> <p>Melinda Higgins is co-founder of R-Ladies Atlanta, <a href=\"https://www.meetup.com/rladies-atlanta/\" class=\"linkified\">https://www.meetup.com/rladies-atlanta/<\/a> and current [masked]) Vice Chair of District 5 for the American Statistical Association Council of Chapters, <a href=\"https://www.amstat.org/ASA/Membership/Chapters.aspx\" class=\"linkified\">https://www.amstat.org/ASA/Membership/Chapters.aspx<\/a> . She is also the author/creator of two online courses: R for SAS Users, <a href=\"https://www.datacamp.com/courses/r-for-sas-users\" class=\"linkified\">https://www.datacamp.com/courses/r-for-sas-users<\/a>, and Reproducible Templates for Analysis and Dissemination, <a href=\"https://www.coursera.org/learn/reproducible-templates-analysis\" class=\"linkified\">https://www.coursera.org/learn/reproducible-templates-analysis<\/a> . She is a senior biostatistician and research professor in the Office of Nursing Research - School of Nursing - Emory University in Atlanta, GA (2007-current), <a href=\"https://www.nursing.emory.edu/faculty-staff/melinda-k-higgins\" class=\"linkified\">https://www.nursing.emory.edu/faculty-staff/melinda-k-higgins<\/a> . She is the author and teacher of two PhD level courses at Emory: Quantitative Analysis of Clinical Data, <a href=\"https://melindahiggins2000.github.io/N736/\" class=\"linkified\">https://melindahiggins2000.github.io/N736/<\/a> every Fall semester and Big Data Analytics for Healthcare, <a href=\"https://melindahiggins2000.github.io/N741bigdata/\" class=\"linkified\">https://melindahiggins2000.github.io/N741bigdata/<\/a> every Spring semester. Prior to that she was a Principal Research Scientist at the Georgia Tech Research Institute [masked]), <a href=\"https://gtri.gatech.edu/\" class=\"linkified\">https://gtri.gatech.edu/<\/a> and Program Manager for the $17M National Guard Bureau Technology Consortium.<\/p> <p>She has over 25+ years experience performing and managing research in wide-ranging applications including healthcare bio-behavioral phenotype characterization and modeling, statistical support for clinical trials, aircraft sensor systems, remote sensing, multispectral/hyperspectral processing, signatures intelligence, knowledge decision support systems, geospatial information systems, sensors and image fusion, and target recognition.<\/p> <p>Dr. Higgins has two graduate degrees – a Masters in Statistics and a PhD in Chemometrics/Analytical Chemistry – both from University of South Carolina.<\/p> ",
     "url": "https://www.meetup.com/R-Users-Atlanta/events/276732109/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Barcelona R User Group: Online event by Newcastle Data Science Meetup: Exploring EDA with R  [Virtual] , Spain, Europe",
-    "group": "Barcelona R User Group",
-    "start": "2021-03-16",
-    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>Alastair Rushworth (Tesco Bank)<\/p> <p>Title: Exploring EDA with R<\/p> <p>Abstract: Exploratory data analysis (aka EDA) is one of the most important tools in the data scientist’s toolkit, while also being one of the hardest to codify and teach. EDA is often understood as an exercise undertaken at the beginning of a data science project, to expose insights and patterns that support, and eventually give way to more formal modelling or statistical analysis. But is this sufficient, or is there more to EDA than that? In this talk I will attempt to dig deeper into what EDA is for and how it can support an iterative process of learning and discovery, while also demonstrating some of the great R packages and tools that I have found useful along the way.<\/p> <p>Matthew Higgs<\/p> <p>Title: What can data scientists learn from data-driven responses to Covid-19?<\/p> <p>Abstract: Data-driven responses to Covid-19 have been developed at speed across the public sector, academia, and commercial sector - leading to a range of successes, failures, and opportunities for lessons to be learned. At the ‘Observatory for Monitoring Data-Driven Approaches to Covid-19’ (omddac.org.uk) we are analysing key data-driven responses to Covid-19 and collating lessons learned by way of stakeholder interviews, case study analysis, and representative public surveys. In this talk, I will highlight some key findings from our stakeholder interviews and reflect on the role of data science during the Covid-19 pandemic. I will discuss successful applications of data science, ethical issues to be aware of, and what stakeholders *really* think about working with data scientists.<\/p> <p>Bio: Matthew Higgs MMath, PhD is a Lecturer in the Department of Computing and Information Sciences at Northumbria University and a Co-Investigator on the UKRI-funded project ‘Observatory for Monitoring Data-Driven Approaches to Covid-19’ (omddac.org.uk). Since completing his PhD in Computational Statistics and Machine Learning at University College London in 2011, Matthew has worked in technical and non-technical roles in academia, the commercial sector, and the public sector - with a focus on managing diverse stakeholders and developing data-driven products and solutions.<\/p> ",
-    "url": "https://www.meetup.com/BarcelonaR/events/276889202/",
     "textColor": "#7171fb"
   },
   {
@@ -328,6 +336,22 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Barcelona R User Group: Online event by [useR! Oslo]: Get Your Results Faster With {future}  [Virtual] , Spain, Europe",
+    "group": "Barcelona R User Group",
+    "start": "2021-04-15",
+    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>Host link: <a href=\"https://www.meetup.com/Oslo-useR-Group/events/277150580\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/events/277150580<\/a><\/p> <p>[Abstract]<br/>The {future} package offers a unifying framework to distributed computing in R. It lets you run exactly the same code – and achieve exactly the same results – sequentially on your laptop, in parallel on your laptop, in the cloud, or on large computing clusters. In this talk, Øystein will highlight various ways {future} lets you do your data science tasks more efficiently, from file system operations and preparation of large datasets to statistics and machine learning tasks like cross-validation, bootstrapping, and simulations. He'll focus particularly on functional programming with {future.apply} and {furrr} in parallel on a decent laptop, but will also touch upon cloud and cluster computing and package development.<\/p> <p>[Bio]<br/>Øystein Sørensen is an Associate Professor in Statistics at the Department of Psychology, University of Oslo (UiO). He works on both applied data analysis projects within cognitive neuroscience as well as development of new statistical tools, typically involving generalized additive models, and he is the author of four R packages. He received his PhD from the UiO in 2014, after which he worked as a data scientist in Storebrand and NextBridge analytics prior to joining UiO in 2018. His homepage is <a href=\"https://osorensen.rbind.io/\" class=\"linkified\">https://osorensen.rbind.io/<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/BarcelonaR/events/277527092/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Barcelona R User Group: Online event by R Lille - My Journey To Transparency And Reproducibility  [Virtual] , Spain, Europe",
+    "group": "Barcelona R User Group",
+    "start": "2021-04-15",
+    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> ",
+    "url": "https://www.meetup.com/BarcelonaR/events/277253287/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "LondonR: LondonR online 'Text Analysis in R': Register via Ti.to for link, United Kingdom, Europe",
     "group": "LondonR",
     "start": "2021-03-23",
@@ -376,11 +400,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Vienna<-R: North East (Newcastle) / ViennaR: 03 - EDA w R; Data-driven Covid-19 responses   [Virtual] , Austria, Europe",
-    "group": "Vienna<-R",
-    "start": "2021-03-16",
-    "description": "<p>Alastair Rushworth (Tesco Bank)<\/p> <p>Title: Exploring EDA with R<\/p> <p>Abstract: Exploratory data analysis (aka EDA) is one of the most important tools in the data scientist’s toolkit, while also being one of the hardest to codify and teach. EDA is often understood as an exercise undertaken at the beginning of a data science project, to expose insights and patterns that support, and eventually give way to more formal modelling or statistical analysis. But is this sufficient, or is there more to EDA than that? In this talk I will attempt to dig deeper into what EDA is for and how it can support an iterative process of learning and discovery, while also demonstrating some of the great R packages and tools that I have found useful along the way.<\/p> <p>Matthew Higgs<\/p> <p>Title: What can data scientists learn from data-driven responses to Covid-19?<\/p> <p>Abstract: Data-driven responses to Covid-19 have been developed at speed across the public sector, academia, and commercial sector - leading to a range of successes, failures, and opportunities for lessons to be learned. At the ‘Observatory for Monitoring Data-Driven Approaches to Covid-19’ (omddac.org.uk) we are analysing key data-driven responses to Covid-19 and collating lessons learned by way of stakeholder interviews, case study analysis, and representative public surveys. In this talk, I will highlight some key findings from our stakeholder interviews and reflect on the role of data science during the Covid-19 pandemic. I will discuss successful applications of data science, ethical issues to be aware of, and what stakeholders *really* think about working with data scientists.<\/p> <p>Bio: Matthew Higgs MMath, PhD is a Lecturer in the Department of Computing and Information Sciences at Northumbria University and a Co-Investigator on the UKRI-funded project ‘Observatory for Monitoring Data-Driven Approaches to Covid-19’ (omddac.org.uk). Since completing his PhD in Computational Statistics and Machine Learning at University College London in 2011, Matthew has worked in technical and non-technical roles in academia, the commercial sector, and the public sector - with a focus on managing diverse stakeholders and developing data-driven products and solutions.<\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/276838750/",
+    "title": "Birmingham R User Group (R Programming Language): [R Lille] My Journey To Transparency And Reproducibility  [Virtual] , United Kingdom, Europe",
+    "group": "Birmingham R User Group (R Programming Language)",
+    "start": "2021-04-15",
+    "description": "<p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<\/p> ",
+    "url": "https://www.meetup.com/BirminghamR/events/277202579/",
     "textColor": "#7171fb"
   },
   {
@@ -429,6 +453,14 @@
     "start": "2021-04-08",
     "description": "<p>BrightonR this time hosts Chris Beeley, Senior Data Scientist at Nottinghamshire Healthcare NHS Trust, who will speak about the working practices that have evolved at Nottinghamshire Healthcare NHS Trust that are focused on allowing a group of data scientists to collaborate on Shiny applications, ensuring that the code that they write is robust, error free, and easily deployable.<br/>Shiny applications are produced according to best practice as defined by the {golem} package, and the modularity inherent in that approach is key to making the applications robust as well as allowing the git and GitHub based collaboration to work effectively.<\/p> <p>A number of examples of modular and {golem} based development will be discussed, including some of technical hurdles and challenges faced by developers who are beginning to use Shiny modules, and some of the advanced features of Shiny and {golem} that can make building robust and scalable applications easier.<\/p> <p>Pls sign up at EventBrite:<br/><a href=\"https://www.eventbrite.co.uk/e/brighton-r-april-meetup-tickets-146323695111\" class=\"linkified\">https://www.eventbrite.co.uk/e/brighton-r-april-meetup-tickets-146323695111<\/a><\/p> ",
     "url": "https://www.meetup.com/ViennaR/events/277302969/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Vienna<-R: R Lille / ViennaR - A Journey To Transparency And Reproducibility  [Virtual] , Austria, Europe",
+    "group": "Vienna<-R",
+    "start": "2021-04-15",
+    "description": "<p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/277302922/",
     "textColor": "#7171fb"
   },
   {
@@ -505,14 +537,6 @@
   {
     "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Tucson AZ",
-    "start": "2021-03-16",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccfbvb/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
     "start": "2021-03-23",
     "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
     "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccfbfc/",
@@ -559,6 +583,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Belgrade: [R Lille] My Journey To Transparency And Reproducibility  [Virtual] , Serbia, Europe",
+    "group": "R-Ladies Belgrade",
+    "start": "2021-04-15",
+    "description": "<p>Dragi svi, evo još jednog interesantnog predavanja koje organizuju kolege iz R Lil iz Francuske svi detalji su ovde:<\/p> <p>Details<\/p> <p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-belgrade/events/277488521/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Bucharest: R-Ladies Bucharest #16: Julia Silge - Three reasons to choose Tidymodels  [Virtual] , Romania, Europe",
     "group": "R-Ladies Bucharest",
     "start": "2021-03-23",
@@ -599,14 +631,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Irvine: Undergraduate Research with Graduate Topics & Experimental Design with Tidyverse  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Irvine",
-    "start": "2021-03-16",
-    "description": "<p># Schedule<br/>Tuesday, March 16, 6:30-8:00 pm (Pacific)<br/>6:30 - Welcome and Networking<br/>6:55 - Announcements<br/>7:00 - Undergraduate Research with Graduate Level Topics<br/>7:25 - Q&amp;A<br/>7:30 - Modernizing Design of Experiment Output with Tidyverse<br/>7:55 - Q&amp;A<br/>8:00 - Meeting Adjourned<\/p> <p># Undergraduate Research with Graduate Level Topics<br/>Speaker: Jessica Jaynes, PhD<br/>Assistant Professor of Statistics, Department of Mathematics, CSU Fullerton<\/p> <p>Bio: Dr. Jessica Jaynes is an Assistant Professor of Statistics in the Department of Mathematics at California State University, Fullerton. She received her Ph.D. in Statistics from the University of California, Los Angeles. Her area of expertise includes design of experiments, statistical methods and applications, survey methods, and discrete choice experiments. Her recent projects include the development of a new class of experimental designs that provide higher efficiency, more in-depth analyses, and require a shorter time to run. This research has led to multiple interdisciplinary funded projects.<\/p> <p>Abstract: As science and technology progress, this often calls for innovation in methodological and theoretical development of statistical experimental design, an essential aspect for research in any discipline. This research concentrates on the close connection between statistics and medicine, and the development of novel experiments to maximize efficiency, while minimizing time and costs. The focus of this talk will be on an application of an undergraduate research project using a novel experimental design known as an Orthogonal Array Composite Design (OACD) with applications to KB oral cancer. In particular, this talk will highlight the methods and applications that undergraduate students contributed to. Furthermore, various takeaways will be presented in terms of tips, challenges, and benefits in working with undergraduate students. sources.<\/p> <p># Modernizing Design of Experiment Output with Tidyverse<br/>Speaker: Jose Toledo<br/>Graduate Student, Statistics Dept, CSU Fullerton<\/p> <p>Bio: Jose is currently in his last semester in the Master’s in statistics program at California State University, Fullerton (CSUF), where he is also a teaching associate. Additionally, he is a part-time data analyst at Southern California Coast Water Project. His research interest is in the field of Design of Experiments, where he has worked on projects such as drug combination treatments for KB oral cancer and recently in tuberculosis. During his summer breaks he enjoys mentoring undergraduate students in local community colleges and providing them research opportunities early in their education.<\/p> <p>Abstract: Most Design of Experiment (DoE) experts will agree that using FrF2 is the most comprehensive R package for generating two-level factorial designs as well as Plackett-Burman type screening designs. Similarly, for sequential optimization with first order and second order response surface models, that offer optimization approaches like steepest ascent and visualization of the response function for linear model objects, the package rsm is highly recommended. However, their graphical outputs are limited and can benefit from the current “trends” in R such as implementing graphics using ggplot2. This talk will focus on the development of an R package, ggDoE, which focuses on the visualization of DoE using ggplot2. Examples will be taken from a TB drug combination experiment and demonstrate the output of commonly used methods in DoE. These methods include but are not limited to: factorial effect plots, half-normal plots, Lenth’s method, fitting second-order models and their corresponding contour plots.<\/p> <p># Meeting Materials<br/>All meeting materials will be sent to registered attendees after the event.<\/p> ",
-    "url": "https://www.meetup.com/rladies-irvine/events/276491821/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Vienna: PyLadies and R-Ladies Vienna: Intro to Python, Austria, Europe",
     "group": "R-Ladies Vienna",
     "start": "2021-03-24",
@@ -631,6 +655,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Melbourne: rstudio::global(2021) %>% summarize()  [Virtual] , Australia, Australia",
+    "group": "R-Ladies Melbourne",
+    "start": "2021-04-15",
+    "description": "<p>Hi Everyone!<\/p> <p>For our April event, our very own Shazia Ruybal will be sharing with us her experiences at the RStudio 2021 conference!<\/p> <p>Shaiza was awarded a Diversity Scholarship to attend the conference. In her seminar, she will give a summary of the talks and workshops she attended at part of this award. These workshops were not available to the main conference audience, so be sure to attend!<\/p> <p>In addition to being a co-organizer and Secretary of R-Ladies Melbourne, Shazia is a postdoctoral scientist at the WEHI and Burnet Institute. She works on infectious diseases epidemiology, including malaria and COVID-19.<\/p> <p>Shazia's seminar will be presented online, please be sure to connect at 5:30pm.<\/p> <p>We look forward to seeing everyone at this event!<\/p> <p>R-Ladies Melbourne<\/p> ",
+    "url": "https://www.meetup.com/rladies-melbourne/events/277467397/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
     "group": "R-Ladies Montreal",
     "start": "2021-03-18",
@@ -644,6 +676,22 @@
     "start": "2021-03-18",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
     "url": "https://www.meetup.com/rladies-montreal/events/hfrjgryccfbxb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
+    "group": "R-Ladies Montreal",
+    "start": "2021-04-15",
+    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
+    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgryccgbtb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
+    "group": "R-Ladies Montreal",
+    "start": "2021-04-15",
+    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
+    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgryccgbtb/",
     "textColor": "#7171fb"
   },
   {
@@ -700,6 +748,22 @@
     "start": "2021-04-08",
     "description": "<p>We're delighted to host Chris Beeley, Senior Data Scientist at Nottinghamshire Healthcare NHS Trust, who will speak about the working practices that have evolved at Nottinghamshire Healthcare NHS Trust that are focused on allowing a group of data scientists to collaborate on Shiny applications, ensuring that the code that they write is robust, error free, and easily deployable. Shiny applications are produced according to best practice as defined by the {golem} package, and the modularity inherent in that approach is key to making the applications robust as well as allowing the git and GitHub based collaboration to work effectively.<\/p> <p>A number of examples of modular and {golem} based development will be discussed, including some of technical hurdles and challenges faced by developers who are beginning to use Shiny modules, and some of the advanced features of Shiny and {golem} that can make building robust and scalable applications easier.<\/p> ",
     "url": "https://www.meetup.com/AthensR/events/277181020/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "AthensR: Get Your Results Faster With {future} [useR! Oslo]  [Virtual] , Greece, Europe",
+    "group": "AthensR",
+    "start": "2021-04-15",
+    "description": "<p>[Abstract]<br/>The {future} package offers a unifying framework to distributed computing in R. It lets you run exactly the same code – and achieve exactly the same results – sequentially on your laptop, in parallel on your laptop, in the cloud, or on large computing clusters. In this talk, Øystein will highlight various ways {future} lets you do your data science tasks more efficiently, from file system operations and preparation of large datasets to statistics and machine learning tasks like cross-validation, bootstrapping, and simulations. He'll focus particularly on functional programming with {future.apply} and {furrr} in parallel on a decent laptop, but will also touch upon cloud and cluster computing and package development.<\/p> <p>[Bio]<br/>Øystein Sørensen is an Associate Professor in Statistics at the Department of Psychology, University of Oslo (UiO). He works on both applied data analysis projects within cognitive neuroscience as well as development of new statistical tools, typically involving generalized additive models, and he is the author of four R packages. He received his PhD from the UiO in 2014, after which he worked as a data scientist in Storebrand and NextBridge analytics prior to joining UiO in 2018. His homepage is <a href=\"https://osorensen.rbind.io/\" class=\"linkified\">https://osorensen.rbind.io/<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/AthensR/events/277429851/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "AthensR: My Journey To Transparency And Reproducibility [R Lille]   [Virtual] , Greece, Europe",
+    "group": "AthensR",
+    "start": "2021-04-15",
+    "description": "<p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<\/p> ",
+    "url": "https://www.meetup.com/AthensR/events/277181125/",
     "textColor": "#7171fb"
   },
   {
@@ -783,13 +847,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "MünsteR (R Users Group): Exploring EDA & What to learn from data-driven responses to Covid-19?, Germany, Europe",
-    "group": "MünsteR (R Users Group)",
-    "start": "2021-03-16",
-    "url": "https://www.meetup.com/Munster-R-Users-Group/events/276923653/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "MünsteR (R Users Group): \"officeverse : creating Word and PowerPoint documents with R\" with David Gohel, Germany, Europe",
     "group": "MünsteR (R Users Group)",
     "start": "2021-03-18",
@@ -808,6 +865,20 @@
     "group": "MünsteR (R Users Group)",
     "start": "2021-03-25",
     "url": "https://www.meetup.com/Munster-R-Users-Group/events/276578909/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "MünsteR (R Users Group): [useR! Oslo] Get Your Results Faster With {future}, Germany, Europe",
+    "group": "MünsteR (R Users Group)",
+    "start": "2021-04-15",
+    "url": "https://www.meetup.com/Munster-R-Users-Group/events/277482527/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "MünsteR (R Users Group): [R Lille] My Journey To Transparency And Reproducibility, Germany, Europe",
+    "group": "MünsteR (R Users Group)",
+    "start": "2021-04-15",
+    "url": "https://www.meetup.com/Munster-R-Users-Group/events/277150989/",
     "textColor": "#7171fb"
   },
   {
@@ -840,14 +911,6 @@
     "start": "2021-04-14",
     "description": "<p>No matter how much you learn, there always seems to be something new in the world of R. How do you keep abreast of the changes, and keep your knowledge up-to-date?<\/p> <p>In this talk, I'll share some things I learned this month, and how I went about it. It will cover an eclectic mix of new things from packages in the tidyverse, R and RStudio.<\/p> <p>I hope you'll either learn something new, or learn a new strategy for staying up to date.<\/p> <p>Charlotte Wickham is Data Scientist, instructor at Oregon State University, and specialist in R training. I'm available for R training and data science consulting.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/276253841/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Dublin R: #GlobalR: Newcastle Upon Tyne Data Science March Meetup  [Virtual] , Ireland, Europe",
-    "group": "Dublin R",
-    "start": "2021-03-16",
-    "description": "<p>This is an external event. To RSVP - go to <a href=\"https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/275548174/\" class=\"linkified\">https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/275548174/<\/a><\/p> <p>Alastair Rushworth (Tesco Bank)<\/p> <p>Title: Exploring EDA with R<\/p> <p>Abstract: Exploratory data analysis (aka EDA) is one of the most important tools in the data scientist’s toolkit, while also being one of the hardest to codify and teach. EDA is often understood as an exercise undertaken at the beginning of a data science project, to expose insights and patterns that support, and eventually give way to more formal modelling or statistical analysis. But is this sufficient, or is there more to EDA than that? In this talk I will attempt to dig deeper into what EDA is for and how it can support an iterative process of learning and discovery, while also demonstrating some of the great R packages and tools that I have found useful along the way.<\/p> <p>Matthew Higgs<\/p> <p>Title: What can data scientists learn from data-driven responses to Covid-19?<\/p> <p>Abstract: Data-driven responses to Covid-19 have been developed at speed across the public sector, academia, and commercial sector - leading to a range of successes, failures, and opportunities for lessons to be learned. At the ‘Observatory for Monitoring Data-Driven Approaches to Covid-19’ (omddac.org.uk) we are analysing key data-driven responses to Covid-19 and collating lessons learned by way of stakeholder interviews, case study analysis, and representative public surveys. In this talk, I will highlight some key findings from our stakeholder interviews and reflect on the role of data science during the Covid-19 pandemic. I will discuss successful applications of data science, ethical issues to be aware of, and what stakeholders *really* think about working with data scientists.<\/p> <p>Bio: Matthew Higgs MMath, PhD is a Lecturer in the Department of Computing and Information Sciences at Northumbria University and a Co-Investigator on the UKRI-funded project ‘Observatory for Monitoring Data-Driven Approaches to Covid-19’ (omddac.org.uk). Since completing his PhD in Computational Statistics and Machine Learning at University College London in 2011, Matthew has worked in technical and non-technical roles in academia, the commercial sector, and the public sector - with a focus on managing diverse stakeholders and developing data-driven products and solutions.<\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/276856646/",
     "textColor": "#7171fb"
   },
   {
@@ -907,6 +970,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Bogotá R Users Group: Fractales y Wikipedia   [Virtual] , Colombia, Latin America",
+    "group": "Bogotá R Users Group",
+    "start": "2021-04-15",
+    "description": "<p>*ESTA SESIÓN NO ES PROPIAMENTE DE R PERO PUEDE SER DE INTERÉS PARA LOS USUARIOS DE ESTE GRUPO*<\/p> <p>¿Qué es un fractal? ¿Qué es un articulo de Wikipedia? ¿Qué vemos cuando decimos fractal o Wikipedia?<\/p> <p>No es un secreto que en nuestra experiencia cotidiana aparezca Wikipedia para resolver una duda, hacer una apuesta o revisar una idea. Una obra de arte, un monumento o un país lejano que queremos visitar, casi siempre, están en Wikipedia. Pero ¿Un fractal? ¿Qué es un fractal?<br/>Parece que no es tan cotidiano como Wikipedia. Y ¿Qué tal si buscamos un fractal en Wikipedia?<\/p> <p>En esta ocasión vamos a performar un fractal, y para ello, usaremos a Wikipedia como portal, y de paso, la sacaremos del portátil y del celular hacia mundo físico tridimensional. “Fractalizaremos” Wikipedia para vivir la experiencia de la cotidianidad: de los datos digitales a los datos corporales. Dimensiones sensoriales: afectivas, hápticas y perceptivas.<\/p> <p>Materiales<\/p> <p>Wikipedia en un dispositivo (portátil o celular)<br/>Tizas de colores<br/>Un metro de costurera<br/>Reglas de madera o tablas rectas de 50 cm<\/p> <p>Imparte John Barragán:<\/p> <p>Bogotano amante de la ciencia ciudadana, la escuela y la Wikipedia. Ha ha trabajado como profesor de física, escritor de secuencias de aprendizaje y geofísico. Activista de los datos abiertos se caracteriza por intentar abrir la escuela para cambiar el mundo a través de prototipos colaborativos. Estudiante de doctorado en filosofía y fanático de los libros.<\/p> <p>Link de inscripción zoom: <a href=\"https://us02web.zoom.us/webinar/register/WN_rjMhCKuvRP6Y-UpBIaNC9Q\" class=\"linkified\">https://us02web.zoom.us/webinar/register/WN_rjMhCKuvRP6Y-UpBIaNC9Q<\/a><\/p> ",
+    "url": "https://www.meetup.com/Bogota-R-Users-Group/events/277554223/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies RTP: Navigating RStudio & R Basics  [Virtual] , United States, US/Canada",
     "group": "R-Ladies RTP",
     "start": "2021-03-22",
@@ -944,14 +1015,6 @@
     "start": "2021-04-09",
     "description": "<p>R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (<a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>).<\/p> <p>On April 9, Eka Oshkhereli will present the book's Chapter 3 up to and including subsection 3.6. This is on data visualisation. <a href=\"https://r4ds.had.co.nz/data-visualisation.html\" class=\"linkified\">https://r4ds.had.co.nz/data-visualisation.html<\/a><\/p> <p>Please read the sections 3.1 - 3.6 to be better prepared for the session and exercises. We will go through the exercises together. We start at 19.30 Tbilisi time!<\/p> <p>Please RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):<br/><a href=\"https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/\" class=\"linkified\">https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-tbilisi/events/277234340/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Seattle: Writing Presentations in R  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Seattle",
-    "start": "2021-03-16",
-    "description": "<p>Come learn how to make beautiful slides with {xaringan} and deploy them! Silvia Canelón and Katie Jolly will be presenting.<\/p> <p>If you're new to R-Ladies Seattle, please review the R-Ladies code of conduct:<\/p> <p>The leadership, mentoring &amp; teaching roles within this Community are held exclusively by minority genders (majority gender speakers may be allowed/invited as one-off guests in exceptional circumstances at the leadership team's discretion). Due to unexpected demand, we have opened learning participation to all genders, dependent on initial and on-going vetting by the leadership team. However, the stated priority of the R-Ladies communities is the development &amp; support specifically of those identifying as a minority gender, and we, therefore, reserve the right to guard this interest through whatever measures the leadership team deem appropriate. Anyone involved with R-Ladies Seattle is expected to fully respect each other, the mandate of this community, and the goodwill on which R-Ladies is founded, or face expulsion/a penalty of any form, at the discretion of the leadership team. Full community guidelines are found here: <a href=\"https://github.com/rladies/starter-kit/wiki\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki<\/a> ...<\/p> ",
-    "url": "https://www.meetup.com/rladies-seattle/events/276570832/",
     "textColor": "#7171fb"
   },
   {
@@ -1035,14 +1098,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Dallas: Data Storytelling with Amber Thomas  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Dallas",
-    "start": "2021-03-16",
-    "description": "<p>For the March 16th edition of our R-Ladies Dallas webinar series, we are excited to welcome Amber Thomas as our guest speaker. Amber will introduce the topic of data storytelling.<\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>Session title: Telling Data Stories at The Pudding<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>Abstract: At The Pudding, we create data-driven, visual essays. But how do we go from a basic idea all the way to a finished, interactive experience? In this talk, I'll cover where our ideas come from, how we choose which ones to pursue, and our entire process from idea to completion.<\/p> <p>Bio: Amber is a Senior Journalist Engineer at The Pudding, where her work focuses primarily on communicating complex topics and ideas, designing and developing data visualizations for the web, and improving the accessibility of information for a general audience. Before starting at The Pudding in 2017, Amber was a marine biologist and a research scientist.<\/p> <p>Twitter: twitter.com/ProQuesAsker<\/p> <p>Website: amber.rbind.io<\/p> <p>*************************************************************************<\/p> <p>You are encouraged to click the link below to keep up with the group project and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>*************************************************************************<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dallas/events/276204618/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies São Paulo: [MeetUp Online] Como escolher o teste estatístico adequado?  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies São Paulo",
     "start": "2021-03-24",
@@ -1112,14 +1167,6 @@
     "start": "2021-03-17",
     "description": "<p>En esta sesión de R Ladies, hablaremos sobre como realizar de forma simple y rápida mapas geográficos con la librería de visualización Highcharter y con el wrapper de Hgchmagic.<\/p> <p>Prerrequisitos: Instalar R, Rstudio y tener descargados: devtools, Tidyverse y Highcharter.<\/p> <p>Formulario de inscripción para enviar link de zoom: <a href=\"https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true\" class=\"linkified\">https://docs.google.com/forms/d/15ND1T_rBzLP1MqR-nanqoN0kiat5XXFZ_5VJzN1EkMg/viewform?edit_requested=true<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-bogota/events/276894096/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Newcastle Upon Tyne Data Science Meetup: March Meet-up  [Virtual] , United Kingdom, Europe",
-    "group": "Newcastle Upon Tyne Data Science Meetup",
-    "start": "2021-03-16",
-    "description": "<p>Alastair Rushworth (Tesco Bank)<\/p> <p>Title: Exploring EDA with R<\/p> <p>Abstract: Exploratory data analysis (aka EDA) is one of the most important tools in the data scientist’s toolkit, while also being one of the hardest to codify and teach. EDA is often understood as an exercise undertaken at the beginning of a data science project, to expose insights and patterns that support, and eventually give way to more formal modeling or statistical analysis. But is this sufficient, or is there more to EDA than that? In this talk I will attempt to dig deeper into what EDA is for and how it can support an iterative process of learning and discovery, while also demonstrating some of the great R packages and tools that I have found useful along the way.<\/p> <p>Matthew Higgs<\/p> <p>Title: What can data scientists learn from data-driven responses to Covid-19?<\/p> <p>Abstract: Data-driven responses to Covid-19 have been developed at speed across the public sector, academia, and commercial sector - leading to a range of successes, failures, and opportunities for lessons to be learned. At the ‘Observatory for Monitoring Data-Driven Approaches to Covid-19’ (omddac.org.uk) we are analysing key data-driven responses to Covid-19 and collating lessons learned by way of stakeholder interviews, case study analysis, and representative public surveys. In this talk, I will highlight some key findings from our stakeholder interviews and reflect on the role of data science during the Covid-19 pandemic. I will discuss successful applications of data science, ethical issues to be aware of, and what stakeholders *really* think about working with data scientists.<\/p> <p>Bio: Matthew Higgs MMath, PhD is a Lecturer in the Department of Computing and Information Sciences at Northumbria University and a Co-Investigator on the UKRI-funded project ‘Observatory for Monitoring Data-Driven Approaches to Covid-19’ (omddac.org.uk). Since completing his PhD in Computational Statistics and Machine Learning at University College London in 2011, Matthew has worked in technical and non-technical roles in academia, the commercial sector, and the public sector - with a focus on managing diverse stakeholders and developing data-driven products and solutions.<\/p> ",
-    "url": "https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/275548174/",
     "textColor": "#7171fb"
   },
   {
@@ -1254,7 +1301,7 @@
     "title": "Santa Barbara R Users Group: Lunchtime lightning talks  [Virtual] , United States, US/Canada",
     "group": "Santa Barbara R Users Group",
     "start": "2021-04-21",
-    "description": "<p>Julien and I would love to host a short, online lunchtime lightning session. Describe a challenge, why it is important or intriguing, and an R solution.<\/p> <p>Show and tell.<\/p> <p>We would prefer only a total of 5-7 short talks @5mins each. If you are interested, please use the following form to sign up.<\/p> <p><a href=\"https://forms.gle/4m7SGkYnMd5mj7bW6\" class=\"linkified\">https://forms.gle/4m7SGkYnMd5mj7bW6<\/a><\/p> ",
+    "description": "<p>Please join us for a short, online lunchtime lightning session.<br/>Speakers will describe a challenge, why it is important or intriguing, and an R solution in 5mins or less.<\/p> <p>Show and tell whilst we eat and chew on their fantastic ideas!<\/p> <p>**The R menu**<\/p> <p>(1) Efficientr R by @ThomasThelen on GitHub<\/p> <p>(2) Upgrading the Santa Barbara Corpus of Spoken American English using stringr and dplyr by @kayaulai (Twitter and GitHub)<\/p> <p>(3) A Grading Robot using rcanvas by Dave Hunter<\/p> <p>(4) Unleashing penguins: an alternative to the iris dataset by @allison_horst (Twitter)<\/p> <p>(5) Off-label usage of R6 class by Marcus Thomson<\/p> <p>(yes it was tempting to list each talk as appetizer, main course etc. instead of numeration)<\/p> ",
     "url": "https://www.meetup.com/Santa-Barbara-R-Users-Group/events/277120858/",
     "textColor": "blue"
   },
@@ -1334,8 +1381,16 @@
     "title": "Trenton R Users (TRU): Meetup for Apr - 2021  [Virtual] , United States, US/Canada",
     "group": "Trenton R Users (TRU)",
     "start": "2021-04-17",
-    "description": "<p>The topic of this month's meetup will be decided as the time approaches near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) organizer's preference (in that order)<\/p> <p>Please contact the organizers, if you would like to present in our meetup on any topic related to data science.<\/p> ",
+    "description": "<p>1) Using Markup Language and knitting for reproducible research - Praveen Sharma<br/>2) Live session to work and troubleshoot Markup script(s) - Team<\/p> ",
     "url": "https://www.meetup.com/TRUgroup/events/277048541/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Trenton R Users (TRU): Meetup for May - 2021  [Virtual] , United States, US/Canada",
+    "group": "Trenton R Users (TRU)",
+    "start": "2021-05-22",
+    "description": "<p>The topic of this month's meetup will be decided as the time approaches near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) organizer's preference (in that order)<\/p> <p>Please contact the organizers, if you would like to present in our meetup on any topic related to data science.<\/p> ",
+    "url": "https://www.meetup.com/TRUgroup/events/277608777/",
     "textColor": "blue"
   },
   {
@@ -1371,22 +1426,6 @@
     "textColor": "blue"
   },
   {
-    "title": "AalborgRUG: Online event by [useR! Oslo]: Get Your Results Faster With {future}  [Virtual] , Denmark, Europe",
-    "group": "AalborgRUG",
-    "start": "2021-04-15",
-    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>Host link: <a href=\"https://www.meetup.com/Oslo-useR-Group/events/277150580\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/events/277150580<\/a><\/p> <p>[Abstract]<br/>The {future} package offers a unifying framework to distributed computing in R. It lets you run exactly the same code – and achieve exactly the same results – sequentially on your laptop, in parallel on your laptop, in the cloud, or on large computing clusters. In this talk, Øystein will highlight various ways {future} lets you do your data science tasks more efficiently, from file system operations and preparation of large datasets to statistics and machine learning tasks like cross-validation, bootstrapping, and simulations. He'll focus particularly on functional programming with {future.apply} and {furrr} in parallel on a decent laptop, but will also touch upon cloud and cluster computing and package development.<\/p> <p>[Bio]<br/>Øystein Sørensen is an Associate Professor in Statistics at the Department of Psychology, University of Oslo (UiO). He works on both applied data analysis projects within cognitive neuroscience as well as development of new statistical tools, typically involving generalized additive models, and he is the author of four R packages. He received his PhD from the UiO in 2014, after which he worked as a data scientist in Storebrand and NextBridge analytics prior to joining UiO in 2018. His homepage is <a href=\"https://osorensen.rbind.io/\" class=\"linkified\">https://osorensen.rbind.io/<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/AalborgRUG/events/277538499/",
-    "textColor": "blue"
-  },
-  {
-    "title": "AalborgRUG: Online event by R Lille - My Journey To Transparency And Reproducibility, Denmark, Europe",
-    "group": "AalborgRUG",
-    "start": "2021-04-15",
-    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> <p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> ",
-    "url": "https://www.meetup.com/AalborgRUG/events/277538530/",
-    "textColor": "blue"
-  },
-  {
     "title": "AalborgRUG: Tips for Reproducible R  [Virtual] , Denmark, Europe",
     "group": "AalborgRUG",
     "start": "2021-05-04",
@@ -1408,14 +1447,6 @@
     "start": "2021-06-09",
     "description": "<p>Our June Meetup will be a remote gathering; the Zoom link will be posted the week of the event.<\/p> <p>Infographics are everywhere, and when well-designed can be a fantastic way of sharing data highlights in an engaging and visually appealing way to non-technical audiences. Typically infographics are custom made by a graphic designer who has been provided the numbers that will be represented in the graphic, and therefore can be time-intensive to produce. Producing more than one infographic of the same design to display different values (for instance, for different geographical areas) has a linear increase in production time for each n+1 graphic once the basic design time has been accounted for. This talk will describe a novel method for producing infographics using R that allows for dynamically adjusting the graphical elements based on any number of data values and rapidly producing bespoke versions. A walkthrough of the process used to create 3,142 custom infographics (one for each county in the US) will be presented to illustrate the process.<\/p> <p>Jonathan Zadra, PhD is a Director of Data Science at the non-profit Sorenson Impact Center in Salt Lake City, Utah. He combines his skills in statistics, programming, and data visualization with expertise in data privacy and policy to empower governments, nonprofits, and philanthropists working in a wide array of issue areas. His areas of focus include criminal justice data (including work with the PEW Charitable Trusts, Utah Department of Corrections, Utah Indigent Defense Commission, and Utah Commission on Criminal and Juvenile Justice), early- and higher-education data including a multi-year project supported by the Bill and Melinda Gates Foundation, as well as other issue areas like homelessness or poverty, and has worked on many smaller projects building evaluations and impact measurements for a variety of social-good non-profits around the country. He received his doctorate from the University of Virginia, where he studied cognitive science and neuroscience and designed and conducted rigorous RCTs - and also fell in love with R way back in 2006!<\/p> ",
     "url": "https://www.meetup.com/slc-rug/events/277448169/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Oslo useR! Group: Get Your Results Faster With {future}  [Virtual] , Norway, Europe",
-    "group": "Oslo useR! Group",
-    "start": "2021-04-15",
-    "description": "<p>[Abstract]<br/>The {future} package offers a unifying framework to distributed computing in R. It lets you run exactly the same code – and achieve exactly the same results – sequentially on your laptop, in parallel on your laptop, in the cloud, or on large computing clusters. In this talk, Øystein will highlight various ways {future} lets you do your data science tasks more efficiently, from file system operations and preparation of large datasets to statistics and machine learning tasks like cross-validation, bootstrapping, and simulations. He'll focus particularly on functional programming with {future.apply} and {furrr} in parallel on a decent laptop, but will also touch upon cloud and cluster computing and package development.<\/p> <p>[Bio]<br/>Øystein Sørensen is an Associate Professor in Statistics at the Department of Psychology, University of Oslo (UiO). He works on both applied data analysis projects within cognitive neuroscience as well as development of new statistical tools, typically involving generalized additive models, and he is the author of four R packages. He received his PhD from the UiO in 2014, after which he worked as a data scientist in Storebrand and NextBridge analytics prior to joining UiO in 2018. His homepage is <a href=\"https://osorensen.rbind.io/\" class=\"linkified\">https://osorensen.rbind.io/<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/Oslo-useR-Group/events/277150580/",
     "textColor": "blue"
   },
   {
@@ -1459,6 +1490,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Wiesbaden R User Group: R Coffee Break: Deepnote  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-06-09",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Robert Lacok uns Deepnote vorstellt. Deepnote ist ein neues Data Science Notebook. Es ist Jupyter kompatibel, ermöglicht Echtzeit-Kollaborationen und läuft in der Cloud. Robert wird uns eine kurze Demo der Plattform zeigen. Hier schonmal der Link zu Deenote: <a href=\"https://deepnote.com/\" class=\"linkified\">https://deepnote.com/<\/a><br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link:[masked]<br/>Kenncode:[masked]<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277587263/",
+    "textColor": "blue"
+  },
+  {
     "title": "Wiesbaden R User Group: R Coffee Break XL:  modeling linguistic variation in R  [Virtual] , Germany, Europe",
     "group": "Wiesbaden R User Group",
     "start": "2021-06-23",
@@ -1480,22 +1519,6 @@
     "start": "2021-04-20",
     "description": "<p>Image from: <a href=\"https://www.freecodecamp.org/news/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d/\" class=\"linkified\">https://www.freecodecamp.org/news/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d/<\/a><\/p> <p>Agenda<br/>4:30 Networking<br/>5:00 Announcements<br/>5:05 Yu-Shih Chen - TDAsweep: A Novel Dimension Reduction Method for Image Classification Tasks<br/>5:35 Earl Hubbell - Modeling Multi-Cancer Early Detection Using R code<br/>6:05 Julia Silge - Model Monitoring with R Markdown, pins, and RStudio Connect<\/p> <p>###############<br/>Yu-Shih Chen<\/p> <p>Yu-Shih is a fourth year undergraduate studying Computer Science at the University of California, Davis, and his research and interest lies mainly in the field Artificial Intelligence.<\/p> <p>TDAsweep: A Novel Dimension Reduction Method for Image Classification Tasks<\/p> <p>Abstract:<\/p> <p>One of the most celebrated achievements of modern machine learning technology is the automatic classification of images. However, success is typically achieved only with major computational costs. Here we introduce TDAsweep, a machine learning tool aimed at improving the efficiency of automatic classification of images.<\/p> <p>###############<br/>Earl Hubbell<\/p> <p>Earl is a Bioinformatics distinguished scientist at GRAIL, Inc. in Palo Alto CA<\/p> <p>Modeling Multi-Cancer Early Detection Using R code<\/p> <p>Abstract:<br/>Recent advances in technology have allowed multi-cancer early detection (MCED) tests that have the potential to affect a large fraction of cancer incidence. My co-authors and I modeled the results of such an MCED test based on published literature when applied to a population of screenable individuals. The model found a potential to intercept 2 in 5 cancer cases, including many cancers generally found only at late stage with current medical practice. This could result in reducing late stage incidence by half, potentially improving mortality.<\/p> <p>Computational modeling is an important aspect of bioinformatics research, and the code underlying such models is a critical part of the scientific endeavor. Code availability is required by many journals, and allows transparency into the scientific results. The code and data underlying these results was written in R, and is available on github. The model, results, and use of R for the project will be discussed, including notes on publication in the real world.<\/p> <p>###############<br/>Julie Silge<\/p> <p>Julia (<a href=\"https://juliasilge.com/about/\" class=\"linkified\">https://juliasilge.com/about/<\/a>) is a data scientist and software engineer at RStudio where she works on open source modeling tools.<\/p> <p>ModelOps or MLOps (for “model/machine learning operations”) focuses on the real-world processes involved in building, deploying, and maintaining a model within an organization’s data infrastructure.<\/p> <p>See Julia's recent post for a preview of her talk: <a href=\"https://blog.rstudio.com/2021/04/08/model-monitoring-with-r-markdown/\" class=\"linkified\">https://blog.rstudio.com/2021/04/08/model-monitoring-with-r-markdown/<\/a><\/p> ",
     "url": "https://www.meetup.com/R-Users/events/277532303/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Barcelona R User Group: Online event by [useR! Oslo]: Get Your Results Faster With {future}  [Virtual] , Spain, Europe",
-    "group": "Barcelona R User Group",
-    "start": "2021-04-15",
-    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>Host link: <a href=\"https://www.meetup.com/Oslo-useR-Group/events/277150580\" class=\"linkified\">https://www.meetup.com/Oslo-useR-Group/events/277150580<\/a><\/p> <p>[Abstract]<br/>The {future} package offers a unifying framework to distributed computing in R. It lets you run exactly the same code – and achieve exactly the same results – sequentially on your laptop, in parallel on your laptop, in the cloud, or on large computing clusters. In this talk, Øystein will highlight various ways {future} lets you do your data science tasks more efficiently, from file system operations and preparation of large datasets to statistics and machine learning tasks like cross-validation, bootstrapping, and simulations. He'll focus particularly on functional programming with {future.apply} and {furrr} in parallel on a decent laptop, but will also touch upon cloud and cluster computing and package development.<\/p> <p>[Bio]<br/>Øystein Sørensen is an Associate Professor in Statistics at the Department of Psychology, University of Oslo (UiO). He works on both applied data analysis projects within cognitive neuroscience as well as development of new statistical tools, typically involving generalized additive models, and he is the author of four R packages. He received his PhD from the UiO in 2014, after which he worked as a data scientist in Storebrand and NextBridge analytics prior to joining UiO in 2018. His homepage is <a href=\"https://osorensen.rbind.io/\" class=\"linkified\">https://osorensen.rbind.io/<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/BarcelonaR/events/277527092/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Barcelona R User Group: Online event by R Lille - My Journey To Transparency And Reproducibility  [Virtual] , Spain, Europe",
-    "group": "Barcelona R User Group",
-    "start": "2021-04-15",
-    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> ",
-    "url": "https://www.meetup.com/BarcelonaR/events/277253287/",
     "textColor": "blue"
   },
   {
@@ -1536,22 +1559,6 @@
     "start": "2021-04-24",
     "description": "<p>Fundamentos de R desde Cero - Sesión 6<\/p> <p>Gracias a las personas que se registraron en nuestro formulario de Facebook!<br/>El curso esta habilitado a todas las personas que ya se registraron.<br/>Difundiremos por este medio la grabación del curso para aquellas personas que no pudieron registrarse.<\/p> ",
     "url": "https://www.meetup.com/rladies-la-paz/events/277043486/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Birmingham R User Group (R Programming Language): [R Lille] My Journey To Transparency And Reproducibility  [Virtual] , United Kingdom, Europe",
-    "group": "Birmingham R User Group (R Programming Language)",
-    "start": "2021-04-15",
-    "description": "<p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<\/p> ",
-    "url": "https://www.meetup.com/BirminghamR/events/277202579/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Vienna<-R: R Lille / ViennaR - A Journey To Transparency And Reproducibility  [Virtual] , Austria, Europe",
-    "group": "Vienna<-R",
-    "start": "2021-04-15",
-    "description": "<p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/277302922/",
     "textColor": "blue"
   },
   {
@@ -1616,6 +1623,22 @@
     "start": "2021-06-15",
     "description": "<p>Join R-Ladies Philadelphia for an inspirational online event to hear from our members about how they use R!<\/p> <p>Lightning talks are short 5-10 minute presentations that aim to inform and engage. We are hosting a series of lightning talks on a range of topics highlighting the breadth of use cases our members solve using R and the packages they love.<\/p> <p>Agenda:<br/>6:00 - 6:10 - Join online and welcome<br/>6:10 - 6:45 - First set of talks<br/>6:45 - 7:00 - Short break (opportunity to chat with each other and speakers)<br/>7:00 - 7:30 - Second set of talks and closing remarks<\/p> <p>Call for speakers:<br/>If you would like to present a lightning talk, please fill out the form here:<br/><a href=\"https://forms.gle/WEU9LLTDBqCXXC7T9\" class=\"linkified\">https://forms.gle/WEU9LLTDBqCXXC7T9<\/a><\/p> <p>Some ideas for topics include presentations on the research you have performed using R, a guide to an R package that you love, or techniques and methods that use R.<br/>If you are interested, the R-Ladies organizing team will be available to provide feedback on talk content and slides before the event.<\/p> <p>To celebrate the diversity of the R community, we are prioritizing speakers who identify as a minority gender in the R community (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/276190525/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Philly: R-Ladies Philly July Workshop  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Philly",
+    "start": "2021-07-14",
+    "description": "<p>A more detailed agenda will be available closer to the event!<\/p> <p>The goal of this workshop is to provide a hands-on introduction on how to display your data onto relevant geographic locations in a map (e.g. continent, state) using the ggplot2 package in R. Attendees will learn to create a mapped visualization of current up-to-date vaccination rates across states in the US.<\/p> ",
+    "url": "https://www.meetup.com/rladies-philly/events/277326038/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Sydney: Carrots are good for vision, models are good for visualising discrete data  [Virtual] , Australia, Australia",
+    "group": "R-Ladies Sydney",
+    "start": "2021-04-27",
+    "description": "<p>Join us and the SSA NSW branch for this talk by Dr Gordana Popovic (UNSW). You can come to University of Sydney in person (location: F10A[masked].Law Annex Lecture Theatre 024). Or join via zoom.<\/p> <p>Data sometimes have artefacts which obscure the patterns we are interested in visualising. You may have come across this when trying to interpret a residual plot from a logistic regression. For discrete data, these are not really artefacts, they are properties of the distribution of the data, like mean-variance relationships and lots of zeros. Generalised linear models and their extensions model the distribution of the data, including these properties, and so are a good way to remove them, to better see the patterns we are actually interested in. I will talk though some concepts and lots of examples of how we can use models to get the best out of our visualisations of discrete multivariate data in R.<\/p> <p>Biography<br/>Gordana is a statistical consultant and research fellow at UNSW Sydney, with research interests in modelling and visualising multivariate discrete data in ecology. In her spare time, Gordana can be found hiking or ocean swimming (poorly but enthusiastically).<\/p> ",
+    "url": "https://www.meetup.com/rladies-sydney/events/277598308/",
     "textColor": "blue"
   },
   {
@@ -1755,35 +1778,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Belgrade: [R Lille] My Journey To Transparency And Reproducibility  [Virtual] , Serbia, Europe",
-    "group": "R-Ladies Belgrade",
-    "start": "2021-04-15",
-    "description": "<p>Dragi svi, evo još jednog interesantnog predavanja koje organizuju kolege iz R Lil iz Francuske svi detalji su ovde:<\/p> <p>Details<\/p> <p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-belgrade/events/277488521/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Miami: Growing into R  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Miami",
     "start": "2021-04-22",
     "description": "<p>*SPEAKER:* Dr. Shannon Pileggi<\/p> <p>Starting something new in R can be daunting, but there are many community resources that can help! In this presentation, I’ll discuss how I crafted a job interview presentation by making modifications on publicly available TidyTuesday code. This built the technical and confidence-boosting scaffolding I needed for more open-ended projects. The success of this experience inspired me to transition from my role as a consumer and creator to contributor to give back to the R community, which has been incredibly fulfilling. Despite social distancing, I feel more connected to the R community than ever before!<\/p> <p>*LOCATION:* ZOOM<\/p> ",
     "url": "https://www.meetup.com/rladies-miami/events/277543327/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
-    "group": "R-Ladies Montreal",
-    "start": "2021-04-15",
-    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
-    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgryccgbtb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
-    "group": "R-Ladies Montreal",
-    "start": "2021-04-15",
-    "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
-    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgryccgbtb/",
     "textColor": "blue"
   },
   {
@@ -1807,7 +1806,7 @@
     "group": "R-Ladies Montreal",
     "start": "2021-06-17",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
-    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgryccjbwb/",
+    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgryccjbwb/",
     "textColor": "blue"
   },
   {
@@ -1815,7 +1814,7 @@
     "group": "R-Ladies Montreal",
     "start": "2021-06-17",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
-    "url": "https://www.meetup.com/rladies-montreal/events/bfrjgryccjbwb/",
+    "url": "https://www.meetup.com/rladies-montreal/events/hfrjgryccjbwb/",
     "textColor": "blue"
   },
   {
@@ -1840,14 +1839,6 @@
     "start": "2021-05-19",
     "description": "<p>Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%&gt;%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?<\/p> <p>If you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.<\/p> <p>Over the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!<\/p> <p>This is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.<\/p> <p>January 20th {Part 1}: The R &amp; R-Studio ABCs (packages, files, data types &amp; basic data exploration)<br/>February 17th {Part 2}: Tidy data &amp; introduction to data wrangling (tibbles, renaming, reordering, subsetting)<br/>March 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)<br/>April 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)<br/>May 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)<\/p> <p>Please install R and R-Studio before joining: <a href=\"https://rstudio-education.github.io/hopr/starting.html\" class=\"linkified\">https://rstudio-education.github.io/hopr/starting.html<\/a><\/p> <p>Image by the amazing @allison_horst: <a href=\"https://github.com/allisonhorst/stats-illustrations\" class=\"linkified\">https://github.com/allisonhorst/stats-illustrations<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-freiburg/events/275193800/",
-    "textColor": "blue"
-  },
-  {
-    "title": "AthensR: My Journey To Transparency And Reproducibility [R Lille]   [Virtual] , Greece, Europe",
-    "group": "AthensR",
-    "start": "2021-04-15",
-    "description": "<p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<\/p> ",
-    "url": "https://www.meetup.com/AthensR/events/277181125/",
     "textColor": "blue"
   },
   {
@@ -1878,7 +1869,7 @@
     "title": "R-Ladies East Lansing: Fun w/ R  [Virtual] , United States, US/Canada",
     "group": "R-Ladies East Lansing",
     "start": "2021-04-23",
-    "description": "<p>R-Ladies East Lansing and R-Ladies Chicago are co-hosting \"Fun with R,\" where members share fun R packages! Talks can include topics such as chess w/ R, music w/ R, Rcade games, and other fun packages.<\/p> <p>Interested in giving a Lightning Talk? Submit a 10-minute talk description using this form: <a href=\"https://forms.gle/jnQrYSnimLvehRuD9\" class=\"linkified\">https://forms.gle/jnQrYSnimLvehRuD9<\/a><\/p> <p>======================================<br/>Register to receive the event Zoom link<br/>======================================<br/>Spring 2021 RLEL/RLC event registration link:<br/><a href=\"https://forms.gle/ZLo6XEUVrz9eCLrQ8\" class=\"linkified\">https://forms.gle/ZLo6XEUVrz9eCLrQ8<\/a><\/p> <p>========<br/>AGENDA<br/>========<br/>- Intro<br/>- Lightning Talks<br/>- Q&amp;A | Discussion<\/p> <p>=====<br/>TIME<br/>=====<br/><a href=\"https://www.timeanddate.com/worldclock/fixedtime.html?msg=RLEL%2FRLC%3A+Fun+with+R&amp;iso=20210423T13&amp;p1=77&amp;ah=1&amp;am=30\" class=\"linkified\">https://www.timeanddate.com/worldclock/fixedtime.html?msg=RLEL%2FRLC%3A+Fun+with+R&amp;iso=20210423T13&amp;p1=77&amp;ah=1&amp;am=30<\/a><\/p> ",
+    "description": "<p>R-Ladies East Lansing and R-Ladies Chicago are co-hosting \"Fun with R,\" where members share fun R packages! Talks can include topics such as chess w/ R, music w/ R, Rcade games, and other fun packages.<\/p> <p>Interested in giving a Lightning Talk? Submit a 10-minute talk description using this form: <a href=\"https://forms.gle/jnQrYSnimLvehRuD9\" class=\"linkified\">https://forms.gle/jnQrYSnimLvehRuD9<\/a><\/p> <p>======================================<br/>Register to receive the event Zoom link<br/>======================================<br/>Spring 2021 RLEL/RLC event registration link:<br/><a href=\"https://forms.gle/ZLo6XEUVrz9eCLrQ8\" class=\"linkified\">https://forms.gle/ZLo6XEUVrz9eCLrQ8<\/a><\/p> <p>========<br/>AGENDA<br/>========<br/>- Intro<br/>- Lightning Talks by<br/>🎵Andrea Sanchez-Tapia on sambaR<br/>🎉Stephanie Hickey on BRRR (by @brookLYNevery1)<br/>🗺️Kayla Johnson on personalized map art<br/>♟️Sneha Sundar on chess (by @NiklasFiekas)<br/>- Q&amp;A | Discussion<\/p> <p>=====<br/>TIME<br/>=====<br/><a href=\"https://www.timeanddate.com/worldclock/fixedtime.html?msg=RLEL%2FRLC%3A+Fun+with+R&amp;iso=20210423T13&amp;p1=77&amp;ah=1&amp;am=30\" class=\"linkified\">https://www.timeanddate.com/worldclock/fixedtime.html?msg=RLEL%2FRLC%3A+Fun+with+R&amp;iso=20210423T13&amp;p1=77&amp;ah=1&amp;am=30<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-east-lansing/events/276152415/",
     "textColor": "blue"
   },
@@ -1912,20 +1903,6 @@
     "start": "2021-04-26",
     "description": "<p>[Code of Conduct]<br/>基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：<br/>• 座位請優先保留給女生<br/>• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀<br/>• 發言的機會請優先留給女生<br/>※ 2021 年起嚴格實施 !!!!!!!!!!!!! (因為我們缺講者...)<\/p> <p>[因應疫情相關措施]<br/>• 活動期間請全程戴口罩<br/>• 視疫情狀況, 必要時將採實名制參加<br/>※ 若無法配合將無法進入活動場地<\/p> <p>[Agenda]<br/>• 19:30 ~ 19:40 (10 mins) 入場<br/>• 19:40 ~ 20:40 (60 mins) 主議程:行銷文科生做資料 @Pei<br/>• 20:40 ~ 自由交流時間<\/p> <p>[Talk Information]<br/>• 行銷文科生做資料<br/>- 從行銷文科生到資料工程師<br/>- 資料科學與數位行銷<br/>- 資料科學與數位轉型<\/p> <p>[Speaker Information]<br/>• Pei<\/p> <p>[Host Information]<br/>• Kristen Chan： 活動主持人、聯絡講者<br/>• Angie：活動場地<br/>• Sylvia：活動場地<\/p> <p>[地點] DigiBlock C &lt;暫訂&gt;<br/>地址: 103 台北市大同區承德路三段287號<br/>(捷運圓山站附近)<\/p> <p>[Event Tags]<br/>#RladiesTaipei<\/p> ",
     "url": "https://www.meetup.com/rladies-taipei/events/276578596/",
-    "textColor": "blue"
-  },
-  {
-    "title": "MünsteR (R Users Group): [useR! Oslo] Get Your Results Faster With {future}, Germany, Europe",
-    "group": "MünsteR (R Users Group)",
-    "start": "2021-04-15",
-    "url": "https://www.meetup.com/Munster-R-Users-Group/events/277482527/",
-    "textColor": "blue"
-  },
-  {
-    "title": "MünsteR (R Users Group): [R Lille] My Journey To Transparency And Reproducibility, Germany, Europe",
-    "group": "MünsteR (R Users Group)",
-    "start": "2021-04-15",
-    "url": "https://www.meetup.com/Munster-R-Users-Group/events/277150989/",
     "textColor": "blue"
   },
   {
@@ -2013,14 +1990,6 @@
     "start": "2021-05-06",
     "description": "<p>- channel: youtube.com/c/WhyRFoundationVideos<br/>- date: every Thursday 7:00 pm (Irish Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- MC: Lais Carvalho &amp; Guests<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Description:<\/p> ",
     "url": "https://www.meetup.com/DublinR/events/jtbhcsycchbjb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Bogotá R Users Group: Fractales y Wikipedia   [Virtual] , Colombia, Latin America",
-    "group": "Bogotá R Users Group",
-    "start": "2021-04-15",
-    "description": "<p>*ESTA SESIÓN NO ES PROPIAMENTE DE R PERO PUEDE SER DE INTERÉS PARA LOS USUARIOS DE ESTE GRUPO*<\/p> <p>¿Qué es un fractal? ¿Qué es un articulo de Wikipedia? ¿Qué vemos cuando decimos fractal o Wikipedia?<\/p> <p>No es un secreto que en nuestra experiencia cotidiana aparezca Wikipedia para resolver una duda, hacer una apuesta o revisar una idea. Una obra de arte, un monumento o un país lejano que queremos visitar, casi siempre, están en Wikipedia. Pero ¿Un fractal? ¿Qué es un fractal?<br/>Parece que no es tan cotidiano como Wikipedia. Y ¿Qué tal si buscamos un fractal en Wikipedia?<\/p> <p>En esta ocasión vamos a performar un fractal, y para ello, usaremos a Wikipedia como portal, y de paso, la sacaremos del portátil y del celular hacia mundo físico tridimensional. “Fractalizaremos” Wikipedia para vivir la experiencia de la cotidianidad: de los datos digitales a los datos corporales. Dimensiones sensoriales: afectivas, hápticas y perceptivas.<\/p> <p>Materiales<\/p> <p>Wikipedia en un dispositivo (portátil o celular)<br/>Tizas de colores<br/>Un metro de costurera<br/>Reglas de madera o tablas rectas de 50 cm<\/p> <p>Imparte John Barragán:<\/p> <p>Bogotano amante de la ciencia ciudadana, la escuela y la Wikipedia. Ha ha trabajado como profesor de física, escritor de secuencias de aprendizaje y geofísico. Activista de los datos abiertos se caracteriza por intentar abrir la escuela para cambiar el mundo a través de prototipos colaborativos. Estudiante de doctorado en filosofía y fanático de los libros.<\/p> <p>Link de inscripción zoom: <a href=\"https://us02web.zoom.us/webinar/register/WN_rjMhCKuvRP6Y-UpBIaNC9Q\" class=\"linkified\">https://us02web.zoom.us/webinar/register/WN_rjMhCKuvRP6Y-UpBIaNC9Q<\/a><\/p> ",
-    "url": "https://www.meetup.com/Bogota-R-Users-Group/events/277554223/",
     "textColor": "blue"
   },
   {
