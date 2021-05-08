@@ -184,14 +184,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "AalborgRUG: Graphical models with sparse conditional probability tables in R  [Virtual] , Denmark, Europe",
-    "group": "AalborgRUG",
-    "start": "2021-04-07",
-    "description": "<p>Password to the zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
-    "url": "https://www.meetup.com/AalborgRUG/events/277173904/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "AalborgRUG: Online event by [useR! Oslo]: Get Your Results Faster With {future}  [Virtual] , Denmark, Europe",
     "group": "AalborgRUG",
     "start": "2021-04-15",
@@ -213,14 +205,6 @@
     "start": "2021-05-04",
     "description": "<p>[Speaker]<br/>Robert Dahl Jacobsen from Centrica Energy Trading<\/p> <p>[content]<br/>In this talk there will be a number of tips and tricks to make R projects more reproducible. Ranging from \"data analysis\" that we would like to be able to repeat in a year or just on another computer to getting e.g. Shiny apps shipped for others to run. We will also get into using R with Docker.<\/p> ",
     "url": "https://www.meetup.com/AalborgRUG/events/277560505/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Salt Lake City R Users Group: Stacked Ensemble Modeling with Tidy Data Principles  [Virtual] , United States, US/Canada",
-    "group": "Salt Lake City R Users Group",
-    "start": "2021-04-07",
-    "description": "<p>Our April Meetup will be a remote gathering; the Zoom link will be posted the week of the event, and the passcode is[masked].<\/p> <p>Stacked ensemble modeling is a statistical modeling technique that involves training a model to combine the outputs of many constituent models. The technique has been shown to increase predictive performance in a variety of settings. This talk will introduce {stacks}, a free and open-source R software package for stacked ensemble modeling that aligns with tidy data principles. The package’s functionality is closely aligned with the {tidymodels}, a collection of packages providing a unified interface to diverse statistical modeling techniques.<\/p> <p>Simon Couch is a developer on open source R packages for statistical modeling. He is currently an undergraduate studying statistics at Reed College and formerly an intern at RStudio. Simon was awarded the 2021 John M. Chambers Statistical Software Award for {stacks}.<\/p> ",
-    "url": "https://www.meetup.com/slc-rug/events/275790402/",
     "textColor": "#7171fb"
   },
   {
@@ -285,14 +269,6 @@
     "start": "2021-04-20",
     "description": "<p>Image from: <a href=\"https://www.freecodecamp.org/news/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d/\" class=\"linkified\">https://www.freecodecamp.org/news/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d/<\/a><\/p> <p>Agenda<br/>4:30 Networking<br/>5:00 Announcements<br/>5:05 Yu-Shih Chen - TDAsweep: A Novel Dimension Reduction Method for Image Classification Tasks<br/>5:35 Earl Hubbell - Modeling Multi-Cancer Early Detection Using R code<br/>6:05 Julia Silge - Model Monitoring with R Markdown, pins, and RStudio Connect<\/p> <p>###############<br/>Yu-Shih Chen<\/p> <p>Yu-Shih is a fourth year undergraduate studying Computer Science at the University of California, Davis, and his research and interest lies mainly in the field Artificial Intelligence.<\/p> <p>TDAsweep: A Novel Dimension Reduction Method for Image Classification Tasks<\/p> <p>Abstract:<\/p> <p>One of the most celebrated achievements of modern machine learning technology is the automatic classification of images. However, success is typically achieved only with major computational costs. Here we introduce TDAsweep, a machine learning tool aimed at improving the efficiency of automatic classification of images.<\/p> <p>###############<br/>Earl Hubbell<\/p> <p>Earl is a Bioinformatics distinguished scientist at GRAIL, Inc. in Palo Alto CA<\/p> <p>Modeling Multi-Cancer Early Detection Using R code<\/p> <p>Abstract:<br/>Recent advances in technology have allowed multi-cancer early detection (MCED) tests that have the potential to affect a large fraction of cancer incidence. My co-authors and I modeled the results of such an MCED test based on published literature when applied to a population of screenable individuals. The model found a potential to intercept 2 in 5 cancer cases, including many cancers generally found only at late stage with current medical practice. This could result in reducing late stage incidence by half, potentially improving mortality.<\/p> <p>Computational modeling is an important aspect of bioinformatics research, and the code underlying such models is a critical part of the scientific endeavor. Code availability is required by many journals, and allows transparency into the scientific results. The code and data underlying these results was written in R, and is available on github. The model, results, and use of R for the project will be discussed, including notes on publication in the real world.<\/p> <p>###############<br/>Julie Silge<\/p> <p>Julia (<a href=\"https://juliasilge.com/about/\" class=\"linkified\">https://juliasilge.com/about/<\/a>) is a data scientist and software engineer at RStudio where she works on open source modeling tools.<\/p> <p>ModelOps or MLOps (for “model/machine learning operations”) focuses on the real-world processes involved in building, deploying, and maintaining a model within an organization’s data infrastructure.<\/p> <p>See Julia's recent post for a preview of her talk: <a href=\"https://blog.rstudio.com/2021/04/08/model-monitoring-with-r-markdown/\" class=\"linkified\">https://blog.rstudio.com/2021/04/08/model-monitoring-with-r-markdown/<\/a><\/p> ",
     "url": "https://www.meetup.com/R-Users/events/277532303/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Barcelona R User Group: Online event by Aalborg RUG - Graphical models w sparse cond. prob. tables in R  [Virtual] , Spain, Europe",
-    "group": "Barcelona R User Group",
-    "start": "2021-04-07",
-    "description": "<p>Hello everyone! We would like to invite you to join a fellow R group event organised online. Please see event details below:<br/>----------------------------------------------<\/p> <p>Password to the zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
-    "url": "https://www.meetup.com/BarcelonaR/events/277405753/",
     "textColor": "#7171fb"
   },
   {
@@ -368,6 +344,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Barcelona R User Group: Barcelona R User Group meetup (online)  [Virtual] , Spain, Europe",
+    "group": "Barcelona R User Group",
+    "start": "2021-05-07",
+    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce the next online meetup event for 2021!<\/p> <p>See the agenda below (times in Barcelona / CEST / UTC +2):<\/p> <p>6:15 - 6:30 - Set up (systems check) and virtual hellos<br/>6:30 - 7:30 - Workshop*: Introduction to Building Packages in R - by Nicolas Attalides<br/>7:30 - 7:50 - \"Creating A Shiny Dashboard As A Tool For Learning Git\" - by Elizabeth Brown<br/>7:50 - 8:10 - Introducing {brinton} A gEDA Tool - by Pere Millán-Martínez<br/>8:10 - 8:30: Online socialising<\/p> <p>*The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!<\/p> <p>Note: You need to instal...<\/p> <p>Windows: R Tools (depending on your R version)<br/>Mac OS X: Command Line Tools for XCode<br/>See helpful info here: <a href=\"https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites\" class=\"linkified\">https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites<\/a><\/p> <p>\"See you\" soon!<\/p> ",
+    "url": "https://www.meetup.com/BarcelonaR/events/277758529/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Bari: WOMEN WILL | STRUMENTI DI LEADERSHIP IN PILLOLE  [Virtual] , Italy, Europe",
     "group": "R-Ladies Bari",
     "start": "2021-05-04",
@@ -440,14 +424,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Vienna<-R: Aalborg RUG / ViennaR: Graphical models w sparse cond. prob. tables in R  [Virtual] , Austria, Europe",
-    "group": "Vienna<-R",
-    "start": "2021-04-07",
-    "description": "<p>Password to this zoom meeting: aalborgrug<\/p> <p>The talk will include<\/p> <p>- A brief introduction to graphical models<br/>- Discussion of R packages dealing with graphical models<br/>- Sparse conditional probability tables<br/>- A novel method for handling inference via JTA in massive networks<\/p> <p>Graphical models is a family of probability distributions that can be interpreted using directed or undirected graphs in which each node represents a random variable; an edge between two variables indicates a relationship between these. Such a graphical representation is convenient, since, for high-dimensional problems the local interpretation of a subset of variables can be interpreted in the sub-graph induced by these variables and variables connected to these. By exploiting the graph-theoretic representation, general algorithms can be used for computing marginal and conditional probabilities. For problems large enough, it can be impossible to compute such probabilities without exploiting the graphical representation. Of particular importance for calculations of probabilities in graphical models is the Junction Tree Algorithm (JTA).<\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/277380561/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Vienna<-R: BrightonR / ViennaR - April Meetup [w a focus on {golem} Shiny applications]  [Virtual] , Austria, Europe",
     "group": "Vienna<-R",
     "start": "2021-04-08",
@@ -501,6 +477,14 @@
     "start": "2021-05-04",
     "description": "<p>[link to host meetup]<br/><a href=\"https://aaudk.zoom.us/j/61298497046\" class=\"linkified\">https://aaudk.zoom.us/j/61298497046<\/a><\/p> <p>[date and time]<br/>Tuesday, May 4, 2021<br/>8:00 PM to 10:00 PM GMT+2<\/p> <p>[Speaker]<br/>Robert Dahl Jacobsen from Centrica Energy Trading (Denmark)<\/p> <p>[content]<br/>In this talk there will be a number of tips and tricks to make R projects more reproducible. Ranging from \"data analysis\" that we would like to be able to repeat in a year or just on another computer to getting e.g. Shiny apps shipped for others to run.<br/>We will also get into using R with Docker.<\/p> ",
     "url": "https://www.meetup.com/ViennaR/events/277851205/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Vienna<-R: BarcelonaR / ViennaR - 3 main WS topics -> see details  [Virtual] , Austria, Europe",
+    "group": "Vienna<-R",
+    "start": "2021-05-07",
+    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce their next online meetup event for 2021!<\/p> <p>See the agenda below (times in Barcelona / CEST / UTC +2):<\/p> <p>6:15 - 6:30 - Set up (systems check) and virtual hellos<br/>6:30 - 7:30 - Workshop*: Introduction to Building Packages in R - by Nicolas Attalides<br/>7:30 - 7:50 - \"Creating A Shiny Dashboard As A Tool For Learning Git\" - by Elizabeth Brown<br/>7:50 - 8:10 - Introducing {brinton} A gEDA Tool - by Pere Millán-Martínez<br/>8:10 - 8:30 - TBA<br/>8:30 - 9:00: Online socialising<\/p> <p>*The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!<\/p> <p>Note: You need to install...<\/p> <p>Windows: R Tools (depending on your R version)<br/>Mac OS X: Command Line Tools for XCode<br/>See helpful info here: <a href=\"https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites\" class=\"linkified\">https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites<\/a><\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/277851333/",
     "textColor": "#7171fb"
   },
   {
@@ -814,6 +798,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "AthensR: Building Packages/Git Shiny Dashboard/{brinton} A gEDA Tool [Barcelona R User]  [Virtual] , Greece, Europe",
+    "group": "AthensR",
+    "start": "2021-05-07",
+    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce the next online meetup event for 2021!<\/p> <p>See the agenda below (times in Barcelona / CEST / UTC +2):<\/p> <p>6:15 - 6:30 - Set up (systems check) and virtual hellos<br/>6:30 - 7:30 - Workshop*: Introduction to Building Packages in R - by Nicolas Attalides<br/>7:30 - 7:50 - \"Creating A Shiny Dashboard As A Tool For Learning Git\" - by Elizabeth Brown<br/>7:50 - 8:10 - Introducing {brinton} A gEDA Tool - by Pere Millán-Martínez<br/>8:10 - 8:30: Online socialising<\/p> <p>*The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!<\/p> <p>Note: You need to instal...<\/p> <p>Windows: R Tools (depending on your R version)<br/>Mac OS X: Command Line Tools for XCode<br/>See helpful info here: <a href=\"https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites\" class=\"linkified\">https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites<\/a><\/p> <p>\"See you\" soon!<\/p> ",
+    "url": "https://www.meetup.com/AthensR/events/277883290/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Chennai: \"Classification and Regression Trees\" with Praveena Mathews  [Virtual] , India, Asia",
     "group": "R-Ladies Chennai",
     "start": "2021-05-01",
@@ -945,6 +937,13 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "MünsteR (R Users Group): Barcelona R User Group meetup (online), Germany, Europe",
+    "group": "MünsteR (R Users Group)",
+    "start": "2021-05-07",
+    "url": "https://www.meetup.com/Munster-R-Users-Group/events/277880148/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R User Group Rhein-Neckar: April 2021 Meeting  [Virtual] , Germany, Europe",
     "group": "R User Group Rhein-Neckar",
     "start": "2021-04-13",
@@ -1054,14 +1053,6 @@
     "start": "2021-04-27",
     "description": "<p>შეხვედრის ფარგლებში განხილული იქნება ggplot2, shiny და plotly::ggploty პაკეტები.<\/p> <p>ტურიზმის ეროვნული ადმინისტრაციის მონაცემების მაგალითზე ნაჩვენები იქნება ggplot2 პაკეტით შექმნილი დიაგრამების გამოყენებით ინტერაქტიული ვიზუალიზაციისა და აპლიკაციის შექმნის ნაბიჯები. დეტალურად იქნება განხილული მონაცემების მომზადება, ggplot2 პაკეტით დიაგრამის შექმნა და მისი გამოყენება shiny-ისა და plotly::ggploty პაკეტებში.<\/p> <p>სპიკერი: თემურ გუგუშვილი<br/>დოქტორობის კანდიდატი, სოციოლოგიის პროგრამა, თბილისი სახელმწიფო უნივერსიტეტი;<br/>კვლევისა და სერვისების დეპარტამენტის უფროსი, დანაშაულის პრევენციისა და პრობაციის ეროვნული სააგენტო;<br/>თემური აქტიურად იყენებს R-ს მონაცემთა ანალიზისა და ვიზუალიზაციისთვის.<\/p> <p>მონაცემთა წყარო:<br/><a href=\"https://gnta.ge/statistics/\" class=\"linkified\">https://gnta.ge/statistics/<\/a><br/><a href=\"https://temurgugushvili.shinyapps.io/tourism_data/\" class=\"linkified\">https://temurgugushvili.shinyapps.io/tourism_data/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-tbilisi/events/277641071/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Seattle: How to Give a Good Conference or Meetup Talk  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Seattle",
-    "start": "2021-04-07",
-    "description": "<p>Join us for a discussion about coming up with, designing, and delivering a good talk!<\/p> <p>Goals:<br/>Help R-Ladies see themselves as experts and speakers<br/>Demystify the process of applying to speak at conferences<br/>Provide tips and resources for speaking at different types of events and formats<br/>Alert R-Ladies Seattle members and others to upcoming opportunities<br/>Have more people speak at R-Ladies!<\/p> <p>Guests:<br/>Dr. Kate Hertweck, Bioinformatics Training Manager at Fred Hutch<br/>Dr. Marie Vendettuoli, Senior Statistical Programmer at Fred Hutch<br/>Kara Woo, Kara Woo, Senior Data Science Engineer at InsightRX<\/p> <p>Tech support:<br/>Monica Gerber, R-Ladies Seattle Co-Organizer<br/>Katie Jolly, R-Ladies Seattle Co-Organizer<\/p> <p>Moderator:<br/>Isabella Velásquez, R-Ladies Seattle Co-Organizer<\/p> ",
-    "url": "https://www.meetup.com/rladies-seattle/events/276427163/",
     "textColor": "#7171fb"
   },
   {
@@ -1401,14 +1392,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Cleveland R User Group: Virtual R Café  [Virtual] , United States, US/Canada",
-    "group": "Cleveland R User Group",
-    "start": "2021-05-08",
-    "description": "<p>This is a chance to hang out with other R coders for a bit. It will be informal with no set topic. Bring something to work on and feel free to share or ask questions if want.<\/p> ",
-    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/277520985/",
-    "textColor": "blue"
-  },
-  {
     "title": "Cleveland R User Group: Frans van Dunné: Automating business processes with R  [Virtual] , United States, US/Canada",
     "group": "Cleveland R User Group",
     "start": "2021-05-26",
@@ -1545,7 +1528,7 @@
     "textColor": "blue"
   },
   {
-    "title": "R Users Group, Gainesville, FL: Meta-Meetup  [Virtual] , United States, US/Canada",
+    "title": "R Users Group, Gainesville, FL: R-Users Meta-Meetup  [Virtual] , United States, US/Canada",
     "group": "R Users Group, Gainesville, FL",
     "start": "2021-05-11",
     "description": "<p>Gainesville R-Users Group is back. This meetup will be a sort of meta-meetup to chit-chat about topics, venues, and times for our upcoming meetups. Please fill out the survey right away so that we can get started beforehand. [Links to a GoogleDoc for Tuesday and a GoogleForm are located below.]<br/>In addition, we’ll preview some of what future meetups might resemble with some tips and tricks for using the R language, RStudio, RStudio Cloud, and the interfaces of R with a variety of input and output information modes, languages, and documents.<br/>Some of the most useful aspects of using R are the open and ever-growing assortment of packages and the interfaces to other languages that make using R like having your cake and eating it too.<\/p> <p>RSVP to get the Zoom link :)<\/p> <p>We're excited to (virtually) see you all!<\/p> <p>Kind regards<br/>Geraldine, Laurence, and Ryan<\/p> <p>If you'd like to share some R tips &amp; tricks on Tuesday:<br/><a href=\"https://docs.google.com/spreadsheets/d/1hP3OH5oKsvXT8xklET2lsAASckxfWP7jL_vCaKqd6UI/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1hP3OH5oKsvXT8xklET2lsAASckxfWP7jL_vCaKqd6UI/edit?usp=sharing<\/a><\/p> <p>Information Form for everyone so we can optimize our venue and time:<br/><a href=\"https://forms.gle/vArpNgvWbVAvDvsL8\" class=\"linkified\">https://forms.gle/vArpNgvWbVAvDvsL8<\/a><\/p> ",
@@ -1566,14 +1549,6 @@
     "start": "2021-05-31",
     "description": "<p>The meeting will discuss data science in contemporary business. Install R Software from version 3.0 in your system with good internet connectivity. The meeting link will be send to you.<\/p> ",
     "url": "https://www.meetup.com/FEDPOFA-R-Users-Group/events/278041322/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Barcelona R User Group: Barcelona R User Group meetup (online)  [Virtual] , Spain, Europe",
-    "group": "Barcelona R User Group",
-    "start": "2021-05-07",
-    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce the next online meetup event for 2021!<\/p> <p>See the agenda below (times in Barcelona / CEST / UTC +2):<\/p> <p>6:15 - 6:30 - Set up (systems check) and virtual hellos<br/>6:30 - 7:30 - Workshop*: Introduction to Building Packages in R - by Nicolas Attalides<br/>7:30 - 7:50 - \"Creating A Shiny Dashboard As A Tool For Learning Git\" - by Elizabeth Brown<br/>7:50 - 8:10 - Introducing {brinton} A gEDA Tool - by Pere Millán-Martínez<br/>8:10 - 8:30: Online socialising<\/p> <p>*The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!<\/p> <p>Note: You need to instal...<\/p> <p>Windows: R Tools (depending on your R version)<br/>Mac OS X: Command Line Tools for XCode<br/>See helpful info here: <a href=\"https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites\" class=\"linkified\">https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites<\/a><\/p> <p>\"See you\" soon!<\/p> ",
-    "url": "https://www.meetup.com/BarcelonaR/events/277758529/",
     "textColor": "blue"
   },
   {
@@ -1614,14 +1589,6 @@
     "start": "2021-05-26",
     "description": "<p>We are delighted to invite you to our next meetup. We will be organizing a new workshop about Using blogdown &amp; Hugo Apéro to create your personal website.<\/p> <p>▶️ About the workshop:<br/>“You should have a website!” You may have heard this one before, or even said it yourself. In this workshop, you’ll learn how to build and customize a website from the comfort of the RStudio IDE with R Markdown. We'll use the blogdown package and the Hugo Apéro theme to build and deploy a personal website. We’ll cover basic website care and feeding like using R Markdown to create content, how to use GitHub for version control and Netlify for publishing, and how to use the latest upgrades to the blogdown R package to keep your site up and running.<\/p> <p>▶️ About Dr. Alison Hill :<br/>Alison Hill is a data scientist, behavioral scientist, and an award-winning educator. Currently, Dr. Hill works to make data science communication easier and more delightful using RStudio’s open-source toolchain.<\/p> <p>▶️ Prerequisites<\/p> <p>You'll get the most out of this workshop if you do the pre-work ahead of time. Please follow the instructions here: <a href=\"https://iyo-rstudio-global.netlify.app/collection/prework/\" class=\"linkified\">https://iyo-rstudio-global.netlify.app/collection/prework/<\/a>.<\/p> <p>In order to attend the event, please fill out this form 👉 <a href=\"https://tinyurl.com/dre27d3k\" class=\"linkified\">https://tinyurl.com/dre27d3k<\/a><\/p> <p>We look forward to welcoming you!<\/p> ",
     "url": "https://www.meetup.com/BirminghamR/events/278040268/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Vienna<-R: BarcelonaR / ViennaR - 3 main WS topics -> see details  [Virtual] , Austria, Europe",
-    "group": "Vienna<-R",
-    "start": "2021-05-07",
-    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce their next online meetup event for 2021!<\/p> <p>See the agenda below (times in Barcelona / CEST / UTC +2):<\/p> <p>6:15 - 6:30 - Set up (systems check) and virtual hellos<br/>6:30 - 7:30 - Workshop*: Introduction to Building Packages in R - by Nicolas Attalides<br/>7:30 - 7:50 - \"Creating A Shiny Dashboard As A Tool For Learning Git\" - by Elizabeth Brown<br/>7:50 - 8:10 - Introducing {brinton} A gEDA Tool - by Pere Millán-Martínez<br/>8:10 - 8:30 - TBA<br/>8:30 - 9:00: Online socialising<\/p> <p>*The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!<\/p> <p>Note: You need to install...<\/p> <p>Windows: R Tools (depending on your R version)<br/>Mac OS X: Command Line Tools for XCode<br/>See helpful info here: <a href=\"https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites\" class=\"linkified\">https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites<\/a><\/p> ",
-    "url": "https://www.meetup.com/ViennaR/events/277851333/",
     "textColor": "blue"
   },
   {
@@ -1873,14 +1840,6 @@
     "textColor": "blue"
   },
   {
-    "title": "AthensR: Building Packages/Git Shiny Dashboard/{brinton} A gEDA Tool [Barcelona R User]  [Virtual] , Greece, Europe",
-    "group": "AthensR",
-    "start": "2021-05-07",
-    "description": "<p>Barcelona R User Group - <a href=\"https://www.barcelonar.org/\" class=\"linkified\">https://www.barcelonar.org/<\/a> - is happy to announce the next online meetup event for 2021!<\/p> <p>See the agenda below (times in Barcelona / CEST / UTC +2):<\/p> <p>6:15 - 6:30 - Set up (systems check) and virtual hellos<br/>6:30 - 7:30 - Workshop*: Introduction to Building Packages in R - by Nicolas Attalides<br/>7:30 - 7:50 - \"Creating A Shiny Dashboard As A Tool For Learning Git\" - by Elizabeth Brown<br/>7:50 - 8:10 - Introducing {brinton} A gEDA Tool - by Pere Millán-Martínez<br/>8:10 - 8:30: Online socialising<\/p> <p>*The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!<\/p> <p>Note: You need to instal...<\/p> <p>Windows: R Tools (depending on your R version)<br/>Mac OS X: Command Line Tools for XCode<br/>See helpful info here: <a href=\"https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites\" class=\"linkified\">https://support.rstudio.com/hc/en-us/articles/200486498-Package-Development-Prerequisites<\/a><\/p> <p>\"See you\" soon!<\/p> ",
-    "url": "https://www.meetup.com/AthensR/events/277883290/",
-    "textColor": "blue"
-  },
-  {
     "title": "AthensR: Build Interactive {shiny} Apps to Share Your Work With Anyone! [useR! Oslo]  [Virtual] , Greece, Europe",
     "group": "AthensR",
     "start": "2021-05-20",
@@ -1918,21 +1877,6 @@
     "start": "2021-05-18",
     "description": "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.<\/p> <p>The next event is Tuesday May 18, 2021 from 12-1:30pm (virtual meetup on Zoom). We will have an exciting presentation on Recursion in R with the purrr R package (speaker TBA).<\/p> <p>WHO is this for?<br/>- If you are new to R &amp; want to learn about an incredibly powerful package!<br/>- If you've experience the need for recursion (or functional programming), and want to learn how to do it in R!<br/>- If you know about tidy data, and want to know what is functional programming and how it can change your life!<\/p> <p>*If any/all of this is true, this event might be for you!*<\/p> <p>AGENDA<br/>12:00–12:15pm Who we are | Announcements | What's next<br/>12:15–1pm Presentation: Recursion in R with the purrr R package<br/>1–1:30pm Networking -- Any more Qs?<\/p> <p>Details on the location:<br/>The Zoom information will be sent to those who RSVP the week before the event.<\/p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>The term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).<\/p> <p>Important to know:<br/>- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook: <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/<\/a><br/>meetup: <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-baltimore/events/273335413/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R en Buenos Aires: Aprendé a hacer ejercicios interactivos de R con learnr.  [Virtual] , Argentina, Latin America",
-    "group": "R en Buenos Aires",
-    "start": "2021-05-08",
-    "description": "<p>En este encuentro de R en Buenos Aires, vamos a tener un taller cortesía de MetaDocencia, una comunidad amiga que mejora la educación potenciando docentes de países menos favorecidos.<\/p> <p>learnr es un paquete de R fantástico que te permite crear tutoriales interactivos que corren código de R y da feedback instantáneo. Por ejemplo, este tutorial enseña a usar summarise() para crear estadísticos resumidos: <a href=\"https://learnr-examples.shinyapps.io/ex-data-summarise/\" class=\"linkified\">https://learnr-examples.shinyapps.io/ex-data-summarise/<\/a><\/p> <p>Si tenés clases remotas o asincrónicas, o si tenés un paquete de R y querés crear una documentación interactiva, o si tenés estudiantes iniciales y querés una forma de que experimenten R por primera vez sin tener que sufran el proceso de instalación, learnr es para vos.<\/p> <p>Este taller de 2 horas va a estar dado por Yanina Bellini Saibene y Paola Corrales. Más información sobre el taller, en la página de MetaDocencia: <a href=\"https://www.metadocencia.org/curso/learnr/\" class=\"linkified\">https://www.metadocencia.org/curso/learnr/<\/a><\/p> <p>¿Cómo participar?<\/p> <p>Para participar del taller hace falta registrarse en MetaDocencia completado este formulario de google con el código \"renbaires\": <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform<\/a><\/p> <p>(el código se pone en la última parte del formulario)<\/p> <p>Te va a llegar un mail con toda la información para participar.<\/p> <p>El cupo de este taller está limitado a 40 personas. Si superamos el cupo, vamos a abrir otro taller otro sábado en el mismo horario.<\/p> <p>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/renbaires/events/277921094/",
-    "textColor": "blue"
-  },
-  {
-    "title": "MünsteR (R Users Group): Barcelona R User Group meetup (online), Germany, Europe",
-    "group": "MünsteR (R Users Group)",
-    "start": "2021-05-07",
-    "url": "https://www.meetup.com/Munster-R-Users-Group/events/277880148/",
     "textColor": "blue"
   },
   {
