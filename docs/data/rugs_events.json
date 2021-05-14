@@ -224,6 +224,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Portland R User Group: Shiny Happy Hour: Share and Learn!  [Virtual] , United States, US/Canada",
+    "group": "Portland R User Group",
+    "start": "2021-05-13",
+    "description": "<p>Are you interested in Shiny but need some ideas to get started on your own? Do you have a Shiny app or Shiny tips you'd like to show off?<\/p> <p>Join the PDX-R User Group and OHSU BioData Club in showing off and sharing your Shiny Apps or tricks.<\/p> <p>We'll have lightning talks (5-10 minutes) where you can show off apps and dashboards you've built with Shiny, or even tips and tricks you've learned.<\/p> <p>If you're interested in presenting, please let us know here: <a href=\"https://bit.ly/shiny_hour_signup\" class=\"linkified\">https://bit.ly/shiny_hour_signup<\/a><\/p> <p>Hope to see you there!<\/p> <p>Speakers so far:<\/p> <p>Elliott Hohn, Analyst at the Freshwater Trust - Connecting maps, tables, and plots in Shiny using javascript.<br/>Marley Buchman, ECONorthwest - TBD<br/>Ted Laderas, DNAnexus - Why you should use Shiny Modules<br/>Kelly O'Briant, RStudio - TBD<\/p> ",
+    "url": "https://www.meetup.com/portland-r-user-group/events/277761819/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Wiesbaden R User Group: R Coffee Break: Ordinal Data Clustering, Co-Clustering and Classification  [Virtual] , Germany, Europe",
     "group": "Wiesbaden R User Group",
     "start": "2021-04-14",
@@ -536,14 +544,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Boulder: R Ladies Boulder Meetup #13: Lasso, Ridge, and Elastic Net Regression  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Boulder",
-    "start": "2021-04-13",
-    "description": "<p>Hi Boulder UseRs! We are back in action next month after our hiatus! Join us for a virtual R Ladies Meetup where Dr. Marta Jankowska will be giving a tutorial on Elastic Net, Ridge, and Lasso Regression approaches!<br/>Please stay tuned for more details on Dr. Jankowska's tutorial.<\/p> <p>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and learn some new techniques to apply in your work!<\/p> <p>We hope you'll also join our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-boulder/events/276975668/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Boulder: R Ladies Boulder Meetup #14: RStudio 2021 Conference Talk Watch Party  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Boulder",
     "start": "2021-05-11",
@@ -581,14 +581,6 @@
     "start": "2021-04-28",
     "description": "<p>The 2021 RLadies Philly hackathon is focused on exploring judicial patterns in Philadelphia courts. Our partner, the Judge Accountability Table (JAT), has provided a subset of deidentified data related to public court dockets for defendants in Philadelphia County, Pennsylvania, to enable participants to hone thier data science skills by:<\/p> <p>- Exploring and describing this rich, messy data more completely<br/>- Stratifying data (e.g., comparing simple, low-severity charges with one another and complex, violent crime allegations with one another)<br/>- Answering specific questions, or discovering what additional work or information would be required to be able to answer these questions<br/>- Analyzing sparsity / missingness and discovering what the public interest is in ensuring freedom of information<br/>- Understanding predictive factors in carceral outcomes (e.g. does age / sex / race correlate with bail amount?)<\/p> <p>At this meetup, groups will present their results and discuss their experiences.<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/276365054/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Sydney: Show and Tell your R Code  [Virtual] , Australia, Australia",
-    "group": "R-Ladies Sydney",
-    "start": "2021-04-13",
-    "description": "<p>Kicking off 2021 with a Show and Tell event series. Join us on the 2nd Tuesday of the month to share your code. It might be code that you are particularly proud of. Or maybe it is code that is driving you crazy. Either way we would love to see it.<\/p> <p>Come along to this online event and share your triumph and/or frustration. Who knows what each session will bring but I ALWAYS walk away with a new tip/trick in my back pocket.<\/p> <p>This event will be via Zoom.<\/p> <p>Check out some of the cool things we have shared at Show and Tell events last year at our blog <a href=\"https://rladiessydney.org/post/\" class=\"linkified\">https://rladiessydney.org/post/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-sydney/events/276959394/",
     "textColor": "#7171fb"
   },
   {
@@ -635,14 +627,6 @@
     "start": "2021-05-11",
     "description": "<p>*What are we going to learn:<br/>Do you use statistical models in R or want to learn? Learn how to best structure your model workflows including reading in data, checking the data, performing analyses, and plotting. The presentation will also go into more advanced topics discussing the R-INLA package for modelling spatio-temporal data. R-INLA is a powerful method that uses integrated nested Laplace approximation (INLA) to create complex models with various types of random effects such as spatial and temporal autocorrelation and run them very fast (<a href=\"https://www.r-inla.org/home\" class=\"linkified\">https://www.r-inla.org/home<\/a>). In this talk, we will specially focus on how to model spatial autocorrelation using coral recovery data. Best for those who are comfortable with R but all are welcome.<\/p> <p>*Who is going to present:<br/>Dr. Julie Vercelloni is a quantitative ecologist that studied Marine Ecology during her undergraduate and postgraduate degrees and statistics applied to coral reef ecology for her PhD. She is now an Associate Investigator at the Queensland University of Technology node of the Australian Centre of Excellence for Mathematical and Statistical Frontiers and works mostly with the Australian Institute of Marine Science.<br/>Julie is doing research on diverse projects that look at combining state-of-the-art technologies including machine learning and virtual reality, and modern statistical modelling methods to help understanding complex problems related to coral reef conservation. She is also a citizen science advocate, working on new types of monitoring for the Great Barrier Reef and Pacific countries.<\/p> <p>* When are we meeting?<br/>The talk will start at 5:30 pm for a ~45 minute presentation, 15 minutes Q&amp;A time with the potential to move to an outside venue for continued socializing and networking.<\/p> <p>* Where are we meeting?<br/>We will meet at QUT Gardens Point campus room Y-801 (in building Y) - this will be a hybrid event with a Zoom link available.<br/>map: <a href=\"https://goo.gl/maps/4H51oEEun6JuewVn6\" class=\"linkified\">https://goo.gl/maps/4H51oEEun6JuewVn6<\/a><br/>DIRECTIONS TO THE ROOM - Y block/building is next to River Stage in QUT Gardens Point. The elevators to the 8th floor are on the side of the building facing P block and should not require card access. Please follow the hall to the right upon exiting the elevator on floor 8 to room Y-801, the first meeting room at the end of the hall.<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/277538983/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2021-04-13",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccgbrb/",
     "textColor": "#7171fb"
   },
   {
@@ -723,22 +707,6 @@
     "start": "2021-04-15",
     "description": "<p>Dragi svi, evo još jednog interesantnog predavanja koje organizuju kolege iz R Lil iz Francuske svi detalji su ovde:<\/p> <p>Details<\/p> <p>[Abstract]<br/>In this talk, I (Mickaël Canouil, <a href=\"https://m.canouil.fr\" class=\"linkified\">https://m.canouil.fr<\/a>) will chronicle my journey towards a more transparent and reproducible work environment. I will talk about the changes and improvements that I have implemented in my team, detailing the transition of infrastructure used when I arrived to an infrastructure using Docker and and the {renv} R package.<\/p> <p>[Bio]<br/>I am a biostatistician (Ph.D.) and the head of a small team within a research laboratory, working primarily on the genetics of diabetes and obesity.<br/>I have developed a few R packages, and although some are not very useful, they are most definitely entertaining (i.e., <a href=\"https://github.com/mcanouil/ggpacman/\" class=\"linkified\">https://github.com/mcanouil/ggpacman/<\/a>).<br/>I also enjoy watching movies and playing with R (<a href=\"https://m.canouil.fr/imdb_ratings/\" class=\"linkified\">https://m.canouil.fr/imdb_ratings/<\/a>).<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<br/><a href=\"https://www.meetup.com/R-Lille/events/277031496/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277031496/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-belgrade/events/277488521/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Twin Cities: Building and using lmeresampler for hierarchical linear models  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Twin Cities",
-    "start": "2021-04-13",
-    "description": "<p>Jenna K. spent the summer of 2020 working on the R package lmeresampler (<a href=\"https://cran.r-project.org/web/packages/lmeresampler/index.html\" class=\"linkified\">https://cran.r-project.org/web/packages/lmeresampler/index.html<\/a>). During this meetup, Jenna will describe hierarchical linear models, the package's functions, the changes in package dependencies and parallelization that she implemented to streamline the code, and why she and her advisor chose to make those updates.<\/p> ",
-    "url": "https://www.meetup.com/rladies-tc/events/275731329/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Riverside: A Semi-Tidy Tuesday:  Dataframe to simple maps  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Riverside",
-    "start": "2021-04-13",
-    "description": "<p>Hello, RiveRside community ;-)<\/p> <p>Come join us for a virtual meeting of networking and learning next Tuesday, April 13th, 12:00 PM (PST). Don't forget to RSVP in our Meetup to get access to the meeting's ID and password.<\/p> <p>Whether you are new to R or a data scientist, join us for an introduction to Maps in R. We will introduce a variety of packages to use coordinates from a dataframe and create maps without GIS software.<\/p> <p>At the end of the meeting, we will have time to help each other with any R-related questions.<\/p> <p>Please have R and RStudio already installed on your computers.<\/p> <p>Big thanks to UCR Library and UCR GradQuant for supporting us, and to our guest speaker *Tessa Shates* from the Department of Entomology at UCR!<\/p> <p>See you soon!<\/p> <p>ps: are you already following us at @RLadiesRiversd twitter?<\/p> ",
-    "url": "https://www.meetup.com/rladies-riverside/events/277326999/",
     "textColor": "#7171fb"
   },
   {
@@ -926,6 +894,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Guayaquil: Club de lectura: R para Ciencia de Datos (Wickham & Grolemund)  [Virtual] , Ecuador, Latin America",
+    "group": "R-Ladies Guayaquil",
+    "start": "2021-05-13",
+    "description": "<p>Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: <a href=\"https://es.r4ds.hadley.nz\" class=\"linkified\">https://es.r4ds.hadley.nz<\/a>.<\/p> <p>Estamos felices de crear este grupo de lectura y aprender sobre cómo hacer ciencia de datos, lo cual incluye desde la importación de datos a R, manipular su estructura y transformarlos, hasta visualizarlos e incluso crear modelos y comunicar resultados.<\/p> <p>Este club de lectura incluirá varias sesiones quincenales que se llevarán a cabo los jueves empezando el 13 de mayo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo en el que nos enfoquemos para esa sesión.<\/p> <p>Durante esta primera sesión Danisse Carrascal y Mary Jane Rivero (R-Ladies Barranquilla) hablarán sobre los tipos de datos y estructuras que utilizaremos en R. Esto incluye al capítulo 14 (Cadenas de caracteres), capítulo 15 (Factores), y el capítulo 20 (Vectores).<\/p> <p>Recuerda, las sesiones son los jueves de cada quincena desde el 13 de mayo, y empiezan a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6). Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-guayaquil/events/277928985/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Taipei: [2021 Apr] 行銷文科生做資料, Taiwan, Asia",
     "group": "R-Ladies Taipei",
     "start": "2021-04-26",
@@ -1007,14 +983,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R User Group Rhein-Neckar: April 2021 Meeting  [Virtual] , Germany, Europe",
-    "group": "R User Group Rhein-Neckar",
-    "start": "2021-04-13",
-    "description": "<p>For the next meeting, we will discuss a selection of smaller topics:<\/p> <p>A first glance at interactive plots with plotly - Oliver<br/>- Why Matlab is nice but R is nicer ;)<br/>- Plotly and basic plots<br/>- Plotly and ggplot<br/>- Plotly and Shiny<br/><a href=\"https://plotly.com/r/\" class=\"linkified\">https://plotly.com/r/<\/a><\/p> <p>Beautiful visualizations with pirate plots - Thomas<br/><a href=\"https://cran.r-project.org/web/packages/yarrr/vignettes/pirateplot.html\" class=\"linkified\">https://cran.r-project.org/web/packages/yarrr/vignettes/pirateplot.html<\/a><\/p> <p>A brief look at data.tables - Robert<br/><a href=\"https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html\" class=\"linkified\">https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html<\/a><\/p> <p>See you there!<br/>Oliver<br/>(last updated: 12 APR 2021)<\/p> <p>Suggestions of topics would be welcome. 'Lightning Talks' of 7-10 minutes and only very few (or no) slides are a good possibility, e.g. pointing out a package you would like to recommend or learn more about.<\/p> <p>To avoid time restrictions, this video conference will be hosted on JITSI. To attend click the \"online event\" link on the right side, visible to all attendees, enter your name and join the meeting.<\/p> <p>Please only RSVP if you actually plan to attend.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/276835857/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R User Group Rhein-Neckar: May 2021 Meeting  [Virtual] , Germany, Europe",
     "group": "R User Group Rhein-Neckar",
     "start": "2021-05-11",
@@ -1028,6 +996,14 @@
     "start": "2021-04-14",
     "description": "<p>No matter how much you learn, there always seems to be something new in the world of R. How do you keep abreast of the changes, and keep your knowledge up-to-date?<\/p> <p>In this talk, I'll share some things I learned this month, and how I went about it. It will cover an eclectic mix of new things from packages in the tidyverse, R and RStudio.<\/p> <p>I hope you'll either learn something new, or learn a new strategy for staying up to date.<\/p> <p>Charlotte Wickham is Data Scientist, instructor at Oregon State University, and specialist in R training. I'm available for R training and data science consulting.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/276253841/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Text Analysis with Wendy Martinez  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2021-05-13",
+    "description": "<p>Wendy Martinez has been serving as the Director of the Mathematical Statistics Research Center at the Bureau of Labor Statistics (BLS) for over eight years. Prior to this, she served in several research positions throughout the Department of Defense. She held the position of Science and Technology Program Officer at the Office of Naval Research, where she established a research portfolio comprised of academia and industry performers developing data science products for the future Navy and Marine Corps. Her areas of interest include computational statistics, exploratory data analysis (to include visualization), and text analysis. She is the lead author of three books on MATLAB and statistics. Dr. Martinez was elected as a Fellow of the American Statistical Association (ASA) in 2006 and is an elected member of the International Statistical Institute. She is also proud and grateful to have served as the 2020 ASA President.<\/p> <p>Talk Abstract: The Bureau of Labor Statistics (BLS) is one of thirteen principal federal statistical agencies and is responsible for collecting data and producing several well-known economic indicators. Examples include the consumer price index and the monthly jobs report. BLS conducts surveys and censuses in areas related to productivity, prices, worker conditions, pay and benefits, and employment. In this talk, I will describe some applications in text analysis I’ve been involved with during my time at the BLS.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/277379543/",
     "textColor": "#7171fb"
   },
   {
@@ -1076,14 +1052,6 @@
     "start": "2021-05-06",
     "description": "<p>¡Continuamos leyendo el libro de Advanced R!<\/p> <p>En esta sesión veremos el capítulo 8 sobre condiciones.<\/p> <p><a href=\"https://adv-r.hadley.nz/conditions.html\" class=\"linkified\">https://adv-r.hadley.nz/conditions.html<\/a><\/p> <p>Este capítulo te servirá para aprender a mandar warnings, detener la ejecución de código por medio de stops y saltar procesos que fallaron sin romper toda tu pipeline.<\/p> <p>Será a las 17:30 hora del Centro de la Ciudad de México y tendrá duración de 1 hora.<\/p> <p>¡No faltes!<\/p> ",
     "url": "https://www.meetup.com/rladies-cdmx/events/277887202/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies St. Louis: Introduction to Time Series in R  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies St. Louis",
-    "start": "2021-04-13",
-    "description": "<p>Join R-Ladies St. Louis as we welcome Laura Rose from Mallinckrodt Pharmaceuticals. Laura Rose is a Manager of Demand at Mallinckrodt Pharmaceuticals, where she forecasts Active Pharmaceutical Ingredients (API). She has previous experience in economic analysis and Consumer Packaged Goods forecasting. Laura has a M.A. in Economics from the University of Missouri-St. Louis. She enjoys using R for time series analysis, building Shiny apps, and automating data analysis tasks.<\/p> <p>Laura will teach an introductory workshop on time series for this Meetup. She suggests having the several R packages installed prior to the workshop and we will send out the code and data files via email prior to the workshop.<\/p> <p>Packages to install:<br/>tsibble<br/>feasts<br/>fable<br/>tidyverse<br/>readxl<\/p> <p>Looking forward to seeing you there!<\/p> ",
-    "url": "https://www.meetup.com/rladies-st-louis/events/275685600/",
     "textColor": "#7171fb"
   },
   {
@@ -1567,14 +1535,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Portland R User Group: Shiny Happy Hour: Share and Learn!  [Virtual] , United States, US/Canada",
-    "group": "Portland R User Group",
-    "start": "2021-05-13",
-    "description": "<p>Are you interested in Shiny but need some ideas to get started on your own? Do you have a Shiny app or Shiny tips you'd like to show off?<\/p> <p>Join the PDX-R User Group and OHSU BioData Club in showing off and sharing your Shiny Apps or tricks.<\/p> <p>We'll have lightning talks (5-10 minutes) where you can show off apps and dashboards you've built with Shiny, or even tips and tricks you've learned.<\/p> <p>If you're interested in presenting, please let us know here: <a href=\"https://bit.ly/shiny_hour_signup\" class=\"linkified\">https://bit.ly/shiny_hour_signup<\/a><\/p> <p>Hope to see you there!<\/p> <p>Speakers so far:<\/p> <p>Elliott Hohn, Analyst at the Freshwater Trust - Connecting maps, tables, and plots in Shiny using javascript.<br/>Marley Buchman, ECONorthwest - TBD<br/>Ted Laderas, DNAnexus - Why you should use Shiny Modules<br/>Kelly O'Briant, RStudio - TBD<\/p> ",
-    "url": "https://www.meetup.com/portland-r-user-group/events/277761819/",
-    "textColor": "blue"
-  },
-  {
     "title": "Portland R User Group: aggregate: meet, greet, learn, collaborate  [Virtual] , United States, US/Canada",
     "group": "Portland R User Group",
     "start": "2021-05-26",
@@ -1647,6 +1607,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Statistical Programming DC: Data in Government (DiG) Panel Discussion  [Virtual] , United States, US/Canada",
+    "group": "Statistical Programming DC",
+    "start": "2021-06-19",
+    "description": "<p>This event will feature diverse perspectives on the topic of \"Data in Government\" through lightning talks and a panel discussion.<\/p> <p>Repo: <a href=\"https://github.com/datacommunitydc/dig#info\" class=\"linkified\">https://github.com/datacommunitydc/dig#info<\/a><br/>Date: June 19, 2021 [masked])<br/>Submit questions: <a href=\"https://forms.gle/7Z3ALL5rdoqoX76FA\" class=\"linkified\">https://forms.gle/7Z3ALL5rdoqoX76FA<\/a><\/p> <p>Time:<br/>- 10:00 - 12:00 Pacific Standard Time (UTC-08)<br/>- 13:00 - 15:00 Eastern Standard Time (UTC-05)<br/>- 19:00 - 21:00 Central European Time (UTC+01)<\/p> <p>Panelists:<br/>- Aarti Bagul, Machine Learning Engineer at Snorkel AI<br/>- Akanksha Sharma, Senior Advisor at U.S. Office of Personnel Management<br/>- Christina Ho, VP of Government Analytics &amp; Innovation at Elder Research<br/>- Kimberly Kreiss, Data Scientist at Federal Reserve Board<br/>- Nadia Smith, Founder / Chief Executive Officer at Athena Federal Solutions<br/>- Selina Carter, Data Scientist at Inter-American Development Bank<\/p> <p>Agenda:<br/>- 13:00 Kick-off<br/>- 13:05 Lighting Talk from Panelist #1<br/>- 13:15 Lighting Talk from Panelist #2<br/>- 13:25 Lighting Talk from Panelist #3<br/>- 13:35 Lighting Talk from Panelist #4<br/>- 13:45 Lighting Talk from Panelist #5<br/>- 13:55 Lighting Talk from Panelist #6<br/>- 14:05 Transition to Panel discussion<br/>- 14:10 Panel discussion<br/>- 14:58 Wrap-up<br/>- 15:00 End<\/p> ",
+    "url": "https://www.meetup.com/stats-prog-dc/events/278180366/",
+    "textColor": "blue"
+  },
+  {
     "title": "Birmingham R User Group (R Programming Language): [R-Ladies Tunis] Introduce yourself online with blogdown & Hugo Apéro  [Virtual] , United Kingdom, Europe",
     "group": "Birmingham R User Group (R Programming Language)",
     "start": "2021-05-26",
@@ -1658,7 +1626,7 @@
     "title": "R-Ladies Natal: R do Zero: para iniciantes  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies Natal",
     "start": "2021-05-21",
-    "description": "<p>R do Zero: para iniciantes com a Instrutora, Jeanne Franco.<\/p> <p>Dia: 21 de maio<br/>Horário: 18:45 horas<br/>Local: Via Zoom<\/p> <p>Conteúdo:<\/p> <p>1. Ambiente do R e R Studio;<br/>2. Operações matemáticas;<br/>3. Valores perdidos, infinitos e não numéricos;<br/>4. Números, carácter, cadeias de caracteres, vetores, matrizes e listas;<br/>5. Objetos, funções e argumentos;<br/>6. Pacotes<\/p> ",
+    "description": "<p>R do Zero: para iniciantes com a Instrutora Jeanne Franco.<\/p> <p>Dia: 21 de maio<br/>Horário: 18:45 horas<br/>Local: Via Zoom<\/p> <p>Conteúdo:<\/p> <p>- Introdução ao R<br/>1. Ambiente do R e R Studio;<br/>2. Operações matemáticas;<br/>3. Valores perdidos, infinitos e não-numéricos;<br/>4. Número, caracter, cadeias de caracteres, vetores, matrizes e listas;<br/>5. Objetos, funções e argumentos;<br/>6. Instalação de pacotes.<\/p> <p>- Scripts e tabelas<br/>1. Datasets do R;<br/>2. Principais funções;<br/>3. Estatística descritiva dos dados;<br/>4. Função “attach” vs fator de indexação;<br/>5. Organizando e salvando scripts;<br/>6. Uso do diretório;<br/>7. Importação de dados.<\/p> <p>- Estatística básica - Testes clássicos<br/>1. Amostras simples:<br/>- Skew e Kurtose;<br/>- Testes de normalidade: Kolmogorov-Smirnov e Shapiro-Wilk.<br/>2. Duas amostras independentes:<br/>- Teste t independente;<br/>- Mann-Whitney.<br/>3. Amostras pareadas:<br/>- Teste t pareado.<br/>4. Duas variáveis numéricas - Correlação e covariância:<br/>- Pearson;<br/>- Kendall.<\/p> ",
     "url": "https://www.meetup.com/rladies-natal/events/278122682/",
     "textColor": "blue"
   },
@@ -1668,6 +1636,14 @@
     "start": "2021-06-02",
     "description": "<p>On May 18, a minor update to R 4.1.0 releases: <a href=\"https://developer.r-project.org/\" class=\"linkified\">https://developer.r-project.org/<\/a><\/p> <p>For our June meeting, let's talk about the update: Did you install the new version? Did it break your code? Looking at the changelog, what catches our eye? Can we recreate some of the bugs that the update fixes?<\/p> <p>While the update shouldn't change much in our everyday workflows, this is an opportunity to take a more in-depth look at mechanics that we don't usually encounter using R, get more familiar with the contributors' vocabulary and maybe even discover useful functionalities.<\/p> <p>As always, everyone is welcome to join the conversation, ask questions and share their ideas and experiences, no matter their background or skill level.<\/p> ",
     "url": "https://www.meetup.com/r-frankfurt/events/278155704/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Philly: Panel Discussion: What Are Hiring Managers Looking For in Candidates?  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Philly",
+    "start": "2021-06-03",
+    "description": "<p>DataPhilly, RLadiesPhilly, and the DataLab meetup groups jointly present a panel discussion with hiring managers in the fields of Data Science and Data Engineering!!<\/p> <p>The job market for data related jobs is hot. But, job seekers usually find disparity between what recruiters say to what hiring managers really want. We hope to close this disconnect through this discussion and to help candidates better prepare for careers in data engineering or data science and to also help employers find better candidates.<\/p> <p>Whether you are looking for a new job in data or are simply interested in what the hiring process looks like, come and ask questions to our panel of eight hiring managers. Stick around after the Q&amp;A and meet these managers face-to-face.<\/p> <p>Event Schedule:<br/>1. Meeting opens at 5:45pm<br/>2. Introductions (Starts at 6pm)<br/>3. Panel Q&amp;A (75 minutes)<br/>Moderated discussion on hiring practices and expected skills and experience.<br/>4. Meet the Hiring Managers (30 minutes)<br/>Each hiring manager will have a separate room to meet interested candidates.<\/p> <p>Panelists:<br/>Oodaye Shukla - Chief Data Analytics Officer, Eversana<br/>Jason Rodriguez - Data Science Manager, GoPuff<br/>Ryan Harrington - Lead Data Scientist, CompassRed<br/>Johanna-Laina Fischer - Senior Data Scientist, Comcast EBI<br/>Daniel Romero - Advanced Analytics Lead, Slalom<br/>Dave O’ Toole - Vice President of Analytics, Consumer Behavior, and BI, Revzilla (Comoto Holdings)<br/>Robert Cheetham - CEO, Azavea<br/>Steve Ross - Sr. Manager Security Data Engineering, Elastic<\/p> <p>You must download and install Zoom if you have not done it already. Once you have installed Zoom, click on the event link provided in your email to join the meeting.<\/p> <p>DON'T FORGET TO ADD YOUR QUESTION TO THE PANEL AFTER YOU RSVP!<\/p> ",
+    "url": "https://www.meetup.com/rladies-philly/events/278174135/",
     "textColor": "blue"
   },
   {
@@ -1823,6 +1799,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Vienna: ggplot2 workshop with Ursula Laa, Austria, Europe",
+    "group": "R-Ladies Vienna",
+    "start": "2021-05-27",
+    "description": "<p>We are happy to announce that for the May 2021 Meetup our co-organiser Ursula Laa will offer a tutorial into data visualisation with the ggplot2 R package.<\/p> <p>Starting from the underlying principles of tidy data and the grammar of graphics, Ursula will introduce the basic ingredients (aesthetics and geoms) and show how to build a ggplot layer-by-layer. We will see together how we can quickly generate very different graphs with small changes in a standard interface, making it easy to better explore data.<\/p> <p>Ursula is a researcher in the Statistics Institute of the University of Natural Resources and Life Sciences (BOKU) in Vienna and holds PhD in theoretical particle physics. She focuses in her research on new methods and applications in data science with emphasis on interdisciplinary work, for example connecting her background in physics and her interest in statistical data visualisation.<\/p> <p>See you soon online!<br/>Your R-Ladies Vienna Organizing Team<\/p> ",
+    "url": "https://www.meetup.com/rladies-vienna/events/278177664/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Melbourne: Create and publish your personal website with Blogdown, Australia, Australia",
     "group": "R-Ladies Melbourne",
     "start": "2021-05-19",
@@ -1903,14 +1887,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Guayaquil: Club de lectura: R para Ciencia de Datos (Wickham & Grolemund)  [Virtual] , Ecuador, Latin America",
-    "group": "R-Ladies Guayaquil",
-    "start": "2021-05-13",
-    "description": "<p>Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: <a href=\"https://es.r4ds.hadley.nz\" class=\"linkified\">https://es.r4ds.hadley.nz<\/a>.<\/p> <p>Estamos felices de crear este grupo de lectura y aprender sobre cómo hacer ciencia de datos, lo cual incluye desde la importación de datos a R, manipular su estructura y transformarlos, hasta visualizarlos e incluso crear modelos y comunicar resultados.<\/p> <p>Este club de lectura incluirá varias sesiones quincenales que se llevarán a cabo los jueves empezando el 13 de mayo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo en el que nos enfoquemos para esa sesión.<\/p> <p>Durante esta primera sesión Danisse Carrascal y Mary Jane Rivero (R-Ladies Barranquilla) hablarán sobre los tipos de datos y estructuras que utilizaremos en R. Esto incluye al capítulo 14 (Cadenas de caracteres), capítulo 15 (Factores), y el capítulo 20 (Vectores).<\/p> <p>Recuerda, las sesiones son los jueves de cada quincena desde el 13 de mayo, y empiezan a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6). Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-guayaquil/events/277928985/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Baltimore: R-Ladies Baltimore -- Recursion in R with purrr (Virtual)  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Baltimore",
     "start": "2021-06-15",
@@ -1938,7 +1914,7 @@
     "title": "R en Buenos Aires: R para gente sociable  [Virtual] , Argentina, Latin America",
     "group": "R en Buenos Aires",
     "start": "2021-05-14",
-    "description": "<p>En este encuentro del club de lectura, continuaremos con el capítulo 2 del libro Ciencia de Datos para Gente Sociable de Antonio Vazquez Brust (disponible acá: <a href=\"https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/\" class=\"linkified\">https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/<\/a>).<\/p> <p>¿De qué trata Ciencia de Datos para Gente Sociable?<br/>Es una introducción a ciencia de datos usando R pensada principalmente para gente interesada en el urbanismo, la sociología y demás Ciencias Sociales. No hace falta ningún conocimiento previo de programación.<\/p> <p>La idea es dedicarle uno o dos encuentros a cada uno de los 6 capítulos donde vamos a tener una presentación corta y luego tiempo para discusión y resolución de ejercicios. Los encuentros serán cada 15 días en el mismo horario.<\/p> <p>En esta edición Andrea Gomez Vargas, socióloga y co-organizadora de Rladies Buenos Aires, nos va a introducir al 2do capitulo de este gran libro, donde seguiremos el paso a paso para generar un proyecto de R.<\/p> <p>¿Qué necesito para participar?<br/>Para cada encuentro, la idea es que leas el capitulo en cuestión antes del encuentro.<\/p> <p>En este caso, leé el primer capítulo: <a href=\"https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/qu%C3%A9-es-la-ciencia-de-datos.html\" class=\"linkified\">https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/qu%C3%A9-es-la-ciencia-de-datos.html<\/a><\/p> <p>De todas formas, si no tenés tiempo de leer, ¡vení igual!<\/p> <p>¡Les esperamos!<\/p> ",
+    "description": "<p>En este encuentro del club de lectura, continuaremos con el capítulo 2 del libro Ciencia de Datos para Gente Sociable de Antonio Vazquez Brust (disponible acá: <a href=\"https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/\" class=\"linkified\">https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/<\/a>).<\/p> <p>¿De qué trata Ciencia de Datos para Gente Sociable?<br/>Es una introducción a ciencia de datos usando R pensada principalmente para gente interesada en el urbanismo, la sociología y demás Ciencias Sociales. No hace falta ningún conocimiento previo de programación.<\/p> <p>La idea es dedicarle uno o dos encuentros a cada uno de los 6 capítulos donde vamos a tener una presentación corta y luego tiempo para discusión y resolución de ejercicios. Los encuentros serán cada 15 días en el mismo horario.<\/p> <p>En esta edición Andrea Gomez Vargas, socióloga y co-organizadora de Rladies Buenos Aires, nos va a introducir al 2do capitulo de este gran libro, donde seguiremos el paso a paso para generar un proyecto de R.<\/p> <p>¿Qué necesito para participar?<br/>Para cada encuentro, la idea es que leas el capitulo en cuestión antes del encuentro.<\/p> <p>En este caso, leé el segundo capítulo: <a href=\"https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/qu%C3%A9-es-la-ciencia-de-datos.html\" class=\"linkified\">https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/qu%C3%A9-es-la-ciencia-de-datos.html<\/a><\/p> <p>De todas formas, si no tenés tiempo de leer, ¡vení igual!<\/p> <p>¡Les esperamos!<\/p> ",
     "url": "https://www.meetup.com/renbaires/events/278063773/",
     "textColor": "blue"
   },
@@ -1998,14 +1974,6 @@
     "start": "2021-06-08",
     "description": "<p>For the next meeting, we do not have a fixed topic. Feel free to bring your own questions, comments, favorite package.<\/p> <p>See you there!<br/>Oliver<br/>(last updated: 11 Mai. 2021)<\/p> <p>Suggestions of topics would be welcome. 'Lightning Talks' of 7-10 minutes and only very few (or no) slides are a good possibility, e.g. pointing out a package you would like to recommend or learn more about.<\/p> <p>To avoid time restrictions, this video conference will be hosted on JITSI. To attend click the \"online event\" link on the right side, visible to all attendees, enter your name and join the meeting.<\/p> <p>Please only RSVP if you actually plan to attend.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/278122883/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Washington D.C.: Text Analysis with Wendy Martinez  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Washington D.C.",
-    "start": "2021-05-13",
-    "description": "<p>Wendy Martinez has been serving as the Director of the Mathematical Statistics Research Center at the Bureau of Labor Statistics (BLS) for over eight years. Prior to this, she served in several research positions throughout the Department of Defense. She held the position of Science and Technology Program Officer at the Office of Naval Research, where she established a research portfolio comprised of academia and industry performers developing data science products for the future Navy and Marine Corps. Her areas of interest include computational statistics, exploratory data analysis (to include visualization), and text analysis. She is the lead author of three books on MATLAB and statistics. Dr. Martinez was elected as a Fellow of the American Statistical Association (ASA) in 2006 and is an elected member of the International Statistical Institute. She is also proud and grateful to have served as the 2020 ASA President.<\/p> <p>Talk Abstract: The Bureau of Labor Statistics (BLS) is one of thirteen principal federal statistical agencies and is responsible for collecting data and producing several well-known economic indicators. Examples include the consumer price index and the monthly jobs report. BLS conducts surveys and censuses in areas related to productivity, prices, worker conditions, pay and benefits, and employment. In this talk, I will describe some applications in text analysis I’ve been involved with during my time at the BLS.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dc/events/277379543/",
     "textColor": "blue"
   },
   {
