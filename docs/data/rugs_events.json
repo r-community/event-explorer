@@ -504,14 +504,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Santiago: Manejo de tablas con {dplyr}  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Santiago",
-    "start": "2021-04-16",
-    "description": "<p>Si ya tienes un manejo básico de R y {dplyr}, y quieres comenzar a trabajar uniendo tablas de datos, este taller es para ti. Repasaremos las principales funciones de dplyr y utilizaremos inner_join, left_join, full-join y otras más para el manejo de tablas. Esta sesión estará a cargo de Javiera Riffo (<a href=\"https://twitter.com/JavieraRiffoTo1\" class=\"linkified\">https://twitter.com/JavieraRiffoTo1<\/a>), Analista de Inteligencia de Negocios y Magíster en Ciencias de la Ingeniería.<\/p> <p>- REQUERIMIENTOS<br/>Antes del taller es necesario que instales es paquete {tidyverse}:<br/>&gt; install.packages(\"tidyverse\")<br/>El conjunto de datos con el que trabajaremos se encuentra en: www.kaggle.com/rtatman/lego-database.<br/>Hemos preparado un proyecto en RStudio Cloud, que incluye los datos a utilizar y los paquetes necesarios: proyecto en donde trabajarás, a partir del siguiente link: <a href=\"https://rstudio.cloud/project/2432177\" class=\"linkified\">https://rstudio.cloud/project/2432177<\/a>.<\/p> <p>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-scl/events/277552472/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Santiago: Funciones de R que hacen nuestra vida más simple + LatinR 2021  [Virtual] , Chile, Latin America",
     "group": "R-Ladies Santiago",
     "start": "2021-04-30",
@@ -723,14 +715,6 @@
     "start": "2021-05-01",
     "description": "<p>\"Classification and Regression Trees\" with Praveena Mathews<\/p> <p>During this meetup of R-Ladies Chennai, we are looking forward to introducing classification and regression trees and showing you how you can easily create professional, detailed visualizations of these trees for data analysis with a few fun lines of code. The password for the Zoom meeting is[masked]. If you run into any difficulties while logging in, please email [masked] immediately. Also, then please check the following Google meet link as a backup:<br/><a href=\"https://meet.google.com/fwv-sbgi-hyp\" class=\"linkified\">https://meet.google.com/fwv-sbgi-hyp<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-chennai/events/277027899/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Valparaíso: Manejo de tablas con {dplyr}  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Valparaíso",
-    "start": "2021-04-16",
-    "description": "<p>Si ya tienes un manejo básico de R y {dplyr}, y quieres comenzar a trabajar uniendo tablas de datos, este taller es para ti. Repasaremos las principales funciones de dplyr y utilizaremos inner_join, left_join, full-join y otras más para el manejo de tablas. Esta sesión estará a cargo de Javiera Riffo (<a href=\"https://twitter.com/JavieraRiffoTo1\" class=\"linkified\">https://twitter.com/JavieraRiffoTo1<\/a>), Analista de Inteligencia de Negocios y Magíster en Ciencias de la Ingeniería.<\/p> <p>- REQUERIMIENTOS<br/>Antes del taller es necesario que instales es paquete {tidyverse}:<br/>&gt; install.packages(\"tidyverse\")<br/>El conjunto de datos con el que trabajaremos se encuentra en: www.kaggle.com/rtatman/lego-database.<br/>Hemos preparado un proyecto en RStudio Cloud, que incluye los datos a utilizar y los paquetes necesarios: proyecto en donde trabajarás, a partir del siguiente link: <a href=\"https://rstudio.cloud/project/2432177\" class=\"linkified\">https://rstudio.cloud/project/2432177<\/a>.<\/p> <p>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-valparaiso/events/277552428/",
     "textColor": "#7171fb"
   },
   {
@@ -953,11 +937,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Seattle: git through April: GitHub GUI and RStudio  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Seattle",
-    "start": "2021-04-16",
-    "description": "<p>Join us over lunch @ noon for 4 hands-on workshops using version control with git and GitHub.<\/p> <p>**This week**<\/p> <p>GitHub graphical user interface (GUI) and RStudio with Kim Dill-McFarland, Isabella Velasquez<\/p> <p>**Content**<\/p> <p>Avoid (most of) the command line hassle and use git/GitHub through a GUI or RStudio, including making repositories, tracking files, reviewing versions, and moving to/from GitHub. Some content is based on the Carpentries 'Version control with git' (<a href=\"http://swcarpentry.github.io/git-novice/\" class=\"linkified\">http://swcarpentry.github.io/git-novice/<\/a>)<\/p> <p>All workshop materials can be found at <a href=\"https://github.com/kdillmcfarland/2021-04-02-r-ladies-seattle-online/tree/gh-pages/_episodes/R-ladies\" class=\"linkified\">https://github.com/kdillmcfarland/2021-04-02-r-ladies-seattle-online/tree/gh-pages/_episodes/R-ladies<\/a><\/p> <p>**Audience**<\/p> <p>This workshop is meant for novice git users and no prior experience is required. Priority registration will be given to those 1) attending all 4 sessions and 2) local Washington R-Ladies members.<\/p> <p>**Prior to the workshop**<\/p> <p>- Install git <a href=\"https://git-scm.com/downloads\" class=\"linkified\">https://git-scm.com/downloads<\/a><br/>- Make a GitHub account <a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a><br/>- Install GitHub Desktop <a href=\"https://desktop.github.com/\" class=\"linkified\">https://desktop.github.com/<\/a><br/>- Install R <a href=\"https://www.r-project.org/\" class=\"linkified\">https://www.r-project.org/<\/a><br/>- Install RStudio (free) <a href=\"https://rstudio.com/products/rstudio/download/\" class=\"linkified\">https://rstudio.com/products/rstudio/download/<\/a><\/p> <p>If you have issues with install, an instructor will be on the event Zoom 30 minutes prior to the workshop<\/p> ",
-    "url": "https://www.meetup.com/rladies-seattle/events/276835843/",
+    "title": "R-Ladies Tbilisi: Bookclub - Chapter 5: Data Transformation Part II  [Virtual] , Georgia, Asia",
+    "group": "R-Ladies Tbilisi",
+    "start": "2021-05-16",
+    "description": "<p>R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (<a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>).<\/p> <p>On May 16, Ana Makharadze will continue with a presentation of the book's Chapter 5 on data transformation, from sub-chapters 5.5 onwards: <a href=\"https://r4ds.had.co.nz/transform.html\" class=\"linkified\">https://r4ds.had.co.nz/transform.html<\/a><\/p> <p>Please read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 20.00 Tbilisi time!<\/p> <p>The previous chapter 4 on work flow basics (<a href=\"https://r4ds.had.co.nz/workflow-basics.html\" class=\"linkified\">https://r4ds.had.co.nz/workflow-basics.html<\/a>) is quite short - please work this through independently.<\/p> <p>Please RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):<br/><a href=\"https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/\" class=\"linkified\">https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-tbilisi/events/278076684/",
     "textColor": "#7171fb"
   },
   {
@@ -1089,14 +1073,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Concepción: Manejo de tablas con {dplyr}  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Concepción",
-    "start": "2021-04-16",
-    "description": "<p>Si ya tienes un manejo básico de R y {dplyr}, y quieres comenzar a trabajar uniendo tablas de datos, este taller es para ti. Repasaremos las principales funciones de dplyr y utilizaremos inner_join, left_join, full-join y otras más para el manejo de tablas. Esta sesión estará a cargo de Javiera Riffo (<a href=\"https://twitter.com/JavieraRiffoTo1\" class=\"linkified\">https://twitter.com/JavieraRiffoTo1<\/a>), Analista de Inteligencia de Negocios y Magíster en Ciencias de la Ingeniería.<\/p> <p>- REQUERIMIENTOS<br/>Antes del taller es necesario que instales es paquete {tidyverse}:<br/>&gt; install.packages(\"tidyverse\")<br/>El conjunto de datos con el que trabajaremos se encuentra en: www.kaggle.com/rtatman/lego-database.<br/>Hemos preparado un proyecto en RStudio Cloud, que incluye los datos a utilizar y los paquetes necesarios: proyecto en donde trabajarás, a partir del siguiente link: <a href=\"https://rstudio.cloud/project/2432177\" class=\"linkified\">https://rstudio.cloud/project/2432177<\/a>.<\/p> <p>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-concepcion/events/277552624/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Concepción: Funciones de R que hacen nuestra vida más simple  [Virtual] , Chile, Latin America",
     "group": "R-Ladies Concepción",
     "start": "2021-04-30",
@@ -1110,14 +1086,6 @@
     "start": "2021-05-06",
     "description": "<p>En este encuentro virtual, Cami Bohórquez nos va a dar una charla sobre el uso de los computadores para modelar y simular sistemas sociales. Esta charla cuenta con una parte teórica introductoria y luego se presentarán ejemplo de sistemas sociales simulados usando R. En el fondo del taller está la pregunta por la representación, la emulación vs la simulación y los límites de la ciencia frente a sistemas complejos donde se premia la anticipación sobre la predicción.<\/p> <p>Cami Bohórquez es Ingeniera Industrial (2003) con maestría en ingeniería industrial de la Universidad de los Andes (2006), y con un doctorado en ingeniería de la Universidad de los Andes (2012). Actualmente trabaja con la Fundación CEIBA como Directora de Proyectos. Se especializa en la ingeniería de los sistemas sociales desde la nueva ciencia de la complejidad. En especial se ha interesado por los problemas estructurales de Colombia que nacen de su diversidad que surge por su fragmentación étnica, geográfica, ecológica y económica; su violencia, su inequidad y su ignorancia.<\/p> ",
     "url": "https://www.meetup.com/rladies-bogota/events/277906116/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Moffitt Cancer Center Bio-Data Club: Secret tRacks: Packages you didn't know you were waiting for, United States, US/Canada",
-    "group": "Moffitt Cancer Center Bio-Data Club",
-    "start": "2021-04-16",
-    "description": "<p>For complete meeting information and working links please visit <a href=\"https://github.com/pstew/biodataclub/tree/master/meetings\" class=\"linkified\">https://github.com/pstew/biodataclub/tree/master/meetings<\/a><\/p> ",
-    "url": "https://www.meetup.com/biodataclub/events/277523031/",
     "textColor": "#7171fb"
   },
   {
@@ -1233,6 +1201,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
+    "group": "Central Iowa R User Group",
+    "start": "2021-08-14",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrycclbsb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Berlin R Users Group: May meetups by other RUGs II  [Virtual] , Germany, Europe",
     "group": "Berlin R Users Group",
     "start": "2021-05-31",
@@ -1337,10 +1313,10 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group - Philippines: {R topic to be announced}  [Virtual] , Philippines, Asia",
+    "title": "R User Group - Philippines: #88 Water Demand and the Effect of Covid: A Forecasting Study  [Virtual] , Philippines, Asia",
     "group": "R User Group - Philippines",
     "start": "2021-05-19",
-    "description": "<p>Please bring a valid ID.<\/p> ",
+    "description": "<p>Prof. Rex Jalao of UP NEC will share with us how they are doing this study using R!<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/dnmkdsycchbzb/",
     "textColor": "blue"
   },
@@ -1468,7 +1444,7 @@
     "title": "Statistical Programming DC: Data in Government (DiG) Panel Discussion  [Virtual] , United States, US/Canada",
     "group": "Statistical Programming DC",
     "start": "2021-06-19",
-    "description": "<p>This event will feature diverse perspectives on the topic of \"Data in Government\" through lightning talks and a panel discussion.<\/p> <p>Repo: <a href=\"https://github.com/datacommunitydc/dig#info\" class=\"linkified\">https://github.com/datacommunitydc/dig#info<\/a><br/>Date: June 19, 2021 [masked])<br/>Submit questions: <a href=\"https://forms.gle/7Z3ALL5rdoqoX76FA\" class=\"linkified\">https://forms.gle/7Z3ALL5rdoqoX76FA<\/a><\/p> <p>Time:<br/>- 10:00 - 12:00 Pacific Standard Time (UTC-08)<br/>- 13:00 - 15:00 Eastern Standard Time (UTC-05)<br/>- 19:00 - 21:00 Central European Time (UTC+01)<\/p> <p>Panelists:<br/>- Aarti Bagul, Machine Learning Engineer at Snorkel AI<br/>- Akanksha Sharma, Senior Advisor at U.S. Office of Personnel Management<br/>- Christina Ho, VP of Government Analytics &amp; Innovation at Elder Research<br/>- Kimberly Kreiss, Data Scientist at Federal Reserve Board<br/>- Nadia Smith, Founder / Chief Executive Officer at Athena Federal Solutions<br/>- Selina Carter, Data Scientist at Inter-American Development Bank<\/p> <p>Agenda:<br/>- 13:00 Kick-off<br/>- 13:05 Lighting Talk from Panelist #1<br/>- 13:15 Lighting Talk from Panelist #2<br/>- 13:25 Lighting Talk from Panelist #3<br/>- 13:35 Lighting Talk from Panelist #4<br/>- 13:45 Lighting Talk from Panelist #5<br/>- 13:55 Lighting Talk from Panelist #6<br/>- 14:05 Transition to Panel discussion<br/>- 14:10 Panel discussion<br/>- 14:58 Wrap-up<br/>- 15:00 End<\/p> ",
+    "description": "<p>This event will feature diverse perspectives on the topic of \"Data in Government\" through lightning talks and a panel discussion.<\/p> <p>Repo: <a href=\"https://github.com/datacommunitydc/dig#info\" class=\"linkified\">https://github.com/datacommunitydc/dig#info<\/a><br/>Date: June 19, 2021 [masked])<br/>Submit questions: <a href=\"https://forms.gle/7Z3ALL5rdoqoX76FA\" class=\"linkified\">https://forms.gle/7Z3ALL5rdoqoX76FA<\/a><\/p> <p>Time:<br/>- 10:00 - 12:00 Pacific Standard Time (UTC-08)<br/>- 13:00 - 15:00 Eastern Standard Time (UTC-05)<br/>- 19:00 - 21:00 Central European Time (UTC+01)<\/p> <p>Panelists:<br/>- Christina Ho: VP of Government Analytics &amp; Innovation at Elder Research<br/>- Selina Carter: Data Scientist at Inter-American Development Bank<br/>- Kimberly Kreiss: Data Scientist at Federal Reserve Board<br/>- Nadia Smith: Founder / Chief Executive Officer at Athena Federal Solutions<br/>- Aarti Bagul: Machine Learning Engineer at Snorkel AI<br/>- Akanksha Sharma*: Senior Advisor for Data at OPM<\/p> <p>Nicole Janeway Bills and Neha Tiwari from Women Who Code DC (WWC DC) will co-moderate the event.<\/p> <p>Agenda:<br/>- 13:00 Kick-off<br/>- 13:05 Lighting Talk by Christina Ho<br/>- 13:15 Lighting Talk by Selina Carter<br/>- 13:25 Lighting Talk by Kimberly Kreiss<br/>- 13:35 Lighting Talk by Nadia Smith<br/>- 13:45 Lighting Talk by Aarti Bagul<br/>- 13:55 Lighting Talk by Akanksha Sharma*<br/>- 14:05 Transition to Panel discussion<br/>- 14:10 Panel discussion<br/>- 14:58 Wrap-up<br/>- 15:00 End<\/p> <p>*tentative<\/p> ",
     "url": "https://www.meetup.com/stats-prog-dc/events/278180366/",
     "textColor": "blue"
   },
@@ -1641,6 +1617,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Miami: Rescuing Coral Reefs with Data Science and Art: Future Pacific  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Miami",
+    "start": "2021-05-20",
+    "description": "<p>Join us on Thursday for an exclusive presentation and Q&amp;A session with Dr. Nyssa Silbiger on her latest project combining Data Science and Art to rescue coral reefs: Future Pacific. Dr. Silbiger will present the project implementation along with insights on how to perform a scientific study in times of COVID. Furthermore, Dr Silbiger will recount how they translated the study results into an art installation in collaboration with artist Lauren Shapiro.<\/p> <p>About the speaker:<\/p> <p>Dr. Nyssa Silbiger is currently an Assistant Professor in the Biology Department at California State University, Northridge. She teaches marine ecology, computer modeling and R.<\/p> <p>Dr. Nyssa Silbiger uses a diverse set of laboratory, field, and quantitative techniques in her research to understand the impact of climate stressors on organisms, communities, and ecosystem processes in the context of natural variability. To date, she has worked mostly in coastal ecosystems including coral reefs and temperate rocky shores.<\/p> <p>You can follow Dr. Silbiger's work at <a href=\"https://nyssasilbiger.com/\" class=\"linkified\">https://nyssasilbiger.com/<\/a> and njsilbiger.github.io​.<\/p> ",
+    "url": "https://www.meetup.com/rladies-miami/events/278239017/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Irvine: Social Vulnerability and COVID-19 Prevalence & Predicting Benzodiazepines Use  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Irvine",
     "start": "2021-05-25",
@@ -1734,6 +1718,14 @@
     "start": "2021-06-17",
     "description": "<p>[Abstract]<br/>The {targets} (<a href=\"https://docs.ropensci.org/targets/\" class=\"linkified\">https://docs.ropensci.org/targets/<\/a>) R package enhances the reproducibility, scale, and maintainability of data science projects in computationally intense fields such as machine learning, Bayesian data analysis, and statistical genomics. {targets} resolves the dependency structure of the analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and manages data storage. {stantargets} (<a href=\"https://docs.ropensci.org/stantargets/\" class=\"linkified\">https://docs.ropensci.org/stantargets/<\/a>) and similar packages extend {targets} to simplify pipeline construction for specialized use cases such as the validation of Bayesian models.<\/p> <p>[Bio]<br/>Will Landau (<a href=\"https://wlandau.github.io/\" class=\"linkified\">https://wlandau.github.io/<\/a>) works at Eli Lilly and Company (<a href=\"https://www.lilly.com/\" class=\"linkified\">https://www.lilly.com/<\/a>) where he develops methods and tools for clinical statisticians, and he is the creator and maintainer of the targets and drake R packages. Will earned his PhD in Statistics at Iowa State University in 2016, where his dissertation research applied Bayesian methods, hierarchical models, and GPU computing to the analysis of RNA-seq data.<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<\/p> ",
     "url": "https://www.meetup.com/AthensR/events/278030605/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Barcelona: Taller: \"Introducción a targets\"  [Virtual] , Spain, Europe",
+    "group": "R-Ladies Barcelona",
+    "start": "2021-05-25",
+    "description": "<p>¡Bienvenidas al meetup virtual de mayo! En esta ocasión tenemos preparado un taller:<\/p> <p>\"Introducción a targets\", por Irene Cruz (@irene_cruzgomez)<\/p> <p>*Recordad que para acceder a la charla necesitaréis una contraseña que os enviaremos 1 hora antes del evento.<\/p> <p>A continuación os dejamos la descripción del taller. ¡Nos vemos pronto!<\/p> <p>-------------------------------------<\/p> <p>Descripción del taller:<\/p> <p>En este taller se hace una presentación de las estrategias de canalización de flujos de trabajo (workflow pipelines) usando el paquete targets.<\/p> <p>En la primera parte del taller se explica cómo la estructuración del código en pipelines es el mejor modo de garantizar la reproducibilidad de nuestros resultados y de aliviar la carga mental que supone la organización de un proyecto complejo con diversas piezas interdependientes. Esta metodología de trabajo nos va a permitir reproducir el código sin repetir los pasos ya completados, ejecutar cálculos con computación paralela cuando sea necesario, y guardar un registro ordenado de los distintos objetos creados.<\/p> <p>En la segunda parte del taller se realizará un ejemplo guiado del uso de targets y se presentarán algunos tips para sacarle el máximo partido, como usar branching, introducir revisiones automáticas de resultados, o estrategias para depurar código.<\/p> <p>Requisitos: el taller supone cierta familiaridad previa con el código de R y con la definición de funciones.<\/p> <p>-------------------------------------<\/p> <p>Sobre Irene Cruz:<\/p> <p>Hola! Me llamo Irene Cruz, soy doctora en Sociología por la UAB. Trabajo como metodóloga en el IERMB y como profesora asociada de métodos y técnicas de investigación en la UAB.<\/p> ",
+    "url": "https://www.meetup.com/rladies-barcelona/events/278040182/",
     "textColor": "blue"
   },
   {
@@ -1859,14 +1851,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Tbilisi: Bookclub - Chapter 5: Data Transformation Part II  [Virtual] , Georgia, Asia",
-    "group": "R-Ladies Tbilisi",
-    "start": "2021-05-16",
-    "description": "<p>R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (<a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>).<\/p> <p>On May 16, Ana Makharadze will continue with a presentation of the book's Chapter 5 on data transformation, from sub-chapters 5.5 onwards: <a href=\"https://r4ds.had.co.nz/transform.html\" class=\"linkified\">https://r4ds.had.co.nz/transform.html<\/a><\/p> <p>Please read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 20.00 Tbilisi time!<\/p> <p>The previous chapter 4 on work flow basics (<a href=\"https://r4ds.had.co.nz/workflow-basics.html\" class=\"linkified\">https://r4ds.had.co.nz/workflow-basics.html<\/a>) is quite short - please work this through independently.<\/p> <p>Please RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):<br/><a href=\"https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/\" class=\"linkified\">https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-tbilisi/events/278076684/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Tbilisi: Bookclub - Chapter 7: Exploratory Data Analysis Part I  [Virtual] , Georgia, Asia",
     "group": "R-Ladies Tbilisi",
     "start": "2021-05-23",
@@ -1928,6 +1912,14 @@
     "start": "2021-07-12",
     "description": "<p>For the July 12 edition of our R-Ladies Dallas webinar series, we are excited to welcome Pratheepa Jega as our guest speaker. Pratheepa will introduce the topic of TBD.<\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>Session title:<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>Abstract:<\/p> <p>Bio:<\/p> <p>Twitter: <a href=\"https://twitter.com/PratheepaJ\" class=\"linkified\">https://twitter.com/PratheepaJ<\/a><\/p> <p>Website:<\/p> <p>*************************************************************************<\/p> <p>You are encouraged to click the link below to keep up with the group project and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>*************************************************************************<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
     "url": "https://www.meetup.com/rladies-dallas/events/278034322/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Belo Horizonte: We R Ladies - Previsão de Séries Temporais com o {fable}  [Virtual] , Brazil, Latin America",
+    "group": "R-Ladies Belo Horizonte",
+    "start": "2021-05-26",
+    "description": "<p>Previsão de Séries Temporais com o {fable}<\/p> <p>ESTE EVENTO ACONTECERÁ PELA PLATAFORMA SYMPLA STREAMING!<\/p> <p>Link para retirada de ingresso:<br/><a href=\"https://www.sympla.com.br/produtor/rladiesbh\" class=\"linkified\">https://www.sympla.com.br/produtor/rladiesbh<\/a><\/p> <p>Quem faz análise de dados sabe: Dados em Séries Temporais são muito recorrentes e tem muita literatura sobre.<br/>Vamos estudar mais técnicas para esse tipo de modelagem? Com uma mulher incrível que sabe do assunto, como sempre!<\/p> <p>Conteúdo do Curso:<\/p> <p>- O que é um tsibble<br/>- Alguns gráficos de séries temporais com o ggplot2<br/>- Previsões com métodos benchmarks: Mean, naive, snaive e random Walk<br/>- Análise dos Resíduos<br/>- Medidas de Acurácia<br/>- Métodos de Suavização Exponencial<br/>- Modelos Box &amp; Jenkins<\/p> <p>Nível de Habilidade: Intermediário<\/p> <p>Conheça a facilitadora:<\/p> <p>Paula Maçaira - Estatística e Doutora em Engenharia de Produção (<a href=\"https://www.linkedin.com/in/paula-ma%C3%A7aira-97954620b/\" class=\"linkified\">https://www.linkedin.com/in/paula-ma%C3%A7aira-97954620b/<\/a>)<\/p> <p>Paula Maçaira é uma entusiasta da programação em R e tem como missão de vida a disseminação desta linguagem nos quatro cantos do Brasil. Formada em Estatística pela ENCE, mestrado em Engenharia Elétrica e doutorado em Engenharia de Produção (PUC-Rio), atua desde 2019 como professora do Departamento de Engenharia Industrial da PUC-Rio. Tem como principais áreas de interesse Estatística Aplicada, Séries Temporais e Forecasting com ênfase no Setor Elétrico e na Saúde. É autora de diversos artigos publicados em periódicos nacionais e internacionais além de atuar como pesquisadora em vários projetos com a indústria.<\/p> <p>FAQs:<\/p> <p>O que é R?<\/p> <p>R é uma linguagem de programação de computador e ambiente de software para computação estatística e gráficos. Confira aqui (<a href=\"https://www.r-project.org/\" class=\"linkified\">https://www.r-project.org/<\/a>). Ele é usado para análise e visualização de dados em uma ampla variedade de campos.<\/p> <p>O que é R-Ladies?<\/p> <p>A comunidade R-Ladies é uma organização global que promove a diversidade de gênero na comunidade da linguagem computacional estatística (R). Embora nossos eventos considerem pelo menos o interesse de nível básico em R (algum conhecimento anterior é útil, mas não obrigatório), você é mais que bem-vinde a participar de qualquer uma de nossas sessões para ver o que fazemos.<\/p> <p>Onde posso acessar seus materiais?<\/p> <p>Vamos carregar os materiais para a nossa pasta no GDrive (<a href=\"https://drive.google.com/drive/folders/1UNO_46lSQ63aU71tIR70-7le0ez10HT5\" class=\"linkified\">https://drive.google.com/drive/folders/1UNO_46lSQ63aU71tIR70-7le0ez10HT5<\/a>).<\/p> <p>Eu conheço pouco ou nada sobre a linguagem R, ainda assim posso participar?<\/p> <p>Sugerimos pelo menos nível intermediário para o maior aproveitamento do conteúdo.<\/p> <p>Preciso de alguma estrutura pra acompanhar o curso?<\/p> <p>Para acompanhar o curso online, o ideal é ter acesso a um computador e internet rápida. Uma conta ativa no RStudio Cloud também será necessária. Veja como criá-la aqui: <a href=\"https://medium.com/rladiesbh/r-studio-cloud-como-programar-em-r-usando-a-web-aa6313a5fb8c\" class=\"linkified\">https://medium.com/rladiesbh/r-studio-cloud-como-programar-em-r-usando-a-web-aa6313a5fb8c<\/a> E aproveita e deixa seu like!<\/p> <p>Vai ter certificado?<\/p> <p>Sim, todo mundo que comparecer ao evento terá direito a um certificado de 1h30.<\/p> <p>O curso é gratuito?<\/p> <p>Teremos um número limitado de vagas gratuitas. As demais serão contribuições para o Projeto Animal.<\/p> <p>Eu sou homem, posso me inscrever?<\/p> <p>Este grupo é principalmente voltado para o público feminino e LGBTQIA+, mas está aberto a todos que concordam com o Código de Conduta (<a href=\"https://rladies.org/code-of-conduct/\" class=\"linkified\">https://rladies.org/code-of-conduct/<\/a>). Dito isto, se você é um homem e quer participar dos nossos encontros, você está convidado a participar!<\/p> <p>Ficou alguma dúvida?<\/p> <p>É só enviar para [masked] ;)<\/p> ",
+    "url": "https://www.meetup.com/rladies-belo-horizonte/events/278234618/",
     "textColor": "blue"
   },
   {
