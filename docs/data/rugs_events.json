@@ -8,11 +8,27 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "LA R users group: LA R Users: May 2021 - Max Kuhn -  Creating model en mass with workflowsets  [Virtual] , United States, US/Canada",
+    "group": "LA R users group",
+    "start": "2021-05-18",
+    "description": "<p>LA R Users Group will have our May meeting online on Zoom (<a href=\"https://washington.zoom.us/j/92634012842\" class=\"linkified\">https://washington.zoom.us/j/92634012842<\/a>). Yes, this is the right zoom link.<\/p> <p>***Creating model en mass with workflowsets***<\/p> <p>The tidymodels packages allow users to create and optimize models and their pre-processing steps (e.g. PCA, feature encodings, etc). With new data, it is common to try a variety of models to determine what works best. The workflowsets package enables users to easily evaluate, rank, and even combine (with the stacks package) myriad combinations of models and pre-processors.<\/p> <p>Bio:<br/>Max Kuhn is a software engineer at RStudio. He is currently working on improving R's modeling capabilities. He was a Senior Director of Nonclinical Statistics at Pfizer Global R&amp;D in Connecticut. He was applying models in the pharmaceutical and diagnostic industries for over 18 years. Max has a Ph.D. in Biostatistics.<br/>Max is the author of numerous R packages for techniques in machine learning and reproducible research. He, and Kjell Johnson, wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association, which recognizes the best book reviewed in Technometrics in 2015. Their latest book, Feature Engineering and Selection, was published in 2019.<\/p> <p>**Schedule**<br/>6pm Open Zoom<br/>~6:15pm Greetings and Breakout Rooms<br/>6:15~7pm Talk<br/>~7:30pm Social<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://socalr.org/\" class=\"linkified\">https://socalr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
+    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/278113310/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Orange County R Users Group (OCRUG): Column Names as Contracts  [Virtual] , United States, US/Canada",
     "group": "Orange County R Users Group (OCRUG)",
     "start": "2021-04-27",
     "description": "<p>Abstract:<\/p> <p>In this talk, I will explain how controlled vocabularies can be used to form contracts between data producers and data consumers. Explicitly embedding meaning in each component of variable names is a low-tech and low-friction approach that builds a shared understanding of how each field in the dataset is intended to work.<br/>Doing so can offload the burden of data producers by facilitating automated data validation and metadata management. At the same time, data consumers benefit from a reduction in the cognitive load to remember names, a deeper understanding of variable encoding, and opportunities to more efficiently analyze the resulting dataset.<br/>After discussing the theory of controlled vocabulary column-naming and related workflows, I will demonstrate how to implement the creation, upkeep, and application of controlled vocabularies with various software, including the R package {convo} and custom SQL templating and testing with dbt.<\/p> <p>Bio:<\/p> <p>Emily Riederer is a Senior Analytics Manager at Capital One where she leads a team to develop and sustain data products (datamarts, R packages, and dashboards) for business users. Emily blogs at <a href=\"https://emilyriederer.netlify.com/\" class=\"linkified\">https://emilyriederer.netlify.com/<\/a> , is a contributing author to The R Markdown Cookbook (CRC Press) and 97 Things Every Data Engineer Should Know (O’Reilly - forthcoming), and the developer of the R packages projmgr and convo.<\/p> <p>**Schedule**<br/>6:20 Open zoom<br/>6:30-7:30 Presentation<br/>~7:30 Virtual Social<\/p> <p>** ORCUG **<br/>website: <a href=\"https://ocrug.org\" class=\"linkified\">https://ocrug.org<\/a><br/>GitHub Repo: <a href=\"https://tinyurl.com/ocrug-github\" class=\"linkified\">https://tinyurl.com/ocrug-github<\/a><br/>Slack: <a href=\"https://tinyurl.com/socalrug-slack\" class=\"linkified\">https://tinyurl.com/socalrug-slack<\/a><br/>Slack Signup: <a href=\"https://tinyurl.com/socalrug-slack-signup\" class=\"linkified\">https://tinyurl.com/socalrug-slack-signup<\/a><br/>YouTube: <a href=\"https://tinyurl.com/ocrug-youtube\" class=\"linkified\">https://tinyurl.com/ocrug-youtube<\/a><br/>Twitter (@oc_rug) <a href=\"https://tinyurl.com/ocrug-twitter\" class=\"linkified\">https://tinyurl.com/ocrug-twitter<\/a><br/>Instagram: (oc_rug) <a href=\"https://tinyurl.com/ocrug-instagram\" class=\"linkified\">https://tinyurl.com/ocrug-instagram<\/a><br/>Linkedin: <a href=\"https://www.linkedin.com/company/ocrug/\" class=\"linkified\">https://www.linkedin.com/company/ocrug/<\/a><br/>Mailing List: <a href=\"https://groups.google.com/u/1/g/ocrug\" class=\"linkified\">https://groups.google.com/u/1/g/ocrug<\/a><br/>Email: [masked]<\/p> <p>All participants agree to abide by the OCRUG's Code of Conduct<br/><a href=\"https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md\" class=\"linkified\">https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md<\/a><\/p> ",
     "url": "https://www.meetup.com/OC-RUG/events/276980211/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Orange County R Users Group (OCRUG): Max Kuhn - Creating model en mass with workflowsets  [Virtual] , United States, US/Canada",
+    "group": "Orange County R Users Group (OCRUG)",
+    "start": "2021-05-18",
+    "description": "<p>***Creating model en mass with workflowsets***<\/p> <p>The tidymodels packages allow users to create and optimize models and their pre-processing steps (e.g. PCA, feature encodings, etc). With new data, it is common to try a variety of models to determine what works best. The workflowsets package enables users to easily evaluate, rank, and even combine (with the stacks package) myriad combinations of models and pre-processors.<\/p> <p>Bio:<br/>Max Kuhn is a software engineer at RStudio. He is currently working on improving R's modeling capabilities. He was a Senior Director of Nonclinical Statistics at Pfizer Global R&amp;D in Connecticut. He was applying models in the pharmaceutical and diagnostic industries for over 18 years. Max has a Ph.D. in Biostatistics.<br/>Max is the author of numerous R packages for techniques in machine learning and reproducible research. He, and Kjell Johnson, wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association, which recognizes the best book reviewed in Technometrics in 2015. Their latest book, Feature Engineering and Selection, was published in 2019.<\/p> <p>**Schedule**<br/>- 6:00 PM Open Zoom<br/>- 6:15 PM Greetings and Breakout Rooms<br/>- 6:15~7:00 PM Talk<br/>- 7:30 PM Social<\/p> <p>** ORCUG **<br/>website: <a href=\"https://ocrug.org\" class=\"linkified\">https://ocrug.org<\/a><br/>GitHub Repo: <a href=\"https://tinyurl.com/ocrug-github\" class=\"linkified\">https://tinyurl.com/ocrug-github<\/a><br/>Slack: <a href=\"https://tinyurl.com/socalrug-slack\" class=\"linkified\">https://tinyurl.com/socalrug-slack<\/a><br/>Slack Signup: <a href=\"https://tinyurl.com/socalrug-slack-signup\" class=\"linkified\">https://tinyurl.com/socalrug-slack-signup<\/a><br/>YouTube: <a href=\"https://tinyurl.com/ocrug-youtube\" class=\"linkified\">https://tinyurl.com/ocrug-youtube<\/a><br/>Twitter (@oc_rug) <a href=\"https://tinyurl.com/ocrug-twitter\" class=\"linkified\">https://tinyurl.com/ocrug-twitter<\/a><br/>Instagram: (oc_rug) <a href=\"https://tinyurl.com/ocrug-instagram\" class=\"linkified\">https://tinyurl.com/ocrug-instagram<\/a><br/>Linkedin: <a href=\"https://www.linkedin.com/company/ocrug/\" class=\"linkified\">https://www.linkedin.com/company/ocrug/<\/a><br/>Mailing List: <a href=\"https://groups.google.com/u/1/g/ocrug\" class=\"linkified\">https://groups.google.com/u/1/g/ocrug<\/a><br/>Email: [masked]<\/p> <p>All participants agree to abide by the OCRUG's Code of Conduct<br/><a href=\"https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md\" class=\"linkified\">https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md<\/a><\/p> ",
+    "url": "https://www.meetup.com/OC-RUG/events/278129771/",
     "textColor": "#7171fb"
   },
   {
@@ -77,6 +93,14 @@
     "start": "2021-05-12",
     "description": "<p>Selecting test exercises with an appropriate difficulty level is one of the most important aspects of a high-quality assessment, but how do we know how difficult a given exercise is? <\/p> <p>One of the possible approaches is to use Item Response Theory - a set of psychometric models which can be used to estimate learners’ proficiency and parameters of each exercise. This approach works well in most cases, however, is data intensive. So, the question arises what to do when we don't have enough data, when for example, we are introducing some new exercises.<\/p> <p>Fortunately, probabilistic programming comes to our aid. Using Greta, we can build a custom IRT model, that allows us to quantify how different features of exercises impact their difficulty. In this talk, we will introduce the audience to the basics of IRT and probabilistic programming through a real-world application - estimating the difficulty of English tasks. For this purpose, we will use the previously mentioned Greta package, which lets us write statistical models in native R and sample from them automatically and efficiently.<\/p> <p>### REGISTRATION INFO<\/p> <p>--&gt;&gt;&gt; Registration link: <a href=\"https://xeurope-exercises.carrd.co/\" class=\"linkified\">https://xeurope-exercises.carrd.co/<\/a> &lt;&lt;&lt;--<br/>Please also RSVP here on the Meetup Page.<\/p> <p>### Our Speaker<\/p> <p>Damian Wiatrzyk<br/>LinkedIn <a href=\"https://www.linkedin.com/in/damian-wiatrzyk-91803072/\" class=\"linkified\">https://www.linkedin.com/in/damian-wiatrzyk-91803072/<\/a><\/p> <p>Damian Wiatrzyk graduated from the Poznań University of Technology with a Bachelor's degree in Computer Science. Currently, he is studying for a Master's degree in Data Science at Adam Mickiewicz University and working as an Associate Data Scientist at Pearson IOKI.<\/p> <p>### ABOUT THE X-EUROPE DATA SCIENCE WEBINARS<\/p> <p>X-Europe Webinar Series is a joint online event of Vienna Data Science Group, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar, Warsaw R Users Group, PyData Slovakia, and Data Scientists Ireland.<\/p> ",
     "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/277996599/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Hamburg R User Group: A professional trading research system in R  [Virtual] , Poland, Europe",
+    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
+    "start": "2021-05-18",
+    "description": "<p>This is the event organized by Hamburg R User Group but feel free to join the Zoom session!<\/p> <p>Dear R Users, we are happy to announce a new meetup after a very long time. We are looking forward to see many old and new faces and listen to an interesting talk by Daniel Brandt about the use of R in his work at SSW Trading. As usual the meetup will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>The agenda for this meetup is:<\/p> <p>20.00 Join the Zoom Conference<br/>20.05 Welcome / AOB<br/>20.10 \"A professional trading research system in R\" - Daniel Brandt (SSW Trading)<br/>20.55 Break<br/>21:00 Meet the Expert: Daniel Brandt<br/>21.30 Virtual cool down Beer<\/p> <p>** A professional trading research system in R - Daniel Brandt (SSW Trading)<\/p> <p>At SSW Trading, our algorithms are responsible for automatically trading more than[masked] Instruments at different exchanges daily all around the world. In order to stay ahead of the competition, we have developed a cutting-edge research platform, providing instant access to many terabytes of data, along with significant computational resources both on premise and in the cloud as well as our own in-house solutions for machine learning and data mining pipelines.<\/p> <p>During this talk, we want to demonstrate how this state-of-the-art research system is created and controlled from within R, how R interfaces and packages are used to leverage a host of different services and technologies, and how these tools are combined into our machine learning pipeline.<\/p> <p>We will demonstrate how we use Non-Standard Evaluation (NSE) in R to enable data analysis with completely immutable data, showing how R can be used to track (and reverse) all data manipulation steps and their originators.<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/278041044/",
     "textColor": "#7171fb"
   },
   {
@@ -168,6 +192,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "IndyUseR Group: Apache Arrow: Enabling Data Engineering in R - Ian Cook  [Virtual] , United States, US/Canada",
+    "group": "IndyUseR Group",
+    "start": "2021-05-18",
+    "description": "<p>The job of a data engineer is to build, manage, and optimize systems for transforming data into forms that facilitate analysis. Despite the broad adoption of R as a language for data science, it has taken a back seat to Python and other languages in the area of data engineering. But this is beginning to change. Data engineering tasks that were previously infeasible in R are becoming straightforward thanks to recent developments in the Apache Arrow project and the R package `arrow`. Arrow provides tools for working with tabular data that emphasize performance, efficiency, standardization, and interoperability with other languages and systems in the broader data ecosystem. Using the R package `arrow`, it is now possible to implement many data engineering and ETL tasks entirely in R, avoiding the overhead of switching to another language Python or using a framework like Spark.<\/p> <p>All skill levels are welcomed.<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentation<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>This meetup will be 100% virtual! Check the \"Location\" section of the web page for the Zoom Meeting link.<\/p> <p>Support graciously provided by the R Consortium (<a href=\"https://www.r-consortium.com\" class=\"linkified\">https://www.r-consortium.com<\/a>) and Onebridge (<a href=\"https://www.onebridge.tech/\" class=\"linkified\">https://www.onebridge.tech/<\/a>)<\/p> ",
+    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprycchbxb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Dallas R Users Group: Census Bureau Economic Indicators in R  [Virtual] , United States, US/Canada",
     "group": "Dallas R Users Group",
     "start": "2021-04-21",
@@ -189,6 +221,14 @@
     "start": "2021-05-04",
     "description": "<p>[Speaker]<br/>Robert Dahl Jacobsen from Centrica Energy Trading<\/p> <p>[content]<br/>In this talk there will be a number of tips and tricks to make R projects more reproducible. Ranging from \"data analysis\" that we would like to be able to repeat in a year or just on another computer to getting e.g. Shiny apps shipped for others to run. We will also get into using R with Docker.<\/p> ",
     "url": "https://www.meetup.com/AalborgRUG/events/277560505/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "AalborgRUG: [Hamburg R-User-Group] A professional trading research system in R, Denmark, Europe",
+    "group": "AalborgRUG",
+    "start": "2021-05-18",
+    "description": "<p>[host link]<br/><a href=\"https://www.meetup.com/Hamburg-R-User-Group/events/277848092/\" class=\"linkified\">https://www.meetup.com/Hamburg-R-User-Group/events/277848092/<\/a><\/p> <p>Dear R Users, we are happy to announce a new meetup after a very long time. We are looking forward to see many old and new faces and listen to an interesting talk by Daniel Brandt about the use of R in his work at SSW Trading. As usual the meetup will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>The agenda for this meetup is:<\/p> <p>20.00 Join the Zoom Conference<br/>20.05 Welcome / AOB<br/>20.10 \"A professional trading research system in R\" - Daniel Brandt (SSW Trading)<br/>20.55 Break<br/>21:00 Meet the Expert: Daniel Brandt<br/>21.30 Virtual cool down Beer<\/p> <p>** A professional trading research system in R - Daniel Brandt (SSW Trading)<\/p> <p>At SSW Trading, our algorithms are responsible for automatically trading more than[masked] Instruments at different exchanges daily all around the world. In order to stay ahead of the competition, we have developed a cutting-edge research platform, providing instant access to many terabytes of data, along with significant computational resources both on premise and in the cloud as well as our own in-house solutions for machine learning and data mining pipelines.<\/p> <p>During this talk, we want to demonstrate how this state-of-the-art research system is created and controlled from within R, how R interfaces and packages are used to leverage a host of different services and technologies, and how these tools are combined into our machine learning pipeline.<\/p> <p>We will demonstrate how we use Non-Standard Evaluation (NSE) in R to enable data analysis with completely immutable data, showing how R can be used to track (and reverse) all data manipulation steps and their originators.<\/p> ",
+    "url": "https://www.meetup.com/AalborgRUG/events/278095855/",
     "textColor": "#7171fb"
   },
   {
@@ -590,6 +630,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2021-05-18",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsycchbxb/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Santa Rosa: RLadies+ invita a useR!   [Virtual] , Argentina, Latin America",
     "group": "R-Ladies Santa Rosa",
     "start": "2021-04-28",
@@ -889,6 +937,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Hamburg R User Group: A professional trading research system in R  [Virtual] , Germany, Europe",
+    "group": "Hamburg R User Group",
+    "start": "2021-05-18",
+    "description": "<p>Dear R Users, we are happy to announce a new meetup after a very long time. We are looking forward to see many old and new faces and listen to an interesting talk by Daniel Brandt about the use of R in his work at SSW Trading. As usual the meetup will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>The agenda for this meetup is:<\/p> <p>20.00 Join the Zoom Conference<br/>20.05 Welcome / AOB<br/>20.10 \"A professional trading research system in R\" - Daniel Brandt (SSW Trading)<br/>20.55 Break<br/>21:00 Meet the Expert: Daniel Brandt<br/>21.30 Virtual cool down Beer<\/p> <p>** A professional trading research system in R - Daniel Brandt (SSW Trading)<\/p> <p>At SSW Trading, our algorithms are responsible for automatically trading more than[masked] Instruments at different exchanges daily all around the world. In order to stay ahead of the competition, we have developed a cutting-edge research platform, providing instant access to many terabytes of data, along with significant computational resources both on premise and in the cloud as well as our own in-house solutions for machine learning and data mining pipelines.<\/p> <p>During this talk, we want to demonstrate how this state-of-the-art research system is created and controlled from within R, how R interfaces and packages are used to leverage a host of different services and technologies, and how these tools are combined into our machine learning pipeline.<\/p> <p>We will demonstrate how we use Non-Standard Evaluation (NSE) in R to enable data analysis with completely immutable data, showing how R can be used to track (and reverse) all data manipulation steps and their originators.<\/p> ",
+    "url": "https://www.meetup.com/Hamburg-R-User-Group/events/277848092/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies CDMX: Club de lectura: Advanced R  [Virtual] , Mexico, Latin America",
     "group": "R-Ladies CDMX",
     "start": "2021-05-06",
@@ -1073,22 +1129,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "LA R users group: LA R Users: May 2021 - Max Kuhn -  Creating model en mass with workflowsets  [Virtual] , United States, US/Canada",
-    "group": "LA R users group",
-    "start": "2021-05-18",
-    "description": "<p>LA R Users Group will have our May meeting online on Zoom (<a href=\"https://washington.zoom.us/j/92634012842\" class=\"linkified\">https://washington.zoom.us/j/92634012842<\/a>). Yes, this is the right zoom link.<\/p> <p>***Creating model en mass with workflowsets***<\/p> <p>The tidymodels packages allow users to create and optimize models and their pre-processing steps (e.g. PCA, feature encodings, etc). With new data, it is common to try a variety of models to determine what works best. The workflowsets package enables users to easily evaluate, rank, and even combine (with the stacks package) myriad combinations of models and pre-processors.<\/p> <p>Bio:<br/>Max Kuhn is a software engineer at RStudio. He is currently working on improving R's modeling capabilities. He was a Senior Director of Nonclinical Statistics at Pfizer Global R&amp;D in Connecticut. He was applying models in the pharmaceutical and diagnostic industries for over 18 years. Max has a Ph.D. in Biostatistics.<br/>Max is the author of numerous R packages for techniques in machine learning and reproducible research. He, and Kjell Johnson, wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association, which recognizes the best book reviewed in Technometrics in 2015. Their latest book, Feature Engineering and Selection, was published in 2019.<\/p> <p>**Schedule**<br/>6pm Open Zoom<br/>~6:15pm Greetings and Breakout Rooms<br/>6:15~7pm Talk<br/>~7:30pm Social<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://socalr.org/\" class=\"linkified\">https://socalr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
-    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/278113310/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Orange County R Users Group (OCRUG): Max Kuhn - Creating model en mass with workflowsets  [Virtual] , United States, US/Canada",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2021-05-18",
-    "description": "<p>***Creating model en mass with workflowsets***<\/p> <p>The tidymodels packages allow users to create and optimize models and their pre-processing steps (e.g. PCA, feature encodings, etc). With new data, it is common to try a variety of models to determine what works best. The workflowsets package enables users to easily evaluate, rank, and even combine (with the stacks package) myriad combinations of models and pre-processors.<\/p> <p>Bio:<br/>Max Kuhn is a software engineer at RStudio. He is currently working on improving R's modeling capabilities. He was a Senior Director of Nonclinical Statistics at Pfizer Global R&amp;D in Connecticut. He was applying models in the pharmaceutical and diagnostic industries for over 18 years. Max has a Ph.D. in Biostatistics.<br/>Max is the author of numerous R packages for techniques in machine learning and reproducible research. He, and Kjell Johnson, wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association, which recognizes the best book reviewed in Technometrics in 2015. Their latest book, Feature Engineering and Selection, was published in 2019.<\/p> <p>**Schedule**<br/>- 6:00 PM Open Zoom<br/>- 6:15 PM Greetings and Breakout Rooms<br/>- 6:15~7:00 PM Talk<br/>- 7:30 PM Social<\/p> <p>** ORCUG **<br/>website: <a href=\"https://ocrug.org\" class=\"linkified\">https://ocrug.org<\/a><br/>GitHub Repo: <a href=\"https://tinyurl.com/ocrug-github\" class=\"linkified\">https://tinyurl.com/ocrug-github<\/a><br/>Slack: <a href=\"https://tinyurl.com/socalrug-slack\" class=\"linkified\">https://tinyurl.com/socalrug-slack<\/a><br/>Slack Signup: <a href=\"https://tinyurl.com/socalrug-slack-signup\" class=\"linkified\">https://tinyurl.com/socalrug-slack-signup<\/a><br/>YouTube: <a href=\"https://tinyurl.com/ocrug-youtube\" class=\"linkified\">https://tinyurl.com/ocrug-youtube<\/a><br/>Twitter (@oc_rug) <a href=\"https://tinyurl.com/ocrug-twitter\" class=\"linkified\">https://tinyurl.com/ocrug-twitter<\/a><br/>Instagram: (oc_rug) <a href=\"https://tinyurl.com/ocrug-instagram\" class=\"linkified\">https://tinyurl.com/ocrug-instagram<\/a><br/>Linkedin: <a href=\"https://www.linkedin.com/company/ocrug/\" class=\"linkified\">https://www.linkedin.com/company/ocrug/<\/a><br/>Mailing List: <a href=\"https://groups.google.com/u/1/g/ocrug\" class=\"linkified\">https://groups.google.com/u/1/g/ocrug<\/a><br/>Email: [masked]<\/p> <p>All participants agree to abide by the OCRUG's Code of Conduct<br/><a href=\"https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md\" class=\"linkified\">https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md<\/a><\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/278129771/",
-    "textColor": "blue"
-  },
-  {
     "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
     "group": "Central Iowa R User Group",
     "start": "2021-05-22",
@@ -1217,14 +1257,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Hamburg R User Group: A professional trading research system in R  [Virtual] , Poland, Europe",
-    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
-    "start": "2021-05-18",
-    "description": "<p>This is the event organized by Hamburg R User Group but feel free to join the Zoom session!<\/p> <p>Dear R Users, we are happy to announce a new meetup after a very long time. We are looking forward to see many old and new faces and listen to an interesting talk by Daniel Brandt about the use of R in his work at SSW Trading. As usual the meetup will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>The agenda for this meetup is:<\/p> <p>20.00 Join the Zoom Conference<br/>20.05 Welcome / AOB<br/>20.10 \"A professional trading research system in R\" - Daniel Brandt (SSW Trading)<br/>20.55 Break<br/>21:00 Meet the Expert: Daniel Brandt<br/>21.30 Virtual cool down Beer<\/p> <p>** A professional trading research system in R - Daniel Brandt (SSW Trading)<\/p> <p>At SSW Trading, our algorithms are responsible for automatically trading more than[masked] Instruments at different exchanges daily all around the world. In order to stay ahead of the competition, we have developed a cutting-edge research platform, providing instant access to many terabytes of data, along with significant computational resources both on premise and in the cloud as well as our own in-house solutions for machine learning and data mining pipelines.<\/p> <p>During this talk, we want to demonstrate how this state-of-the-art research system is created and controlled from within R, how R interfaces and packages are used to leverage a host of different services and technologies, and how these tools are combined into our machine learning pipeline.<\/p> <p>We will demonstrate how we use Non-Standard Evaluation (NSE) in R to enable data analysis with completely immutable data, showing how R can be used to track (and reverse) all data manipulation steps and their originators.<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/278041044/",
-    "textColor": "blue"
-  },
-  {
     "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Why R? Webinar 046 - Genomics @ Cloud with R  [Virtual] , Poland, Europe",
     "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
     "start": "2021-06-17",
@@ -1257,6 +1289,22 @@
     "textColor": "blue"
   },
   {
+    "title": "Montreal R User Group: Speed Optimization & Benchmarks in Spark NLP 3: Making the Most of Hardware  [Virtual] , Canada, US/Canada",
+    "group": "Montreal R User Group",
+    "start": "2021-06-16",
+    "description": "<p>Register: <a href=\"https://events.johnsnowlabs.com/speed-optimization-benchmarks-in-spark-nlp-3-making-the-most-of-modern-hardware\" class=\"linkified\">https://events.johnsnowlabs.com/speed-optimization-benchmarks-in-spark-nlp-3-making-the-most-of-modern-hardware<\/a><\/p> <p>Spark NLP is the most widely used NLP library in the enterprise, thanks to implementing production-grade, trainable, and scalable versions of state-of-the-art deep learning &amp; transfer learning NLP research. It is also Open Source with a permissive Apache 2.0 license that officially supports Python, Java, and Scala languages backed by a highly active community and JSL members.<\/p> <p>Spark NLP library implements core NLP algorithms including lemmatization, part of speech tagging, dependency parsing, named entity recognition, spell checking, multi-class and multi-label text classification, sentiment analysis, emotion detection, unsupervised keyword extraction, and state-of-the-art Transformers such as BERT, ELECTRA, ELMO, ALBERT, XLNet, and Universal Sentence Encoder.<\/p> <p>The latest release of Spark NLP 3.0 comes with over 1100+ pretrained models, pipelines, and Transformers in 190+ different languages. It also delivers massive speeds up on both CPU &amp; GPU devices while extending support for the latest computing platforms such as new Databricks runtimes and EMR versions.<\/p> <p>The talk will focus on how to scale Apache Spark / PySpark applications in YARN clusters, use GPU in Databricks new Apache Spark 3.x runtimes, and manage large-scale datasets in resource-demanding NLP applications efficiently. We will share benchmarks, tips &amp; tricks, and lessons learned when scaling Spark NLP.<\/p> <p>Register: <a href=\"https://events.johnsnowlabs.com/speed-optimization-benchmarks-in-spark-nlp-3-making-the-most-of-modern-hardware\" class=\"linkified\">https://events.johnsnowlabs.com/speed-optimization-benchmarks-in-spark-nlp-3-making-the-most-of-modern-hardware<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/278278100/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Montreal R User Group: Crossing the AI Valley: Deploying and Monitoring Models in Production at Scale  [Virtual] , Canada, US/Canada",
+    "group": "Montreal R User Group",
+    "start": "2021-06-24",
+    "description": "<p>Register: <a href=\"https://info.datascience.salon/crossing-the-ai-valley-of-death-deploying-monitoring-models-in-production\" class=\"linkified\">https://info.datascience.salon/crossing-the-ai-valley-of-death-deploying-monitoring-models-in-production<\/a><\/p> <p>It’s happened again. You built another AI model that will never see the light of day because it won’t make it past the AI “valley of death” – the crossover of model development to model deployment across your enterprise. The handoff between data science and engineering teams is fraught with friction, outstanding questions around governance and accountability, and who is responsible for different parts of the pipeline and process. Even worse? The patchwork approach when building an AI pipeline leaves many organizations open to risks because of a lack of a holistic approach to security and monitoring.<\/p> <p>Join us to learn about approaches and solutions for configuring a ModelOps pipeline that’s right for your organization. You’ll discover why it’s never too early to plan for operationalization of models, regardless of whether your organization has 1, 10, 100, or 1,000 models in production.<\/p> <p>The discussion will also reveal the merits of an open container specification that allows you to easily package and deploy models in production from everywhere. Finally, new approaches for monitoring model drift and explainability will be revealed that will help manage expectations with business leaders all through a centralized AI software platform called Modzy®.<\/p> <p>Register: <a href=\"https://info.datascience.salon/crossing-the-ai-valley-of-death-deploying-monitoring-models-in-production\" class=\"linkified\">https://info.datascience.salon/crossing-the-ai-valley-of-death-deploying-monitoring-models-in-production<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/278278899/",
+    "textColor": "blue"
+  },
+  {
     "title": "Grupo de Usuarios de R de Madrid: 66  - Reunión Grupo de R: Miércoles 26 de mayo de 2021  [Virtual] , Spain, Europe",
     "group": "Grupo de Usuarios de R de Madrid",
     "start": "2021-05-26",
@@ -1278,14 +1326,6 @@
     "start": "2021-06-12",
     "description": "<p>This is a chance to hang out with other R coders for a bit. It will be informal with no set topic. Bring something to work on and feel free to share or ask questions if want.<\/p> ",
     "url": "https://www.meetup.com/Cleveland-UseR-Group/events/278090179/",
-    "textColor": "blue"
-  },
-  {
-    "title": "IndyUseR Group: Apache Arrow: Enabling Data Engineering in R - Ian Cook  [Virtual] , United States, US/Canada",
-    "group": "IndyUseR Group",
-    "start": "2021-05-18",
-    "description": "<p>The job of a data engineer is to build, manage, and optimize systems for transforming data into forms that facilitate analysis. Despite the broad adoption of R as a language for data science, it has taken a back seat to Python and other languages in the area of data engineering. But this is beginning to change. Data engineering tasks that were previously infeasible in R are becoming straightforward thanks to recent developments in the Apache Arrow project and the R package `arrow`. Arrow provides tools for working with tabular data that emphasize performance, efficiency, standardization, and interoperability with other languages and systems in the broader data ecosystem. Using the R package `arrow`, it is now possible to implement many data engineering and ETL tasks entirely in R, avoiding the overhead of switching to another language Python or using a framework like Spark.<\/p> <p>All skill levels are welcomed.<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentation<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>This meetup will be 100% virtual! Check the \"Location\" section of the web page for the Zoom Meeting link.<\/p> <p>Support graciously provided by the R Consortium (<a href=\"https://www.r-consortium.com\" class=\"linkified\">https://www.r-consortium.com<\/a>) and Onebridge (<a href=\"https://www.onebridge.tech/\" class=\"linkified\">https://www.onebridge.tech/<\/a>)<\/p> ",
-    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprycchbxb/",
     "textColor": "blue"
   },
   {
@@ -1313,14 +1353,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group - Philippines: #88 Water Demand and the Effect of Covid: A Forecasting Study  [Virtual] , Philippines, Asia",
-    "group": "R User Group - Philippines",
-    "start": "2021-05-19",
-    "description": "<p>Prof. Rex Jalao of UP NEC will share with us how they are doing this study using R!<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Philippines/events/dnmkdsycchbzb/",
-    "textColor": "blue"
-  },
-  {
     "title": "R User Group - Philippines: {R topic to be announced}  [Virtual] , Philippines, Asia",
     "group": "R User Group - Philippines",
     "start": "2021-06-16",
@@ -1334,14 +1366,6 @@
     "start": "2021-07-21",
     "description": "<p>Please bring a valid ID.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Philippines/events/dnmkdsycckbcc/",
-    "textColor": "blue"
-  },
-  {
-    "title": "AalborgRUG: [Hamburg R-User-Group] A professional trading research system in R, Denmark, Europe",
-    "group": "AalborgRUG",
-    "start": "2021-05-18",
-    "description": "<p>[host link]<br/><a href=\"https://www.meetup.com/Hamburg-R-User-Group/events/277848092/\" class=\"linkified\">https://www.meetup.com/Hamburg-R-User-Group/events/277848092/<\/a><\/p> <p>Dear R Users, we are happy to announce a new meetup after a very long time. We are looking forward to see many old and new faces and listen to an interesting talk by Daniel Brandt about the use of R in his work at SSW Trading. As usual the meetup will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>The agenda for this meetup is:<\/p> <p>20.00 Join the Zoom Conference<br/>20.05 Welcome / AOB<br/>20.10 \"A professional trading research system in R\" - Daniel Brandt (SSW Trading)<br/>20.55 Break<br/>21:00 Meet the Expert: Daniel Brandt<br/>21.30 Virtual cool down Beer<\/p> <p>** A professional trading research system in R - Daniel Brandt (SSW Trading)<\/p> <p>At SSW Trading, our algorithms are responsible for automatically trading more than[masked] Instruments at different exchanges daily all around the world. In order to stay ahead of the competition, we have developed a cutting-edge research platform, providing instant access to many terabytes of data, along with significant computational resources both on premise and in the cloud as well as our own in-house solutions for machine learning and data mining pipelines.<\/p> <p>During this talk, we want to demonstrate how this state-of-the-art research system is created and controlled from within R, how R interfaces and packages are used to leverage a host of different services and technologies, and how these tools are combined into our machine learning pipeline.<\/p> <p>We will demonstrate how we use Non-Standard Evaluation (NSE) in R to enable data analysis with completely immutable data, showing how R can be used to track (and reverse) all data manipulation steps and their originators.<\/p> ",
-    "url": "https://www.meetup.com/AalborgRUG/events/278095855/",
     "textColor": "blue"
   },
   {
@@ -1374,14 +1398,6 @@
     "start": "2021-05-26",
     "description": "<p>Please join us for the 41st R aggRegate meetup on Zoom! We welcome current or aspiring R users who have any level of experience with the R programming language.<\/p> <p>Our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.<\/p> <p>No topic is off limits, and you may attend even if you don’t feel that you have anything to share. Come learn with us!<\/p> <p>When: Wednesday, May 26th, 2021 @ 6:30-8 PM<\/p> <p>Where: Online: zoom info provided soon (provided after you join).<\/p> <p>Details: Brittany Barker will provide a short demonstration of the purrr package in R. The purrr package enhances the functional programming aspect of R by providing different methods to work with functions and vectors. She will focus on how to use the map() function to replace loops and apply functions, which can streamline your workflow and simplify code.<\/p> <p>Agenda:<\/p> <p>• Brittany's short demonstration of the purrr package<\/p> <p>• Brief intro/R project or problem: We'll take turns talking about an R project we're working on, a data/data-science problem, or something we want to learn, etc.<\/p> <p>• Next, anyone can share some code they've been working on and want help with / want feedback on. Make sure to have this ready before the meeting.<\/p> <p>• Before arriving, use the pdxrlang/aggregate GitHub repository to discuss ideas for things to work on at aggregate - <a href=\"https://github.com/pdxrlang/aggregate/issues\" class=\"linkified\">https://github.com/pdxrlang/aggregate/issues<\/a><\/p> <p>Please note that this event, like all PDX R events, adheres to the PDX R Code of Conduct: <a href=\"https://pdxrlang.com/code-of-conduct.html\" class=\"linkified\">https://pdxrlang.com/code-of-conduct.html<\/a> We are dedicated to a safe learning environment to all.<\/p> <p>If you have any trouble message Brittany Barker in in the Meetup app, or on Twitter at @pdxrlang<\/p> ",
     "url": "https://www.meetup.com/portland-r-user-group/events/278015664/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Wiesbaden R User Group: R Coffee Break -  tidytext: Tidy Text Mining  [Virtual] , Germany, Europe",
-    "group": "Wiesbaden R User Group",
-    "start": "2021-05-19",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns sehr, dass Julia Silge uns ihr CRAN-Paket tidytext vorstellt. Das Paket ermöglicht Text Mining mit dem tidy-Framework (dplyr', 'ggplot2', and Other Tidy Tools). Julia Silge ist die Autorin von \"Text Mining with R\" und der Seite <a href=\"https://www.tidytextmining.com/\" class=\"linkified\">https://www.tidytextmining.com/<\/a>.<br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting ID: tbd<br/>Passcode: tbd<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277230349/",
     "textColor": "blue"
   },
   {
@@ -1515,14 +1531,6 @@
   {
     "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Tucson AZ",
-    "start": "2021-05-18",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsycchbxb/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
     "start": "2021-05-25",
     "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
     "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsycchbhc/",
@@ -1633,6 +1641,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Bucharest: R-Ladies Bucharest: #17 OneHourOnline Event  [Virtual] , Romania, Europe",
+    "group": "R-Ladies Bucharest",
+    "start": "2021-05-25",
+    "description": "<p>Ne vedem marti, 25 Mai ora 6 PM cu un eveniment nou OneHourOnline.<\/p> <p>Este un eveniment in care ne intalnim pentru a discuta despre data &amp; programare cu R, fara agenda.<\/p> <p>Daca vrei sa participi, te rog inscrie-te aici si vom reveni cu detaliile de conectare.<\/p> <p>Inregistrarea este gratuita, dar obligatorie pentru a putea participa.<br/>---------------------------------------------------------------------------------------------<br/>CODE OF CONDUCT : <a href=\"http://rladies.org/code-of-conduct/\" class=\"linkified\">http://rladies.org/code-of-conduct/<\/a><br/>Te rog, citeste codul nostru de conduita inainte de a participa in evenimentele noastre.<\/p> ",
+    "url": "https://www.meetup.com/rladies-bucharest/events/278218443/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Bucharest: R-Ladies Bucharest: NEW MEETUP  [Virtual] , Romania, Europe",
     "group": "R-Ladies Bucharest",
     "start": "2021-06-15",
@@ -1662,14 +1678,6 @@
     "start": "2021-05-27",
     "description": "<p>We are happy to announce that for the May 2021 Meetup our co-organiser Ursula Laa will offer a tutorial into data visualisation with the ggplot2 R package.<\/p> <p>Starting from the underlying principles of tidy data and the grammar of graphics, Ursula will introduce the basic ingredients (aesthetics and geoms) and show how to build a ggplot layer-by-layer. We will see together how we can quickly generate very different graphs with small changes in a standard interface, making it easy to better explore data.<\/p> <p>Ursula is a researcher in the Statistics Institute of the University of Natural Resources and Life Sciences (BOKU) in Vienna and holds PhD in theoretical particle physics. She focuses in her research on new methods and applications in data science with emphasis on interdisciplinary work, for example connecting her background in physics and her interest in statistical data visualisation.<\/p> <p>See you soon online!<br/>Your R-Ladies Vienna Organizing Team<\/p> ",
     "url": "https://www.meetup.com/rladies-vienna/events/278177664/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Melbourne: Create and publish your personal website with Blogdown, Australia, Australia",
-    "group": "R-Ladies Melbourne",
-    "start": "2021-05-19",
-    "description": "<p>Having a personal website to show your projects and experiences is an easy way to stand out in a crowd of job applications.<\/p> <p>At our event this month, R-Ladies Melbourne organiser Danyang Dai will give a workshop demonstrating how to create and publish a website using Blogdown in R! And we are excited to announce that this workshop will be given in person!!<\/p> <p>Danyang's workshop is designed for beginners, and does not require prior experience in web languages such as HTML, CSS or JavaScript - only a bit of R Markdown is needed! She will guide you through creating the website from beginning to end, and at the completion of the workshop we will show you how to publish your website online with Netlify, so that anyone can visit your new personal site.<\/p> <p>Danyang is a committee member of R-Ladies Melbourne who graduated from Melbourne Uni with a Master's degree in Applied Econometrics. She is a self-taught programmer and is passionate about programming in R.<\/p> <p>Danyang created her first personal website using Blogdown in 2018 before she know how to program in any language. She is particularly passionate about using R to visualise and present data using R Markdown. Danyang has taught R programming workshops at Monash Uni for the Data Visualisation and Analytics course. She is now pursuing data analytic careers in Melbourne.<\/p> <p>What to bring:<br/>As this is a WORKSHOP, please bring your laptop with RStudio and the Blogdown package installed (<a href=\"https://github.com/rstudio/blogdown\" class=\"linkified\">https://github.com/rstudio/blogdown<\/a>). This is enough to set up a website locally, but if you'd like to publish the website for all to see you will also need a GitHub account.<\/p> <p>This workshop will be held in PERSON, and will not be streamed online. It will only be available for 35 people, so be sure to register to attend!<\/p> <p>This event will be hosted by our fantastic sponsor Nous Group. Please arrive from 5:30pm, the workshop will start at 6pm sharp! Pizza and drinks will be provided for the evening.<\/p> <p>We look forward to seeing everyone at our first in person event in over a year!<\/p> <p>R-Ladies Melbourne<\/p> ",
-    "url": "https://www.meetup.com/rladies-melbourne/events/277974887/",
     "textColor": "blue"
   },
   {
@@ -1729,6 +1737,22 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Freiburg: From messy data to beautiful plot: Guided TidyTuesday  [Virtual] , Germany, Europe",
+    "group": "R-Ladies Freiburg",
+    "start": "2021-06-08",
+    "description": "<p>Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?<\/p> <p>In this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!<\/p> <p>You may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!<\/p> <p>It's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!<\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/278277079/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Freiburg: Tidy Text Analysis: Word frequencies & n-grams  [Virtual] , Germany, Europe",
+    "group": "R-Ladies Freiburg",
+    "start": "2021-06-22",
+    "description": "<p>Text is one of the most prominent and extensive data sources in the digital world. It can be an insight into consumer opinions, social media trends, and literary story arches. However, it can be difficult to analyze without specialized tools and commands. The tidytext package and framework makes it easy to go from full text files to clean data and ultimately, analysis!<\/p> <p>The workshop will start with the building blocks of text analysis: separating a text into smaller chunks, removing punctuation, and identifying frequent words or phrases. If you’ve joined our previous text analysis meetups before, this will be a great recap; if you haven’t, this will bring you right up to speed! We’ll show you all you need to know so beginners to the topic are very much welcome.<\/p> <p>The focus for the evening will be on going beyond individual words in isolation to n-grams: units of a set number of words (e.g. bigrams like “I think”, “think that”, “that tidytext”, “tidytext is”, “is great”.). This will allow us to get a sense of context about words based on the company they keep and address typical text analysis problems (e.g. \"happy\" preceded by \"not\" being given a positive sentiment score).<\/p> <p>We’ll top it all off with some truly unique visualizations that show the relationship between words, like bigram network plots with ggraph. Materials will be based on the book Tidy Text Mining by Julia Silge and David Robinson (chapter 4).<\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/278277069/",
+    "textColor": "blue"
+  },
+  {
     "title": "AthensR: Build Interactive {shiny} Apps to Share Your Work With Anyone! [useR! Oslo]  [Virtual] , Greece, Europe",
     "group": "AthensR",
     "start": "2021-05-20",
@@ -1742,6 +1766,14 @@
     "start": "2021-06-17",
     "description": "<p>[Abstract]<br/>The {targets} (<a href=\"https://docs.ropensci.org/targets/\" class=\"linkified\">https://docs.ropensci.org/targets/<\/a>) R package enhances the reproducibility, scale, and maintainability of data science projects in computationally intense fields such as machine learning, Bayesian data analysis, and statistical genomics. {targets} resolves the dependency structure of the analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and manages data storage. {stantargets} (<a href=\"https://docs.ropensci.org/stantargets/\" class=\"linkified\">https://docs.ropensci.org/stantargets/<\/a>) and similar packages extend {targets} to simplify pipeline construction for specialized use cases such as the validation of Bayesian models.<\/p> <p>[Bio]<br/>Will Landau (<a href=\"https://wlandau.github.io/\" class=\"linkified\">https://wlandau.github.io/<\/a>) works at Eli Lilly and Company (<a href=\"https://www.lilly.com/\" class=\"linkified\">https://www.lilly.com/<\/a>) where he develops methods and tools for clinical statisticians, and he is the creator and maintainer of the targets and drake R packages. Will earned his PhD in Statistics at Iowa State University in 2016, where his dissertation research applied Bayesian methods, hierarchical models, and GPU computing to the analysis of RNA-seq data.<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<\/p> ",
     "url": "https://www.meetup.com/AthensR/events/278030605/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Lima: Simulación de tiempos de espera en cola usando herramientas de tidyverse  [Virtual] , Peru, Latin America",
+    "group": "R-Ladies Lima",
+    "start": "2021-05-29",
+    "description": "<p>¡Nuevo meetup! y estamos muy emocionadas :D de contar con una destacada R-Lady y científica de datos.<\/p> <p>Ana Paula es egresada de Estadística Informática de la UNALM. Actualmente trabaja como Fellow Data Scientist en Mckinsey &amp; Company. Cuenta con 5 años de experiencia construyendo y liderando soluciones analíticas en distintos rubros como banca, telecomunicaciones, construcción, pintura, minería y otros.<\/p> <p>• Lo que aprenderemos:<br/>A través de un taller práctico, veremos cómo resolver una problemática de alocación de recursos para reducir tiempos de espera en cola en agencias. Aplicando los paquetes de \"tidyverse\", veremos su gran utilidad para realizar los análisis de datos y simulaciones necesarios.<\/p> <p>• Requisitos:<br/>Asegúrate de tener instalado Zoom.<\/p> <p>***IMPORTANTE***<br/>Para participar, dale \"Asistiré\" en este evento.<br/>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. Estaremos enviando un correo con el link de zoom.<\/p> <p>• Pregunta frecuente:<br/>P: ¿Los chicos son bienvenidos a las reuniones de R-Ladies Lima?<br/>R: Sí, los chicos son bienvenidos a cualquiera de nuestros eventos. Puedes revisar nuestro código de conducta global aquí: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-lima/events/278279639/",
     "textColor": "blue"
   },
   {
@@ -1771,8 +1803,8 @@
   {
     "title": "R-Ladies Santa Barbara: A Gentle Introduction to Parallel Processing in R with Danielle Ferraro  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Santa Barbara",
-    "start": "2021-05-19",
-    "description": "<p>Ready to learn how to write faster code? In this workshop, Danielle will provide an overview on parallel processing - that is, how to take advantage of your computer’s multicore processor to complete large tasks more quickly. We will cover what parallel processing is, when to use it, and review some packages and code to get started with parallelization in R.<\/p> <p>Materials will be provided a day or two before the event. If you have any questions before then feel free to reach out to Juliette, Sam, or An!<\/p> ",
+    "start": "2021-05-26",
+    "description": "<p>PLEASE NOTE: This event has been rescheduled for Wednesday, May 26th from 5:30-7:00pm PT.<\/p> <p>Ready to learn how to write faster code? In this workshop, Danielle will provide an overview on parallel processing - that is, how to take advantage of your computer’s multicore processor to complete large tasks more quickly. We will cover what parallel processing is, when to use it, and review some packages and code to get started with parallelization in R.<\/p> <p>Materials will be provided a day or two before the event. If you have any questions before then feel free to reach out to Juliette, Sam, or An!<\/p> ",
     "url": "https://www.meetup.com/rladies-santa-barbara/events/278125270/",
     "textColor": "blue"
   },
@@ -1867,14 +1899,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Hamburg R User Group: A professional trading research system in R  [Virtual] , Germany, Europe",
-    "group": "Hamburg R User Group",
-    "start": "2021-05-18",
-    "description": "<p>Dear R Users, we are happy to announce a new meetup after a very long time. We are looking forward to see many old and new faces and listen to an interesting talk by Daniel Brandt about the use of R in his work at SSW Trading. As usual the meetup will be open for all to attend, and newcomers / beginners are very welcome.<\/p> <p>The agenda for this meetup is:<\/p> <p>20.00 Join the Zoom Conference<br/>20.05 Welcome / AOB<br/>20.10 \"A professional trading research system in R\" - Daniel Brandt (SSW Trading)<br/>20.55 Break<br/>21:00 Meet the Expert: Daniel Brandt<br/>21.30 Virtual cool down Beer<\/p> <p>** A professional trading research system in R - Daniel Brandt (SSW Trading)<\/p> <p>At SSW Trading, our algorithms are responsible for automatically trading more than[masked] Instruments at different exchanges daily all around the world. In order to stay ahead of the competition, we have developed a cutting-edge research platform, providing instant access to many terabytes of data, along with significant computational resources both on premise and in the cloud as well as our own in-house solutions for machine learning and data mining pipelines.<\/p> <p>During this talk, we want to demonstrate how this state-of-the-art research system is created and controlled from within R, how R interfaces and packages are used to leverage a host of different services and technologies, and how these tools are combined into our machine learning pipeline.<\/p> <p>We will demonstrate how we use Non-Standard Evaluation (NSE) in R to enable data analysis with completely immutable data, showing how R can be used to track (and reverse) all data manipulation steps and their originators.<\/p> ",
-    "url": "https://www.meetup.com/Hamburg-R-User-Group/events/277848092/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Tbilisi: Bookclub - Chapter 7: Exploratory Data Analysis Part I  [Virtual] , Georgia, Asia",
     "group": "R-Ladies Tbilisi",
     "start": "2021-05-23",
@@ -1886,8 +1910,16 @@
     "title": "R-Ladies Tbilisi: Bookclub - Chapter 7: Exploratory Data Analysis Part II  [Virtual] , Georgia, Asia",
     "group": "R-Ladies Tbilisi",
     "start": "2021-06-06",
-    "description": "<p>R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (<a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>).<\/p> <p>On June 6, Mariam Asatiani will present the book's Chapter 7 on exploratory data analysis, starting from sub-chapter 7.5: <a href=\"https://r4ds.had.co.nz/exploratory-data-analysis.html\" class=\"linkified\">https://r4ds.had.co.nz/exploratory-data-analysis.html<\/a><\/p> <p>Please read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 19.00 Tbilisi time!<\/p> <p>The previous chapter 6 on work flow scripts (<a href=\"https://r4ds.had.co.nz/workflow-scripts.html\" class=\"linkified\">https://r4ds.had.co.nz/workflow-scripts.html<\/a>) is quite short - please work this through independently.<\/p> <p>Please RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):<br/><a href=\"https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/\" class=\"linkified\">https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/<\/a><\/p> ",
+    "description": "<p>R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (<a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>).<\/p> <p>On June 6, Tamar Gogebashvili will present the book's Chapter 7 on exploratory data analysis, starting from sub-chapter 7.5: <a href=\"https://r4ds.had.co.nz/exploratory-data-analysis.html\" class=\"linkified\">https://r4ds.had.co.nz/exploratory-data-analysis.html<\/a><\/p> <p>Please read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 19.00 Tbilisi time!<\/p> <p>The previous chapter 6 on work flow scripts (<a href=\"https://r4ds.had.co.nz/workflow-scripts.html\" class=\"linkified\">https://r4ds.had.co.nz/workflow-scripts.html<\/a>) is quite short - please work this through independently.<\/p> <p>Please RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):<br/><a href=\"https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/\" class=\"linkified\">https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-tbilisi/events/278094115/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Tbilisi: First steps on Git using R-Studio and GitHub  [Virtual] , Georgia, Asia",
+    "group": "R-Ladies Tbilisi",
+    "start": "2021-06-10",
+    "description": "<p>This R-Ladies Tbilisi meetup is happy to welcome Elisa Schneider (see bio below)! During this workshop we will introduce the concept of version control using Git, RStudio and GitHub. We will learn the basic Git commands and how to use them directly from R-Studio. Elisa Schneider will show how to link your R-Projects with GitHub to create online repositories to share your work and how it can be used for collaboration. At the end she will do a short demo on uploading a small WebPage to Github such as the one from R-Ladies Seattle <a href=\"https://github.com/rladies-seattle/rladies-seattle-organizing\" class=\"linkified\">https://github.com/rladies-seattle/rladies-seattle-organizing<\/a>. If we have enough time she will introduce other possibilities such as GitHub Webpages like this one: <a href=\"https://kyla-mcconnell.github.io/website/index.html\" class=\"linkified\">https://kyla-mcconnell.github.io/website/index.html<\/a>.<\/p> <p>If you have some time to prepare before the Meetup, Elisa recommends to:<br/>· create a GitHub account (if you do not have one yet) on <a href=\"https://github.com/\" class=\"linkified\">https://github.com/<\/a><br/>· download and install Git from <a href=\"https://git-scm.com/\" class=\"linkified\">https://git-scm.com/<\/a><\/p> <p>For the last part of the meetup some very basic knowledge of markdown/Rmarkdown is recommended, but not mandatory, we will also go through it. If you want, you can have a look at the first 35 minutes of this video about RMarkdown: <a href=\"https://www.youtube.com/watch?v=H91WSwALx1A\" class=\"embedded\">https://www.youtube.com/watch?v=H91WSwALx1A<\/a><\/p> <p>Bio<br/>Elisa Schneider comes from Argentina. She studied Biology and also got a degree on Science Education. She specialized in Remote Sensing data analysis and Geographic Information Systems (GIS). She practiced as environmental assessment consultant and also taught cartography and GIS for park rangers. Thanks to a scholarship from the German Academic Exchange Service she was able to complete a master on Environmental Modeling in 2019, at the University of Freiburg. Since then she has been working on the Forest Reaserch Institute of Baden-Württemberg, Germany evaluating forest health from remote sensing data, modeling species distribution and outbreaks of pest insects under climate change. In 2019 she joined R-Ladies Freiburg as a Co-Organizer.<\/p> ",
+    "url": "https://www.meetup.com/rladies-tbilisi/events/278274341/",
     "textColor": "blue"
   },
   {
