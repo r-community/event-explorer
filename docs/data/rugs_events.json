@@ -72,6 +72,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
+    "group": "Central Iowa R User Group",
+    "start": "2021-05-22",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrycchbdc/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Berlin R Users Group: April meetups by other RUGs  [Virtual] , Germany, Europe",
     "group": "Berlin R Users Group",
     "start": "2021-04-29",
@@ -181,6 +189,14 @@
     "start": "2021-05-18",
     "description": "<p>The job of a data engineer is to build, manage, and optimize systems for transforming data into forms that facilitate analysis. Despite the broad adoption of R as a language for data science, it has taken a back seat to Python and other languages in the area of data engineering. But this is beginning to change. Data engineering tasks that were previously infeasible in R are becoming straightforward thanks to recent developments in the Apache Arrow project and the R package `arrow`. Arrow provides tools for working with tabular data that emphasize performance, efficiency, standardization, and interoperability with other languages and systems in the broader data ecosystem. Using the R package `arrow`, it is now possible to implement many data engineering and ETL tasks entirely in R, avoiding the overhead of switching to another language Python or using a framework like Spark.<\/p> <p>All skill levels are welcomed.<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentation<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>This meetup will be 100% virtual! Check the \"Location\" section of the web page for the Zoom Meeting link.<\/p> <p>Support graciously provided by the R Consortium (<a href=\"https://www.r-consortium.com\" class=\"linkified\">https://www.r-consortium.com<\/a>) and Onebridge (<a href=\"https://www.onebridge.tech/\" class=\"linkified\">https://www.onebridge.tech/<\/a>)<\/p> ",
     "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprycchbxb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Trenton R Users (TRU): Meetup for May - 2021  [Virtual] , United States, US/Canada",
+    "group": "Trenton R Users (TRU)",
+    "start": "2021-05-22",
+    "description": "<p>Topic of the Month (approx 20 min):<br/>“Decision Tree\" - Praveen Sharma<\/p> <p>Rapid Round (approx 10 mins):<br/>1) TBD<br/>2) Deep Learning - Ashutosh Prasad<br/>There shall be a discussion on deep learning. Further, we shall like to build a team of people who will work on deep learning projects of common interests.<\/p> ",
+    "url": "https://www.meetup.com/TRUgroup/events/277608777/",
     "textColor": "#7171fb"
   },
   {
@@ -376,14 +392,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "New York Open Statistical Programming Meetup: The extendr project: Integrating R and Rust  [Virtual] , United States, US/Canada",
-    "group": "New York Open Statistical Programming Meetup",
-    "start": "2021-04-22",
-    "description": "<p>We have our second Rust talk in three months, this time about integrating R and Rust.<\/p> <p>Thank you to EcoHealth Alliance for providing the Zoom link.<\/p> <p>Conversations during the meetup are encouraged in the monthly-meetup-chat channel in the nyhackr slack.<\/p> <p>About the Talk:<br/>Rust is a relatively new programming language that is rapidly gaining in popularity. It is designed to be suitable for low-level system programming with high performance and low overhead while providing modern abstractions and protection from undefined behavior. The most common application scenarios for Rust are those that otherwise might be suitable for C or C++. As such, Rust may be a good choice for writing extensions to high-level interactive languages such as R. The extendr project was founded with the goal to make writing Rust extensions to R as easy and painless as possible. At the same time, extendr also enables the reverse use case, writing standalone Rust programs that call R code and take advantage of the R runtime. This talk will provide an overview of the extendr API and its key design choices, and it will highlight simple use cases and known pitfalls. The talk is meant primarily as an introduction to Rust for current R users. However, experienced Rust programmers who want to branch out into data science and statistical programming may also find this talk helpful.<\/p> <p>About Claus:<br/>Claus Wilke is the Jane and Roland Blumberg Centennial Professor in Molecular Evolution at The University of Texas at Austin. He holds a PhD in Theoretical Physics from the University of Bochum in Germany, and he received postdoctoral training in biological physics in the lab of Chris Adami at Caltech. Claus Wilke has published extensively in the areas of computational biology, evolutionary biology, protein biochemistry, and virology. He has also authored several popular R packages used for data visualization, such as cowplot, ggridges, and ggtext, and he is a regular contributor to the package ggplot2.<\/p> <p>The talk will begin at 7 PM EDT and we will start admitting people to the event shortly before. Since this is completely remote there will be no pizza but everyone is encouraged to have pizza individually.<\/p> ",
-    "url": "https://www.meetup.com/nyhackr/events/276955206/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "New York Open Statistical Programming Meetup: Comparing {lightgbm} to other R GBDT Libraries  [Virtual] , United States, US/Canada",
     "group": "New York Open Statistical Programming Meetup",
     "start": "2021-05-17",
@@ -488,14 +496,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Natal: Conhecendo R-Ladies Natal entre scripts e meetups  [Virtual] , Brazil, Latin America",
-    "group": "R-Ladies Natal",
-    "start": "2021-04-22",
-    "description": "<p>(TRECHO TIRADO DO INSTAGRAM: @bioforum_cb_ufrn)<br/>*Evento pelo Youtube do Biofórum*<br/>Nesta quinta-feira (22/04) às 17 horas teremos um papo super legal com as integrantes do grupo @rladiesnatal.<\/p> <p>Com o intuito de promover a diversidade de gênero feminino na comunidade R, que tem grande parte dos pacotes desenvolvidas por homens. Elas irão falar sobre linguagem de programação R de forma inspiradora para aumentar o engajamento e participação feminina na programação. 🤩<br/>.<br/>.<br/>Vai ser muito especial, esperamos vocês no nosso canal do YouTube! 🤗<br/>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-natal/events/277696007/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Natal: R do Zero: para iniciantes  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies Natal",
     "start": "2021-05-21",
@@ -573,13 +573,6 @@
     "start": "2021-05-11",
     "description": "<p>Kicking off 2021 with a Show and Tell event series. Join us on the 2nd Tuesday of the month to share your code. It might be code that you are particularly proud of. Or maybe it is code that is driving you crazy. Either way we would love to see it.<\/p> <p>Come along to this online event and share your triumph and/or frustration. Who knows what each session will bring but I ALWAYS walk away with a new tip/trick in my back pocket.<\/p> <p>This event will be via Zoom.<\/p> <p>Check out some of the cool things we have shared at Show and Tell events last year at our blog <a href=\"https://rladiessydney.org/post/\" class=\"linkified\">https://rladiessydney.org/post/<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-sydney/events/276959428/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Xalapa: Club de lectura: Advanced R, Mexico, Latin America",
-    "group": "R-Ladies Xalapa",
-    "start": "2021-04-22",
-    "url": "https://www.meetup.com/rladies-xalapa/events/277640330/",
     "textColor": "#7171fb"
   },
   {
@@ -683,14 +676,6 @@
     "start": "2021-05-12",
     "description": "<p>In our May 2021 meetup we're joined by Athanasia Monika Mowinckel. Athanasia is a researcher at the Center for Lifespan Changes in Brain and Cognition, organiser for R-Ladies Oslo, and is a member of the R-Ladies Global team.<\/p> <p>Zhoosh up your ggplots!<\/p> <p>In this talk Athanasia will share with us her tips and tricks for enhancing (zhooshing up!) your data visualisations made with ggplot2.<\/p> <p>Password for the Zoom session will be sent out on the day of the event.<\/p> <p>--<\/p> <p>R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.<\/p> <p>A question we often get is \"Are men welcome to attend this event?\"<\/p> <p>As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.<\/p> <p>**As such, we strongly encourage cis-men who attend this event to come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**<\/p> <p>All attendees are strongly encouraged to review the R-Ladies Code of Conduct (<a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a>) and must abide by it.<\/p> ",
     "url": "https://www.meetup.com/rladies-edinburgh/events/277562307/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Miami: Growing into R  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Miami",
-    "start": "2021-04-22",
-    "description": "<p>*SPEAKER:* Dr. Shannon Pileggi<\/p> <p>Starting something new in R can be daunting, but there are many community resources that can help! In this presentation, I’ll discuss how I crafted a job interview presentation by making modifications on publicly available TidyTuesday code. This built the technical and confidence-boosting scaffolding I needed for more open-ended projects. The success of this experience inspired me to transition from my role as a consumer and creator to contributor to give back to the R community, which has been incredibly fulfilling. Despite social distancing, I feel more connected to the R community than ever before!<\/p> <p>*LOCATION:* ZOOM<\/p> ",
-    "url": "https://www.meetup.com/rladies-miami/events/277543327/",
     "textColor": "#7171fb"
   },
   {
@@ -822,14 +807,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Madrid: Aprendiendo XGBOOST  [Virtual] , Spain, Europe",
-    "group": "R-Ladies Madrid",
-    "start": "2021-04-22",
-    "description": "<p>En esta ocasión contamos con la crack Julia Lastra, donde nos hablará de Gradient Boosting. La sesión estará dividida en 2 partes:<\/p> <p>Intro a xgboost: qué es Gradient Boosting, para qué se utiliza y por qué lo ha petado en Kaggle.<\/p> <p>Manos a la obra: caso práctico de clasificación binaria con xgboost<\/p> <p>Breve exploración de datos: qué tenemos y qué queremos.<\/p> <p>Implementación de un modelo de clasificación con xgboost: el maravilloso submundo de los hiperparámetros.<\/p> <p>Interpretación de resultados: insights sobre las variables.<\/p> <p>Nuestra ponente de abril es una entusiasta de los datos a la que le encanta resolver problemas. Tras licenciarse en Matemáticas empezó a trabajar en el ámbito del análisis de datos y hoy en día compatibiliza su puesto de Senior Data Scientist en Lingokids con el de Profesora Asociada en el Departamento de Estadística de la Universidad de Oviedo. Entre sus intereses en el \"mundo data\", destacan la visualización de datos, la comunicación y la automatización de procesos.<\/p> <p>El taller se podrá seguir en entornos virtuales con Jupyter y RStudio, pero si los participantes quieren usar su entorno local, estos son los requerimientos para el taller:<\/p> <p>Versión de R &gt;= 3.6<br/>install.packages(\"caret\")<br/>install.packages(\"Ckmeans.1d.dp\")<br/>install.packages(\"DiagrammeR\")<br/>install.packages(\"e1071\")<br/>install.packages(\"precrec\")<br/>install.packages(\"xgboost\")<br/>devtools::install_github(\"thomasp85/ggforce\")<br/>devtools::install_github(\"liuyanguu/SHAPforxgboost\")<br/>install.packages(\"tidyverse\")<\/p> <p>Todo está disponible en este repo (enlace a los entornos virtuales, requisitos, script en R, notebook y los datos): <a href=\"https://github.com/lastree/talks\" class=\"linkified\">https://github.com/lastree/talks<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-madrid/events/277399850/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Madrid: Implementando Redes Neuronales en R   [Virtual] , Spain, Europe",
     "group": "R-Ladies Madrid",
     "start": "2021-05-11",
@@ -944,6 +921,13 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "MünsteR (R Users Group): [R4Bioinfo] Omics Integration and Supervised Machine Learning - PART2, Germany, Europe",
+    "group": "MünsteR (R Users Group)",
+    "start": "2021-05-22",
+    "url": "https://www.meetup.com/Munster-R-Users-Group/events/278114066/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R User Group Rhein-Neckar: May 2021 Meeting  [Virtual] , Germany, Europe",
     "group": "R User Group Rhein-Neckar",
     "start": "2021-05-11",
@@ -957,14 +941,6 @@
     "start": "2021-05-13",
     "description": "<p>Wendy Martinez has been serving as the Director of the Mathematical Statistics Research Center at the Bureau of Labor Statistics (BLS) for over eight years. Prior to this, she served in several research positions throughout the Department of Defense. She held the position of Science and Technology Program Officer at the Office of Naval Research, where she established a research portfolio comprised of academia and industry performers developing data science products for the future Navy and Marine Corps. Her areas of interest include computational statistics, exploratory data analysis (to include visualization), and text analysis. She is the lead author of three books on MATLAB and statistics. Dr. Martinez was elected as a Fellow of the American Statistical Association (ASA) in 2006 and is an elected member of the International Statistical Institute. She is also proud and grateful to have served as the 2020 ASA President.<\/p> <p>Talk Abstract: The Bureau of Labor Statistics (BLS) is one of thirteen principal federal statistical agencies and is responsible for collecting data and producing several well-known economic indicators. Examples include the consumer price index and the monthly jobs report. BLS conducts surveys and censuses in areas related to productivity, prices, worker conditions, pay and benefits, and employment. In this talk, I will describe some applications in text analysis I’ve been involved with during my time at the BLS.<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/277379543/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Dublin R: Why R? Webinars: \"Storytelling with ggplot2\" with Regis O'Connor  [Virtual] , Ireland, Europe",
-    "group": "Dublin R",
-    "start": "2021-04-22",
-    "description": "<p>- channel: youtube.com/c/WhyRFoundationVideos<br/>- date: every Thursday 7:00 pm (Irish Time)<br/>- format: one 45 minutes long stream + 10 minutes for Q&amp;A<br/>- MC: Lais Carvalho &amp; Guests<br/>- comments: ask questions on YouTube live chat<br/>- join Why R? Slack whyr.pl/slack/<br/>- LinkedIn: www.linkedin.com/company/why-r<br/>- Twitter: <a href=\"https://twitter.com/whyrconf/\" class=\"linkified\">https://twitter.com/whyrconf/<\/a><\/p> <p>Description:<\/p> ",
-    "url": "https://www.meetup.com/DublinR/events/jtbhcsyccgbdc/",
     "textColor": "#7171fb"
   },
   {
@@ -1120,14 +1096,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies New York: From Wrangling to Writing: Analyzing Data and Creating Production-Level Code  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies New York",
-    "start": "2021-04-22",
-    "description": "<p>For our April event, we will have two guest speakers. Megan Robertson will be talking about how to write production level data science code, while Natalie O'Shea will be discussing how to use the nyccensus package and how to wrangle/use census data for equity.<\/p> <p>This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.<\/p> <p>Agenda (times approximate):<br/>6:05 - 6:10 pm: R-Ladies NYC Announcements<br/>6:10 - 6:40 : Natalie's talk on NYC Census data with time for Q&amp;A<br/>6:40-7pm: Megan's talk on creating production level data science code with time for Q&amp;A<\/p> <p>--- Talk Abstract ---<\/p> <p>\"Introducing nyccensus: Leveraging Census Data for Equity in NYC\"<br/>Speaker: Natalie O'Shea<\/p> <p>Abstract: This talk will introduce the nyccensus package and associated Shiny dashboard and share examples of how census data can be leveraged to help address equity issues. The nyccensus package is a simple data-sharing package meant to ease the pains of accessing and wrangling publicly-available response rate data from the 2020 Decennial Census as well as other relevant demographic data from the American Community Survey at various geographic levels in New York City. I will share some lessons learned and examples of how these data can be used to better understand and address equity issues in NYC.<\/p> <p>Bio: Natalie O'Shea is a researcher and data visualization specialist with a passion for equity, accessibility, and human-centered design. She started her data science journey during graduate school, falling in love with all things R in her coursework and research. She was part of CUNY's first Data for Public Good cohort before taking a position as a Community Outreach Data Analyst with the NYC Census 2020 initiative and then working as a Data Visualization Specialist at NYC Test &amp; Trace Corps. She is currently working as a Data Visualization Analyst on the Research and Learning Engineering team at Edmentum.<\/p> <p>\"Creating Production Level Data Science Code\"<br/>Speaker: Megan Robertson<\/p> <p>Abstract: Writing code is a big part of working as a data scientist. You write code throughout all stages of a project from exploratory data analysis to building models. This talk focuses on creating production code from a proof of concept analysis or model. How do you organize and adapt all the code created to get to a proof of concept? Do you feel overwhelmed by everything you need to do? At the end of this talk you’ll walk away with tips and strategies to make your own production code.<\/p> <p>Bio: Megan Robertson is a Senior Data Scientist at Nike. She has multiple years of experience applying data science in retail settings. She first became interested in math and statistics through sports analytics, and wrote her Master’s thesis in collaboration with an NBA team. Her background includes training in Bayesian methodology, statistical modeling, machine learning and more. Megan has delivered multiple talks on various aspects of data science from building a career and project management to writing code. She is currently writing her first data science book, Mastering Communication in Data Science, in partnership with Manning.<\/p> <p>---<\/p> <p>R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-newyork/events/277533609/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Cuernavaca: RLadies+ te invita a useR! meetup  [Virtual] , Mexico, Latin America",
     "group": "R-Ladies Cuernavaca",
     "start": "2021-04-28",
@@ -1174,14 +1142,6 @@
     "description": "<p>En este encuentro virtual, Cami Bohórquez nos va a dar una charla sobre el uso de los computadores para modelar y simular sistemas sociales. Esta charla cuenta con una parte teórica introductoria y luego se presentarán ejemplo de sistemas sociales simulados usando R. En el fondo del taller está la pregunta por la representación, la emulación vs la simulación y los límites de la ciencia frente a sistemas complejos donde se premia la anticipación sobre la predicción.<\/p> <p>Cami Bohórquez es Ingeniera Industrial (2003) con maestría en ingeniería industrial de la Universidad de los Andes (2006), y con un doctorado en ingeniería de la Universidad de los Andes (2012). Actualmente trabaja con la Fundación CEIBA como Directora de Proyectos. Se especializa en la ingeniería de los sistemas sociales desde la nueva ciencia de la complejidad. En especial se ha interesado por los problemas estructurales de Colombia que nacen de su diversidad que surge por su fragmentación étnica, geográfica, ecológica y económica; su violencia, su inequidad y su ignorancia.<\/p> ",
     "url": "https://www.meetup.com/rladies-bogota/events/277906116/",
     "textColor": "#7171fb"
-  },
-  {
-    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
-    "group": "Central Iowa R User Group",
-    "start": "2021-05-22",
-    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
-    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrrycchbdc/",
-    "textColor": "blue"
   },
   {
     "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
@@ -1408,19 +1368,19 @@
     "textColor": "blue"
   },
   {
-    "title": "Trenton R Users (TRU): Meetup for May - 2021  [Virtual] , United States, US/Canada",
-    "group": "Trenton R Users (TRU)",
-    "start": "2021-05-22",
-    "description": "<p>Topic of the Month (approx 20 min):<br/>“Decision Tree\" - Praveen Sharma<\/p> <p>Rapid Round (approx 10 mins):<br/>1) TBD<br/>2) Deep Learning - Ashutosh Prasad<br/>There shall be a discussion on deep learning. Further, we shall like to build a team of people who will work on deep learning projects of common interests.<\/p> ",
-    "url": "https://www.meetup.com/TRUgroup/events/277608777/",
-    "textColor": "blue"
-  },
-  {
     "title": "Trenton R Users (TRU): Meetup for June - 2021  [Virtual] , United States, US/Canada",
     "group": "Trenton R Users (TRU)",
     "start": "2021-06-19",
     "description": "<p>The topic of this month's meetup will be decided as the time approaches near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) organizer's preference (in that order)<\/p> <p>Please contact the organizers, if you would like to present in our meetup on any topic related to data science.<\/p> ",
     "url": "https://www.meetup.com/TRUgroup/events/278311911/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Trenton R Users (TRU): Meetup for Jul - 2021  [Virtual] , United States, US/Canada",
+    "group": "Trenton R Users (TRU)",
+    "start": "2021-07-17",
+    "description": "<p>The topic of this month's meetup will be decided as the time approaches near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) organizer's preference (in that order)<\/p> <p>Please contact the organizers, if you would like to present in our meetup on any topic related to data science.<\/p> ",
+    "url": "https://www.meetup.com/TRUgroup/events/278346368/",
     "textColor": "blue"
   },
   {
@@ -1504,6 +1464,22 @@
     "textColor": "blue"
   },
   {
+    "title": "Sydney Users of  R Forum (SURF): AlphaZetta Global Analytics Summit - Sydney 2021, Australia, Australia",
+    "group": "Sydney Users of  R Forum (SURF)",
+    "start": "2021-08-20",
+    "description": "<p>Registration is required on the AlphaZetta site - links below.<\/p> <p>The AlphaZetta Global Analytics Summit is a unique conference experience, built around experts sharing their knowledge, use cases, best practice and having time for meaningful interactions. It is not vendor driven - there’s no booths or selling and no big crowds - we expect only ~150 attendees. The summit provides insightful presentations, fantastic networking and discussion time at great value!<\/p> <p>We are aiming to host GAS in Sydney on Friday 20th August at the Manly Pacific Hotel. Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> ).<\/p> <p>The day starts with presentations on the current state of the analytics market and key trends to look for in the future. The second section is about inspiring attendees with keynotes from Volt Bank on creating a new business based on data and analytics and from goPassport on addressing the challenges of risk managed travel in the COVID era.<\/p> <p>The afternoon focuses on innovation and implementation. We have presentations from some of Australia’s exciting startups (Volt, Adgile Media, Shop You, goPassport, Self Assured Pty Ltd) who are using analytics to disrupt their markets. To close, we will hear a keynote on how to deliver analytics and increase AI adoption.<\/p> <p>The Summit venue is the Novotel Pacific, Manly which is right on the ocean beach, with lunch and dinner included.<\/p> <p>All up, at just $350 for standard tickets, it’s a conference like no other!<\/p> <p>Here’s a video clip to highlight all of the above! (<a href=\"https://youtu.be/YKnFo0thEMM\" class=\"embedded\">https://youtu.be/YKnFo0thEMM<\/a>)<\/p> <p>Presenters Include:<br/>Steve Weston - Co-Founder and CEO, Volt Bank<br/>Craig Service - Chief Revenue Officer, Adgile Media<br/>Neale Wilson - Co-Founder and Managing Director, Self Assured Pty Ltd<br/>Kelly Slessor - Founder and CEO, Shop You<br/>Klaus Felsche - Co-Founder and CTO, goPassport<br/>Cátia Cepeda - Co-Founder, Latent Insight<br/>Tony Ohlsson - Founder, AlphaZetta; Chief Analytics Officer, Volt Bank<br/>Felipe Flores - Founder, Data Futurology<\/p> <p>PLEASE DO NOT RSVP ON MEETUP.COM.<br/>Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> )<br/>Tickets are available here ( <a href=\"https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453\" class=\"linkified\">https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453<\/a> )<\/p> ",
+    "url": "https://www.meetup.com/R-Users-Sydney/events/267916275/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Melbourne Users of R Network (MelbURN): AlphaZetta Global Analytics Summit - Sydney 2021, Australia, Australia",
+    "group": "Melbourne Users of R Network (MelbURN)",
+    "start": "2021-08-20",
+    "description": "<p>Registration is required on the AlphaZetta site - links below.<\/p> <p>The AlphaZetta Global Analytics Summit is a unique conference experience, built around experts sharing their knowledge, use cases, best practice and having time for meaningful interactions. It is not vendor driven - there’s no booths or selling and no big crowds - we expect only ~150 attendees. The summit provides insightful presentations, fantastic networking and discussion time at great value!<\/p> <p>We are aiming to host GAS in Sydney on Friday 20th August at the Manly Pacific Hotel. Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> ).<\/p> <p>The day starts with presentations on the current state of the analytics market and key trends to look for in the future. The second section is about inspiring attendees with keynotes from Volt Bank on creating a new business based on data and analytics and from goPassport on addressing the challenges of risk managed travel in the COVID era.<\/p> <p>The afternoon focuses on innovation and implementation. We have presentations from some of Australia’s exciting startups (Volt, Adgile Media, Shop You, goPassport, Self Assured Pty Ltd) who are using analytics to disrupt their markets. To close, we will hear a keynote on how to deliver analytics and increase AI adoption.<\/p> <p>The Summit venue is the Novotel Pacific, Manly which is right on the ocean beach, with lunch and dinner included.<\/p> <p>All up, at just $350 for standard tickets, it’s a conference like no other!<\/p> <p>Here’s a video clip to highlight all of the above! (<a href=\"https://youtu.be/YKnFo0thEMM\" class=\"embedded\">https://youtu.be/YKnFo0thEMM<\/a>)<\/p> <p>Presenters Include:<br/>Steve Weston - Co-Founder and CEO, Volt Bank<br/>Craig Service - Chief Revenue Officer, Adgile Media<br/>Neale Wilson - Co-Founder and Managing Director, Self Assured Pty Ltd<br/>Kelly Slessor - Founder and CEO, Shop You<br/>Klaus Felsche - Co-Founder and CTO, goPassport<br/>Cátia Cepeda - Co-Founder, Latent Insight<br/>Tony Ohlsson - Founder, AlphaZetta; Chief Analytics Officer, Volt Bank<br/>Felipe Flores - Founder, Data Futurology<\/p> <p>PLEASE DO NOT RSVP ON MEETUP.COM.<br/>Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> )<br/>Tickets are available here ( <a href=\"https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453\" class=\"linkified\">https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453<\/a> )<\/p> ",
+    "url": "https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/267898893/",
+    "textColor": "blue"
+  },
+  {
     "title": "LondonR: LondonR online May 2021: register via Big Marker for free ticket, United Kingdom, Europe",
     "group": "LondonR",
     "start": "2021-05-26",
@@ -1541,6 +1517,14 @@
     "start": "2021-05-26",
     "description": "<p>Details<br/>We are happy to share another R-Ladies Tunis meetup.<br/>A new workshop about Using blogdown &amp; Hugo Apéro to create your personal website.<\/p> <p>Date/Time: Wednesday, May 26th, 2021 from 7 PM to 9 PM (GMT+1)<br/>Place: Zoom<\/p> <p>▶️ Invited trainer: Dr. Alison Hill<\/p> <p>▶️ About Dr. Alison Hill :<br/>Alison Hill is a data scientist, behavioral scientist, and an award-winning educator. Currently, Dr. Hill works to make data science communication easier and more delightful using RStudio’s open-source toolchain. Previously, Alison was an Associate Professor of Pediatrics at Oregon Health &amp; Science University. Her research focused on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. She has written numerous scientific publications on autism and neurodevelopmental disorders and has presented research at over 25 international conferences. Alison has also taught statistics and data science for over 10 years; most recently, she has led advanced workshops on data science communication and machine learning at rstudio::conf, R / Medicine, and R in Pharma. She is also an international keynote speaker (<a href=\"https://alison.rbind.io/talks\" class=\"linkified\">https://alison.rbind.io/talks<\/a>), co-developer of the palmerpenguins (<a href=\"https://allisonhorst.github.io/palmerpenguins/\" class=\"linkified\">https://allisonhorst.github.io/palmerpenguins/<\/a>), distill (<a href=\"https://rstudio.github.io/distill/\" class=\"linkified\">https://rstudio.github.io/distill/<\/a>), and blogdown (<a href=\"https://pkgs.rstudio.com/blogdown\" class=\"linkified\">https://pkgs.rstudio.com/blogdown<\/a>) R packages, and co-author of the book blogdown: Creating Websites with R Markdown (<a href=\"https://bookdown.org/yihui/blogdown/\" class=\"linkified\">https://bookdown.org/yihui/blogdown/<\/a>).<\/p> <p>▶️ About the workshop:<br/>“You should have a website!” You may have heard this one before, or even said it yourself. In this workshop, you’ll learn how to build and customize a website from the comfort of the RStudio IDE with R Markdown. We'll use the blogdown package and the Hugo Apéro theme to build and deploy a personal website. We’ll cover basic website care and feeding like using R Markdown to create content, how to use GitHub for version control and Netlify for publishing, and how to use the latest upgrades to the blogdown R package to keep your site up and running.<\/p> <p>▶️ Prerequisites<\/p> <p>You'll get the most out of this workshop if you do the pre-work ahead of time. Please follow the instructions here: <a href=\"https://iyo-rstudio-global.netlify.app/collection/prework/\" class=\"linkified\">https://iyo-rstudio-global.netlify.app/collection/prework/<\/a>.<\/p> <p>In order to attend the event, please fill out this form<br/>👉 <a href=\"https://tinyurl.com/dre27d3k\" class=\"linkified\">https://tinyurl.com/dre27d3k<\/a><\/p> <p>You will most probably be send (another) zoom link a few hours before the training session. Please check out your email later.<\/p> <p>R Ladies Tunis look forward to welcoming you!<\/p> ",
     "url": "https://www.meetup.com/ViennaR/events/278245635/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Natal: Análise de Dados Hidrológicos no R  [Virtual] , Brazil, Latin America",
+    "group": "R-Ladies Natal",
+    "start": "2021-06-04",
+    "description": "<p>Análise de Dados Hidrológicos no R<br/>[Instrutor: Alanderson de Lucas]<\/p> <p>Data: 4 de junho<br/>Horário: 16h30<br/>Local: Via Zoom<br/>Inscrições: Grupo de Meetup de R-Ladies Natal<br/>.<br/>📌 O link para o Meetup será enviado no mesmo que dia que este acontecerá, 4 de junho, e somente será enviado para as pessoas que fizerem sua inscrição.<\/p> <p>[NO DIA DO MEETUP, QUANDO FOR ENVIADO O LINK, REVISE A CAIXA \"SPAM\" OU A CAIXA \"SOCIAL\"]<\/p> ",
+    "url": "https://www.meetup.com/rladies-natal/events/278343212/",
     "textColor": "blue"
   },
   {
@@ -1880,13 +1864,6 @@
     "textColor": "blue"
   },
   {
-    "title": "MünsteR (R Users Group): [R4Bioinfo] Omics Integration and Supervised Machine Learning - PART2, Germany, Europe",
-    "group": "MünsteR (R Users Group)",
-    "start": "2021-05-22",
-    "url": "https://www.meetup.com/Munster-R-Users-Group/events/278114066/",
-    "textColor": "blue"
-  },
-  {
     "title": "MünsteR (R Users Group): [LondonR] May 2021 meetup, Germany, Europe",
     "group": "MünsteR (R Users Group)",
     "start": "2021-05-26",
@@ -1944,6 +1921,14 @@
     "start": "2021-05-28",
     "description": "<p>Spend Friday night discussing Lessons from Plants (<a href=\"https://www.barnesandnoble.com/w/lessons-from-plants-beronda-l-montgomery/1137725290\" class=\"linkified\">https://www.barnesandnoble.com/w/lessons-from-plants-beronda-l-montgomery/1137725290<\/a>).<\/p> <p>An exploration of how plant behavior and adaptation offer valuable insights for human thriving.<\/p> <p>We know that plants are important. They maintain the atmosphere by absorbing carbon dioxide and producing oxygen. They nourish other living organisms and supply psychological benefits to humans as well, improving our moods and beautifying the landscape around us. But plants don’t just passively provide. They also take action.<\/p> <p>Beronda L. Montgomery explores the vigorous, creative lives of organisms often treated as static and predictable. In fact, plants are masters of adaptation. They “know” what and who they are, and they use this knowledge to make a way in the world. Plants experience a kind of sensation that does not require eyes or ears. They distinguish kin, friend, and foe, and they are able to respond to ecological competition despite lacking the capacity of fight-or-flight. Plants are even capable of transformative behaviors that allow them to maximize their chances of survival in a dynamic and sometimes unfriendly environment.<\/p> <p>Lessons from Plants enters into the depth of botanic experience and shows how we might improve human society by better appreciating not just what plants give us but also how they achieve their own purposes. What would it mean to learn from these organisms, to become more aware of our environments and to adapt to our own worlds by calling on perception and awareness? Montgomery’s meditative study puts before us a question with the power to reframe the way we live: What would a plant do?<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/277242825/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Canberra R Users Group: AlphaZetta Global Analytics Summit - Sydney 2021, Australia, Australia",
+    "group": "Canberra R Users Group",
+    "start": "2021-08-20",
+    "description": "<p>Registration is required on the AlphaZetta site - links below.<\/p> <p>The AlphaZetta Global Analytics Summit is a unique conference experience, built around experts sharing their knowledge, use cases, best practice and having time for meaningful interactions. It is not vendor driven - there’s no booths or selling and no big crowds - we expect only ~150 attendees. The summit provides insightful presentations, fantastic networking and discussion time at great value!<\/p> <p>We are aiming to host GAS in Sydney on Friday 20th August at the Manly Pacific Hotel. Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> ).<\/p> <p>The day starts with presentations on the current state of the analytics market and key trends to look for in the future. The second section is about inspiring attendees with keynotes from Volt Bank on creating a new business based on data and analytics and from goPassport on addressing the challenges of risk managed travel in the COVID era.<\/p> <p>The afternoon focuses on innovation and implementation. We have presentations from some of Australia’s exciting startups (Volt, Adgile Media, Shop You, goPassport, Self Assured Pty Ltd) who are using analytics to disrupt their markets. To close, we will hear a keynote on how to deliver analytics and increase AI adoption.<\/p> <p>The Summit venue is the Novotel Pacific, Manly which is right on the ocean beach, with lunch and dinner included.<\/p> <p>All up, at just $350 for standard tickets, it’s a conference like no other!<\/p> <p>Here’s a video clip to highlight all of the above! (<a href=\"https://youtu.be/YKnFo0thEMM\" class=\"embedded\">https://youtu.be/YKnFo0thEMM<\/a>)<\/p> <p>Presenters Include:<br/>Steve Weston - Co-Founder and CEO, Volt Bank<br/>Craig Service - Chief Revenue Officer, Adgile Media<br/>Neale Wilson - Co-Founder and Managing Director, Self Assured Pty Ltd<br/>Kelly Slessor - Founder and CEO, Shop You<br/>Klaus Felsche - Co-Founder and CTO, goPassport<br/>Cátia Cepeda - Co-Founder, Latent Insight<br/>Tony Ohlsson - Founder, AlphaZetta; Chief Analytics Officer, Volt Bank<br/>Felipe Flores - Founder, Data Futurology<\/p> <p>PLEASE DO NOT RSVP ON MEETUP.COM.<br/>Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> )<br/>Tickets are available here ( <a href=\"https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453\" class=\"linkified\">https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453<\/a> )<\/p> ",
+    "url": "https://www.meetup.com/Canberra-R-Users-Group/events/267894706/",
     "textColor": "blue"
   },
   {
