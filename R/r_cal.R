@@ -455,15 +455,7 @@ get_upcoming_events <- function(){
                                    Sys.sleep(0.3)
                                    y
                                  }
-  )
-  #list of closed groups [c(-2,-143,-153,-154,-164,-187,-188, -193,-194, -237,-239, -220,-234, -240,-256,-246,-262,-268,-270,-288,-320,-326,-339,-359,-366,  -388,-41, -193, -129)]
-  # PAST EVENTS 30 days ago
-  #rugs2 <- rugs[!(rugs$past_events==0 | rugs$visibility == "public_limited" ),] # remove groups with no upcoming event
-  #rugs2 <- rugs2[!grepl("sas|pydata|knime|odsc|python meetup|python and data|python for artificial|apache druid|quantum computing|pgh data|birmingham alabama software", tolower(rugs2$name)),]
-  #rugs_urlnames <- rugs2$fullurl
-  #rugs_urlnames <- gsub("https://www.meetup.com/", "", rugs_urlnames) 
-  #rugs_urlnames <- gsub("/", "", rugs_urlnames) 
- 
+  ) 
   all_past_revents <- lapply(rugs_urlnames_full, 
                              function(x) 
                              {
