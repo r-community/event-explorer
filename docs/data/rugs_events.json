@@ -1,26 +1,10 @@
 [
   {
-    "title": "LA R users group: LA R Users: April Meeting 2021 - Emily Riederer -  Column Names as Contracts  [Virtual] , United States, US/Canada",
-    "group": "LA R users group",
-    "start": "2021-04-27",
-    "description": "<p>LA R Users Group will have our April meeting online on Zoom (<a href=\"https://usc.zoom.us/j/92828963940\" class=\"linkified\">https://usc.zoom.us/j/92828963940<\/a>).<\/p> <p>***Column Names as Contracts***<\/p> <p>In this talk, I will explain how controlled vocabularies can be used to form contracts between data producers and data consumers. Explicitly embedding meaning in each component of variable names is a low-tech and low-friction approach which builds a shared understanding of how each field in the dataset is intended to work.<br/>Doing so can offload the burden of data producers by facilitating automated data validation and metadata management. At the same time, data consumers benefit by a reduction in the cognitive load to remember names, a deeper understanding of variable encoding, and opportunities to more efficiently analyze the resulting dataset.<br/>After discussing the theory of controlled vocabulary column-naming and related workflows, I will demonstrate how to implement the creation, upkeep, and application of controlled vocabularies with various softwares, including the R package {convo} and custom SQL templating and testing with dbt.<\/p> <p>Bio:<br/>Emily Riederer is a Senior Analytics Manager at Capital One where she leads a team to develop and sustain data products (datamarts, R packages, and dashboards) for business users. Emily blogs at <a href=\"https://emilyriederer.netlify.com/\" class=\"linkified\">https://emilyriederer.netlify.com/<\/a> , is a contributing author to The R Markdown Cookbook (CRC Press) and 97 Things Every Data Engineer Should Know (O’Reilly - forthcoming), and the developer of the R packages projmgr and convo.<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://socalr.org/\" class=\"linkified\">https://socalr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
-    "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/276977363/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "LA R users group: LA R Users: May 2021 - Max Kuhn -  Creating model en mass with workflowsets  [Virtual] , United States, US/Canada",
     "group": "LA R users group",
     "start": "2021-05-18",
     "description": "<p>LA R Users Group will have our May meeting online on Zoom (<a href=\"https://washington.zoom.us/j/92634012842\" class=\"linkified\">https://washington.zoom.us/j/92634012842<\/a>). Yes, this is the right zoom link.<\/p> <p>***Creating model en mass with workflowsets***<\/p> <p>The tidymodels packages allow users to create and optimize models and their pre-processing steps (e.g. PCA, feature encodings, etc). With new data, it is common to try a variety of models to determine what works best. The workflowsets package enables users to easily evaluate, rank, and even combine (with the stacks package) myriad combinations of models and pre-processors.<\/p> <p>Bio:<br/>Max Kuhn is a software engineer at RStudio. He is currently working on improving R's modeling capabilities. He was a Senior Director of Nonclinical Statistics at Pfizer Global R&amp;D in Connecticut. He was applying models in the pharmaceutical and diagnostic industries for over 18 years. Max has a Ph.D. in Biostatistics.<br/>Max is the author of numerous R packages for techniques in machine learning and reproducible research. He, and Kjell Johnson, wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association, which recognizes the best book reviewed in Technometrics in 2015. Their latest book, Feature Engineering and Selection, was published in 2019.<\/p> <p>**Schedule**<br/>6pm Open Zoom<br/>~6:15pm Greetings and Breakout Rooms<br/>6:15~7pm Talk<br/>~7:30pm Social<\/p> <p>**Code of Conduct**: <a href=\"https://github.com/laRusers/codeofconduct\" class=\"linkified\">https://github.com/laRusers/codeofconduct<\/a><\/p> <p>**LA R Users Group**<br/>Invite yourself to our Slack group: <a href=\"https://socalrug.herokuapp.com/\" class=\"linkified\">https://socalrug.herokuapp.com/<\/a><br/>Ask us any questions by email: [masked]<br/>Find our previous talks on GitHub: <a href=\"https://github.com/laRusers/presentations\" class=\"linkified\">https://github.com/laRusers/presentations<\/a><br/>Follow us on Twitter: @la_Rusers<br/>Check out more events: <a href=\"https://socalr.org/\" class=\"linkified\">https://socalr.org/<\/a><\/p> <p>***** DON'T BE SHY *******<br/>Reach out if you want to be our speaker. First-time speakers are welcome<\/p> ",
     "url": "https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/events/278113310/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Orange County R Users Group (OCRUG): Column Names as Contracts  [Virtual] , United States, US/Canada",
-    "group": "Orange County R Users Group (OCRUG)",
-    "start": "2021-04-27",
-    "description": "<p>Abstract:<\/p> <p>In this talk, I will explain how controlled vocabularies can be used to form contracts between data producers and data consumers. Explicitly embedding meaning in each component of variable names is a low-tech and low-friction approach that builds a shared understanding of how each field in the dataset is intended to work.<br/>Doing so can offload the burden of data producers by facilitating automated data validation and metadata management. At the same time, data consumers benefit from a reduction in the cognitive load to remember names, a deeper understanding of variable encoding, and opportunities to more efficiently analyze the resulting dataset.<br/>After discussing the theory of controlled vocabulary column-naming and related workflows, I will demonstrate how to implement the creation, upkeep, and application of controlled vocabularies with various software, including the R package {convo} and custom SQL templating and testing with dbt.<\/p> <p>Bio:<\/p> <p>Emily Riederer is a Senior Analytics Manager at Capital One where she leads a team to develop and sustain data products (datamarts, R packages, and dashboards) for business users. Emily blogs at <a href=\"https://emilyriederer.netlify.com/\" class=\"linkified\">https://emilyriederer.netlify.com/<\/a> , is a contributing author to The R Markdown Cookbook (CRC Press) and 97 Things Every Data Engineer Should Know (O’Reilly - forthcoming), and the developer of the R packages projmgr and convo.<\/p> <p>**Schedule**<br/>6:20 Open zoom<br/>6:30-7:30 Presentation<br/>~7:30 Virtual Social<\/p> <p>** ORCUG **<br/>website: <a href=\"https://ocrug.org\" class=\"linkified\">https://ocrug.org<\/a><br/>GitHub Repo: <a href=\"https://tinyurl.com/ocrug-github\" class=\"linkified\">https://tinyurl.com/ocrug-github<\/a><br/>Slack: <a href=\"https://tinyurl.com/socalrug-slack\" class=\"linkified\">https://tinyurl.com/socalrug-slack<\/a><br/>Slack Signup: <a href=\"https://tinyurl.com/socalrug-slack-signup\" class=\"linkified\">https://tinyurl.com/socalrug-slack-signup<\/a><br/>YouTube: <a href=\"https://tinyurl.com/ocrug-youtube\" class=\"linkified\">https://tinyurl.com/ocrug-youtube<\/a><br/>Twitter (@oc_rug) <a href=\"https://tinyurl.com/ocrug-twitter\" class=\"linkified\">https://tinyurl.com/ocrug-twitter<\/a><br/>Instagram: (oc_rug) <a href=\"https://tinyurl.com/ocrug-instagram\" class=\"linkified\">https://tinyurl.com/ocrug-instagram<\/a><br/>Linkedin: <a href=\"https://www.linkedin.com/company/ocrug/\" class=\"linkified\">https://www.linkedin.com/company/ocrug/<\/a><br/>Mailing List: <a href=\"https://groups.google.com/u/1/g/ocrug\" class=\"linkified\">https://groups.google.com/u/1/g/ocrug<\/a><br/>Email: [masked]<\/p> <p>All participants agree to abide by the OCRUG's Code of Conduct<br/><a href=\"https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md\" class=\"linkified\">https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md<\/a><\/p> ",
-    "url": "https://www.meetup.com/OC-RUG/events/276980211/",
     "textColor": "#7171fb"
   },
   {
@@ -104,11 +88,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Greater Boston useR Group (R Programming Language): April Boston useR: Color Palette Cinema with Josiah Parry  [Virtual] , United States, US/Canada",
+    "title": "Greater Boston useR Group (R Programming Language): May useR: Writing R code that maximizes our abilities to work collaboratively  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
-    "start": "2021-04-27",
-    "description": "<p>Abstract:<br/>Have you ever found yourself trying to make a plot look prettier?<br/>When looking for color palette inspiration, Josiah often turns to the Instagram page @colorpalette.cinema for inspiration. Color Palette Cinema is an awesome page that takes stills from films and creates a nice palette of 10 colors from the image. These can range from bright hues, to monochromatic masterpieces. To make use of these colors, Josiah created a ¾ baked package {cpcinema}. When sharing an image from using this package on Twitter, it hadn’t crossed his mind that many others may want to use this as well. Josiah will cover the package itself - what it is and what it does, and why he didn’t initially release it but probably should. He will also include a few lessons learned and recommendations as you think about putting your own packages out into the world as well.<\/p> <p>Bio:<br/>Josiah Parry is a self-avowed social data scientist - in that his existence in academe was focused on the social sciences and his professional “career” has been focused on data science. Josiah a graduate of Plymouth State University class of 2018 with a degree in Sociology and Anthropology, a minor in Mathematics, and a certificate in geographic information systems (GIS). April 2020, he earned his MS in Urban Informatics from Northeastern University under Daniel T. O’Brien. The culmination of my MS is the “Urban Informatics Toolkit”, a free online text intended to introduce new students of the field to R. Josiah works on the customer success team at RStudio with public sector customers.<\/p> ",
-    "url": "https://www.meetup.com/Boston-useR/events/277532099/",
+    "start": "2021-05-27",
+    "description": "<p>Writing R code that maximizes our abilities to work collaboratively<br/>Presented by Ezra Tucker<\/p> <p>Abstract:<br/>How best to work with other data scientists in a team to organize and structure code? S4 classes in R give structure to your data and help you organize your methods. They also help signal to your team members proper use of the data structures you define and what methods are available, in essence, how to use your code properly, and also, how to add to it or modify it later on.<\/p> <p>In this talk, we will empower ourselves by reminding ourselves that data scientists are a particular class of programmers (distinct from those who create PC/console games, those who create mobile apps, those who create websites, etc) but programmers all the same. Then we will briefly discuss the benefits of code encapsulation, especially with respect to packages and S4 classes while touching briefly on other OOP systems in R. We will discuss when and how to implement them, and how to structure your code base in a clean, effective, and consistent manner so that it's clear and easy to understand for your teammates and to yourself.<\/p> <p>Speaker:<br/>Ezra Tucker is the Director of Data Science at Energetic Insurance<\/p> <p>Energetic Insurance is a Managing General Underwriter (MGU) with a novel, data-driven approach to develop new risk management products to unlock exponential growth in the renewable energy industry<\/p> ",
+    "url": "https://www.meetup.com/Boston-useR/events/278003746/",
     "textColor": "#7171fb"
   },
   {
@@ -600,11 +584,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Montpellier: Être un·e utilisateur·rice de R résilient·e, by Maëlle Salmon  [Virtual] , France, Europe",
-    "group": "R-Ladies Montpellier",
-    "start": "2021-04-27",
-    "description": "<p>Bonjour à tou·te·s !<\/p> <p>A l'occasion de ce 1er meetup RLadies de 2021, nous avons la chance de recevoir Maëlle Salmon qui nous présentera : \" Être un·e utilisateur·rice de R résilient·e \"<\/p> <p>Résumé :<\/p> <p>Apprendre R est une excellente idée pour réaliser différentes tâches au travail. Cependant, même une fois passé·e au-delà de “Bonjour Monde”, vous continuerez régulièrement à avoir des problèmes dans R… Triste constat ? Non, car vous apprendrez aussi à devenir un·e utilisateur·rice de R résilient·e !<br/>Dans cette présentation je partagerai des astuces à cet effet : comment suivre les nouveautés de R sans se sentir submergé·e ; et comment et où demander de l’aide efficacement. J’espère que chacun·e repartira avec quelques clés de plus pour une utilisation joyeuse de R !<\/p> <p>L'oratrice :<\/p> <p>Maëlle Salmon est actuellement Research Software Engineer chez rOpenSci. Mais ce n'est pas tout ! Maëlle est également très impliquée dans la communauté R puisqu'elle travaille sur beaucoup d'autres projets en tant que developpeuse et/ou formatrice en R. Pour ne citer qu'eux : elle a notamment contribué à la création du livre \"HTTP testing in R\", est à l'origine du blog R-hub et assure la gestion du compte twitter R-Ladies Global. Nous sommes donc ravi·e·s de l'avoir parmi nous pour ce premier meet up de l'année 2021.<\/p> ",
-    "url": "https://www.meetup.com/rladies-montpellier/events/277151324/",
+    "title": "R-Ladies Santiago: Análisis de encuestas de diseño complejo con R  [Virtual] , Chile, Latin America",
+    "group": "R-Ladies Santiago",
+    "start": "2021-05-27",
+    "description": "<p>En nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.<\/p> <p>- REQUERIMIENTOS<br/>Es necesario tener instalados los paquetes tidyverse, survey y srvyr.<\/p> <p>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-scl/events/278330699/",
     "textColor": "#7171fb"
   },
   {
@@ -613,14 +597,6 @@
     "start": "2021-04-28",
     "description": "<p>The 2021 RLadies Philly hackathon is focused on exploring judicial patterns in Philadelphia courts. Our partner, the Judge Accountability Table (JAT), has provided a subset of deidentified data related to public court dockets for defendants in Philadelphia County, Pennsylvania, to enable participants to hone thier data science skills by:<\/p> <p>- Exploring and describing this rich, messy data more completely<br/>- Stratifying data (e.g., comparing simple, low-severity charges with one another and complex, violent crime allegations with one another)<br/>- Answering specific questions, or discovering what additional work or information would be required to be able to answer these questions<br/>- Analyzing sparsity / missingness and discovering what the public interest is in ensuring freedom of information<br/>- Understanding predictive factors in carceral outcomes (e.g. does age / sex / race correlate with bail amount?)<\/p> <p>At this meetup, groups will present their results and discuss their experiences.<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/276365054/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Sydney: Carrots are good for vision, models are good for visualising discrete data  [Virtual] , Australia, Australia",
-    "group": "R-Ladies Sydney",
-    "start": "2021-04-27",
-    "description": "<p>Join us and the SSA NSW branch for this talk by Dr Gordana Popovic (UNSW). You can come to University of Sydney in person (location: F10A[masked].Law Annex Lecture Theatre 024). Or join via zoom.<\/p> <p>Data sometimes have artefacts which obscure the patterns we are interested in visualising. You may have come across this when trying to interpret a residual plot from a logistic regression. For discrete data, these are not really artefacts, they are properties of the distribution of the data, like mean-variance relationships and lots of zeros. Generalised linear models and their extensions model the distribution of the data, including these properties, and so are a good way to remove them, to better see the patterns we are actually interested in. I will talk though some concepts and lots of examples of how we can use models to get the best out of our visualisations of discrete multivariate data in R.<\/p> <p>Biography<br/>Gordana is a statistical consultant and research fellow at UNSW Sydney, with research interests in modelling and visualising multivariate discrete data in ecology. In her spare time, Gordana can be found hiking or ocean swimming (poorly but enthusiastically).<\/p> ",
-    "url": "https://www.meetup.com/rladies-sydney/events/277598308/",
     "textColor": "#7171fb"
   },
   {
@@ -652,14 +628,6 @@
     "start": "2021-05-11",
     "description": "<p>*What are we going to learn:<br/>Do you use statistical models in R or want to learn? Learn how to best structure your model workflows including reading in data, checking the data, performing analyses, and plotting. The presentation will also go into more advanced topics discussing the R-INLA package for modelling spatio-temporal data. R-INLA is a powerful method that uses integrated nested Laplace approximation (INLA) to create complex models with various types of random effects such as spatial and temporal autocorrelation and run them very fast (<a href=\"https://www.r-inla.org/home\" class=\"linkified\">https://www.r-inla.org/home<\/a>). In this talk, we will specially focus on how to model spatial autocorrelation using coral recovery data. Best for those who are comfortable with R but all are welcome.<\/p> <p>*Who is going to present:<br/>Dr. Julie Vercelloni is a quantitative ecologist that studied Marine Ecology during her undergraduate and postgraduate degrees and statistics applied to coral reef ecology for her PhD. She is now an Associate Investigator at the Queensland University of Technology node of the Australian Centre of Excellence for Mathematical and Statistical Frontiers and works mostly with the Australian Institute of Marine Science.<br/>Julie is doing research on diverse projects that look at combining state-of-the-art technologies including machine learning and virtual reality, and modern statistical modelling methods to help understanding complex problems related to coral reef conservation. She is also a citizen science advocate, working on new types of monitoring for the Great Barrier Reef and Pacific countries.<\/p> <p>* When are we meeting?<br/>The talk will start at 5:30 pm for a ~45 minute presentation, 15 minutes Q&amp;A time with the potential to move to an outside venue for continued socializing and networking.<\/p> <p>* Where are we meeting?<br/>We will meet at QUT Gardens Point campus room Y-801 (in building Y) - this will be a hybrid event with a Zoom link available.<br/>map: <a href=\"https://goo.gl/maps/4H51oEEun6JuewVn6\" class=\"linkified\">https://goo.gl/maps/4H51oEEun6JuewVn6<\/a><br/>DIRECTIONS TO THE ROOM - Y block/building is next to River Stage in QUT Gardens Point. The elevators to the 8th floor are on the side of the building facing P block and should not require card access. Please follow the hall to the right upon exiting the elevator on floor 8 to room Y-801, the first meeting room at the end of the hall.<\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/277538983/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2021-04-27",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccgbkc/",
     "textColor": "#7171fb"
   },
   {
@@ -775,6 +743,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Vienna: ggplot2 workshop with Ursula Laa, Austria, Europe",
+    "group": "R-Ladies Vienna",
+    "start": "2021-05-27",
+    "description": "<p>We are happy to announce that for the May 2021 Meetup our co-organiser Ursula Laa will offer a tutorial into data visualisation with the ggplot2 R package.<\/p> <p>Starting from the underlying principles of tidy data and the grammar of graphics, Ursula will introduce the basic ingredients (aesthetics and geoms) and show how to build a ggplot layer-by-layer. We will see together how we can quickly generate very different graphs with small changes in a standard interface, making it easy to better explore data.<\/p> <p>Ursula is a researcher in the Statistics Institute of the University of Natural Resources and Life Sciences (BOKU) in Vienna and holds PhD in theoretical particle physics. She focuses in her research on new methods and applications in data science with emphasis on interdisciplinary work, for example connecting her background in physics and her interest in statistical data visualisation.<\/p> <p>See you soon online!<br/>Your R-Ladies Vienna Organizing Team<\/p> ",
+    "url": "https://www.meetup.com/rladies-vienna/events/278177664/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Melbourne: Create and publish your personal website with Blogdown, Australia, Australia",
     "group": "R-Ladies Melbourne",
     "start": "2021-05-19",
@@ -863,6 +839,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Valparaíso: Análisis de encuestas de diseño complejo con R  [Virtual] , Chile, Latin America",
+    "group": "R-Ladies Valparaíso",
+    "start": "2021-05-27",
+    "description": "<p>En nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.<\/p> <p>- REQUERIMIENTOS<br/>Es necesario tener instalados los paquetes tidyverse, survey y srvyr.<\/p> <p>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-valparaiso/events/278324576/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies East Lansing: RLadies+ feat. useR! meetup  [Virtual] , United States, US/Canada",
     "group": "R-Ladies East Lansing",
     "start": "2021-04-28",
@@ -908,6 +892,14 @@
     "start": "2021-05-13",
     "description": "<p>Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: <a href=\"https://es.r4ds.hadley.nz\" class=\"linkified\">https://es.r4ds.hadley.nz<\/a>.<\/p> <p>Estamos felices de crear este grupo de lectura y aprender sobre cómo hacer ciencia de datos, lo cual incluye desde la importación de datos a R, manipular su estructura y transformarlos, hasta visualizarlos e incluso crear modelos y comunicar resultados.<\/p> <p>Este club de lectura incluirá varias sesiones quincenales que se llevarán a cabo los jueves empezando el 13 de mayo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo en el que nos enfoquemos para esa sesión.<\/p> <p>Durante esta primera sesión Danisse Carrascal y Mary Jane Rivero (R-Ladies Barranquilla) hablarán sobre los tipos de datos y estructuras que utilizaremos en R. Esto incluye al capítulo 14 (Cadenas de caracteres), capítulo 15 (Factores), y el capítulo 20 (Vectores).<\/p> <p>Recuerda, las sesiones son los jueves de cada quincena desde el 13 de mayo, y empiezan a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6). Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-guayaquil/events/277928985/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Guayaquil: Club de lectura: R para Ciencia de Datos (Wickham & Grolemund) - Sesión 2  [Virtual] , Ecuador, Latin America",
+    "group": "R-Ladies Guayaquil",
+    "start": "2021-05-27",
+    "description": "<p>Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: <a href=\"https://es.r4ds.hadley.nz\" class=\"linkified\">https://es.r4ds.hadley.nz<\/a>.<\/p> <p>En esta segunda sesión de nuestro club de lectura, Denisse (R-Ladies Galápagos) hablará sobre cómo trabajar con fechas y horas en R, y también qué son los pipes y cómo utilizarlos. Esto incluye al capítulo 16 (Fechas y horas) y el capítulo 18 (Pipes).<\/p> <p>Este club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.<\/p> <p>Recuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).<\/p> <p>Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-guayaquil/events/278205729/",
     "textColor": "#7171fb"
   },
   {
@@ -1063,11 +1055,11 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Tbilisi: ტურიზმის მონაცემების ვიზუალიზაცია ggplot2 და shiny გამოყენებით  [Virtual] , Georgia, Asia",
-    "group": "R-Ladies Tbilisi",
-    "start": "2021-04-27",
-    "description": "<p>შეხვედრის ფარგლებში განხილული იქნება ggplot2, shiny და plotly::ggploty პაკეტები.<\/p> <p>ტურიზმის ეროვნული ადმინისტრაციის მონაცემების მაგალითზე ნაჩვენები იქნება ggplot2 პაკეტით შექმნილი დიაგრამების გამოყენებით ინტერაქტიული ვიზუალიზაციისა და აპლიკაციის შექმნის ნაბიჯები. დეტალურად იქნება განხილული მონაცემების მომზადება, ggplot2 პაკეტით დიაგრამის შექმნა და მისი გამოყენება shiny-ისა და plotly::ggploty პაკეტებში.<\/p> <p>სპიკერი: თემურ გუგუშვილი<br/>დოქტორობის კანდიდატი, სოციოლოგიის პროგრამა, თბილისი სახელმწიფო უნივერსიტეტი;<br/>კვლევისა და სერვისების დეპარტამენტის უფროსი, დანაშაულის პრევენციისა და პრობაციის ეროვნული სააგენტო;<br/>თემური აქტიურად იყენებს R-ს მონაცემთა ანალიზისა და ვიზუალიზაციისთვის.<\/p> <p>მონაცემთა წყარო:<br/><a href=\"https://gnta.ge/statistics/\" class=\"linkified\">https://gnta.ge/statistics/<\/a><br/><a href=\"https://temurgugushvili.shinyapps.io/tourism_data/\" class=\"linkified\">https://temurgugushvili.shinyapps.io/tourism_data/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-tbilisi/events/277641071/",
+    "title": "R-Ladies CDMX: Club de lectura Advanced R: Funcionales  [Virtual] , Mexico, Latin America",
+    "group": "R-Ladies CDMX",
+    "start": "2021-05-27",
+    "description": "<p>¡Ya vamos en el capítulo 9 del libro de Advanced R!<\/p> <p>En esta sesión veremos el capítulo 9: Funcionales<\/p> <p><a href=\"https://adv-r.hadley.nz/functionals.html\" class=\"linkified\">https://adv-r.hadley.nz/functionals.html<\/a><\/p> <p>En este capítulo se muestra cómo reemplazar ciclos for con funcionales, que son funciones que reciben como argumento otra función (como lapply). En particular, el capítulo se enfoca en los funcionales que introduce el paquete purrr.<\/p> <p>Será a las 18:00 hora del Centro de la Ciudad de México.<\/p> <p>¡No faltes!<\/p> ",
+    "url": "https://www.meetup.com/rladies-cdmx/events/278390599/",
     "textColor": "#7171fb"
   },
   {
@@ -1116,14 +1108,6 @@
     "start": "2021-05-06",
     "description": "<p>Neste Meetup do R-Ladies Lavras daremos um curso de introdução ao Github. Serão apresentadas as principais funcionalidades, vantagens e os primeiros passos para a utilização da plataforma.<\/p> ",
     "url": "https://www.meetup.com/rladies-lavras/events/277884321/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Denver: 2021 Denver R-Ladies Virtual Meet and Greet  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Denver",
-    "start": "2021-04-27",
-    "description": "<p>Hello Denver R-Ladies,<br/>You are invited to the 2021 Denver R-Ladies Virtual Meet and Greet!<br/>With the relaunching of our group, we hope to get to know you and the needs of our community through this event.<\/p> <p>When?<br/>April 27 at 5:30 pm MST<\/p> <p>Where?<br/>Zoom - link will be available once you RSVP.<\/p> <p>What can I expect?<br/>Discussion-oriented meet and greet. We will breakout into small groups, so come prepared to share and chat!<\/p> <p>Let us know you plan on joining by RSVPing to the meetup event. We look forward to meeting you!<\/p> <p>- Curie and Wendy, the new organizers<\/p> ",
-    "url": "https://www.meetup.com/rladies-denver/events/277538529/",
     "textColor": "#7171fb"
   },
   {
@@ -1212,6 +1196,14 @@
     "start": "2021-04-30",
     "description": "<p>Este viernes 30 de abril nos volvemos a juntar, ahora para hablar de algunas funciones que amamaos porque hacen nuestra vida más fácil. Durante la sesión, Sara Acevedo, Stephanie Orellana, Javiera Riffo, Alejandra Tapia Silva y Riva Quiroga nos presentarán algunas funciones no tan conocidas que las ayudan en su trabajo diario. Nos enseñarán a utilizarlas y nos mostrarán algunos casos en los que podrían ser útiles.<br/>Además, hablaremos sobre el llamado a presentación de trabajos de LatinR (<a href=\"https://latin-r.com/\" class=\"linkified\">https://latin-r.com/<\/a>), la conferencia latinoamericana sobre R que este año se realizará en modalidad virtual. Revisaremos cuáles son los formatos de presentación y los temas, y resolveremos dudas sobre el proceso de envío de propuestas.<\/p> <p>- SOBRE LA ESTRUCTURA DE LA SESIÓN<\/p> <p>Esta sesión está organizada en torno a \"charlas relámpago\" en las que se presentarán las distintas funciones. Los materiales utilizados en cada una de las demostraciones quedará disponible en nuestra cuenta de GitHub una vez terminado el meetup: <a href=\"https://github.com/rladieschile\" class=\"linkified\">https://github.com/rladieschile<\/a>.<br/>Este evento se realizará a las 17:00 (UTC-4) a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.<\/p> <p>- CÓDIGO DE CONDUCTA<\/p> <p>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><br/>Esta es una actividad conjunta de los capítulos de RLadies de Chile (Santiago, Valparaíso, Concepción y Talca).<br/>¡Te esperamos!<\/p> ",
     "url": "https://www.meetup.com/rladies-concepcion/events/277904282/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Concepción: Análisis de encuestas de diseño complejo con R  [Virtual] , Chile, Latin America",
+    "group": "R-Ladies Concepción",
+    "start": "2021-05-27",
+    "description": "<p>¡Hola!<\/p> <p>En nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.<br/>- REQUERIMIENTOS<br/>Es necesario tener instalados los paquetes tidyverse, survey y srvyr.<br/>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.<br/>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡Te esperamos!<\/p> ",
+    "url": "https://www.meetup.com/rladies-concepcion/events/278324979/",
     "textColor": "#7171fb"
   },
   {
@@ -1359,14 +1351,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Greater Boston useR Group (R Programming Language): May useR: Writing R code that maximizes our abilities to work collaboratively  [Virtual] , United States, US/Canada",
-    "group": "Greater Boston useR Group (R Programming Language)",
-    "start": "2021-05-27",
-    "description": "<p>Writing R code that maximizes our abilities to work collaboratively<br/>Presented by Ezra Tucker<\/p> <p>Abstract:<br/>How best to work with other data scientists in a team to organize and structure code? S4 classes in R give structure to your data and help you organize your methods. They also help signal to your team members proper use of the data structures you define and what methods are available, in essence, how to use your code properly, and also, how to add to it or modify it later on.<\/p> <p>In this talk, we will empower ourselves by reminding ourselves that data scientists are a particular class of programmers (distinct from those who create PC/console games, those who create mobile apps, those who create websites, etc) but programmers all the same. Then we will briefly discuss the benefits of code encapsulation, especially with respect to packages and S4 classes while touching briefly on other OOP systems in R. We will discuss when and how to implement them, and how to structure your code base in a clean, effective, and consistent manner so that it's clear and easy to understand for your teammates and to yourself.<\/p> <p>Speaker:<br/>Ezra Tucker is the Director of Data Science at Energetic Insurance<\/p> <p>Energetic Insurance is a Managing General Underwriter (MGU) with a novel, data-driven approach to develop new risk management products to unlock exponential growth in the renewable energy industry<\/p> ",
-    "url": "https://www.meetup.com/Boston-useR/events/278003746/",
-    "textColor": "blue"
-  },
-  {
     "title": "Greater Boston useR Group (R Programming Language): June Boston useR Meetup  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2021-06-28",
@@ -1412,6 +1396,14 @@
     "start": "2021-06-23",
     "description": "<p>This meetup we'll have two shorter talks by Jai Ranchod and Bryan Lewis. Details below.<\/p> <p>Talk 1: Jai Ranchod - Extract tabular data from PDFs with pdftools<\/p> <p>I'm going to be talking about how to pull tabular data out of a PDF based on partial string matching and some functions in the \"PDF Tools\" package. The need to do this presented itself when the president of the management company wanted a table of information for the 60+ properties in our portfolio and our software vendor said they could only give us PDFs of word docs.<\/p> <p>Jai (\"Jay\") Ranchod is currently an Operations and Financial Analyst are Rose Community Management, a property management firm based in NYC with offices in Independence, OH. I started using R at my previous job at Epic Systems which is an electronic healthcare record company as part of the quality control process on their cognitive computing products. Since then I have taken several online classes in R, data science, and machine learning including a professional certificate program in data science taught using R. I have a bachelor's degree in physics from the College of Wooster and recently finished my MBA from John Carroll University.<\/p> <p>Talk 2: Bryan Lewis - R and DuckDB<\/p> <p>DuckDB (<a href=\"https://duckdb.org\" class=\"linkified\">https://duckdb.org<\/a>) is a new embedded SQL database library in the spirit of other embedded databases like SQLite. Unlike SQLite, DuckDB uses a column-oriented data layout (like R data frames) and has a particular focus on performance for interactive data analysis. DuckDB's integration with R is so complete that it can work directly on in-memory language objects without copying. This lets you use DuckDB directly on R data frames, including excellent support for dplyr.<\/p> <p>I'll show some practical examples of R and DuckDB and share my thoughts how to best use these technologies together.<\/p> <p>Bryan Lewis is a mathematician, author of the irlba and threejs R packages, and coauthor of the recent CRC textbook \"A Computational Approach to Statistical Learning.\" He previously worked on Mike Stonebraker's open-source SciDB array database project.<\/p> <p>Note: this talk will be recorded and posted on our YouTube channel.<\/p> ",
     "url": "https://www.meetup.com/Cleveland-UseR-Group/events/278434215/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Cleveland R User Group: Trang Le: Take a sad chart and make it better  [Virtual] , United States, US/Canada",
+    "group": "Cleveland R User Group",
+    "start": "2021-08-25",
+    "description": "<p>Every good chart started out as a bad one. In this talk, we will discuss a few basic visualization principles and some ggplot tips and tricks that help improve our charts and refine our data stories. Some familiarity with R and ggplot will be useful but not required - novice R users are encouraged to attend.<\/p> <p>Trang Le is a postdoctoral fellow with Jason Moore at the Computational Genetics Lab, University of Pennsylvania. She enjoys developing machine learning methods for rigorous analyses of a wide array of biomedical data. Most recently, her work focuses on investigating the long-term effect of neurological conditions in COVID-19 patients. She’s the author and maintainer of multiple R packages.<\/p> <p>Note: this talk will be recorded and posted on our YouTube channel.<\/p> ",
+    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/278056361/",
     "textColor": "blue"
   },
   {
@@ -1615,14 +1607,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Santiago: Análisis de encuestas de diseño complejo con R  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Santiago",
-    "start": "2021-05-27",
-    "description": "<p>En nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.<\/p> <p>- REQUERIMIENTOS<br/>Es necesario tener instalados los paquetes tidyverse, survey y srvyr.<\/p> <p>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-scl/events/278330699/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Santiago: Club de lectura del libro \"Data Feminism\" (sesión 1)  [Virtual] , Chile, Latin America",
     "group": "R-Ladies Santiago",
     "start": "2021-06-03",
@@ -1775,14 +1759,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Vienna: ggplot2 workshop with Ursula Laa, Austria, Europe",
-    "group": "R-Ladies Vienna",
-    "start": "2021-05-27",
-    "description": "<p>We are happy to announce that for the May 2021 Meetup our co-organiser Ursula Laa will offer a tutorial into data visualisation with the ggplot2 R package.<\/p> <p>Starting from the underlying principles of tidy data and the grammar of graphics, Ursula will introduce the basic ingredients (aesthetics and geoms) and show how to build a ggplot layer-by-layer. We will see together how we can quickly generate very different graphs with small changes in a standard interface, making it easy to better explore data.<\/p> <p>Ursula is a researcher in the Statistics Institute of the University of Natural Resources and Life Sciences (BOKU) in Vienna and holds PhD in theoretical particle physics. She focuses in her research on new methods and applications in data science with emphasis on interdisciplinary work, for example connecting her background in physics and her interest in statistical data visualisation.<\/p> <p>See you soon online!<br/>Your R-Ladies Vienna Organizing Team<\/p> ",
-    "url": "https://www.meetup.com/rladies-vienna/events/278177664/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Montreal: R-Ladies Meeting: TBC, Canada, US/Canada",
     "group": "R-Ladies Montreal",
     "start": "2021-06-17",
@@ -1871,14 +1847,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Valparaíso: Análisis de encuestas de diseño complejo con R  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Valparaíso",
-    "start": "2021-05-27",
-    "description": "<p>En nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.<\/p> <p>- REQUERIMIENTOS<br/>Es necesario tener instalados los paquetes tidyverse, survey y srvyr.<\/p> <p>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.<\/p> <p>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-valparaiso/events/278324576/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Valparaíso: Club de lectura del libro \"Data Feminism\" (sesión 1)  [Virtual] , Chile, Latin America",
     "group": "R-Ladies Valparaíso",
     "start": "2021-06-03",
@@ -1892,14 +1860,6 @@
     "start": "2021-05-29",
     "description": "<p>¡Nuevo meetup! y estamos muy emocionadas :D de contar con una destacada R-Lady y científica de datos.<\/p> <p>Ana Paula es egresada de Estadística Informática de la UNALM. Actualmente trabaja como Fellow Data Scientist en Mckinsey &amp; Company. Cuenta con 5 años de experiencia construyendo y liderando soluciones analíticas en distintos rubros como banca, telecomunicaciones, construcción, pintura, minería y otros.<\/p> <p>• Lo que aprenderemos:<br/>A través de un taller práctico, veremos cómo resolver una problemática de alocación de recursos para reducir tiempos de espera en cola en agencias. Aplicando los paquetes de \"tidyverse\", veremos su gran utilidad para realizar los análisis de datos y simulaciones necesarios.<\/p> <p>• Requisitos:<br/>Asegúrate de tener instalado Zoom.<\/p> <p>***IMPORTANTE***<br/>Para participar, dale \"Asistiré\" en este evento.<br/>Por razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. Estaremos enviando un correo con el link de zoom.<\/p> <p>• Pregunta frecuente:<br/>P: ¿Los chicos son bienvenidos a las reuniones de R-Ladies Lima?<br/>R: Sí, los chicos son bienvenidos a cualquiera de nuestros eventos. Puedes revisar nuestro código de conducta global aquí: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-lima/events/278279639/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Guayaquil: Club de lectura: R para Ciencia de Datos (Wickham & Grolemund) - Sesión 2  [Virtual] , Ecuador, Latin America",
-    "group": "R-Ladies Guayaquil",
-    "start": "2021-05-27",
-    "description": "<p>Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: <a href=\"https://es.r4ds.hadley.nz\" class=\"linkified\">https://es.r4ds.hadley.nz<\/a>.<\/p> <p>En esta segunda sesión de nuestro club de lectura, Denisse (R-Ladies Galápagos) hablará sobre cómo trabajar con fechas y horas en R, y también qué son los pipes y cómo utilizarlos. Esto incluye al capítulo 16 (Fechas y horas) y el capítulo 18 (Pipes).<\/p> <p>Este club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.<\/p> <p>Recuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).<\/p> <p>Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-guayaquil/events/278205729/",
     "textColor": "blue"
   },
   {
@@ -1954,14 +1914,6 @@
     "start": "2021-08-20",
     "description": "<p>Registration is required on the AlphaZetta site - links below.<\/p> <p>The AlphaZetta Global Analytics Summit is a unique conference experience, built around experts sharing their knowledge, use cases, best practice and having time for meaningful interactions. It is not vendor driven - there’s no booths or selling and no big crowds - we expect only ~150 attendees. The summit provides insightful presentations, fantastic networking and discussion time at great value!<\/p> <p>We are aiming to host GAS in Sydney on Friday 20th August at the Manly Pacific Hotel. Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> ).<\/p> <p>The day starts with presentations on the current state of the analytics market and key trends to look for in the future. The second section is about inspiring attendees with keynotes from Volt Bank on creating a new business based on data and analytics and from goPassport on addressing the challenges of risk managed travel in the COVID era.<\/p> <p>The afternoon focuses on innovation and implementation. We have presentations from some of Australia’s exciting startups (Volt, Adgile Media, Shop You, goPassport, Self Assured Pty Ltd) who are using analytics to disrupt their markets. To close, we will hear a keynote on how to deliver analytics and increase AI adoption.<\/p> <p>The Summit venue is the Novotel Pacific, Manly which is right on the ocean beach, with lunch and dinner included.<\/p> <p>All up, at just $350 for standard tickets, it’s a conference like no other!<\/p> <p>Here’s a video clip to highlight all of the above! (<a href=\"https://youtu.be/YKnFo0thEMM\" class=\"embedded\">https://youtu.be/YKnFo0thEMM<\/a>)<\/p> <p>Presenters Include:<br/>Steve Weston - Co-Founder and CEO, Volt Bank<br/>Craig Service - Chief Revenue Officer, Adgile Media<br/>Neale Wilson - Co-Founder and Managing Director, Self Assured Pty Ltd<br/>Kelly Slessor - Founder and CEO, Shop You<br/>Klaus Felsche - Co-Founder and CTO, goPassport<br/>Cátia Cepeda - Co-Founder, Latent Insight<br/>Tony Ohlsson - Founder, AlphaZetta; Chief Analytics Officer, Volt Bank<br/>Felipe Flores - Founder, Data Futurology<\/p> <p>PLEASE DO NOT RSVP ON MEETUP.COM.<br/>Further details including the agenda can be found here ( <a href=\"https://alphazetta.ai/event/global-analytics-summit-sydney-2020/\" class=\"linkified\">https://alphazetta.ai/event/global-analytics-summit-sydney-2020/<\/a> )<br/>Tickets are available here ( <a href=\"https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453\" class=\"linkified\">https://www.eventbrite.sg/e/global-analytics-summit-sydney-2020-tickets-85943209453<\/a> )<\/p> ",
     "url": "https://www.meetup.com/Canberra-R-Users-Group/events/267894706/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies CDMX: Club de lectura Advanced R: Funcionales  [Virtual] , Mexico, Latin America",
-    "group": "R-Ladies CDMX",
-    "start": "2021-05-27",
-    "description": "<p>¡Ya vamos en el capítulo 9 del libro de Advanced R!<\/p> <p>En esta sesión veremos el capítulo 9: Funcionales<\/p> <p><a href=\"https://adv-r.hadley.nz/functionals.html\" class=\"linkified\">https://adv-r.hadley.nz/functionals.html<\/a><\/p> <p>En este capítulo se muestra cómo reemplazar ciclos for con funcionales, que son funciones que reciben como argumento otra función (como lapply). En particular, el capítulo se enfoca en los funcionales que introduce el paquete purrr.<\/p> <p>Será a las 18:00 hora del Centro de la Ciudad de México.<\/p> <p>¡No faltes!<\/p> ",
-    "url": "https://www.meetup.com/rladies-cdmx/events/278390599/",
     "textColor": "blue"
   },
   {
@@ -2042,14 +1994,6 @@
     "start": "2021-05-31",
     "description": "<p>Are you new to R? This is the workshop for you!<\/p> <p>This workshop is for anyone who is interested in learning R, but doesn’t know where to start! With new folks joining throughout the year, we feel it is important to hold a session for our beginner level members, in order to help establish a strong foundation of skills in R. In this introductory session, we will be going over the basics: how to navigate the different file types, expressions, commands, operators, objects, loops, and MORE!<\/p> <p>This session will be led by co-organizer, Cassidy Da Silva (she/her). Cassidy completed her Honours Bachelor’s degree in Biology with an Interdisciplinary Minor in Archaeology at McMaster University in 2019. She is now completing her master’s degree in the Hallgrimsson lab at the University of Calgary, studying the genetics underlying sex differences in human facial morphology. Her primary research interests include morphology, human anatomy, complex trait genetics, and human evolution.<\/p> ",
     "url": "https://www.meetup.com/rladies-calgary/events/278247400/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Concepción: Análisis de encuestas de diseño complejo con R  [Virtual] , Chile, Latin America",
-    "group": "R-Ladies Concepción",
-    "start": "2021-05-27",
-    "description": "<p>¡Hola!<\/p> <p>En nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.<br/>- REQUERIMIENTOS<br/>Es necesario tener instalados los paquetes tidyverse, survey y srvyr.<br/>Este evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.<br/>- CÓDIGO DE CONDUCTA<br/>Queremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish<\/a><\/p> <p>¡Te esperamos!<\/p> ",
-    "url": "https://www.meetup.com/rladies-concepcion/events/278324979/",
     "textColor": "blue"
   },
   {
