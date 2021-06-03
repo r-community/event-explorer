@@ -264,6 +264,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Wiesbaden R User Group: R Coffee Break -  tidytext: Tidy Text Mining  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-06-02",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns sehr, dass Julia Silge uns ihr CRAN-Paket tidytext vorstellt. Das Paket ermöglicht Text Mining mit dem tidy-Framework (dplyr', 'ggplot2', and Other Tidy Tools). Julia Silge ist die Autorin von \"Text Mining with R\" und der Seite <a href=\"https://www.tidytextmining.com/\" class=\"linkified\">https://www.tidytextmining.com/<\/a>.<br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting ID:[masked]<br/>Passcode:[masked]<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/278319083/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R Users Group, Gainesville, FL: R-Users Meta-Meetup  [Virtual] , United States, US/Canada",
     "group": "R Users Group, Gainesville, FL",
     "start": "2021-05-11",
@@ -445,6 +453,14 @@
     "start": "2021-05-05",
     "description": "<p>Productivity in R often boils down to automating repetitive steps, and iterating over a structured dataset is a common task in more complex data manipulation.<\/p> <p>There are many ways to achieve this: While some feel most comfortable writing procedural for-loops, others Vectorize() their functions in order to pass them multiple values at once. Yet another camp swears by the functional style of purrr's map() and reduce() functions (the tidy alternative to the the *apply family of functions in base R). And a fourth category of useRs struggle to get their head wrapped around serializiation in the first place. (Let's just ignore the hopeless cases who write straight-up recursive functions with no concern for stack size.)<\/p> <p>It has been rumored that a more functional style makes everything faster – but is that really true? Doesn't it make the code just too hard to read? And can any loop really be replaced by a map?<\/p> <p>For our May meeting, let's challenge the functional fanboys and *girls among us. Bring a contained, reproducible example loop (side effects welcome!) and we will ask the mapheads to reformulate it as a higher order function.<\/p> <p>As always, useRs of all backgrounds and at all levels of expertise are invited to participate. Learning R is not a competition. Come join us!<\/p> ",
     "url": "https://www.meetup.com/r-frankfurt/events/277422300/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Campus useR Group Frankfurt: June meeting: What's new in R 4.1.0?  [Virtual] , Germany, Europe",
+    "group": "Campus useR Group Frankfurt",
+    "start": "2021-06-02",
+    "description": "<p>On May 18, a minor update to R 4.1.0 releases: <a href=\"https://developer.r-project.org/\" class=\"linkified\">https://developer.r-project.org/<\/a><\/p> <p>For our June meeting, let's talk about the update: Did you install the new version? Did it break your code? Looking at the changelog, what catches our eye? Can we recreate some of the bugs that the update fixes?<\/p> <p>While the update shouldn't change much in our everyday workflows, this is an opportunity to take a more in-depth look at mechanics that we don't usually encounter using R, get more familiar with the contributors' vocabulary and maybe even discover useful functionalities.<\/p> <p>As always, everyone is welcome to join the conversation, ask questions and share their ideas and experiences, no matter their background or skill level.<\/p> ",
+    "url": "https://www.meetup.com/r-frankfurt/events/278155704/",
     "textColor": "#7171fb"
   },
   {
@@ -1160,6 +1176,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Montreal R User Group: [Webinar] TigerGraph Cloud – How to Run TigerGraph on AWS, Azure and GCP  [Virtual] , Canada, US/Canada",
+    "group": "Montreal R User Group",
+    "start": "2021-06-15",
+    "description": "<p>Register Here: <a href=\"https://info.datascience.salon/introduction-to-tigergraph-cloud-how-to-run-tigergraph-on-aws-azure-and-gcp\" class=\"linkified\">https://info.datascience.salon/introduction-to-tigergraph-cloud-how-to-run-tigergraph-on-aws-azure-and-gcp<\/a><\/p> <p>TigerGraph Cloud, a cloud-agnostic database-as-a-service offering, enables users to leverage graph analytics on AWS, Azure, and GCP. TigerGraph Cloud not only fully manages clusters, but also provides a use case library via starter kits, which greatly reduces customers’ time to business value and decreases the learning curve to specific graph database use cases such as fraud detection, recommendation, customer 360, AI, and in-database machine learning.<\/p> <p>Come learn and ask questions from our TigerGraph Cloud Product Team and watch an end-to-end overview of TigerGraph Cloud with a short demonstration that showcases starter kits and other unique functionality.<\/p> <p>Register Here: <a href=\"https://info.datascience.salon/introduction-to-tigergraph-cloud-how-to-run-tigergraph-on-aws-azure-and-gcp\" class=\"linkified\">https://info.datascience.salon/introduction-to-tigergraph-cloud-how-to-run-tigergraph-on-aws-azure-and-gcp<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/278595905/",
+    "textColor": "blue"
+  },
+  {
     "title": "Montreal R User Group: Speed Optimization & Benchmarks in Spark NLP 3: Making the Most of Hardware  [Virtual] , Canada, US/Canada",
     "group": "Montreal R User Group",
     "start": "2021-06-16",
@@ -1400,6 +1424,30 @@
     "textColor": "blue"
   },
   {
+    "title": "Vienna<-R: R-Ladies Tunis / ViennaR: [R4Bioinfo] WS \"Intro to Ensembl REST API\" - Part 1  [Virtual] , Austria, Europe",
+    "group": "Vienna<-R",
+    "start": "2021-06-04",
+    "description": "<p>We'd like to share another R4Bioinfo series event by R-Ladies Tunis - definitely an event to look fwd to for those of you who are involved in R (or stats) for Bioinformatics.<br/>This is part one of a series of two workshops about<br/>\"Introduction to Ensembl REST API\".<\/p> <p>Date/Time: Friday, June 4th, 2021 from 6 PM to 8:15 PM (GMT+1)<br/>SO SHOULD BE 7 pm VIENNA TIME ...<br/>Place: ZOOM<\/p> <p>▶️ Invited trainers: Dr. Aleena Mushtaq and Dr. Michal Szpak<\/p> <p>▶️ About Dr. Aleena Mushtaq:<br/>Aleena’s background is in Biomedical and Molecular sciences. She completed her PhD in 2020 at the University of East Anglia, UK. For her doctorate she studied the dynamic relationship of host and microbiota in the gut-liver axis in response to Western diets. She joined EMBL-EBI as an Ensembl Outreach Officer in 2021 and delivers training on Ensembl resources.<\/p> <p>▶️ About Dr. Michal Szpak:<br/>Michal took a degree in biology at the University of Warsaw, where he<br/>studied ancient DNA. He subsequently moved to bioinformatics and<br/>explored human genetic variation across different ethnicities in his<br/>master’s degree research at the Center for Public Health Genomics,<br/>university of Virginia. He joined the human evolution team at the<br/>Wellcome Sanger Institute in 2012 and received his PhD in human<br/>population genetics from University of Cambridge. His doctoral and<br/>postdoctoral work at the Sanger focused on positive selection and<br/>genetic adaptations in humans. He joined EMBL-EBI as an Ensembl Outreach Officer in 2019 and continues to deliver Ensembl training worldwide.<\/p> <p>▶️ About the workshop:<br/>This workshop will be divided into two parts. During these two parts you'll learn about:<br/>- Introduction to REST API<br/>- Making requests with R<br/>- Find an endpoint which you can use to lookup information about a gene using its symbol<br/>- Create a URL to find information about a gene<br/>- Expand your results to include information about transcripts<br/>- Convert a fromJSON module used to pull out the data to a dataframe<br/>- Get a sequence in FASTA<br/>- Gene trees and homologues in various formats<br/>- Alignments<br/>- Get all variants that are associated with a phenotype and print the needed information about these variants<br/>- Linking endpoints together<br/>- Using POST to run a query with multiple inputs at once<\/p> <p>By the end of this series, you will be able to make requests with R through Ensembl REST API.<\/p> <p>In order to attend the event, please fill out this form<br/>👉 <a href=\"https://tinyurl.com/judj2az8\" class=\"linkified\">https://tinyurl.com/judj2az8<\/a><\/p> <p>We will send you the ZOOM link a few hours before the training session. Please check out your email later.<\/p> <p>We look forward to welcoming you!<\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/278575189/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Vienna<-R: [R Lille] / ViennaR: Reproducible Computation at Scale with {targets}  [Virtual] , Austria, Europe",
+    "group": "Vienna<-R",
+    "start": "2021-06-17",
+    "description": "<p>Original Meetup: <a href=\"https://www.meetup.com/R-Lille/events/277902715/\" class=\"linkified\">https://www.meetup.com/R-Lille/events/277902715/<\/a><\/p> <p>[Abstract]<br/>The {targets} (<a href=\"https://docs.ropensci.org/targets/\" class=\"linkified\">https://docs.ropensci.org/targets/<\/a>) R package enhances the reproducibility, scale, and maintainability of data science projects in computationally intense fields such as machine learning, Bayesian data analysis, and statistical genomics. {targets} resolves the dependency structure of the analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and manages data storage. {stantargets} (<a href=\"https://docs.ropensci.org/stantargets/\" class=\"linkified\">https://docs.ropensci.org/stantargets/<\/a>) and similar packages extend {targets} to simplify pipeline construction for specialized use cases such as the validation of Bayesian models.<\/p> <p>[Bio]<br/>Will Landau (<a href=\"https://wlandau.github.io/\" class=\"linkified\">https://wlandau.github.io/<\/a>) works at Eli Lilly and Company (<a href=\"https://www.lilly.com/\" class=\"linkified\">https://www.lilly.com/<\/a>) where he develops methods and tools for clinical statisticians, and he is the creator and maintainer of the targets and drake R packages. Will earned his PhD in Statistics at Iowa State University in 2016, where his dissertation research applied Bayesian methods, hierarchical models, and GPU computing to the analysis of RNA-seq data.<\/p> <p>[About]<br/>This event (in English) is organised by the R Lille user group (Lille, France).<\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/278575659/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Vienna<-R: Berlin RUG / ViennaR: A long-short Bayesian State-Space model w R and RStan  [Virtual] , Austria, Europe",
+    "group": "Vienna<-R",
+    "start": "2021-07-14",
+    "description": "<p>Original event link:<br/>&gt;&gt; <a href=\"https://www.meetup.com/Berlin-R-Users-Group/events/278030316/\" class=\"linkified\">https://www.meetup.com/Berlin-R-Users-Group/events/278030316/<\/a><\/p> <p>The 2nd Berlin RUG online meetup!<br/>We'll learn about bayesian modeling for a forecast on our upcoming election. And we will get to see each other again, so we're hoping many will sign up :)<\/p> <p>A long-short Bayesian State-Space model for the German Federal Election 2021 with R and RStan<\/p> <p># Description<br/>Marcus Groß and Michelle Golchert will present a Bayesian model for forecasting the German federal election 2021 with R and RStan that gives more insights and more accurate predictions compared to simple poll-averaging methods. The model consists of two parts:<br/>A model for the election outcome (i.e. the vote share for each party based on poll data) and a model to assign a probability to the coalition of the actual government using expert survey data. An in-depth description and motivation is discussed in this talk. The model is fitted with (R)Stan, a Bayesian modeling framework, that can seamlessly be integrated into R.<\/p> <p># Agenda<br/>18:30 Intro<br/>18:35 Talk<br/>19:05 Q&amp;A<br/>19:30 Closing remarks (we can extend it if needed)<\/p> <p># Bios<br/>Marcus Groß and Michelle Golchert are Data Scientists at INWT Statistics.<br/>Marcus holds a Ph.D. in Statistics and has several years experience consulting on and managing projects in the data science field. He is an expert in predictive analytics and Bayesian statistics.<br/>Michelle has a master's degree in psychology and specializes in supporting Data Science projects in the areas of software development, DevOps and CI.<\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/278575945/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Chicago: First Steps in Spatial Data visualization w/ R-Ladies East Lansing  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Chicago",
     "start": "2021-06-15",
@@ -1416,11 +1464,11 @@
     "textColor": "blue"
   },
   {
-    "title": "Campus useR Group Frankfurt: June meeting: What's new in R 4.1.0?  [Virtual] , Germany, Europe",
-    "group": "Campus useR Group Frankfurt",
-    "start": "2021-06-02",
-    "description": "<p>On May 18, a minor update to R 4.1.0 releases: <a href=\"https://developer.r-project.org/\" class=\"linkified\">https://developer.r-project.org/<\/a><\/p> <p>For our June meeting, let's talk about the update: Did you install the new version? Did it break your code? Looking at the changelog, what catches our eye? Can we recreate some of the bugs that the update fixes?<\/p> <p>While the update shouldn't change much in our everyday workflows, this is an opportunity to take a more in-depth look at mechanics that we don't usually encounter using R, get more familiar with the contributors' vocabulary and maybe even discover useful functionalities.<\/p> <p>As always, everyone is welcome to join the conversation, ask questions and share their ideas and experiences, no matter their background or skill level.<\/p> ",
-    "url": "https://www.meetup.com/r-frankfurt/events/278155704/",
+    "title": "R-Ladies Boulder: RLadies Boulder Meetup #15: From csv to slippy map - intro to spatial data in R  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Boulder",
+    "start": "2021-06-08",
+    "description": "<p>Hi Boulder UseRs! Join us for this month's virtual R Ladies Meetup! This month, Anna Spiers will be giving us an introduction to spatial data and map-making in R!<\/p> <p>From Anna: Working with spatial data can feel as finicky as caring for your favorite houseplant - your attempts to help are rejected despite following instructions, and you look longingly at friends' and colleagues' masterpieces (i.e., maps/plants). This talk will introduce spatial data broadly, and cover some of the basic workflows and troubleshooting steps in R. Specifically, we will work with vector data, focus on the `sp` and `sf` libraries, and produce an interactive map in R. Example data and code will be provided.<\/p> <p>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and learn some new techniques to apply in your work!<\/p> <p>We hope you'll also join our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/rladies-boulder/events/278580532/",
     "textColor": "blue"
   },
   {
@@ -1453,6 +1501,14 @@
     "start": "2021-07-14",
     "description": "<p>A more detailed agenda will be available closer to the event!<\/p> <p>The goal of this workshop is to provide a hands-on introduction on how to display your data onto relevant geographic locations in a map (e.g. continent, state) using the ggplot2 package in R. Attendees will learn to create a mapped visualization of current up-to-date vaccination rates across states in the US.<\/p> <p>About the Speaker:<br/>Michelle is a graduate student in the Cognition and Neuroscience PhD Program at Temple University. She received her bachelor’s degree in Cognitive Neuroscience from Johns Hopkins University in 2014 and continued to earn her master’s degree in Human Development at Cornell University in 2017. Her research broadly looks at digital media and risky decision making using a behavioral and neuroimaging approach. In her free time, she enjoys exploring the Philly food scene and practicing yoga!<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/277326038/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Sydney: Building a Personal Website Using R , Australia, Australia",
+    "group": "R-Ladies Sydney",
+    "start": "2021-06-22",
+    "description": "<p>This workshop invites R users with basic/intermediate knowledge who are interested in learning how to build their personal website using the blogdown package (No prior knowledge with blogdown is required).<\/p> <p>This workshop will be an interactive presentation, where we will build a website together from scratch. We will also provide further resources that will allow you to continue enhancing your website on your own.<\/p> <p>To prepare for this workshop please make sure that you have R and RStudio installed on your computer. It would be great if you could create a Github account if you do not have one already.<\/p> <p>Please bring your laptop with you!<\/p> <p>NOTE: We are back to running workshops IN PERSON- YAY! Thank you to Nous for their generous support. The COVID-safe room limit is 20 attendees so please only RSVP if you are sure you can come.<\/p> <p>BIOS<\/p> <p>Tehilla is a Ph.D. student studying cognitive science at UNSW, Sydney. She received her Bachelor and Masters of Science degrees from the University of Basel, Switzerland. Her research focuses on the interaction between risky decision-making and information-seeking behaviour.<\/p> <p>Jenny is also a PhD student studying cognitive psychology at UNSW. She received her BA in psychology from the University of Maryland and her Masters of Science in experimental psychology from Syracuse University. Jenny’s research interests include studying the effects of interruptions and time-pressure on decision-making.<\/p> ",
+    "url": "https://www.meetup.com/rladies-sydney/events/278565472/",
     "textColor": "blue"
   },
   {
@@ -1549,6 +1605,14 @@
     "start": "2021-08-24",
     "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
     "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsycclbgc/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2021-08-31",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsycclbpc/",
     "textColor": "blue"
   },
   {
@@ -1656,6 +1720,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies East Lansing: First Steps in Spatial Data visualization w/ R-Ladies Chicago  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies East Lansing",
+    "start": "2021-06-15",
+    "description": "<p>The tutorial is designed for R users from a variety of fields who are interested in working with spatial data and creating maps with R.<\/p> <p>No knowledge of cartography is required.<\/p> <p>Prior knowledge of (non-spatial) graphic making and data handling with the {tidyverse} in R is recommended.<\/p> <p>Speaker Bio:<\/p> <p>Dorris Scott is the GIS Librarian and Social Science Data Curator at Washington University – St. Louis, where she provides consultation on projects that use geospatial data along with providing training in various GIS software, programming applications of geospatial data, and data management. She also serves as a liaison between Washington University Libraries and social science departments assisting faculty with their data needs such as data management and data curation. Dorris received her PhD in Geography from the University of Georgia, with a specialization in GIS applications for public health.<\/p> <p>[Zoom Link will be emailed 3 days before the event.]<\/p> ",
+    "url": "https://www.meetup.com/rladies-east-lansing/events/278595419/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Guayaquil: Club de lectura: R para Ciencia de Datos (Wickham & Grolemund) - Sesión 3  [Virtual] , Ecuador, Latin America",
     "group": "R-Ladies Guayaquil",
     "start": "2021-06-10",
@@ -1685,6 +1757,14 @@
     "start": "2021-06-04",
     "description": "<p>Asmae Toumi is going to be teaching us a bit about mapping :). She will describe some workflows to get us up and running in making fast, web-ready maps.<\/p> <p>Asmae Toumi is the Director of Analytics and Research at PursueCare, a telehealth company specializing in treating substance use disorder. By night, she is the editor-in-chief of Hockey-Graphs, a hockey sports analytics blog. When she's not antique or thrift shopping, you can find her on Twitter trying to dismantle systems of oppression and making #rstats content, most of it unfortunately not that funny, but mostly always cute. Consider giving her a follow at: <a href=\"https://twitter.com/asmae_toumi\" class=\"linkified\">https://twitter.com/asmae_toumi<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-johannesburg/events/278557036/",
+    "textColor": "blue"
+  },
+  {
+    "title": "EdinbR: The Edinburgh R Usergroup: Coding in the Open - a week of daily webinars around Open Source practices  [Virtual] , United Kingdom, Europe",
+    "group": "EdinbR: The Edinburgh R Usergroup",
+    "start": "2021-06-14",
+    "description": "<p>Coding In The Open is a week of 1 hour seminars happening June 14th - 18th, online, 1-2pm (BST).<\/p> <p>The event is jointly organised by EdinbR and PyData Edinburgh and will be hosted on the BlueJeans platform, courtesy of Red Hat.<\/p> <p>We aim to bring the discussion around Open Source practices - that is, the collaboration across organisations to achieve bigger things - to a new audience.<\/p> <p>We have some fantastic speakers lined up from public, private, charity and academic sectors to talk about what being “open” means to them, and how it improves their world.<\/p> <p>You can find out more about the programme at<\/p> <p><a href=\"https://codingedi.github.io/\" class=\"linkified\">https://codingedi.github.io/<\/a><\/p> <p>or you can come and chat with us on our Matrix channel<\/p> <p><a href=\"https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org\" class=\"linkified\">https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org<\/a><\/p> ",
+    "url": "https://www.meetup.com/EdinbR/events/278595242/",
     "textColor": "blue"
   },
   {
