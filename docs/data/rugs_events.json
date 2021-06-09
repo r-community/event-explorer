@@ -304,6 +304,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Bari: Modelli predittivi per la crescita profittevole: il caso Bene Assicurazioni  [Virtual] , Italy, Europe",
+    "group": "R-Ladies Bari",
+    "start": "2021-06-08",
+    "description": "<p>Bene Assicurazioni è una realtà in crescita dalla struttura agile, con molteplici partnership e un modello di business in multi-canalità. La Compagnia ha completato la digitalizzazione dei processi e crede nel continuo aggiornamento delle tecnologie adottate.<\/p> <p>Il team BI&amp;A è un gruppo in crescita e con una posizione centrale nella compagnia; è un gruppo giovane, dinamico che si occupa di:<\/p> <p>- diffusione della “cultura dei numeri” all’interno della Compagnia<br/>- governo integrato della reportistica, degli indicatori di performance e di marginalità tecnica<br/>- analisi predittive, tecniche e attuariali per ottimizzare il pricing competitivo, la retention e lo sviluppo di nuovi prodotti<\/p> <p>Dato il piano di crescita della compagnia, molto ambizioso nel breve-medio termine e da effettuarsi senza intaccare la marginalità, abbiamo studiato con diversi modelli predittivi come modificare il prodotto e il pricing per ottimizzare le nostra crescita, ottenendo infine risultati in linea con le aspettative (Machine Learning works!).<\/p> <p>In questo workshop presentiamo il problema ed entriamo nei dettagli di alcuni dei modelli, dei test effettuati e del codice utilizzato per raggiungere il nostro obiettivo.<\/p> <p>AGENDA<\/p> <p>- Chi siamo – Bene Assicurazioni e il Team BI&amp;A<br/>- Perché abbiamo utilizzato modelli predittivi per stimare la conversion e che risultati abbiamo ottenuto<br/>- Descrizione dei principali algoritmi utilizzati per il modello di conversion e che criteri abbiamo utilizzato per la selezione<br/>- Walk-through di un codice di esempio<\/p> ",
+    "url": "https://www.meetup.com/rladies-bari/events/278323910/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "LondonR: LondonR online May 2021: register via Big Marker for free ticket, United Kingdom, Europe",
     "group": "LondonR",
     "start": "2021-05-26",
@@ -400,6 +408,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Boulder: RLadies Boulder Meetup #15: From csv to slippy map - intro to spatial data in R  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Boulder",
+    "start": "2021-06-08",
+    "description": "<p>Hi Boulder UseRs! Join us for this month's virtual R Ladies Meetup! This month, Anna Spiers will be giving us an introduction to spatial data and map-making in R!<\/p> <p>From Anna: Working with spatial data can feel as finicky as caring for your favorite houseplant - your attempts to help are rejected despite following instructions, and you look longingly at friends' and colleagues' masterpieces (i.e., maps/plants). This talk will introduce spatial data broadly, and cover some of the basic workflows and troubleshooting steps in R. Specifically, we will work with vector data, focus on the `sp` and `sf` libraries, and produce an interactive map in R. Example data and code will be provided.<\/p> <p>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and learn some new techniques to apply in your work!<\/p> <p>We hope you'll also join our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/rladies-boulder/events/278580532/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Santiago: Análisis de encuestas de diseño complejo con R  [Virtual] , Chile, Latin America",
     "group": "R-Ladies Santiago",
     "start": "2021-05-27",
@@ -469,6 +485,14 @@
     "start": "2021-06-01",
     "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
     "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccjbcb/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Tucson AZ",
+    "start": "2021-06-08",
+    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
+    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccjblb/",
     "textColor": "#7171fb"
   },
   {
@@ -581,6 +605,14 @@
     "start": "2021-05-19",
     "description": "<p>Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%&gt;%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?<\/p> <p>If you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.<\/p> <p>Over the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!<\/p> <p>This is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.<\/p> <p>January 20th {Part 1}: The R &amp; R-Studio ABCs (packages, files, data types &amp; basic data exploration)<br/>February 17th {Part 2}: Tidy data &amp; introduction to data wrangling (tibbles, renaming, reordering, subsetting)<br/>March 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)<br/>April 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)<br/>May 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)<\/p> <p>Please install R and R-Studio before joining: <a href=\"https://rstudio-education.github.io/hopr/starting.html\" class=\"linkified\">https://rstudio-education.github.io/hopr/starting.html<\/a><\/p> <p>Image by the amazing @allison_horst: <a href=\"https://github.com/allisonhorst/stats-illustrations\" class=\"linkified\">https://github.com/allisonhorst/stats-illustrations<\/a><\/p> ",
     "url": "https://www.meetup.com/rladies-freiburg/events/275193800/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Freiburg: From messy data to beautiful plot: Guided TidyTuesday  [Virtual] , Germany, Europe",
+    "group": "R-Ladies Freiburg",
+    "start": "2021-06-08",
+    "description": "<p>Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?<\/p> <p>In this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!<\/p> <p>You may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!<\/p> <p>It's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!<\/p> ",
+    "url": "https://www.meetup.com/rladies-freiburg/events/278277079/",
     "textColor": "#7171fb"
   },
   {
@@ -724,6 +756,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R User Group Rhein-Neckar: June 2021 Meeting  [Virtual] , Germany, Europe",
+    "group": "R User Group Rhein-Neckar",
+    "start": "2021-06-08",
+    "description": "<p>For the next meeting, we do not have a fixed topic. Feel free to bring your own questions, comments, favorite package.<\/p> <p>See you there!<br/>Oliver<br/>(last updated: 11 Mai. 2021)<\/p> <p>Suggestions of topics would be welcome. 'Lightning Talks' of 7-10 minutes and only very few (or no) slides are a good possibility, e.g. pointing out a package you would like to recommend or learn more about.<\/p> <p>To avoid time restrictions, this video conference will be hosted on JITSI. To attend click the \"online event\" link on the right side, visible to all attendees, enter your name and join the meeting.<\/p> <p>Please only RSVP if you actually plan to attend.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/278122883/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies Washington D.C.: Text Analysis with Wendy Martinez  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Washington D.C.",
     "start": "2021-05-13",
@@ -772,14 +812,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Tbilisi: Bookclub - Chapter 5: Data Transformation  [Virtual] , Georgia, Asia",
-    "group": "R-Ladies Tbilisi",
-    "start": "2021-05-09",
-    "description": "<p>R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (<a href=\"https://r4ds.had.co.nz/\" class=\"linkified\">https://r4ds.had.co.nz/<\/a>).<\/p> <p>On May 9, Ana Makharadze will present the book's Chapter 5 on data transformation: <a href=\"https://r4ds.had.co.nz/transform.html\" class=\"linkified\">https://r4ds.had.co.nz/transform.html<\/a><\/p> <p>Please read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at noon Tbilisi time!<\/p> <p>The previous chapter 4 on work flow basics (<a href=\"https://r4ds.had.co.nz/workflow-basics.html\" class=\"linkified\">https://r4ds.had.co.nz/workflow-basics.html<\/a>) is quite short - please work this through independently.<\/p> <p>Please RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):<br/><a href=\"https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/\" class=\"linkified\">https://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/<\/a><\/p> ",
-    "url": "https://www.meetup.com/rladies-tbilisi/events/277499438/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Tbilisi: Bookclub - Chapter 5: Data Transformation Part II  [Virtual] , Georgia, Asia",
     "group": "R-Ladies Tbilisi",
     "start": "2021-05-16",
@@ -809,6 +841,14 @@
     "start": "2021-05-26",
     "description": "<p>R-Ladies Seattle will be hosting practice talks for CascadiaRConf! We are also happy to have practice talks for other upcoming conferences. If you are interested in presenting, please let us know in Slack or in the GitHub issue for this event <a href=\"https://github.com/rladies-seattle/rladies-seattle-organizing/issues/22\" class=\"linkified\">https://github.com/rladies-seattle/rladies-seattle-organizing/issues/22<\/a>.<\/p> ",
     "url": "https://www.meetup.com/rladies-seattle/events/278141400/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Lavras: Relatórios e Apresentações em RMarkdown   [Virtual] , Brazil, Latin America",
+    "group": "R-Ladies Lavras",
+    "start": "2021-06-08",
+    "description": "<p>Quer aprender mais sobre R Markdown? Então não perca o nosso próximo curso online: Relatórios e Apresentações em RMarkdown.<\/p> <p>🕓08 e 09/06 de 14h às 16h<\/p> <p>✍ ️Inscrições: envie seu nome completo para [masked] e aguarde a resposta com a confirmação. A inscrição será efetivada caso existam vagas disponíveis.<\/p> <p>💻Vagas disponíveis: 50 (por ser um evento gratuito e com vagas limitadas, só faça a inscrição se você realmente for participar de todas as atividades)<\/p> <p>🧭Onde? google meet, o link será enviado aos inscritos antes do início das atividades<\/p> <p>Descrição: O RMarkdown é um pacote da linguagem de programação R para criação de documentos dinâmicos. Os documentos R Markdown são escritos em formato de texto de fácil escrita (markdown) e que permite adicionar códigos em R. Neste curso, vamos aprender a criar e modificar cada elemento (código, o texto e o preâmbulo) de um arquivo R Markdown.<\/p> <p>Prelecionista: Prof. Elizabeth Mie Hashimoto (UTFPR)<\/p> ",
+    "url": "https://www.meetup.com/rladies-lavras/events/278626085/",
     "textColor": "#7171fb"
   },
   {
@@ -849,6 +889,14 @@
     "start": "2021-05-20",
     "description": "<p>Text mining e data analisi con Twitter: casi pratici di estrazione e trattamento dati<\/p> <p>Nel corso del workshop parleremo di come estrarre e analizzare dati testuali da Twitter per l'analisi.<br/>Partiremo dalle basi dell'analisi dei dati non strutturati, per capire quali casistiche di analisi sono adatte ai dati di tipo testuale.<br/>Scopriremo come creare un account Twitter per l'estrazione dati, come creare un' app e utilizzare le chiavi d'identificazione per estrarre i dati con R.<br/>Una volta esaurita la parte di estrazione e storing dei dati, analizzeremo i dati in un'ottica di sentiment analysis.<\/p> <p>Il workshop durerà circa due ore e prevede mezzora dedicata alle domande<\/p> <p>Orario 18:00 - 20:30<\/p> <p>PIATTAFORMA<\/p> <p>Sarà utilizzato RStudio Cloud<\/p> <p>SPEAKER<br/>Valentina Porcu | Data Scientist<\/p> <p>Appassionata di informatica, data science e ricerca, con un dottorato di ricerca in comunicazione e sistemi complessi e anni di esperienza nell'insegnamento nelle università in Italia, Francia e Marocco, e online, ovviamente!<\/p> <p>Lavora come consulente nel campo della data science, AI e Machine Learning e le piace scrivere di nuove tecnologie e data mining.<\/p> <p>Ha trascorso gli ultimi 12 anni lavorando come freelance e ricercatrice nel campo dell'analisi dei social media, analisi di benchmark e web scraping per la creazione di database, in particolare nel campo della buzz analysis e dell'analisi del sentiment per università, startup e web agency in tutto il Regno Unito, Francia , Stati Uniti e Italia.<\/p> ",
     "url": "https://www.meetup.com/rladies-milan/events/278104164/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "R-Ladies Milan: Modelli predittivi per la crescita profittevole: il caso Bene Assicurazioni  [Virtual] , Italy, Europe",
+    "group": "R-Ladies Milan",
+    "start": "2021-06-08",
+    "description": "<p>In questo evento siamo lieti di ospitare un workshop pratico di Bene Assicurazioni, che condividerà con noi come stanno risolvendo le loro sfide quotidiane utilizzando R &amp; big data.<\/p> <p>Bene Assicurazioni è una realtà in crescita dalla struttura agile, con molteplici partnership e un modello di business in omni-canalità. La Compagnia ha completato la digitalizzazione dei processi e crede nel continuo aggiornamento delle tecnologie adottate.<\/p> <p>Il team BI&amp;A è un gruppo in crescita e con una posizione centrale nella compagnia; è un gruppo giovane, dinamico che si occupa:<\/p> <p>Della diffusione della “cultura dei numeri” all’interno della Compagnia<br/>Del governo integrato della reportistica, degli indicatori di performance e di marginalità tecnica<br/>Delle analisi predittive, tecniche e attuariali per ottimizzare il pricing competitivo, la retention e lo sviluppo di nuovi prodotti<br/>Dato il piano di crescita della compagnia, molto ambizioso nel breve-medio termine e da effettuarsi senza intaccare la marginalità, abbiamo studiato con diversi modelli predittivi come modificare il prodotto e il pricing per ottimizzare le nostra crescita, ottenendo infine risultati in linea con le aspettative (Machine Learning works!).<\/p> <p>In questo workshop presentiamo il problema ed entriamo nei dettagli di alcuni dei modelli, dei test effettuati e del codice utilizzato per raggiungere il nostro obiettivo.<\/p> <p>L'evento sarà in Italiano e sarà trasmesso in streaming tramite Zoom (Non è necessario installare zoom).<br/>Il materiale per il workshop sarà condiviso prima dell'evento.<\/p> <p>AGENDA<br/>- Chi siamo – Bene Assicurazioni e il Team BI&amp;A<br/>- Perché abbiamo utilizzato modelli predittivi per stimare la conversion e che risultati abbiamo ottenuto<br/>- Descrizione dei principali algoritmi utilizzati per il modello di conversion e che criteri abbiamo utilizzato per la selezione<br/>- Walk-through di un codice di esempio<\/p> <p>Speakers:<br/>+Alessandra Guazzi: Responsabile BI&amp;A e Direct Product Manager;Laureata in Matematica, con un'esperienza di dottorato di ricerca, lavora in Allianz SE come Data Analyst e partecipa all'avvio di un team dedicato all'ottimizzazione dei prezzi per Allianz Australia (Direct). Dopo un'incursione in campo biomedico, lavora come manager in pricing &amp; analytics presso Willis Towers Watson e nel gruppo Cerved.<br/>+Alessandra Villa: Senior Pricing Expert; Laureata in Scienze Statistiche ed Economiche, lavora come attuario presso Zurich Connect per 4 anni, per poi passare a un'esperienza come Pricing Developer in AM Trust. È in Bene Assicurazioni da 2 anni, coordinando le attività di Pricing e Reportistica degli andamenti tecnici.<br/>+Giulia Del Monaco: Data Analyst: Laureata in Biostatistica, inizia a lavorare in Bene nel 2020, dopo 2 esperienze in consulenza (Telematics e Pharma) come data analyst. Ha ottenuto il master in Big Data &amp; Business Analytics del Sole 240re, dove ha supportato il docente con attività di tutoring. Si occupa principalmente di automazione e modelli predittivi in R.<br/>+Simone Cavenago: BI Analyst; Laureato in Scienze Statistiche ed Economiche, inizia a lavorare per Bene Assicurazioni nel 2018. Come principale responsabilità, segue la preparazione ed analisi dei dati e mantiene e sviluppa sulla piattaforma di Business Intelligence (bReport), tutta la reportistica direzionale e dedicata alle agenzie.<\/p> <p>Non vedo l'ora di incontrarvi!<\/p> ",
+    "url": "https://www.meetup.com/rladies-milan/events/278346959/",
     "textColor": "#7171fb"
   },
   {
@@ -1180,14 +1228,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Wiesbaden R User Group: R Coffee Break: Deepnote  [Virtual] , Germany, Europe",
-    "group": "Wiesbaden R User Group",
-    "start": "2021-06-09",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Robert Lacok uns Deepnote vorstellt. Deepnote ist ein neues Data Science Notebook. Es ist Jupyter kompatibel, ermöglicht Echtzeit-Kollaborationen und läuft in der Cloud. Robert wird uns eine kurze Demo der Plattform zeigen. Hier schonmal der Link zu Deenote: <a href=\"https://deepnote.com/\" class=\"linkified\">https://deepnote.com/<\/a><br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link:[masked]<br/>Kenncode:[masked]<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277587263/",
-    "textColor": "blue"
-  },
-  {
     "title": "Wiesbaden R User Group: R Coffee Break XL:  modeling linguistic variation in R  [Virtual] , Germany, Europe",
     "group": "Wiesbaden R User Group",
     "start": "2021-06-23",
@@ -1252,14 +1292,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Bari: Modelli predittivi per la crescita profittevole: il caso Bene Assicurazioni  [Virtual] , Italy, Europe",
-    "group": "R-Ladies Bari",
-    "start": "2021-06-08",
-    "description": "<p>Bene Assicurazioni è una realtà in crescita dalla struttura agile, con molteplici partnership e un modello di business in multi-canalità. La Compagnia ha completato la digitalizzazione dei processi e crede nel continuo aggiornamento delle tecnologie adottate.<\/p> <p>Il team BI&amp;A è un gruppo in crescita e con una posizione centrale nella compagnia; è un gruppo giovane, dinamico che si occupa di:<\/p> <p>- diffusione della “cultura dei numeri” all’interno della Compagnia<br/>- governo integrato della reportistica, degli indicatori di performance e di marginalità tecnica<br/>- analisi predittive, tecniche e attuariali per ottimizzare il pricing competitivo, la retention e lo sviluppo di nuovi prodotti<\/p> <p>Dato il piano di crescita della compagnia, molto ambizioso nel breve-medio termine e da effettuarsi senza intaccare la marginalità, abbiamo studiato con diversi modelli predittivi come modificare il prodotto e il pricing per ottimizzare le nostra crescita, ottenendo infine risultati in linea con le aspettative (Machine Learning works!).<\/p> <p>In questo workshop presentiamo il problema ed entriamo nei dettagli di alcuni dei modelli, dei test effettuati e del codice utilizzato per raggiungere il nostro obiettivo.<\/p> <p>AGENDA<\/p> <p>- Chi siamo – Bene Assicurazioni e il Team BI&amp;A<br/>- Perché abbiamo utilizzato modelli predittivi per stimare la conversion e che risultati abbiamo ottenuto<br/>- Descrizione dei principali algoritmi utilizzati per il modello di conversion e che criteri abbiamo utilizzato per la selezione<br/>- Walk-through di un codice di esempio<\/p> ",
-    "url": "https://www.meetup.com/rladies-bari/events/278323910/",
-    "textColor": "blue"
-  },
-  {
     "title": "New York Open Statistical Programming Meetup: Text Preprocessing in R  [Virtual] , United States, US/Canada",
     "group": "New York Open Statistical Programming Meetup",
     "start": "2021-06-15",
@@ -1300,6 +1332,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Vienna<-R: HDSI-RUG / ViennaR: [HDSI] inaugural meeting (nightowl event)   [Virtual] , Austria, Europe",
+    "group": "Vienna<-R",
+    "start": "2021-06-10",
+    "description": "<p>In case you are into a nightly session - a RUG (in the making) over in Harvard (USA) have shared details of their first RUG event via GlobalR.<br/>So here are the details ...<br/>The inaugural meeting of the R User Group (RUG) will be on June 10th at 5 p.m. EDT.<br/>RUG seeks to connect users of the statistical programming language R in the greater Harvard community.<br/>We look forward to welcoming all those interested in R, from beginners to experts! We will be presenting a short presentation of some unique applications of R and discussing what members would like to see in the group. Please register at <a href=\"https://harvard.az1.qualtrics.com/jfe/form/SV_0UPimR4P5qm2Omq\" class=\"linkified\">https://harvard.az1.qualtrics.com/jfe/form/SV_0UPimR4P5qm2Omq<\/a> or email us at [masked] for additional information.<\/p> <p>Have fun and keep the coffee close ;-)<\/p> ",
+    "url": "https://www.meetup.com/ViennaR/events/278705965/",
+    "textColor": "blue"
+  },
+  {
     "title": "Vienna<-R: [R Lille] / ViennaR: Reproducible Computation at Scale with {targets}  [Virtual] , Austria, Europe",
     "group": "Vienna<-R",
     "start": "2021-06-17",
@@ -1324,11 +1364,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Boulder: RLadies Boulder Meetup #15: From csv to slippy map - intro to spatial data in R  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Boulder",
-    "start": "2021-06-08",
-    "description": "<p>Hi Boulder UseRs! Join us for this month's virtual R Ladies Meetup! This month, Anna Spiers will be giving us an introduction to spatial data and map-making in R!<\/p> <p>From Anna: Working with spatial data can feel as finicky as caring for your favorite houseplant - your attempts to help are rejected despite following instructions, and you look longingly at friends' and colleagues' masterpieces (i.e., maps/plants). This talk will introduce spatial data broadly, and cover some of the basic workflows and troubleshooting steps in R. Specifically, we will work with vector data, focus on the `sp` and `sf` libraries, and produce an interactive map in R. Example data and code will be provided.<\/p> <p>We will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and learn some new techniques to apply in your work!<\/p> <p>We hope you'll also join our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: <a href=\"https://forms.gle/j36YGxuNwN6zZ8nW7\" class=\"linkified\">https://forms.gle/j36YGxuNwN6zZ8nW7<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-boulder/events/278580532/",
+    "title": "R-Ladies Vancouver: Tidy Tuesday with RLadies Vancouver and RLadies Santa Barbara  [Virtual] , Canada, US/Canada",
+    "group": "R-Ladies Vancouver",
+    "start": "2021-06-22",
+    "description": "<p>We will be joining forces with R-Ladies Santa Barbara on June 22nd to work on some Tidy Tuesday plots together (<a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a>). Tidy Tuesday is an ongoing project by the R4DS Online Learning Community where a new dataset is posted each week aimed at helping learners practice their wrangling and visualization skills.<\/p> <p>Don’t know where to start? During the start of the meeting, we will help you write some code together to get your plots started. We also included some resources below to help provide some inspiration!<\/p> <p>Come out and meet some R-Ladies from Santa Barbara and try out some new data visualization skills with us!<\/p> <p>Workshop details:<br/>Date and time: June 22nd, 2021 at 6:00pm<br/>Webinar link: RSVP to view link<br/>Note: Meeting password is embedded in the link after the ?<br/>If you have trouble getting into the meeting, please message Jasmine<\/p> <p>See you there!<\/p> <p>Yuka, Jasmine, Lisa, and Sayemin<\/p> <p>**********************IMPORTANT************************<\/p> <p>1. Have your computer and a steady internet connection ready<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\" class=\"linkified\">https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md<\/a><\/p> <p>3. Who is allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming languages in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>***<br/>General workshop information:<\/p> <p>-Please expect a hands-on session in a friendly and laid-back atmosphere where we are all encouraged to learn together.<\/p> <p>Software requirements:<br/>- R (Free at <a href=\"https://cran.r-project.org/\" class=\"linkified\">https://cran.r-project.org/<\/a>)<br/>- RStudio (Free at <a href=\"https://www.rstudio.com/products/rstudio/download/\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/<\/a>)<\/p> <p>Resources:<br/>Data Visualization <a href=\"https://clauswilke.com/dataviz/\" class=\"linkified\">https://clauswilke.com/dataviz/<\/a><br/>Wrangle your data with dplyr - <a href=\"https://allisonhorst.shinyapps.io/dplyr-learnr/\" class=\"linkified\">https://allisonhorst.shinyapps.io/dplyr-learnr/<\/a><br/>RLadies SB Data Viz: <a href=\"https://docs.google.com/presentation/d/1sU2H89F5e409WpYilRqYAqu7DdXSAivccEa4y44xZ7c/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/presentation/d/1sU2H89F5e409WpYilRqYAqu7DdXSAivccEa4y44xZ7c/edit?usp=sharing<\/a><\/p> <p>Colour Palettes:<br/>Wes Anderson Colour Palette <a href=\"https://github.com/karthik/wesanderson\" class=\"linkified\">https://github.com/karthik/wesanderson<\/a><br/>Studio Ghibli Colour Palette <a href=\"https://ewenme.github.io/ghibli/\" class=\"linkified\">https://ewenme.github.io/ghibli/<\/a><br/>Calecopal (inspired by different California ecosystems and created by An Bui!) <a href=\"https://github.com/an-bui/calecopal\" class=\"linkified\">https://github.com/an-bui/calecopal<\/a><br/>Sci-Fi Themed Colour Palette <a href=\"https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html\" class=\"linkified\">https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html<\/a><\/p> <p>Fun:<br/>Emoji plots - <a href=\"https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html\" class=\"linkified\">https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html<\/a><\/p> <p>Inspiration:<br/>Collection of best tidy tuesday plots <a href=\"https://www.cedricscherer.com/2019/12/30/best-tidytuesday-2019/\" class=\"linkified\">https://www.cedricscherer.com/2019/12/30/best-tidytuesday-2019/<\/a><br/><a href=\"https://twitter.com/hashtag/TidyTuesday?src=hashtag_click\" class=\"linkified\">https://twitter.com/hashtag/TidyTuesday?src=hashtag_click<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-vancouver/events/278686704/",
     "textColor": "blue"
   },
   {
@@ -1340,7 +1380,7 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Philly: R-Ladies Philly July Workshop  [Virtual] , United States, US/Canada",
+    "title": "R-Ladies Philly: July Workshop: Mapping COVID-19 Vaccination Across the US  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Philly",
     "start": "2021-07-14",
     "description": "<p>A more detailed agenda will be available closer to the event!<\/p> <p>The goal of this workshop is to provide a hands-on introduction on how to display your data onto relevant geographic locations in a map (e.g. continent, state) using the ggplot2 package in R. Attendees will learn to create a mapped visualization of current up-to-date vaccination rates across states in the US.<\/p> <p>About the Speaker:<br/>Michelle is a graduate student in the Cognition and Neuroscience PhD Program at Temple University. She received her bachelor’s degree in Cognitive Neuroscience from Johns Hopkins University in 2014 and continued to earn her master’s degree in Human Development at Cornell University in 2017. Her research broadly looks at digital media and risky decision making using a behavioral and neuroimaging approach. In her free time, she enjoys exploring the Philly food scene and practicing yoga!<\/p> ",
@@ -1361,14 +1401,6 @@
     "start": "2021-06-16",
     "description": "<p>*What are we going to learn:<br/>Docker is a platform for creating “containers” on your system. You can think of them like a mini system on your computer. They are completely self-contained, isolated environments on your system. These containers include their own operating system, application software, scripts, data, etc. Containers are useful for a lot of things, but here I’ll focus on a quick introduction to using Docker for reproducibility in R. I will demonstrate on how to set-up Docker, run R on a Docker container and few other use cases.<\/p> <p>*Who is going to present:<br/>Malindrie is a PhD candidate at the Australian Institute for Bioengineering and Nanotechnology, The University of Queensland. She works on developing bioinformatics methods for the analysis of large-scale single-cell data using advanced statistical modelling and uses modern statistics tools to understand human disease. Malindrie completed her Bachelor of Science (Honours) degree in Statistics in 2016.<\/p> <p>* When are we meeting?<br/>The talk will start at 5:00 pm for approximately 45 mins and 15 min Q&amp;A. After that we invite you to stay for in-person and/or virtual catch up.<\/p> <p>************The presentation will start at 5:00 pm********************<br/>* Where are we meeting?<br/>We will meet at study room 01-W227, Law Library (Walter Harrison Library), UQ St. Lucia campus- this will be a hybrid event with a Zoom link available.<br/>map: <a href=\"https://goo.gl/maps/5AmevJ4dqiDUtkEn7\" class=\"linkified\">https://goo.gl/maps/5AmevJ4dqiDUtkEn7<\/a><\/p> <p>We look forward to seeing you there!<\/p> <p>R-Ladies Brisbane<\/p> <p>********************************************************************************<br/>Photos, Films and all other media/recordings: Photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies Brisbane event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fund-raising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.<\/p> <p>Code of Conduct: R-Ladies Brisbane is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.<\/p> <p>Community Policies: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Brisbane events to be of minority genders.<\/p> <p>Find us on Twitter @rladiesbrisbane for more information on news, presentations and code!<\/p> ",
     "url": "https://www.meetup.com/rladies-brisbane/events/278673169/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Tucson AZ: Tidy Tuesday Happy Hour  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Tucson AZ",
-    "start": "2021-06-08",
-    "description": "<p>Come and join us for some Tidy Tuesday data wrangling, summarization, and plotting<\/p> ",
-    "url": "https://www.meetup.com/rladies-tucson-az/events/lkjgdsyccjblb/",
     "textColor": "blue"
   },
   {
@@ -1524,14 +1556,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Freiburg: From messy data to beautiful plot: Guided TidyTuesday  [Virtual] , Germany, Europe",
-    "group": "R-Ladies Freiburg",
-    "start": "2021-06-08",
-    "description": "<p>Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?<\/p> <p>In this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!<\/p> <p>You may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!<\/p> <p>It's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/278277079/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Freiburg: Tidy Text Analysis: Word frequencies & n-grams  [Virtual] , Germany, Europe",
     "group": "R-Ladies Freiburg",
     "start": "2021-06-22",
@@ -1569,6 +1593,14 @@
     "start": "2021-06-15",
     "description": "<p>The tutorial is designed for R users from a variety of fields who are interested in working with spatial data and creating maps with R.<\/p> <p>No knowledge of cartography is required.<\/p> <p>Prior knowledge of (non-spatial) graphic making and data handling with the {tidyverse} in R is recommended.<\/p> <p>Speaker Bio:<\/p> <p>Dorris Scott is the GIS Librarian and Social Science Data Curator at Washington University – St. Louis, where she provides consultation on projects that use geospatial data along with providing training in various GIS software, programming applications of geospatial data, and data management. She also serves as a liaison between Washington University Libraries and social science departments assisting faculty with their data needs such as data management and data curation. Dorris received her PhD in Geography from the University of Georgia, with a specialization in GIS applications for public health.<\/p> <p>[Zoom Link will be emailed 3 days before the event.]<\/p> ",
     "url": "https://www.meetup.com/rladies-east-lansing/events/278595419/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Tallinn R Users Group: Cartography with R, Estonia, Europe",
+    "group": "Tallinn R Users Group",
+    "start": "2021-06-29",
+    "description": "<p>Welcome back to the first pandemic era meeting! The theme is cartography in R. I will kick things off with a short overview of recent changes in R (pipes!) and noteworthy new packages. After that we will hear two talks touching on geo/GIS/cartograpy, by Alexander Matrunich, Data Analyst at Bolt, and Anto Aasa, Geographer and Researcher at the University of Tartu.<\/p> <p>More details on the talks to follow.<\/p> <p>The meeting will take place at Workland Vabaduse (Pärnu mnt. 12). Note that there is a limit on the number of attendees, this is to meet the current Covid-19 guidelines.<\/p> ",
+    "url": "https://www.meetup.com/r-tallinn/events/278721182/",
     "textColor": "blue"
   },
   {
@@ -1612,6 +1644,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Santa Barbara: R-Ladies SB x R-Ladies Vancouver Tidy Tuesday Collab!  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Santa Barbara",
+    "start": "2021-06-22",
+    "description": "<p>Join us for an exciting Tidy Tuesday collab with our neighbors to the north, R-Ladies Vancouver (Twitter: @RLadiesVan), on June 22nd!<\/p> <p>Tidy Tuesday is an ongoing project by the R4DS Online Learning Community where a new dataset is posted each week aimed at helping learners practice their wrangling and visualization skills -- you can read more about it here: <a href=\"https://github.com/rfordatascience/tidytuesday\" class=\"linkified\">https://github.com/rfordatascience/tidytuesday<\/a><\/p> <p>Don’t know where to start? At the the beginning of the meeting we will review the dataset and provide some code to get your plots started. We have also included a few resources below to help provide some inspiration.<\/p> <p>Come out and meet some R-Ladies from Vancouver and try out a few new data visualization skills with us!<\/p> <p>See you there!<\/p> <p>Sam, An, &amp; Juliette<\/p> <p>**********************IMPORTANT EVENT INFO************************<\/p> <p>1. You can expect a hands-on session in a friendly and laid-back atmosphere where we are all encouraged to learn together. Have your computer and a steady internet connection ready. You can find detailed instructions for downloading R/RStudio on our GitHub README (<a href=\"https://github.com/rladies/meetup-presentations_santabarbara\" class=\"linkified\">https://github.com/rladies/meetup-presentations_santabarbara<\/a>)<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\" class=\"linkified\">https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md<\/a><\/p> <p>3. Who is allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming languages in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>************************DATA VIZ RESOURCES************************<\/p> <p>General Data Viz Resources:<br/>- Data Visualization <a href=\"https://clauswilke.com/dataviz/\" class=\"linkified\">https://clauswilke.com/dataviz/<\/a><br/>- Wrangle your data with dplyr - <a href=\"https://allisonhorst.shinyapps.io/dplyr-learnr/\" class=\"linkified\">https://allisonhorst.shinyapps.io/dplyr-learnr/<\/a><br/>- RLadies SB Data Viz Workshop: <a href=\"https://docs.google.com/presentation/d/1sU2H89F5e409WpYilRqYAqu7DdXSAivccEa4y44xZ7c/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/presentation/d/1sU2H89F5e409WpYilRqYAqu7DdXSAivccEa4y44xZ7c/edit?usp=sharing<\/a><\/p> <p>Fun:<br/>- Emoji font: <a href=\"https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html\" class=\"linkified\">https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html<\/a><\/p> <p>Color Palettes:<br/>- Wes Anderson Colour Palette: <a href=\"https://github.com/karthik/wesanderson\" class=\"linkified\">https://github.com/karthik/wesanderson<\/a><br/>- Studio Ghibli Colour Palette: <a href=\"https://ewenme.github.io/ghibli/\" class=\"linkified\">https://ewenme.github.io/ghibli/<\/a><br/>- Calecopal (inspired by different California ecosystems and created by our very own An Bui!): <a href=\"https://github.com/an-bui/calecopal\" class=\"linkified\">https://github.com/an-bui/calecopal<\/a><\/p> <p>Inspiration:<br/>- Collection of best Tidy Tuesday plots: <a href=\"https://www.cedricscherer.com/2019/12/30/best-tidytuesday-2019/\" class=\"linkified\">https://www.cedricscherer.com/2019/12/30/best-tidytuesday-2019/<\/a><br/>- #TidyTuesday on Twitter: <a href=\"https://twitter.com/hashtag/TidyTuesday?src=hashtag_click\" class=\"linkified\">https://twitter.com/hashtag/TidyTuesday?src=hashtag_click<\/a><br/>- Ijeamaka Anyene's (past R-Ladies SB speaker!) Tidy Tuesday plots: <a href=\"https://github.com/Ijeamakaanyene/tidytuesday\" class=\"linkified\">https://github.com/Ijeamakaanyene/tidytuesday<\/a><\/p> ",
+    "url": "https://www.meetup.com/rladies-santa-barbara/events/278687321/",
+    "textColor": "blue"
+  },
+  {
     "title": "EdinbR: The Edinburgh R Usergroup: Coding in the Open - a week of daily webinars around Open Source practices  [Virtual] , United Kingdom, Europe",
     "group": "EdinbR: The Edinburgh R Usergroup",
     "start": "2021-06-14",
@@ -1634,11 +1674,19 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group Rhein-Neckar: June 2021 Meeting  [Virtual] , Germany, Europe",
+    "title": "R User Group Rhein-Neckar: July 2021 Meeting  [Virtual] , Germany, Europe",
     "group": "R User Group Rhein-Neckar",
-    "start": "2021-06-08",
-    "description": "<p>For the next meeting, we do not have a fixed topic. Feel free to bring your own questions, comments, favorite package.<\/p> <p>See you there!<br/>Oliver<br/>(last updated: 11 Mai. 2021)<\/p> <p>Suggestions of topics would be welcome. 'Lightning Talks' of 7-10 minutes and only very few (or no) slides are a good possibility, e.g. pointing out a package you would like to recommend or learn more about.<\/p> <p>To avoid time restrictions, this video conference will be hosted on JITSI. To attend click the \"online event\" link on the right side, visible to all attendees, enter your name and join the meeting.<\/p> <p>Please only RSVP if you actually plan to attend.<\/p> ",
-    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/278122883/",
+    "start": "2021-07-13",
+    "description": "<p>We have the following topics for the next meeting:<\/p> <p>Robert will give us a short introduction to Data.Tables. We had planned this talk for May but needed to reschedule it. Have a look at the vignette if this might be a package for you:<br/><a href=\"https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html\" class=\"linkified\">https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html<\/a><\/p> <p>The useR! 2021 conference will take place from 5-9 July, 2021:<br/><a href=\"https://user2021.r-project.org/\" class=\"linkified\">https://user2021.r-project.org/<\/a><br/>Friedrich will tell us a bit about his impressions and some of the highlights.<\/p> <p>There will be other R-related conferences coming up in the next months. Due to Covid, most of these conferences will be held online, some with reduced attendance fees. Friedrich will give us an overview of what might be worth visiting.<\/p> <p>See you online on July 13th!<br/>Oliver<\/p> <p>Suggestions of topics would be welcome. 'Lightning Talks' of 7-10 minutes and only very few (or no) slides are a good possibility, e.g. pointing out a package you would like to recommend or learn more about.<\/p> <p>To avoid time restrictions, this video conference will be hosted on JITSI. To attend click the \"online event\" link on the right side, visible to all attendees, enter your name and join the meeting.<\/p> <p>Please only RSVP if you actually plan to attend.<\/p> ",
+    "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/278707365/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Washington D.C.: Georgia election discussion  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2021-06-12",
+    "description": "<p>This talk will be encompassing the two roles that I had working in Georgia in 2020; the first as the state’s data director during the general election and the second as the states data advisor during the Senate Runoff Election. I will go over the way in which data interacts with other departments at the state level and how it helps measure the health of a campaign and chart a roadmap for victory.<\/p> <p>Bio; Chelsea Jones is originally from Miami, Florida. She worked three election cycles as a Field Organizer, including the 2016 presidential election in Florida, before moving into political data. She joined the Biden Campaign in 2019 as his Data Director in Nevada for the primary and then went on to become the Data Director for Georgia for the November election and then stayed on as a Data &amp; Analytics Advisor for the runoff election. She currently works as a Solution Architect for Civis Analytics<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/278711841/",
     "textColor": "blue"
   },
   {
@@ -1698,22 +1746,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Lavras: Relatórios e Apresentações em RMarkdown   [Virtual] , Brazil, Latin America",
-    "group": "R-Ladies Lavras",
-    "start": "2021-06-08",
-    "description": "<p>Quer aprender mais sobre R Markdown? Então não perca o nosso próximo curso online: Relatórios e Apresentações em RMarkdown.<\/p> <p>🕓08 e 09/06 de 14h às 16h<\/p> <p>✍ ️Inscrições: envie seu nome completo para [masked] e aguarde a resposta com a confirmação. A inscrição será efetivada caso existam vagas disponíveis.<\/p> <p>💻Vagas disponíveis: 50 (por ser um evento gratuito e com vagas limitadas, só faça a inscrição se você realmente for participar de todas as atividades)<\/p> <p>🧭Onde? google meet, o link será enviado aos inscritos antes do início das atividades<\/p> <p>Descrição: O RMarkdown é um pacote da linguagem de programação R para criação de documentos dinâmicos. Os documentos R Markdown são escritos em formato de texto de fácil escrita (markdown) e que permite adicionar códigos em R. Neste curso, vamos aprender a criar e modificar cada elemento (código, o texto e o preâmbulo) de um arquivo R Markdown.<\/p> <p>Prelecionista: Prof. Elizabeth Mie Hashimoto (UTFPR)<\/p> ",
-    "url": "https://www.meetup.com/rladies-lavras/events/278626085/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Dallas: Guest Speaker: Dr. Janani Ravi  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Dallas",
-    "start": "2021-06-15",
-    "description": "<p>For the June 15th edition of our R-Ladies Dallas webinar series, we are excited to welcome Dr. Janani Ravi as our guest speaker. Dr. Ravi will introduce the topic of TBD.<\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>Session title:<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>Abstract:<\/p> <p>Bio:<\/p> <p>Twitter: <a href=\"https://twitter.com/janani137\" class=\"linkified\">https://twitter.com/janani137<\/a><\/p> <p>Website:<\/p> <p>*************************************************************************<\/p> <p>You are encouraged to click the link below to keep up with the group project and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>*************************************************************************<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
-    "url": "https://www.meetup.com/rladies-dallas/events/277824681/",
-    "textColor": "blue"
-  },
-  {
     "title": "R-Ladies Dallas: Guest Speaker: Pratheepa Jega  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Dallas",
     "start": "2021-07-12",
@@ -1730,11 +1762,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R-Ladies Milan: Modelli predittivi per la crescita profittevole: il caso Bene Assicurazioni  [Virtual] , Italy, Europe",
-    "group": "R-Ladies Milan",
-    "start": "2021-06-08",
-    "description": "<p>In questo evento siamo lieti di ospitare un workshop pratico di Bene Assicurazioni, che condividerà con noi come stanno risolvendo le loro sfide quotidiane utilizzando R &amp; big data.<\/p> <p>Bene Assicurazioni è una realtà in crescita dalla struttura agile, con molteplici partnership e un modello di business in omni-canalità. La Compagnia ha completato la digitalizzazione dei processi e crede nel continuo aggiornamento delle tecnologie adottate.<\/p> <p>Il team BI&amp;A è un gruppo in crescita e con una posizione centrale nella compagnia; è un gruppo giovane, dinamico che si occupa:<\/p> <p>Della diffusione della “cultura dei numeri” all’interno della Compagnia<br/>Del governo integrato della reportistica, degli indicatori di performance e di marginalità tecnica<br/>Delle analisi predittive, tecniche e attuariali per ottimizzare il pricing competitivo, la retention e lo sviluppo di nuovi prodotti<br/>Dato il piano di crescita della compagnia, molto ambizioso nel breve-medio termine e da effettuarsi senza intaccare la marginalità, abbiamo studiato con diversi modelli predittivi come modificare il prodotto e il pricing per ottimizzare le nostra crescita, ottenendo infine risultati in linea con le aspettative (Machine Learning works!).<\/p> <p>In questo workshop presentiamo il problema ed entriamo nei dettagli di alcuni dei modelli, dei test effettuati e del codice utilizzato per raggiungere il nostro obiettivo.<\/p> <p>L'evento sarà in Italiano e sarà trasmesso in streaming tramite Zoom (Non è necessario installare zoom).<br/>Il materiale per il workshop sarà condiviso prima dell'evento.<\/p> <p>AGENDA<br/>- Chi siamo – Bene Assicurazioni e il Team BI&amp;A<br/>- Perché abbiamo utilizzato modelli predittivi per stimare la conversion e che risultati abbiamo ottenuto<br/>- Descrizione dei principali algoritmi utilizzati per il modello di conversion e che criteri abbiamo utilizzato per la selezione<br/>- Walk-through di un codice di esempio<\/p> <p>Speakers:<br/>+Alessandra Guazzi: Responsabile BI&amp;A e Direct Product Manager;Laureata in Matematica, con un'esperienza di dottorato di ricerca, lavora in Allianz SE come Data Analyst e partecipa all'avvio di un team dedicato all'ottimizzazione dei prezzi per Allianz Australia (Direct). Dopo un'incursione in campo biomedico, lavora come manager in pricing &amp; analytics presso Willis Towers Watson e nel gruppo Cerved.<br/>+Alessandra Villa: Senior Pricing Expert; Laureata in Scienze Statistiche ed Economiche, lavora come attuario presso Zurich Connect per 4 anni, per poi passare a un'esperienza come Pricing Developer in AM Trust. È in Bene Assicurazioni da 2 anni, coordinando le attività di Pricing e Reportistica degli andamenti tecnici.<br/>+Giulia Del Monaco: Data Analyst: Laureata in Biostatistica, inizia a lavorare in Bene nel 2020, dopo 2 esperienze in consulenza (Telematics e Pharma) come data analyst. Ha ottenuto il master in Big Data &amp; Business Analytics del Sole 240re, dove ha supportato il docente con attività di tutoring. Si occupa principalmente di automazione e modelli predittivi in R.<br/>+Simone Cavenago: BI Analyst; Laureato in Scienze Statistiche ed Economiche, inizia a lavorare per Bene Assicurazioni nel 2018. Come principale responsabilità, segue la preparazione ed analisi dei dati e mantiene e sviluppa sulla piattaforma di Business Intelligence (bReport), tutta la reportistica direzionale e dedicata alle agenzie.<\/p> <p>Non vedo l'ora di incontrarvi!<\/p> ",
-    "url": "https://www.meetup.com/rladies-milan/events/278346959/",
+    "title": "R-Ladies Dallas: Guest Speaker: Dr. Janani Ravi  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Dallas",
+    "start": "2021-08-19",
+    "description": "<p>For the August 19th edition of our R-Ladies Dallas webinar series, we are excited to welcome Dr. Janani Ravi as our guest speaker. Dr. Ravi will introduce the topic of TBD.<\/p> <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>Session title:<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<\/p> <p>Abstract:<\/p> <p>Bio:<\/p> <p>Twitter: <a href=\"https://twitter.com/janani137\" class=\"linkified\">https://twitter.com/janani137<\/a><\/p> <p>Website:<\/p> <p>*************************************************************************<\/p> <p>You are encouraged to click the link below to keep up with the group project and to join the Slack community. Slack is a messaging platform where we will share open job opportunities, free or low-cost online training materials, and R-Ladies group projects that will help you practice your R programming skills and develop a portfolio that could be used to showcase your skills to hiring managers.<\/p> <p>Slack sign-up: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSdJhvSg-YrNYOrmju1yrXvYhFM7xMey1WpDq1NSGIp6x41VaA/viewform<\/a><\/p> <p>*************************************************************************<\/p> <p>We expect all attendees to abide &amp; be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct<\/a>.<\/p> ",
+    "url": "https://www.meetup.com/rladies-dallas/events/277824681/",
     "textColor": "blue"
   },
   {
