@@ -56,14 +56,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Modeling difficulty of English exercises - probabilistic programming approach  [Virtual] , Poland, Europe",
-    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
-    "start": "2021-05-12",
-    "description": "<p>Selecting test exercises with an appropriate difficulty level is one of the most important aspects of a high-quality assessment, but how do we know how difficult a given exercise is? <\/p> <p>One of the possible approaches is to use Item Response Theory - a set of psychometric models which can be used to estimate learners’ proficiency and parameters of each exercise. This approach works well in most cases, however, is data intensive. So, the question arises what to do when we don't have enough data, when for example, we are introducing some new exercises.<\/p> <p>Fortunately, probabilistic programming comes to our aid. Using Greta, we can build a custom IRT model, that allows us to quantify how different features of exercises impact their difficulty. In this talk, we will introduce the audience to the basics of IRT and probabilistic programming through a real-world application - estimating the difficulty of English tasks. For this purpose, we will use the previously mentioned Greta package, which lets us write statistical models in native R and sample from them automatically and efficiently.<\/p> <p>### REGISTRATION INFO<\/p> <p>--&gt;&gt;&gt; Registration link: <a href=\"https://xeurope-exercises.carrd.co/\" class=\"linkified\">https://xeurope-exercises.carrd.co/<\/a> &lt;&lt;&lt;--<br/>Please also RSVP here on the Meetup Page.<\/p> <p>### Our Speaker<\/p> <p>Damian Wiatrzyk<br/>LinkedIn <a href=\"https://www.linkedin.com/in/damian-wiatrzyk-91803072/\" class=\"linkified\">https://www.linkedin.com/in/damian-wiatrzyk-91803072/<\/a><\/p> <p>Damian Wiatrzyk graduated from the Poznań University of Technology with a Bachelor's degree in Computer Science. Currently, he is studying for a Master's degree in Data Science at Adam Mickiewicz University and working as an Associate Data Scientist at Pearson IOKI.<\/p> <p>### ABOUT THE X-EUROPE DATA SCIENCE WEBINARS<\/p> <p>X-Europe Webinar Series is a joint online event of Vienna Data Science Group, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar, Warsaw R Users Group, PyData Slovakia, and Data Scientists Ireland.<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/277996599/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): Hamburg R User Group: A professional trading research system in R  [Virtual] , Poland, Europe",
     "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
     "start": "2021-05-18",
@@ -77,22 +69,6 @@
     "start": "2021-05-27",
     "description": "<p>Writing R code that maximizes our abilities to work collaboratively<br/>Presented by Ezra Tucker<\/p> <p>Abstract:<br/>How best to work with other data scientists in a team to organize and structure code? S4 classes in R give structure to your data and help you organize your methods. They also help signal to your team members proper use of the data structures you define and what methods are available, in essence, how to use your code properly, and also, how to add to it or modify it later on.<\/p> <p>In this talk, we will empower ourselves by reminding ourselves that data scientists are a particular class of programmers (distinct from those who create PC/console games, those who create mobile apps, those who create websites, etc) but programmers all the same. Then we will briefly discuss the benefits of code encapsulation, especially with respect to packages and S4 classes while touching briefly on other OOP systems in R. We will discuss when and how to implement them, and how to structure your code base in a clean, effective, and consistent manner so that it's clear and easy to understand for your teammates and to yourself.<\/p> <p>Speaker:<br/>Ezra Tucker is the Director of Data Science at Energetic Insurance<\/p> <p>Energetic Insurance is a Managing General Underwriter (MGU) with a novel, data-driven approach to develop new risk management products to unlock exponential growth in the renewable energy industry<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/278003746/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Montreal R User Group: [Webinar] Enabling Production MLOps at Scale  [Virtual] , Canada, US/Canada",
-    "group": "Montreal R User Group",
-    "start": "2021-05-12",
-    "description": "<p>Register Here: <a href=\"https://info.verta.ai/enabling-production-mlops-at-scale\" class=\"linkified\">https://info.verta.ai/enabling-production-mlops-at-scale<\/a><\/p> <p>Building ML models has become easy but building intelligent products with these models is as challenging as ever. All innovative AI companies today rely on a set of tools and processes to tame this chaos and ship AI products faster. Referred to as MLOps (Machine Learning Operations), these tools and processes support key needs of the ML operations lifecycle including versioning (or experiment management), packaging, testing, deployment, and monitoring.<\/p> <p>The Verta platform is the only end-to-end MLOps platform on the market that can take models from training all the way to deployment and keep them operational with model monitoring. Join us to get an overview of MLOps, why your team needs it, and how the Verta platform can enable MLOps for you.<\/p> <p>Register Here: <a href=\"https://info.verta.ai/enabling-production-mlops-at-scale\" class=\"linkified\">https://info.verta.ai/enabling-production-mlops-at-scale<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/277738872/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Montreal R User Group: Visual Document Understanding w/Multi-Modal Image & Text Mining in Spark OCR 3  [Virtual] , Canada, US/Canada",
-    "group": "Montreal R User Group",
-    "start": "2021-05-12",
-    "description": "<p>Register Here: <a href=\"https://events.johnsnowlabs.com/visual-document-understanding-with-multi-modal-image-text-mining-in-spark-ocr-3\" class=\"linkified\">https://events.johnsnowlabs.com/visual-document-understanding-with-multi-modal-image-text-mining-in-spark-ocr-3<\/a><\/p> <p>The Transformer architecture in NLP has truly changed the way we analyze text. NLP models are great at processing digital text, but many real-word applications use documents with more complex formats. For example, healthcare systems often include visual lab results, sequencing reports, clinical trial forms, and other scanned documents. When we only use an NLP approach for document understanding, we lose layout and style information - which can be vital for document image understanding. New advances in multi-modal learning allow models to learn from both the text in documents (via NLP) and visual layout (via computer vision).<\/p> <p>We provide multi-modal visual document understanding, built on Spark OCR based on the LayoutLM architecture. It achieves new state-of-the-art accuracy in several downstream tasks, including form understanding (from 70.7 to 79.3), receipt understanding (from 94.0 to 95.2) and document image classification (from 93.1 to 94.4).<\/p> <p>Register Here: <a href=\"https://events.johnsnowlabs.com/visual-document-understanding-with-multi-modal-image-text-mining-in-spark-ocr-3\" class=\"linkified\">https://events.johnsnowlabs.com/visual-document-understanding-with-multi-modal-image-text-mining-in-spark-ocr-3<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/277739930/",
     "textColor": "#7171fb"
   },
   {
@@ -216,14 +192,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "Wiesbaden R User Group: R Coffee Break -  vip: Variable Importance Plots  [Virtual] , Germany, Europe",
-    "group": "Wiesbaden R User Group",
-    "start": "2021-05-12",
-    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Brandon Greenwell uns sein CRAN-Paket vip vorstellt. Es handelt sich um ein Framework für Diagramme mit variabler Wichtigkeit aus verschiedenen Arten von ML-Modellen.<br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen.<\/p> <p>Meeting ID:[masked]<br/>Passcode:[masked]<\/p> ",
-    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277131258/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "Wiesbaden R User Group: R Coffee Break -  tidytext: Tidy Text Mining  [Virtual] , Germany, Europe",
     "group": "Wiesbaden R User Group",
     "start": "2021-05-19",
@@ -245,14 +213,6 @@
     "start": "2021-06-09",
     "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Robert Lacok uns Deepnote vorstellt. Deepnote ist ein neues Data Science Notebook. Es ist Jupyter kompatibel, ermöglicht Echtzeit-Kollaborationen und läuft in der Cloud. Robert wird uns eine kurze Demo der Plattform zeigen. Hier schonmal der Link zu Deenote: <a href=\"https://deepnote.com/\" class=\"linkified\">https://deepnote.com/<\/a><br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link:[masked]<br/>Kenncode:[masked]<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277587263/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "Auckland R Users Group (AKLRUG): R Shiny dashboards in production - stories from the battlefield, New Zealand, Australia",
-    "group": "Auckland R Users Group (AKLRUG)",
-    "start": "2021-05-12",
-    "description": "<p>We have a new R Meetup session in the pipeline! After a long break and two lockdowns, I am happy to announce Uli Muellner's talk about Shiny applications in productions. Please join us for the presentation and the the networking session afterwards. As usual there will be pizza, snacks and soft drinks.<\/p> <p>Abstract<\/p> <p>The talk will dive into what it takes to make your R Shiny dashboards ready for production - from stakeholder engagement and design considerations to data pipelines, hosting and performance tuning. We’ll showcase some of the R Shiny projects we’ve recently been working on and how we addressed some of the challenges. Examples include the NZ COVID-19 health intelligence dashboards, the AIS Explorer which supports management of the risk of aquatic invasive species, and Epidemix, a freely accessible app to make complex models easier to understand.<\/p> <p>About<\/p> <p>Dr Uli Muellner is Director at Epi-interactive, a Wellington-based consulting firm connecting data, science and people. We make data and research more accessible and link complex analytics with practical decisions. R and R Shiny is at the heart of what we do and we recently became the first RStudio Full Service Certified Partner in Oceania.<\/p> ",
-    "url": "https://www.meetup.com/Auckland-R-Users-Group-AKLRUG/events/277695893/",
     "textColor": "#7171fb"
   },
   {
@@ -432,14 +392,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Vancouver: Developing R packages for yourself and others  [Virtual] , Canada, US/Canada",
-    "group": "R-Ladies Vancouver",
-    "start": "2021-05-12",
-    "description": "<p>Hello R-Ladies!<\/p> <p>Join us on May 12th for a workshop on developing R packages!<\/p> <p>Event Description: R packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this workshop, we’ll develop a simple R package together to gain an understanding of the key steps of package development. I’ll also reflect on my experiences creating an internal package for my team at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are thinking of creating one to share within their organization and beyond.<\/p> <p>**This workshop assumes you know how to write a function in R and are familiar with the RStudio IDE. (See below for resources and required packages) ***<\/p> <p>About the Speaker: Reiko is a data analyst with the Government of British Columbia. In her role, she creates various tools using R to support her team’s work in monitoring trends in population health and health inequalities in the province. When her computer is turned off, she splits her time as a recreational bassist, aspiring Star Baker, and occasional trainspotter.<\/p> <p>Workshop details:<br/>Date and time: May 12th, 2021 at 6:00pm<br/>Webinar link: RSVP to view link<br/>Note: Meeting password is embedded in the link after the ?<br/>If you have trouble getting into the meeting, please message Jasmine<\/p> <p>***<br/>General workshop information:<\/p> <p>-Please expect a hands-on session in a friendly and laid-back atmosphere where we all encouraged to learn together.<br/>- This workshop assumes you know how to write a function in R and are familiar with the RStudio IDE. Follow the links below for a refresher:<br/>- Yuka Takemon's Base R functions tutorial: <a href=\"https://www.yukatakemon.com/post/rladies-functions/rladies-building-functions/\" class=\"linkified\">https://www.yukatakemon.com/post/rladies-functions/rladies-building-functions/<\/a><\/p> <p>Software requirements:<br/>- R (Free at <a href=\"https://cran.r-project.org/\" class=\"linkified\">https://cran.r-project.org/<\/a>)<br/>- RStudio (Free at <a href=\"https://www.rstudio.com/products/rstudio/download/\" class=\"linkified\">https://www.rstudio.com/products/rstudio/download/<\/a>)<\/p> <p>Package requirements: (Install the following using<br/>`install.packages(\"packageNameHere\")` in your console)<br/>- devtools<br/>- roxygen2<br/>- testthat<br/>- knitr<\/p> <p>**********************IMPORTANT************************<\/p> <p>1. Have your computer and a steady internet connection ready<\/p> <p>2. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: <a href=\"https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\" class=\"linkified\">https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md<\/a><\/p> <p>3. Who is this allowed to attend the workshop?<br/>Everyone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.<\/p> <p>To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non-binary people during our events.<\/p> <p>See you there!<\/p> <p>Yuka, Jasmine, Lisa, and Sayemin<\/p> ",
-    "url": "https://www.meetup.com/rladies-vancouver/events/277941047/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Boulder: RLadies Boulder Meetup #15: From csv to slippy map - intro to spatial data in R  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Boulder",
     "start": "2021-06-08",
@@ -528,14 +480,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Edinburgh: Zhoosh up your ggplots!  [Virtual] , United Kingdom, Europe",
-    "group": "R-Ladies Edinburgh",
-    "start": "2021-05-12",
-    "description": "<p>In our May 2021 meetup we're joined by Athanasia Monika Mowinckel. Athanasia is a researcher at the Center for Lifespan Changes in Brain and Cognition, organiser for R-Ladies Oslo, and is a member of the R-Ladies Global team.<\/p> <p>Zhoosh up your ggplots!<\/p> <p>In this talk Athanasia will share with us her tips and tricks for enhancing (zhooshing up!) your data visualisations made with ggplot2.<\/p> <p>Password for the Zoom session will be sent out on the day of the event.<\/p> <p>--<\/p> <p>R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.<\/p> <p>A question we often get is \"Are men welcome to attend this event?\"<\/p> <p>As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.<\/p> <p>**As such, we strongly encourage cis-men who attend this event to come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**<\/p> <p>All attendees are strongly encouraged to review the R-Ladies Code of Conduct (<a href=\"https://rladies.org/code-of-conduct\" class=\"linkified\">https://rladies.org/code-of-conduct<\/a>) and must abide by it.<\/p> ",
-    "url": "https://www.meetup.com/rladies-edinburgh/events/277562307/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Belgrade: Introduce yourself online with blogdown & Hugo Apéro  [Virtual] , Serbia, Europe",
     "group": "R-Ladies Belgrade",
     "start": "2021-05-26",
@@ -605,14 +549,6 @@
     "start": "2021-05-20",
     "description": "<p>Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! <a href=\"https://github.com/rladies/meetup-presentations_montreal\" class=\"linkified\">https://github.com/rladies/meetup-presentations_montreal<\/a><\/p> <p>As usual, snacks and drinks will be provided!!<\/p> <p>Happy coding :-)<\/p> ",
     "url": "https://www.meetup.com/rladies-montreal/events/hfrjgrycchbbc/",
-    "textColor": "#7171fb"
-  },
-  {
-    "title": "R-Ladies Freiburg: {R-Ladies Toolbox Series} Part 5: Panel discussion on women in science   [Virtual] , Germany, Europe",
-    "group": "R-Ladies Freiburg",
-    "start": "2021-05-12",
-    "description": "<p>R-Ladies Toolbox Series - Essentials for women and minority genders in academia, science and data analysis presents:<br/>Panel discussion on women in science<\/p> <p>To finish this series about women in science we will discuss about the inequities and problems that women and gender minorities find in academia. We will talk about systemic issues, non-visible barriers and work, family and care. What problems do we face? Are politics to increase gender equality effective? Is there data to support these measurements and decisions? We count with a grate panel of women and we invite you too to share your own perspectives!<\/p> <p>Panellists:<\/p> <p>Daloha Rodriguez-Molina<br/>comes from Venezuela. She studied medicine and practiced as a primary care, emergency, and occupational physician. She has been involved in research activities since 2008 as part of the Student Society for the Promotion of Research in Endocrine and Metabolic Diseases, of which she was President in 2011. She obtained a Master's degree in Epidemiology from the University of Munich (LMU) in 2016. Currently, she is an occupational and environmental epidemiologist and pursuing a PhD degree in Epidemiology at the LMU under the supervision of Prof. Dr. Katja Radon. She has been involved in teaching activities at the LMU Munich, the Virtual University of Baviera, and the Center for International Health of the LMU . She is a co-founder of the R-Ladies Munich group.<\/p> <p>Ivana Feldfeber<br/>is a feminist activist from Buenos Aires living in Bariloche. She holds two degrees in Education and Social Pedagogy, and is completing a postgraduate diploma in \"Data Science: Machine Learning and its Applications\" at the University of Córdoba, Argentina. She teaches programming and robotics for children and teenagers. She worked as a data scientist at an online platform, analysing data from a social and educational point of view. She attended many conferences regarding data in Latin America and realized that no one was talking about gender bias, gender data and feminism. So Ivana decided to create \"DataGénero\" a gender data Observatory, the first in the region with a group of scientists, activists and people from different disciplines and countries. <a href=\"https://datagenero.org\" class=\"linkified\">https://datagenero.org<\/a><\/p> <p>Kamila Benadrouche<br/>holds a master’s degree in operational research: optimization and strategic management. Economic studies engineer at sonatrach. Previously teaching programming tools and R language at the university of Boumerdes, Algeria. Founder of R-Ladies Algiers and organizer of the meetups for the promotion of R. And freelance trainer of Office-Tools (Word, Excel…).<\/p> <p>Liili Abuladze<br/>is a social demography PhD researcher at Tallinn University, Estonia. Her research interests include population ageing outcomes, fertility and family formation, and data quality. In 2020, she was awarded with the European Association for Population Studies Outreach Award for communication activities in demography. She is also the initiator and co-organiser of the R-Ladies Tbilisi community.<\/p> <p>Masani Mahadik<br/>Majoring in econometrics and completing post graduate programs in statistics, and business management, Manasi has been applying R in an academic setting across a variety of disciplines. She has worked in advanced analytics consulting at Nielsen for a couple of years where she comprehensively used R to conduct a range of data play and visualisations in order to deliver insights for Top FMCG clients across the South Asia region. She is currently pursuing a fellowship in Artificial Intelligence and Machine Learning and aims to make the next move in the social sector — using data for good! She leads the R-Ladies Mumbai chapter, and blogs about her explorations with data. You can connect with her: <a href=\"https://www.linkedin.com/in/manasi-mahadik-a66b26146/\" class=\"linkified\">https://www.linkedin.com/in/manasi-mahadik-a66b26146/<\/a><\/p> <p>This series is funded by the “Pädagogische Hochschule Freiburg”, the University of Education in Freiburg. Everyone is welcome to join and we hope for a warm exchange between students, researchers and R-Ladies.<\/p> ",
-    "url": "https://www.meetup.com/rladies-freiburg/events/275264690/",
     "textColor": "#7171fb"
   },
   {
@@ -1140,14 +1076,6 @@
     "textColor": "blue"
   },
   {
-    "title": "Cleveland R User Group: Virtual R Café  [Virtual] , United States, US/Canada",
-    "group": "Cleveland R User Group",
-    "start": "2021-06-12",
-    "description": "<p>This is a chance to hang out with other R coders for a bit. It will be informal with no set topic. Bring something to work on and feel free to share or ask questions if want.<\/p> ",
-    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/278090179/",
-    "textColor": "blue"
-  },
-  {
     "title": "Cleveland R User Group: Jai Ranchod on pdftools and Bryan Lewis on DuckDB  [Virtual] , United States, US/Canada",
     "group": "Cleveland R User Group",
     "start": "2021-06-23",
@@ -1588,7 +1516,7 @@
   {
     "title": "R-Ladies Washington D.C.: Georgia election discussion  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Washington D.C.",
-    "start": "2021-06-12",
+    "start": "2021-06-23",
     "description": "<p>This talk will be encompassing the two roles that I had working in Georgia in 2020; the first as the state’s data director during the general election and the second as the states data advisor during the Senate Runoff Election. I will go over the way in which data interacts with other departments at the state level and how it helps measure the health of a campaign and chart a roadmap for victory.<\/p> <p>Bio; Chelsea Jones is originally from Miami, Florida. She worked three election cycles as a Field Organizer, including the 2016 presidential election in Florida, before moving into political data. She joined the Biden Campaign in 2019 as his Data Director in Nevada for the primary and then went on to become the Data Director for Georgia for the November election and then stayed on as a Data &amp; Analytics Advisor for the runoff election. She currently works as a Solution Architect for Civis Analytics<\/p> ",
     "url": "https://www.meetup.com/rladies-dc/events/278711841/",
     "textColor": "blue"
