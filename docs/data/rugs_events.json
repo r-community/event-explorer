@@ -384,14 +384,6 @@
     "textColor": "#7171fb"
   },
   {
-    "title": "R-Ladies Natal: R do Zero: para iniciantes  [Virtual] , Brazil, Latin America",
-    "group": "R-Ladies Natal",
-    "start": "2021-05-21",
-    "description": "<p>R do Zero: para iniciantes com a Instrutora Jeanne Franco.<\/p> <p>Dia: 21 de maio<br/>Horário: 18:45 horas<br/>Local: Via Zoom<\/p> <p>Conteúdo:<\/p> <p>- Introdução ao R<br/>1. Ambiente do R e R Studio;<br/>2. Operações matemáticas;<br/>3. Valores perdidos, infinitos e não-numéricos;<br/>4. Número, caracter, cadeias de caracteres, vetores, matrizes e listas;<br/>5. Objetos, funções e argumentos;<br/>6. Instalação de pacotes.<\/p> <p>- Scripts e tabelas<br/>1. Datasets do R;<br/>2. Principais funções;<br/>3. Estatística descritiva dos dados;<br/>4. Função “attach” vs fator de indexação;<br/>5. Organizando e salvando scripts;<br/>6. Uso do diretório;<br/>7. Importação de dados.<\/p> <p>- Estatística básica - Testes clássicos<br/>1. Amostras simples:<br/>- Skew e Kurtose;<br/>- Testes de normalidade: Kolmogorov-Smirnov e Shapiro-Wilk.<br/>2. Duas amostras independentes:<br/>- Teste t independente;<br/>- Mann-Whitney.<br/>3. Amostras pareadas:<br/>- Teste t pareado.<br/>4. Duas variáveis numéricas - Correlação e covariância:<br/>- Pearson;<br/>- Kendall.<\/p> ",
-    "url": "https://www.meetup.com/rladies-natal/events/278122682/",
-    "textColor": "#7171fb"
-  },
-  {
     "title": "R-Ladies Natal: Análise de Dados Hidrológicos no R  [Virtual] , Brazil, Latin America",
     "group": "R-Ladies Natal",
     "start": "2021-06-04",
@@ -988,6 +980,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Central Iowa R User Group: R and Python study group, United States, US/Canada",
+    "group": "Central Iowa R User Group",
+    "start": "2021-09-18",
+    "description": "<p>Until we can meet again in person, please join our Slack workspace to stay in touch, ask questions, and share information throughout the week.<\/p> <p><a href=\"https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw\" class=\"linkified\">https://join.slack.com/t/centraliowarusergroup/shared_invite/zt-dhfa5ude-0tvHascxRkn2pgiqDdQgrw<\/a><\/p> <p>The Slack workspace is available any time, not just Saturday mornings.<\/p> <p>Are you tired of learning and playing with Python and R alone? Would you like to get together with a few friends and learn together? I have been starting to learn R and Python for data science and following the typical route of videos and practice projects. I really want to ramp up my learning and exposure to different ways. Here is my proposal:<\/p> <p>- Gather a small group of 2-5 and learn together.<br/>- Meet at a coffee shop, library, or some other space that has Wi-Fi.<br/>- Pick a project, data set or problem, then work to solve it with different tools.<br/>- Keep it fluid and informal.<br/>- Meet on a regular basis, say weekly to start, and adjust as needed.<br/>- Aim to keep the meetings 2-4 hours long, but this can be adjusted to the project or group. People can come and go as needed.<br/>- It does not have to be the same people each time, so you only have to commit to going once to check it out.<\/p> <p>Are you interested? Show up at the meeting spot, have some coffee, meet new friends and bring a project or question.<\/p> ",
+    "url": "https://www.meetup.com/Central-Iowa-R-User-Group/events/wpzlrryccmbxb/",
+    "textColor": "blue"
+  },
+  {
     "title": "Berlin R Users Group: June meetups by other RUGs  [Virtual] , Germany, Europe",
     "group": "Berlin R Users Group",
     "start": "2021-06-30",
@@ -1001,6 +1001,14 @@
     "start": "2021-07-14",
     "description": "<p>Welcome to our 2nd own Berlin RUG online meetup! We'll learn about bayesian modeling for a forecast on our upcoming election. And we will get to see each other again, so we're hoping many will sign up :)<\/p> <p>A long-short Bayesian State-Space model for the German Federal Election 2021 with R and RStan<\/p> <p># Description<br/>Marcus Groß and Michelle Golchert will present a Bayesian model for forecasting the German federal election 2021 with R and RStan that gives more insights and more accurate predictions compared to simple poll-averaging methods. The model consists of two parts:<br/>A model for the election outcome (i.e. the vote share for each party based on poll data) and a model to assign a probability to the coalition of the actual government using expert survey data. An in-depth description and motivation is discussed in this talk. The model is fitted with (R)Stan, a Bayesian modeling framework, that can seamlessly be integrated into R.<\/p> <p># Agenda<br/>18:30 Intro<br/>18:35 Talk<br/>19:05 Q&amp;A<br/>19:30 Closing remarks (we can extend it if needed)<\/p> <p># Bios<br/>Marcus Groß and Michelle Golchert are Data Scientists at INWT Statistics.<br/>Marcus holds a Ph.D. in Statistics and has several years experience consulting on and managing projects in the data science field. He is an expert in predictive analytics and Bayesian statistics.<br/>Michelle has a master's degree in psychology and specializes in supporting Data Science projects in the areas of software development, DevOps and CI.<\/p> ",
     "url": "https://www.meetup.com/Berlin-R-Users-Group/events/278030316/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): X-Europe Webinar Causal Inference Approach to Matching in Two-Sided Marketplaces  [Virtual] , Poland, Europe",
+    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
+    "start": "2021-06-23",
+    "description": "<p>REGISTER HERE: <a href=\"https://webinar-causal-inference.carrd.co/\" class=\"linkified\">https://webinar-causal-inference.carrd.co/<\/a><\/p> <p>### ABOUT SPEAKER<br/>Data scientist, social scientist, statistician, and software developer. Sean mostly specializes in methods for solving causal inference and business decision problems, and particularly interested in building tools for practitioners working on real-world problems. He is a generalist, who likes to hang out with people from many fields and borrow as many ideas as possible. He has collaborated with computer scientists, economists, political scientists, statisticians, machine learning researchers, and business school scholars. It’s fun for Sean to jump around a bit, continue learning new things and make connections between fields. Background: Ph.D. student at NYU’s Stern School of Business, ex-research scientist and manager on Facebook’s Core Data Science Team and currently head of the Rideshare Labs team at Lyft. <a href=\"https://seanjtaylor.com/\" class=\"linkified\">https://seanjtaylor.com/<\/a><\/p> <p>### ABOUT TALK<br/>Improving two-sided marketplaces like Lyft's ridesharing business is accomplished when we implement better matching algorithms that create more efficient allocations. However, marketplaces generate complex causal graphs which make counterfactuals difficult to reason about and estimate. I describe the causal effects of matching we must estimate to allocate drivers to requests, and the potential confounding problems that bias estimates from more standard machine learning approaches. We will then discuss how causal inference ideas can be applied in related settings like search, ranking, and recommender systems.<\/p> <p>### ABOUT THE X-EUROPE DATA SCIENCE WEBINARS<br/>X-Europe Webinar Series is a joint online event of Vienna Data Science Group, Data Science Croatia, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar, Warsaw R Users Group, PyData Slovakia, and Data Scientists Ireland.<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/278971753/",
     "textColor": "blue"
   },
   {
@@ -1033,6 +1041,14 @@
     "start": "2021-07-15",
     "description": "<p>Register Here: <a href=\"https://info.verta.ai/applying-mlops-at-scale\" class=\"linkified\">https://info.verta.ai/applying-mlops-at-scale<\/a><\/p> <p>Tackle the challenges of deployment, monitoring, models in production and managing data science workflows and teams.<\/p> <p>Sessions will also include best practices from domain experts to operationalize ML at scale and cover the most current and common challenges for MLOps today. Connect &amp; engage with others through live Q&amp;A and discussions.<\/p> <p>The Verta MLOps Salon Series is a quarterly event focusing on the Operationalization of Machine Learning models in the real world. Bringing together experts from industry as well as research, the MLOps Salon events showcase best-practices, real-world case studies, and community oriented interactive panels. Join us for the live event and continue the discussion on the Slack!<\/p> <p>Register Here: <a href=\"https://info.verta.ai/applying-mlops-at-scale\" class=\"linkified\">https://info.verta.ai/applying-mlops-at-scale<\/a><\/p> ",
     "url": "https://www.meetup.com/Montreal-R-User-Group/events/278605221/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Grupo de Usuarios de R de Madrid: 67 - Reunión Grupo de R: Jueves 24 de junio de 2021  [Virtual] , Spain, Europe",
+    "group": "Grupo de Usuarios de R de Madrid",
+    "start": "2021-06-24",
+    "description": "<p>Rafael Zambrano y Karina Bartolomé:<\/p> <p>Ajuste y visualización de múltiples modelos sobre múltiples series de tiempo.<br/>Se presentarán varios casos de uso mostrando como modelar series de tiempo con tidymodels y modeltime a través de la extensión sknifedatar.<\/p> <p>Reunión Online (Zoom):<\/p> <p><a href=\"https://zoom.us/j/91329719505?pwd=dkVLLzVRcHk3elMyR085QzdtZ1VqUT09\" class=\"linkified\">https://zoom.us/j/91329719505?pwd=dkVLLzVRcHk3elMyR085QzdtZ1VqUT09<\/a><\/p> <p>Id:[masked]<br/>Código Acceso:[masked]<\/p> ",
+    "url": "https://www.meetup.com/Grupo-de-Usuarios-de-R-de-Madrid/events/278963190/",
     "textColor": "blue"
   },
   {
@@ -1092,6 +1108,14 @@
     "textColor": "blue"
   },
   {
+    "title": "Trenton R Users (TRU): Meetup for Sep - 2021  [Virtual] , United States, US/Canada",
+    "group": "Trenton R Users (TRU)",
+    "start": "2021-09-18",
+    "description": "<p>The topic of this month's meetup will be decided as the time approaches near the event date. We decide the topic based on 1) volunteers choice, 2) audience demand or 3) organizer's preference (in that order)<\/p> <p>Please contact the organizers, if you would like to present in our meetup on any topic related to data science.<\/p> ",
+    "url": "https://www.meetup.com/TRUgroup/events/278346585/",
+    "textColor": "blue"
+  },
+  {
     "title": "R User Group - Philippines: #90 {R topic to be announced}  [Virtual] , Philippines, Asia",
     "group": "R User Group - Philippines",
     "start": "2021-07-21",
@@ -1144,6 +1168,14 @@
     "start": "2021-06-30",
     "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Lukas Burk uns eine Übersicht über R-Pakete im Bereich Neuronale Netze &amp; Deep Learning gibt.<\/p> <p>Wir freuen uns schon darauf euch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link: tbd<br/>Kenncode: tbd<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/278743006/",
+    "textColor": "blue"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break -  ggiraph: Interaktive ggplot-Grafiken  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-07-07",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns sehr, dass David Gohel uns sein Paket ggiraph vorstellt. Das Paket ermöglicht das Erstellen von dynamischen ggplot2-Grafiken. Es können Tool-Tipps, Hover-Effekte und JavaScript-basierte Aktionen zu ggplot2-Visualisierungen hinzugefügt werden. Zudem können Grafik-Elemente der Grafik in Shiny ausgewählt werden (Beispielsweise einzelne Punkte des Scatterplots).<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting ID: tbd<br/>Passcode: tbd<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/278971998/",
     "textColor": "blue"
   },
   {
@@ -1323,6 +1355,14 @@
     "textColor": "blue"
   },
   {
+    "title": "AthensR: Introduction to NLP with R [Birmingham R User Group]  [Virtual] , Greece, Europe",
+    "group": "AthensR",
+    "start": "2021-06-22",
+    "description": "<p>For the June meetup we will have one speaker: Nicolas Attalides. He will join us from London to talk about Natural Language Processing.<\/p> <p>Abstract:<br/>Natural language processing (NLP) is a field within computational linguistics and artificial intelligence that enables computers to understand and interact with human language. During this workshop we will use {tidytext} to explore some of the common topics within NLP such as tokenization, how to remove common words known as stop words and carry out sentiment analysis.<\/p> ",
+    "url": "https://www.meetup.com/AthensR/events/278971264/",
+    "textColor": "blue"
+  },
+  {
     "title": "AthensR: A long-short Bayesian State-Space model with R and RStan (Berlin RUG #45)  [Virtual] , Greece, Europe",
     "group": "AthensR",
     "start": "2021-07-14",
@@ -1379,6 +1419,14 @@
     "textColor": "blue"
   },
   {
+    "title": "R-Ladies Ames: Analytics & Data Sciences Career Panel   [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Ames",
+    "start": "2021-07-07",
+    "description": "<p>Join our Analytics &amp; Data Sciences Career Panel and ask everything you need to know to our panelists. We have a good range of data scientists from industry to academia and with a variety of experiences<\/p> <p>Our panelists are:<br/>Annie Lyu: <a href=\"https://annielyu.com/\" class=\"linkified\">https://annielyu.com/<\/a><br/>Suzanne Fey: <a href=\"https://www.linkedin.com/in/suzanne-fey-80a20b7/\" class=\"linkified\">https://www.linkedin.com/in/suzanne-fey-80a20b7/<\/a><br/>Katherine Goode: <a href=\"https://goodekat.github.io/\" class=\"linkified\">https://goodekat.github.io/<\/a><br/>Earo Wang: <a href=\"https://earo.me/\" class=\"linkified\">https://earo.me/<\/a><\/p> <p>We hope to see you online<br/>Don't forget to RSVP to get access to the Webex link.<\/p> ",
+    "url": "https://www.meetup.com/rladies-ames/events/278976795/",
+    "textColor": "blue"
+  },
+  {
     "title": "R-Ladies Santa Barbara: R-Ladies SB x R-Ladies Vancouver Tidy Tuesday Collab!  [Virtual] , United States, US/Canada",
     "group": "R-Ladies Santa Barbara",
     "start": "2021-06-22",
@@ -1421,7 +1469,7 @@
     "title": "Köln R User Group: Virtual R Lightning Talks  [Virtual] , Germany, Europe",
     "group": "Köln R User Group",
     "start": "2021-07-01",
-    "description": "<p>~~~~~~~ WE'RE LOOKING FOR SPEAKERS! PLEASE REACH OUT IF YOU WOULD LIKE TO PRESENT SOMETHING :) ~~~~~~~<\/p> <p>Agenda:<\/p> <p>##TALK 1: tba<br/>##TALK 2: tba<br/>## Social Gathering<\/p> <p>After the talks we want you to virtually meet, chat, network, and discuss interesting topics.<\/p> ",
+    "description": "<p>PLEASE NOTE: One of our talks will be held in German!<\/p> <p>Agenda:<\/p> <p>##TALK 1<\/p> <p>Intelligente Behandlung von Fehlwerten - gewusst wie! - Helmut Grillenberger<\/p> <p>Nahezu alle Rohdaten beinhalten Fehlwerte. Die Ursachen dafür können vielfältig sein, wie fehlerhafte Kodierung, Ziffernsturz, Probleme bei der Erfassung, nicht verfügbar etc. Im Extremfall muss man das entsprechende Merkmal von der Analyse ausschließen oder der Datensatz kann für die Analyse nicht genutzt werden – beides ist jedoch unerwünscht. Wie also damit umgehen? Gibt es bessere Techniken, um das Problem zu lösen? Wie groß ist der Aufwand, diese Techniken in der Praxis umzusetzen? Kann man den Vorgang automatisieren? Auf alle diese Fragen versucht der Vortrag eine Antwort zu geben.<\/p> <p>Über Helmut Grillenberger:<br/>Helmut hat Statistik studiert und verfügt über eine langjährige Erfahrung im analytischen Bereich. Dazu zählt z. B. der Aufbau einer Analyseabteilung für Yves Rocher, die Umsetzung von DWH Konzepten und die Entwicklung von analytischen Anwendungen bei Peter Hahn, die Anonymisierung von Kundendaten für die Münchener Rück mit R, die Entwicklung von R-Konzepten bei Siemens Financial Services, u.v.m.<\/p> <p>Zu seinen Themen zählen u. a. Statistik, maschinelles Lernen und neuronale Netze. Seine bevorzugte Programmiersprache ist R.<\/p> <p>Er arbeitet als Analytiker und bietet für R einen Proof Of Concept an, indem ein R-Paket zu Lösung von Kundenproblemen erstellt wird. Nähere Informationen zur „R-Initiative“ finden Sie hier: <a href=\"https://www.usedata.com/common/aufmacher/r-initiative.html\" class=\"linkified\">https://www.usedata.com/common/aufmacher/r-initiative.html<\/a><\/p> <p>Er hält außerdem Webinare zu den Themen „Professionelle Erstellung wissenschaftlicher Arbeiten mithilfe von Bookdown“, „Professionelle Erstellung von R-Paketen“, „Warum GIT?“, „Perfekt präsentieren mit Powerpoint, Camtasia und Snagit“. Alle diese Webinare befinden sich auf Xing-Event. Kontaktanfragen auf Xing willkommen, Email gerne an [masked].<\/p> <p>##TALK 2: tba<\/p> <p>## Social Gathering<\/p> <p>After the talks we want you to virtually meet, chat, network, and discuss interesting topics.<\/p> ",
     "url": "https://www.meetup.com/KoelnRUG/events/278528198/",
     "textColor": "blue"
   },
