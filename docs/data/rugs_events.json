@@ -56,6 +56,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): X-Europe Webinar Causal Inference Approach to Matching in Two-Sided Marketplaces  [Virtual] , Poland, Europe",
+    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
+    "start": "2021-06-23",
+    "description": "<p>REGISTER HERE: <a href=\"https://webinar-causal-inference.carrd.co/\" class=\"linkified\">https://webinar-causal-inference.carrd.co/<\/a><\/p> <p>### ABOUT SPEAKER<br/>Data scientist, social scientist, statistician, and software developer. Sean mostly specializes in methods for solving causal inference and business decision problems, and particularly interested in building tools for practitioners working on real-world problems. He is a generalist, who likes to hang out with people from many fields and borrow as many ideas as possible. He has collaborated with computer scientists, economists, political scientists, statisticians, machine learning researchers, and business school scholars. It’s fun for Sean to jump around a bit, continue learning new things and make connections between fields. Background: Ph.D. student at NYU’s Stern School of Business, ex-research scientist and manager on Facebook’s Core Data Science Team and currently head of the Rideshare Labs team at Lyft. <a href=\"https://seanjtaylor.com/\" class=\"linkified\">https://seanjtaylor.com/<\/a><\/p> <p>### ABOUT TALK<br/>Improving two-sided marketplaces like Lyft's ridesharing business is accomplished when we implement better matching algorithms that create more efficient allocations. However, marketplaces generate complex causal graphs which make counterfactuals difficult to reason about and estimate. I describe the causal effects of matching we must estimate to allocate drivers to requests, and the potential confounding problems that bias estimates from more standard machine learning approaches. We will then discuss how causal inference ideas can be applied in related settings like search, ranking, and recommender systems.<\/p> <p>### ABOUT THE X-EUROPE DATA SCIENCE WEBINARS<br/>X-Europe Webinar Series is a joint online event of Vienna Data Science Group, Data Science Croatia, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar, Warsaw R Users Group, PyData Slovakia, and Data Scientists Ireland.<\/p> ",
+    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/278971753/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Greater Boston useR Group (R Programming Language): May useR: Writing R code that maximizes our abilities to work collaboratively  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2021-05-27",
@@ -96,6 +104,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "Montreal R User Group: [Webinar] Monitoring your Production NLP Models  [Virtual] , Canada, US/Canada",
+    "group": "Montreal R User Group",
+    "start": "2021-06-23",
+    "description": "<p>Register Here: <a href=\"https://info.verta.ai/applying-mlops-at-scale\" class=\"linkified\">https://info.verta.ai/applying-mlops-at-scale<\/a><\/p> <p>Tackle the challenges of deployment, monitoring, models in production and managing data science workflows and teams.<\/p> <p>Sessions will also include best practices from domain experts to operationalize ML at scale and cover the most current and common challenges for MLOps today. Connect &amp; engage with others through live Q&amp;A and discussions.<\/p> <p>The Verta MLOps Salon Series is a quarterly event focusing on the Operationalization of Machine Learning models in the real world. Bringing together experts from industry as well as research, the MLOps Salon events showcase best-practices, real-world case studies, and community oriented interactive panels. Join us for the live event and continue the discussion on the Slack!<\/p> <p>Register Here: <a href=\"https://info.verta.ai/applying-mlops-at-scale\" class=\"linkified\">https://info.verta.ai/applying-mlops-at-scale<\/a><\/p> ",
+    "url": "https://www.meetup.com/Montreal-R-User-Group/events/278604622/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "Grupo de Usuarios de R de Madrid: 66  - Reunión Grupo de R: Miércoles 26 de mayo de 2021  [Virtual] , Spain, Europe",
     "group": "Grupo de Usuarios de R de Madrid",
     "start": "2021-05-26",
@@ -125,6 +141,14 @@
     "start": "2021-06-12",
     "description": "<p>This is a chance to hang out with other R coders for a bit. It will be informal with no set topic. Bring something to work on and feel free to share or ask questions if want.<\/p> ",
     "url": "https://www.meetup.com/Cleveland-UseR-Group/events/278090179/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Cleveland R User Group: Jai Ranchod on pdftools and Bryan Lewis on DuckDB  [Virtual] , United States, US/Canada",
+    "group": "Cleveland R User Group",
+    "start": "2021-06-23",
+    "description": "<p>This meetup we'll have two shorter talks by Jai Ranchod and Bryan Lewis. Details below.<\/p> <p>Talk 1: Jai Ranchod - Extract tabular data from PDFs with pdftools<\/p> <p>I'm going to be talking about how to pull tabular data out of a PDF based on partial string matching and some functions in the \"PDF Tools\" package. The need to do this presented itself when the president of the management company wanted a table of information for the 60+ properties in our portfolio and our software vendor said they could only give us PDFs of word docs.<\/p> <p>Jai (\"Jay\") Ranchod is currently an Operations and Financial Analyst are Rose Community Management, a property management firm based in NYC with offices in Independence, OH. I started using R at my previous job at Epic Systems which is an electronic healthcare record company as part of the quality control process on their cognitive computing products. Since then I have taken several online classes in R, data science, and machine learning including a professional certificate program in data science taught using R. I have a bachelor's degree in physics from the College of Wooster and recently finished my MBA from John Carroll University.<\/p> <p>Talk 2: Bryan Lewis - R and DuckDB<\/p> <p>DuckDB (<a href=\"https://duckdb.org\" class=\"linkified\">https://duckdb.org<\/a>) is a new embedded SQL database library in the spirit of other embedded databases like SQLite. Unlike SQLite, DuckDB uses a column-oriented data layout (like R data frames) and has a particular focus on performance for interactive data analysis. DuckDB's integration with R is so complete that it can work directly on in-memory language objects without copying. This lets you use DuckDB directly on R data frames, including excellent support for dplyr.<\/p> <p>I'll show some practical examples of R and DuckDB and share my thoughts how to best use these technologies together.<\/p> <p>Bryan Lewis is a mathematician, author of the irlba and threejs R packages, and coauthor of the recent CRC textbook \"A Computational Approach to Statistical Learning.\" He previously worked on Mike Stonebraker's open-source SciDB array database project.<\/p> <p>Note: this talk will be recorded and posted on our YouTube channel.<\/p> ",
+    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/278434215/",
     "textColor": "#7171fb"
   },
   {
@@ -189,6 +213,14 @@
     "start": "2021-06-09",
     "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick (5 bis 10 Minuten) in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden und insgesamt nicht länger als 15 Minuten in Anspruch nehmen.<\/p> <p>Wir freuen uns, dass Robert Lacok uns Deepnote vorstellt. Deepnote ist ein neues Data Science Notebook. Es ist Jupyter kompatibel, ermöglicht Echtzeit-Kollaborationen und läuft in der Cloud. Robert wird uns eine kurze Demo der Plattform zeigen. Hier schonmal der Link zu Deenote: <a href=\"https://deepnote.com/\" class=\"linkified\">https://deepnote.com/<\/a><br/>Es handelt sich um einen englischsprachigen Vortrag.<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-Link:[masked]<br/>Kenncode:[masked]<\/p> ",
     "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277587263/",
+    "textColor": "#7171fb"
+  },
+  {
+    "title": "Wiesbaden R User Group: R Coffee Break XL:  modeling linguistic variation in R  [Virtual] , Germany, Europe",
+    "group": "Wiesbaden R User Group",
+    "start": "2021-06-23",
+    "description": "<p>Hallo liebe R User,<\/p> <p>Die R Coffee Break gibt einen kurzen Einblick in ein R- Thema. Als Plattform nutzen wir Zoom.<br/>Und ganz wie die gepflegte Kaffeepause im Büro wird das Meetup am Nachmittag stattfinden. Achtung: Dieses Mal haben wir eine XL-Kaffeepause von 30 Minuten.<\/p> <p>Wir freuen uns, dass Claus Weihs und Sarah Buschfeld von derTU Dortmund University über ihre Arbeit im Bereich der Lingusistik vortragen. Hier ist ihre Vortragsankündigung:<\/p> <p>Combining Prediction and Interpretation in Decision Trees (PrInDT): modeling linguistic variation in R<br/>In this presentation, we show that conditional inference trees and ensembles are suitable methods for modeling linguistic variation. As against earlier linguistic applications, however, we claim that their suitability is strongly increased if we combine prediction and interpretation. To that end, we have developed a statistical method in R, PrInDT (Prediction and Interpretation with Decision Trees), which we introduce and discuss in our presentation.<\/p> <p>* Es handelt sich um einen englischsprachigen Vortrag.<br/>* Es ist ein 30-minütiger Vortrag<\/p> <p>Wir freuen uns schon darauf euch auch bei diesem Meetup begrüßen zu dürfen. Die Zugangsdaten werden wie immer am Tag des Vortrags ab 12 Uhr hier bereitgestellt.<\/p> <p>Meeting-ID:[masked]<br/>Kenncode: EFwR6G<\/p> ",
+    "url": "https://www.meetup.com/Wiesbaden-R-Users-Group/events/277416107/",
     "textColor": "#7171fb"
   },
   {
@@ -757,6 +789,14 @@
     "textColor": "#7171fb"
   },
   {
+    "title": "R-Ladies Washington D.C.: Georgia election discussion  [Virtual] , United States, US/Canada",
+    "group": "R-Ladies Washington D.C.",
+    "start": "2021-06-23",
+    "description": "<p>This talk will be encompassing the two roles that I had working in Georgia in 2020; the first as the state’s data director during the general election and the second as the states data advisor during the Senate Runoff Election. I will go over the way in which data interacts with other departments at the state level and how it helps measure the health of a campaign and chart a roadmap for victory.<\/p> <p>Bio; Chelsea Jones is originally from Miami, Florida. She worked three election cycles as a Field Organizer, including the 2016 presidential election in Florida, before moving into political data. She joined the Biden Campaign in 2019 as his Data Director in Nevada for the primary and then went on to become the Data Director for Georgia for the November election and then stayed on as a Data &amp; Analytics Advisor for the runoff election. She currently works as a Solution Architect for Civis Analytics<\/p> ",
+    "url": "https://www.meetup.com/rladies-dc/events/278711841/",
+    "textColor": "#7171fb"
+  },
+  {
     "title": "R-Ladies RTP: Common Statistical Tests in R (t-tests, linear regression, ANOVA)  [Virtual] , United States, US/Canada",
     "group": "R-Ladies RTP",
     "start": "2021-05-26",
@@ -1045,27 +1085,11 @@
     "textColor": "blue"
   },
   {
-    "title": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R): X-Europe Webinar Causal Inference Approach to Matching in Two-Sided Marketplaces  [Virtual] , Poland, Europe",
-    "group": "R Users & R-Ladies Warsaw (Spotkania Entuzjastów R)",
-    "start": "2021-06-23",
-    "description": "<p>REGISTER HERE: <a href=\"https://webinar-causal-inference.carrd.co/\" class=\"linkified\">https://webinar-causal-inference.carrd.co/<\/a><\/p> <p>### ABOUT SPEAKER<br/>Data scientist, social scientist, statistician, and software developer. Sean mostly specializes in methods for solving causal inference and business decision problems, and particularly interested in building tools for practitioners working on real-world problems. He is a generalist, who likes to hang out with people from many fields and borrow as many ideas as possible. He has collaborated with computer scientists, economists, political scientists, statisticians, machine learning researchers, and business school scholars. It’s fun for Sean to jump around a bit, continue learning new things and make connections between fields. Background: Ph.D. student at NYU’s Stern School of Business, ex-research scientist and manager on Facebook’s Core Data Science Team and currently head of the Rideshare Labs team at Lyft. <a href=\"https://seanjtaylor.com/\" class=\"linkified\">https://seanjtaylor.com/<\/a><\/p> <p>### ABOUT TALK<br/>Improving two-sided marketplaces like Lyft's ridesharing business is accomplished when we implement better matching algorithms that create more efficient allocations. However, marketplaces generate complex causal graphs which make counterfactuals difficult to reason about and estimate. I describe the causal effects of matching we must estimate to allocate drivers to requests, and the potential confounding problems that bias estimates from more standard machine learning approaches. We will then discuss how causal inference ideas can be applied in related settings like search, ranking, and recommender systems.<\/p> <p>### ABOUT THE X-EUROPE DATA SCIENCE WEBINARS<br/>X-Europe Webinar Series is a joint online event of Vienna Data Science Group, Data Science Croatia, Frankfurt Data Science, Budapest Data Science Meetup, BCN Analytics, Budapest.AI, Barcelona Data Science and Machine Learning Meetup, Budapest Deep Learning Reading Seminar, Warsaw R Users Group, PyData Slovakia, and Data Scientists Ireland.<\/p> ",
-    "url": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/278971753/",
-    "textColor": "blue"
-  },
-  {
     "title": "Greater Boston useR Group (R Programming Language): shiny.fluent and shiny.react: Build beautiful Shiny apps (June useR Meetup)  [Virtual] , United States, US/Canada",
     "group": "Greater Boston useR Group (R Programming Language)",
     "start": "2021-06-28",
     "description": "<p>shiny.fluent and shiny.react: Build beautiful Shiny apps using Microsoft's Fluent UI<br/>Presentation by Kamil Żyła<\/p> <p>Abstract:<br/>In this talk we will present the functionality and ideas behind a new open-source package Appsilon developed called shiny.fluent. UI plays a huge role in the success of Shiny projects. shiny.fluent enables you to build Shiny apps in a novel way using Microsoft’s Fluent UI as the UI foundation. It gives your app a beautiful, professional look and a rich set of components while retaining the speed of development that Shiny is famous for.<\/p> <p>Fluent UI is based on the Javascript library React, so it’s a challenging task to make it work with Shiny. We have put the parts responsible for making this possible in a separate package called shiny.react, which enables you to port other React-based components and UI libraries so that they work in Shiny.<\/p> <p>During the talk we will demonstrate how to use shiny.fluent to build your own Shiny apps, and explain how we solved the main challenges in integrating React and Shiny<\/p> <p>Speaker Bio:<br/>Kamil is a Full Stack Engineer at Appsilon. He graduated with degrees in Computer Science and Mathematics from the University of Warsaw. He is passionate about working across various technologies, leading projects, and developing internal tooling. Privately, he enjoys listening to<br/>jazz and has an interest in psychology and philosophy.<\/p> ",
     "url": "https://www.meetup.com/Boston-useR/events/278299209/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Montreal R User Group: [Webinar] Monitoring your Production NLP Models  [Virtual] , Canada, US/Canada",
-    "group": "Montreal R User Group",
-    "start": "2021-06-23",
-    "description": "<p>Register Here: <a href=\"https://info.verta.ai/applying-mlops-at-scale\" class=\"linkified\">https://info.verta.ai/applying-mlops-at-scale<\/a><\/p> <p>Tackle the challenges of deployment, monitoring, models in production and managing data science workflows and teams.<\/p> <p>Sessions will also include best practices from domain experts to operationalize ML at scale and cover the most current and common challenges for MLOps today. Connect &amp; engage with others through live Q&amp;A and discussions.<\/p> <p>The Verta MLOps Salon Series is a quarterly event focusing on the Operationalization of Machine Learning models in the real world. Bringing together experts from industry as well as research, the MLOps Salon events showcase best-practices, real-world case studies, and community oriented interactive panels. Join us for the live event and continue the discussion on the Slack!<\/p> <p>Register Here: <a href=\"https://info.verta.ai/applying-mlops-at-scale\" class=\"linkified\">https://info.verta.ai/applying-mlops-at-scale<\/a><\/p> ",
-    "url": "https://www.meetup.com/Montreal-R-User-Group/events/278604622/",
     "textColor": "blue"
   },
   {
@@ -1090,14 +1114,6 @@
     "start": "2021-06-24",
     "description": "<p>Rafael Zambrano y Karina Bartolomé:<\/p> <p>Ajuste y visualización de múltiples modelos sobre múltiples series de tiempo.<br/>Se presentarán varios casos de uso mostrando como modelar series de tiempo con tidymodels y modeltime a través de la extensión sknifedatar.<\/p> <p>Reunión Online (Zoom):<\/p> <p><a href=\"https://zoom.us/j/91329719505?pwd=dkVLLzVRcHk3elMyR085QzdtZ1VqUT09\" class=\"linkified\">https://zoom.us/j/91329719505?pwd=dkVLLzVRcHk3elMyR085QzdtZ1VqUT09<\/a><\/p> <p>Id:[masked]<br/>Código Acceso:[masked]<\/p> ",
     "url": "https://www.meetup.com/Grupo-de-Usuarios-de-R-de-Madrid/events/278963190/",
-    "textColor": "blue"
-  },
-  {
-    "title": "Cleveland R User Group: Jai Ranchod on pdftools and Bryan Lewis on DuckDB  [Virtual] , United States, US/Canada",
-    "group": "Cleveland R User Group",
-    "start": "2021-06-23",
-    "description": "<p>This meetup we'll have two shorter talks by Jai Ranchod and Bryan Lewis. Details below.<\/p> <p>Talk 1: Jai Ranchod - Extract tabular data from PDFs with pdftools<\/p> <p>I'm going to be talking about how to pull tabular data out of a PDF based on partial string matching and some functions in the \"PDF Tools\" package. The need to do this presented itself when the president of the management company wanted a table of information for the 60+ properties in our portfolio and our software vendor said they could only give us PDFs of word docs.<\/p> <p>Jai (\"Jay\") Ranchod is currently an Operations and Financial Analyst are Rose Community Management, a property management firm based in NYC with offices in Independence, OH. I started using R at my previous job at Epic Systems which is an electronic healthcare record company as part of the quality control process on their cognitive computing products. Since then I have taken several online classes in R, data science, and machine learning including a professional certificate program in data science taught using R. I have a bachelor's degree in physics from the College of Wooster and recently finished my MBA from John Carroll University.<\/p> <p>Talk 2: Bryan Lewis - R and DuckDB<\/p> <p>DuckDB (<a href=\"https://duckdb.org\" class=\"linkified\">https://duckdb.org<\/a>) is a new embedded SQL database library in the spirit of other embedded databases like SQLite. Unlike SQLite, DuckDB uses a column-oriented data layout (like R data frames) and has a particular focus on performance for interactive data analysis. DuckDB's integration with R is so complete that it can work directly on in-memory language objects without copying. This lets you use DuckDB directly on R data frames, including excellent support for dplyr.<\/p> <p>I'll show some practical examples of R and DuckDB and share my thoughts how to best use these technologies together.<\/p> <p>Bryan Lewis is a mathematician, author of the irlba and threejs R packages, and coauthor of the recent CRC textbook \"A Computational Approach to Statistical Learning.\" He previously worked on Mike Stonebraker's open-source SciDB array database project.<\/p> <p>Note: this talk will be recorded and posted on our YouTube channel.<\/p> ",
-    "url": "https://www.meetup.com/Cleveland-UseR-Group/events/278434215/",
     "textColor": "blue"
   },
   {
@@ -1130,6 +1146,14 @@
     "start": "2021-08-17",
     "description": "<p>Join us as we explore the features and packages of the R programming language. All skill levels are welcomed. We are still putting together details for this particular meeting, but if have a topic you would like to talk about, please let us know!<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentations<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>Can't make the meeting in person? Participate over video chat. We'll release the Zoom Meeting chat link as we approach the event date.<\/p> <p>Venue and light snacks graciously provided by Onebridge (onebridge.tech)<\/p> ",
     "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbprycclbwb/",
+    "textColor": "blue"
+  },
+  {
+    "title": "IndyUseR Group: Monthly Meetup - Topic TBD, United States, US/Canada",
+    "group": "IndyUseR Group",
+    "start": "2021-09-21",
+    "description": "<p>Join us as we explore the features and packages of the R programming language. All skill levels are welcomed. We are still putting together details for this particular meeting, but if have a topic you would like to talk about, please let us know!<\/p> <p>Agenda:<br/>6:30pm - 6:40pm Introductions<br/>6:40pm - 7:20pm Topic Presentations<br/>7:20pm - 7:30pm Closing Remarks<\/p> <p>(Topic presentations sometimes run longer than 40 minutes)<\/p> <p>Can't make the meeting in person? Participate over video chat. We'll release the Zoom Meeting chat link as we approach the event date.<\/p> <p>Venue and light snacks graciously provided by Onebridge (onebridge.tech)<\/p> ",
+    "url": "https://www.meetup.com/Indy-useR-Group/events/fzxbpryccmbcc/",
     "textColor": "blue"
   },
   {
@@ -1189,13 +1213,6 @@
     "textColor": "blue"
   },
   {
-    "title": "R User Group - Singapore (RUGS): Webinar: Find out how you can kickstart your dream career in AI today!, Singapore, Asia",
-    "group": "R User Group - Singapore (RUGS)",
-    "start": "2021-06-24",
-    "url": "https://www.meetup.com/R-User-Group-SG/events/278842020/",
-    "textColor": "blue"
-  },
-  {
     "title": "Wiesbaden R User Group: R Coffee Break: Neuronale Netze in R  [Virtual] , Germany, Europe",
     "group": "Wiesbaden R User Group",
     "start": "2021-06-30",
@@ -1223,7 +1240,7 @@
     "title": "Atlanta R Users Group: ATL R Users Group June Meeting  [Virtual] , United States, US/Canada",
     "group": "Atlanta R Users Group",
     "start": "2021-06-24",
-    "description": "<p>Hello everyone. Our next meeting will be June 24th at 7:30PM. We will update the meeting notice to include an agenda after we've confirmed speakers for the event.<\/p> ",
+    "description": "<p>Hello everyone. Our next meeting will be June 24th at 7:30PM.<\/p> <p>A big thank you to Sridhar Sitharaman and Melinda Higgins for volunteering to speak at our meeting tomorrow. Please use the updated Zoom link below!<\/p> <p>Sridhar will be discussing how to create animated charts.<br/>Melinda will talk about using patchwork for making really flexible composite graphics with multiple ggplot2 objects.<\/p> ",
     "url": "https://www.meetup.com/R-Users-Atlanta/events/278568509/",
     "textColor": "blue"
   },
@@ -1255,7 +1272,7 @@
     "title": "R-Ladies Bari: Artificial Neural Network - introduzione e applicazione [Workshop]  [Virtual] , Italy, Europe",
     "group": "R-Ladies Bari",
     "start": "2021-06-29",
-    "description": "<p>Durante quest'evento Anna Griego (Data Scientist e community member storica di RLadies Bari) ci farà scoprire cosa c'è dietro i famosi Artificial Neural Networks (AANs) 😎😎<\/p> <p>Inizieremo dalle basi, definendo i principi di un modello neuronale, le funzioni di attivazione, le architetture di rete e le modalità di apprendimento.<br/>Poi ci focalizzeremo sulle principali applicazioni di questi modelli, cercando di capire quando è bene usarli, e quando invece è preferibile evitare.<br/>Finiremo con una sessione pratica lavorando su uno use case molto \"inebriante\" dove utilizzeremo gli AANs per classificare un dataset su vini 🍷🍷 in base alle loro proprietà enologiche.<\/p> <p>Reminder: per seguire in live il workshop mettendo le mani in pasta sul codice dovrai aver installato sul tuo PC R &amp; Rstudio.<\/p> <p>SPEAKER: ANNA GRIECO 🚀<br/>Neolaureata in Scienze Statistiche e studentessa nel Master in Data Science, con l’obiettivo di potenziare la mia formazione in ambito Machine Learning e Artificial Intelligence.<br/>Appassionata di innovazione, tecnologia e sport. Ciò che più mi stimola è la risoluzione di problemi e scenari sempre diversi. Prediligo il gioco di squadra perché mi incoraggia a guardare quello che mi circonda da una nuova prospettiva.<\/p> ",
+    "description": "<p>Durante quest'evento Anna Grieco (Data Scientist e community member storica di RLadies Bari) ci farà scoprire cosa c'è dietro le famose Artificial Neural Networks (AANs) 😎😎<\/p> <p>Inizieremo dalle basi, definendo i principi di un modello neuronale, le funzioni di attivazione, le architetture di rete e le modalità di apprendimento.<br/>Poi ci focalizzeremo sulle principali applicazioni di questi modelli, cercando di capire quando è bene usarli, e quando invece è preferibile evitare.<br/>Finiremo con una sessione pratica lavorando su uno use case molto \"inebriante\" dove utilizzeremo le AANs per classificare un dataset su vini 🍷🍷 in base alle loro proprietà enologiche.<\/p> <p>Reminder: per seguire in live il workshop mettendo le mani in pasta sul codice dovrai aver installato sul tuo PC R &amp; Rstudio.<\/p> <p>SPEAKER: ANNA GRIECO 🚀<br/>Neolaureata in Scienze Statistiche e studentessa nel Master in Data Science, con l’obiettivo di potenziare la mia formazione in ambito Machine Learning e Artificial Intelligence.<br/>Appassionata di innovazione, tecnologia e sport. Ciò che più mi stimola è la risoluzione di problemi e scenari sempre diversi. Prediligo il gioco di squadra perché mi incoraggia a guardare quello che mi circonda da una nuova prospettiva.<\/p> ",
     "url": "https://www.meetup.com/rladies-bari/events/278915999/",
     "textColor": "blue"
   },
@@ -1289,6 +1306,14 @@
     "start": "2021-07-14",
     "description": "<p>A more detailed agenda will be available closer to the event!<\/p> <p>The goal of this workshop is to provide a hands-on introduction on how to display your data onto relevant geographic locations in a map (e.g. continent, state) using the ggplot2 package in R. Attendees will learn to create a mapped visualization of current up-to-date vaccination rates across states in the US.<\/p> <p>About the Speaker:<br/>Michelle is a graduate student in the Cognition and Neuroscience PhD Program at Temple University. She received her bachelor’s degree in Cognitive Neuroscience from Johns Hopkins University in 2014 and continued to earn her master’s degree in Human Development at Cornell University in 2017. Her research broadly looks at digital media and risky decision making using a behavioral and neuroimaging approach. In her free time, she enjoys exploring the Philly food scene and practicing yoga!<\/p> ",
     "url": "https://www.meetup.com/rladies-philly/events/277326038/",
+    "textColor": "blue"
+  },
+  {
+    "title": "R-Ladies Utrecht: Growing into the R community  [Virtual] , Netherlands, Europe",
+    "group": "R-Ladies Utrecht",
+    "start": "2021-09-15",
+    "description": "<p>The workshop is a joint event with R-Ladies Coventry (UK) and will be led by Dr Shannon Pileggi (<a href=\"https://www.pipinghotdata.com/about.html\" class=\"linkified\">https://www.pipinghotdata.com/about.html<\/a>)! Shannon is currently a Statistician at Adelphi Research in Doylestown, PA.<\/p> <p>\"Starting something new in R can be daunting, but there are many community resources that can help! In this presentation, I’ll discuss how I crafted a job interview presentation by making modifications on publicly available TidyTuesday code. This built the technical and confidence-boosting scaffolding I needed for more open-ended projects. The success of this experience inspired me to transition from my role as a consumer and creator to contributor to give back to the R community, which has been incredibly fulfilling. Despite social distancing, I feel more connected to the R community than ever before!\"<\/p> <p>PREPARATION AND RESOURCES<br/>There is nothing to prepare in advance. The resources for the workshop are available here: <a href=\"https://github.com/shannonpileggi/growing-into-r\" class=\"linkified\">https://github.com/shannonpileggi/growing-into-r<\/a><\/p> <p>ONLINE PROGRAMME<br/>The event will be held online and will start at 19:00 (Netherlands time). Please join us via the Zoom link (visible to attendees)<\/p> <p>CODE OF CONDUCT<br/>Please take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:<br/><a href=\"https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\" class=\"linkified\">https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md<\/a><\/p> <p>R-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.<\/p> ",
+    "url": "https://www.meetup.com/rladies-utrecht/events/279038266/",
     "textColor": "blue"
   },
   {
@@ -1416,14 +1441,6 @@
     "start": "2021-07-13",
     "description": "<p>We have the following topics for the next meeting:<\/p> <p>Robert will give us a short introduction to Data.Tables. We had planned this talk for May but needed to reschedule it. Have a look at the vignette if this might be a package for you:<br/><a href=\"https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html\" class=\"linkified\">https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html<\/a><\/p> <p>The useR! 2021 conference will take place from 5-9 July, 2021:<br/><a href=\"https://user2021.r-project.org/\" class=\"linkified\">https://user2021.r-project.org/<\/a><br/>Friedrich will tell us a bit about his impressions and some of the highlights.<\/p> <p>There will be other R-related conferences coming up in the next months. Due to Covid, most of these conferences will be held online, some with reduced attendance fees. Friedrich will give us an overview of what might be worth visiting.<\/p> <p>If there is time, Hans W. give a short introduction to \"Differential Equations with R\" and its connection with parameter estimation.<\/p> <p>See you online on July 13th!<br/>Oliver<\/p> <p>Suggestions of topics would be welcome. 'Lightning Talks' of 7-10 minutes and only very few (or no) slides are a good possibility, e.g. pointing out a package you would like to recommend or learn more about.<\/p> <p>To avoid time restrictions, this video conference will be hosted on JITSI. To attend click the \"online event\" link on the right side, visible to all attendees, enter your name and join the meeting.<\/p> <p>Please only RSVP if you actually plan to attend.<\/p> ",
     "url": "https://www.meetup.com/R-User-Group-Rhein-Neckar/events/278707365/",
-    "textColor": "blue"
-  },
-  {
-    "title": "R-Ladies Washington D.C.: Georgia election discussion  [Virtual] , United States, US/Canada",
-    "group": "R-Ladies Washington D.C.",
-    "start": "2021-06-23",
-    "description": "<p>This talk will be encompassing the two roles that I had working in Georgia in 2020; the first as the state’s data director during the general election and the second as the states data advisor during the Senate Runoff Election. I will go over the way in which data interacts with other departments at the state level and how it helps measure the health of a campaign and chart a roadmap for victory.<\/p> <p>Bio; Chelsea Jones is originally from Miami, Florida. She worked three election cycles as a Field Organizer, including the 2016 presidential election in Florida, before moving into political data. She joined the Biden Campaign in 2019 as his Data Director in Nevada for the primary and then went on to become the Data Director for Georgia for the November election and then stayed on as a Data &amp; Analytics Advisor for the runoff election. She currently works as a Solution Architect for Civis Analytics<\/p> ",
-    "url": "https://www.meetup.com/rladies-dc/events/278711841/",
     "textColor": "blue"
   },
   {
