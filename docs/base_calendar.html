@@ -1,0 +1,103 @@
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>R Calendar </title>
+
+    <link href="https://r-community.github.io/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+   <link rel="stylesheet" href="https://r-community.github.io/resources/fullcalendar-3.1.0/dist/fullcalendar.css"/>
+<link rel="stylesheet" href="https://r-community.github.io/resources/css/custom.min.css"/>
+<link type="text/css" rel="stylesheet" href="https://r-community.github.io/resources/qtip3.0.3/jquery.qtip.min.css" />
+
+<script src="https://r-community.github.io/resources/js/jquery.min.js"></script> 
+<script  src="https://r-community.github.io/resources/js/moment/moment.min.js"></script> 
+<script  src="https://r-community.github.io/resources/js/bootstrap.min.js"></script> 
+<script src="https://r-community.github.io/resources/fullcalendar-3.1.0/dist/fullcalendar.js"></script>
+<script type="text/javascript" src="https://r-community.github.io/resources/qtip3.0.3/jquery.qtip.min.js"></script>
+<script  src="https://r-community.github.io/resources/js/custom.min.js"></script> 
+<script src="js/rcalendar.js"></script>
+  <style>
+    #mycalendar{ height: 100%; width:100%; color:gray}
+.fc-title{
+    font-size: 12px;
+}
+.fc-past {
+    background-color: #AFD8FF;
+}
+.fc-content {
+    font-weight: 700;
+}
+.fc-today {
+   background-color: blue;
+}
+.fc-sat { color:red; background-color: #f9f9f9; }
+.fc-sun { color:red; background-color: #f9f9f9; }
+.fc-day-header { background-color: blue; color:white; 
+}
+.fc-widget-header{
+	background-color: #435f9c;
+	border-color: #AED0EA;
+	font-weight: 700;;
+	padding: 3px;
+	border-radius: 3px;
+}
+  </style>
+</head>
+  <body style="background-color:white">
+
+      <div class="main_container" style="background-color:white">
+ 
+<div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">Filter Calendar</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <select id="eventselector" class="select2_group form-control">
+                            <optgroup label="Filter by R User Group Category">
+                              <option value="all">All R User Groups Worldwide</option>
+                              <option value="r-ladies">R-Ladies Chapters</option>
+<option value="virtual">Virtual</option>
+<option value="training">Training</option>
+                            </optgroup>
+ <optgroup label="Filter by Regions">
+                              <option value="us/canada">USA/Canada</option>
+                              <option value="europe">Europe</option>
+                              <option value="latin america">Latin America</option>
+                              <option value="asia">Asia</option>
+						<option value="australia">Australia</option>
+					<option value="africa">Africa</option>
+
+                            </optgroup>
+<optgroup label="Filter by Keywords">
+                              <option value="data">Data</option>
+                              <option value="visualization">Visualization</option>
+                              
+                              <option value="statistics">Statistics</option>
+						<option value="social">Social</option>
+			<option value="application">Applications</option>
+					<option value="study">Study Group</option>
+                            </optgroup>
+
+<optgroup label="Filter by Event Type (Disabled)">
+                              <option value="conferences" disabled>Conference</option>
+                              <option value="unconferences" disabled>Unconference</option>
+                              <option value="satrday" disabled>SatRdays</option>
+                              <option value="webinar">Webinars</option>
+<option value="workshop" disabled>Workshops</option>
+
+<option value="community call" disabled>Community Calls</option>
+						<option value="podcast" disabled>Podcasts</option>
+					<option value="hack" disabled>Hackathons</option>
+                            </optgroup>
+                           
+                                                     </select>
+                        </div>
+                      </div>
+
+  <div id="mycalendar"></div>
+</div>
+  
+</body>
+</html>
